@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-08",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-08",
+    "titleZh": "AI资讯晚报 | 2026-05-08",
+    "title": "AI News Evening Brief | 2026-05-08",
+    "slug": "news-2026-05-08-evening",
+    "headlines": [
+      "1. China’s Moonshot AI Raises $2B at $20B Valuation as Demand for Open Source AI Skyrockets",
+      "2. Elon Musk’s Lawsuit is Putting OpenAI’s Safety Record Under the Microscope",
+      "3. OpenAI Launches New Voice Intelligence Features in Its API",
+      "4. OpenAI Introduces New ‘Trusted Contact’ Safeguard for Cases of Possible Self-Harm",
+      "5. How Anthropic’s Mythos Has Rewritten Firefox’s Approach to Cybersecurity",
+      "6. Spotify Wants to Become the Home for AI-Generated Personal Audio",
+      "7. Perplexity’s Personal Computer is Now Available to Everyone on Mac",
+      "8. Voi Founders’ New AI Startup Pit Has Become the Latest Rising Star Out of Stockholm",
+      "9. Aurora’s Chris Urmson on Why Self-Driving Trucks Are Finally Ready to Scale",
+      "10. The Download: AI Malaise and Babymaking Tech"
+    ]
+  },
+  {
+    "date": "2026-05-08",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-05-08",
