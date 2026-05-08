@@ -1,0 +1,72 @@
+name: Daily AI News Digest
+
+on:
+  schedule:
+    # UTC 2:00 = 北京时间 10:00 (上午)
+    - cron: '0 2 * * *'
+    # UTC 14:00 = 北京时间 22:00 (晚上)
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: '时段 (auto = 根据UTC时间自动推断 / morning / evening)'
+        required: false
+        default: 'auto'
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Determine slot
+        id: slot
+        run: |
+          INPUT_SLOT="${{ github.event.inputs.slot }}"
+          # "auto" or empty → infer from UTC time; otherwise use explicit value
+          if [ -z "$INPUT_SLOT" ] || [ "$INPUT_SLOT" = "auto" ]; then
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" -lt 8 ]; then
+              SLOT="morning"
+            elif [ "$HOUR" -lt 20 ]; then
+              SLOT="evening"
+            else
+              SLOT="morning"
+            fi
+          else
+            SLOT="$INPUT_SLOT"
+          fi
+          echo "slot=$SLOT" >> $GITHUB_OUTPUT
+          echo "Running slot: $SLOT (UTC hour: $(date -u +%H))"
+
+      - name: Fetch AI news & generate digest
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          SLOT: ${{ steps.slot.outputs.slot }}
+        run: node .github/scripts/fetch-ai-news.mjs
+
+      - name: Update sitemap
+        run: node .github/scripts/update-sitemap.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "AI News Bot"
+          git config user.email "bot@aibestfind.com"
+          git add .
+          git status
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            SLOT="${{ steps.slot.outputs.slot }}"
+            LABEL="早报"
+            if [ "$SLOT" = "evening" ]; then LABEL="晚报"; fi
+            git commit -m "Auto: AI资讯${LABEL} $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+            git pull --rebase -X theirs origin main || true
+            git push --force-with-lease || true
+          fi

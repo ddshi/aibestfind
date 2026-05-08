@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0c0c1d;display:flex;justify-content:center;align-items:center;min-height:100vh;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+.logo-card{background:linear-gradient(135deg,#0c0c1d,#1a0533);border:1px solid rgba(99,102,241,.25);border-radius:24px;padding:48px 72px;position:relative;overflow:hidden}
+.logo-card::before{content:'';position:absolute;width:200px;height:200px;background:radial-gradient(circle,rgba(99,102,241,.15),transparent 70%);top:-40px;right:-40px;border-radius:50%}
+.logo-card::after{content:'';position:absolute;width:150px;height:150px;background:radial-gradient(circle,rgba(139,92,246,.1),transparent 70%);bottom:-30px;left:-30px;border-radius:50%}
+.logo-inner{display:flex;align-items:center;gap:16px;position:relative;z-index:1}
+.logo-icon{width:52px;height:52px;background:linear-gradient(135deg,#6366f1,#a78bfa);border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:26px;line-height:1}
+.logo-text-title{font-size:32px;font-weight:900;background:linear-gradient(135deg,#e0e7ff,#6366f1,#818cf8);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;letter-spacing:-0.5px}
+.logo-text-sub{font-size:12px;color:#818cf8;letter-spacing:4px;text-transform:uppercase;margin-top:2px}
+</style>
+</head>
+<body>
+<div class="logo-card">
+  <div class="logo-inner">
+    <div class="logo-icon">✨</div>
+    <div>
+      <div class="logo-text-title">AI Best Find</div>
+      <div class="logo-text-sub">Curated AI Tools &amp; News</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,84 @@
+[
+  {
+    "date": "2026-05-08",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-08",
+    "titleZh": "AI资讯早报 | 2026-05-08",
+    "title": "AI News Morning Brief | 2026-05-08",
+    "slug": "news-2026-05-08-morning",
+    "headlines": [
+      "1. Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "2. China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+      "3. OpenAI launches new voice intelligence features in its API",
+      "4. How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "5. Spotify wants to become the home for AI-generated personal audio",
+      "6. OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+      "7. Perplexity’s Personal Computer is now available to everyone on Mac",
+      "8. Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+      "9. Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
+      "10. Five architects of the AI economy explain where the wheels are coming off"
+    ]
+  },
+  {
+    "date": "2026-05-07",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-07",
+    "titleZh": "AI资讯晚报 | 2026-05-07",
+    "title": "AI News Evening Brief | 2026-05-07",
+    "slug": "news-2026-05-07-evening",
+    "headlines": [
+      "1. OpenAI Launches New Voice Intelligence Features in Its API",
+      "2. Elon Musk’s Lawsuit Is Putting OpenAI’s Safety Record Under the Microscope",
+      "3. China’s Moonshot AI Raises $2B at $20B Valuation as Demand for Open Source AI Skyrockets",
+      "4. How Anthropic’s Mythos Has Rewritten Firefox’s Approach to Cybersecurity",
+      "5. Spotify Wants to Become the Home for AI-Generated Personal Audio",
+      "6. Perplexity’s Personal Computer Is Now Available to Everyone on Mac",
+      "7. Voi Founders’ New AI Startup Pit Has Become the Latest Rising Star Out of Stockholm",
+      "8. OpenAI Introduces New ‘Trusted Contact’ Safeguard for Cases of Possible Self-Harm",
+      "9. Five Architects of the AI Economy Explain Where the Wheels Are Coming Off",
+      "10. Snap Says Its $400M Deal with Perplexity ‘Amicably Ended’"
+    ]
+  },
+  {
+    "date": "2026-05-06",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | May 6, 2026",
+    "titleZh": "AI资讯早报 | 2026年5月6日",
+    "title": "AI News Morning Brief | May 6, 2026",
+    "slug": "news-2026-05-06-morning",
+    "headlines": [
+      "OpenAI Unveils GPT-5 with Advanced Reasoning Capabilities",
+      "Google DeepMind's AlphaFold 3 Revolutionizes Drug Discovery",
+      "Anthropic Launches Claude 4 with Million-Token Context Window",
+      "Apple Reportedly Building AI-Powered Robotics Division",
+      "EU Finalizes Comprehensive AI Regulation Framework",
+      "Nvidia's New H200 GPU Sets AI Training Benchmarks",
+      "Meta Open-Sources Llama 4 Family of Models",
+      "AI-Powered Coding Assistants Now Used by 60% of Developers"
+    ]
+  },
+  {
+    "date": "2026-05-06",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | May 6, 2026",
+    "titleZh": "AI资讯晚报 | 2026年5月6日",
+    "title": "AI News Evening Brief | May 6, 2026",
+    "slug": "news-2026-05-06-evening",
+    "headlines": [
+      "1. OpenAI发布GPT-5.5 Instant，成为ChatGPT新默认模型",
+      "2. SAP豪掷11.6亿美元，投资成立仅18个月的德国AI实验室",
+      "3. 苹果计划在iOS 27中实现AI模型“自由选择”",
+      "4. Meta利用AI分析身高与骨骼结构，加强未成年人识别",
+      "5. 宾夕法尼亚州起诉Character.AI，指控聊天机器人冒充医生",
+      "6. ElevenLabs引入贝莱德、杰米·福克斯等新投资者",
+      "7. CopilotKit获2700万美元融资，助力开发者构建原生AI Agent",
+      "8. PayPal宣布“重新成为科技公司”，AI是核心驱动力",
+      "9. 印度首家生成式AI独角兽转型云服务，模型开发遇现实挑战",
+      "10. 图像AI模型成应用增长新引擎，超越聊天机器人升级"
+    ]
+  }
+]

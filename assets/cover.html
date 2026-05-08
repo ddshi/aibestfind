@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:linear-gradient(160deg,#0a0a1a 0%,#1a0533 40%,#0d1b3e 70%,#0a0a1a 100%);display:flex;justify-content:center;align-items:center;min-height:100vh;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+.cover{width:1200px;height:630px;position:relative;overflow:hidden;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+/* Floating orbs */
+.orb{position:absolute;border-radius:50%}
+.orb-1{width:400px;height:400px;background:radial-gradient(circle,rgba(99,102,241,.1),transparent 70%);top:-100px;right:-80px}
+.orb-2{width:250px;height:250px;background:radial-gradient(circle,rgba(139,92,246,.07),transparent 70%);bottom:-60px;left:15%}
+.orb-3{width:200px;height:200px;background:radial-gradient(circle,rgba(245,158,11,.05),transparent 70%);top:35%;left:-60px}
+.orb-4{width:120px;height:120px;background:radial-gradient(circle,rgba(99,102,241,.06),transparent 70%);top:20%;right:20%}
+/* Grid texture */
+.grid{position:absolute;inset:0;background-image:linear-gradient(rgba(99,102,241,.03) 1px,transparent 1px),linear-gradient(90deg,rgba(99,102,241,.03) 1px,transparent 1px);background-size:60px 60px}
+/* Logo area */
+.logo-area{display:flex;align-items:center;gap:12px;margin-bottom:40px;z-index:1}
+.logo-icon{width:44px;height:44px;background:linear-gradient(135deg,#6366f1,#a78bfa);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:22px}
+.logo-name{font-size:24px;font-weight:900;background:linear-gradient(135deg,#e0e7ff,#818cf8);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;letter-spacing:-0.3px}
+/* Badge */
+.badge{display:inline-flex;align-items:center;gap:8px;padding:6px 22px;border-radius:50px;background:rgba(99,102,241,.1);border:1px solid rgba(99,102,241,.2);margin-bottom:32px;z-index:1}
+.badge span{font-size:14px;color:#a5b4fc;font-weight:600}
+/* Headline */
+.headline{font-size:46px;font-weight:900;background:linear-gradient(135deg,#ffffff,#c7d2fe,#818cf8);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;line-height:1.25;margin-bottom:20px;z-index:1}
+/* Subtitle */
+.subtitle{font-size:17px;color:rgba(156,163,175,.8);max-width:500px;line-height:1.7;z-index:1;margin-bottom:36px}
+/* Feature pills */
+.pills{display:flex;gap:14px;z-index:1;margin-bottom:40px}
+.pill{padding:10px 22px;background:rgba(99,102,241,.08);border:1px solid rgba(99,102,241,.15);border-radius:10px;font-size:14px;color:#a5b4fc;font-weight:500}
+/* URL */
+.url{font-size:13px;color:rgba(107,114,128,.6);z-index:1}
+</style>
+</head>
+<body>
+<div class="cover">
+  <div class="orb orb-1"></div>
+  <div class="orb orb-2"></div>
+  <div class="orb orb-3"></div>
+  <div class="orb orb-4"></div>
+  <div class="grid"></div>
+
+  <div class="logo-area">
+    <div class="logo-icon">✨</div>
+    <div class="logo-name">AI Best Find</div>
+  </div>
+
+  <div class="badge">
+    <span>Discover. Evaluate. Choose.</span>
+  </div>
+
+  <div class="headline">Find AI Tools<br>That Actually Work</div>
+
+  <div class="subtitle">In-depth reviews of AI tools + daily AI news digest.<br>No hype. Just honest testing and real data.</div>
+
+  <div class="pills">
+    <span class="pill">📰 Daily AI News</span>
+    <span class="pill">🔍 Deep Reviews</span>
+    <span class="pill">🆓 Free Tools</span>
+  </div>
+
+  <div class="url">aibestfind.com</div>
+</div>
+</body>
+</html>
