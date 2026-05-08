@@ -23,12 +23,12 @@ const RSS_SOURCES = [
   },
   {
     name: 'The Verge AI',
-    url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml',
+    url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
     lang: 'en'
   },
   {
     name: 'VentureBeat AI',
-    url: 'https://venturebeat.com/category/ai/feed/',
+    url: 'https://venturebeat.com/category/ai/feed',
     lang: 'en'
   },
   {
@@ -39,13 +39,21 @@ const RSS_SOURCES = [
 ];
 
 // ========= 通用HTTP请求 =========
-function httpGet(url) {
+function httpGet(url, baseUrl) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith('https') ? https : http;
     const req = client.get(url, { timeout: 15000 }, (res) => {
       // 处理重定向
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        httpGet(res.headers.location).then(resolve).catch(reject);
+        let redirectUrl = res.headers.location;
+        // 处理相对路径重定向
+        if (!redirectUrl.startsWith('http')) {
+          const u = new URL(url);
+          redirectUrl = redirectUrl.startsWith('/')
+            ? `${u.protocol}//${u.host}${redirectUrl}`
+            : `${u.protocol}//${u.host}${u.pathname.replace(/\/[^/]*$/, '/')}${redirectUrl}`;
+        }
+        httpGet(redirectUrl).then(resolve).catch(reject);
         return;
       }
       if (res.statusCode !== 200) {
