@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-10",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-10",
+    "titleZh": "AI资讯晚报 | 2026-05-10",
+    "title": "AI News Evening Brief | 2026-05-10",
+    "slug": "news-2026-05-10-evening",
+    "headlines": [
+      "1. Nvidia Has Already Committed $40B to Equity AI Deals This Year",
+      "2. Musk v. Altman Week 2: OpenAI Fires Back, and Shivon Zilis Reveals That Musk Tried to Poach Sam Altman",
+      "3. Cloudflare Says AI Made 1,100 Jobs Obsolete, Even as Revenue Hit a Record High",
+      "4. OpenAI Launches New Voice Intelligence Features in Its API",
+      "5. Perplexity’s Personal Computer Is Now Available to Everyone on Mac",
+      "6. How Anthropic’s Mythos Has Rewritten Firefox’s Approach to Cybersecurity",
+      "7. Intel’s Comeback Story Is Even Wilder Than It Seems",
+      "8. Voi Founders’ New AI Startup Pit Has Become the Latest Rising Star Out of Stockholm",
+      "9. The Fax Machine Is the Bottleneck in US Healthcare, and VCs Are Starting to Notice",
+      "10. So You’ve Heard These AI Terms and Nodded Along; Let’s Fix That"
+    ]
+  },
+  {
+    "date": "2026-05-10",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-05-10",
