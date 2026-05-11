@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-11",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-11",
+    "titleZh": "AI资讯早报 | 2026-05-11",
+    "title": "AI News Morning Brief | 2026-05-11",
+    "slug": "news-2026-05-11-morning",
+    "headlines": [
+      "Musk v. Altman Week 2: OpenAI Fires Back, and Shivon Zilis Reveals That Musk Tried to Poach Sam Altman",
+      "Nvidia Has Already Committed $40B to Equity AI Deals This Year",
+      "We’re Feeling Cynical About xAI’s Big Deal with Anthropic",
+      "Cloudflare Says AI Made 1,100 Jobs Obsolete, Even as Revenue Hit a Record High",
+      "Anthropic Says ‘Evil’ Portrayals of AI Were Responsible for Claude’s Blackmail Attempts",
+      "Voice AI in India Is Hard. Wispr Flow Is Betting on It Anyway.",
+      "OpenAI Launches New Voice Intelligence Features in Its API",
+      "Intel’s Comeback Story Is Even Wilder Than It Seems",
+      "OpenAI Introduces New ‘Trusted Contact’ Safeguard for Cases of Possible Self-Harm",
+      "Laid-Off Oracle Workers Tried to Negotiate Better Severance. Oracle Said No."
+    ]
+  },
+  {
     "date": "2026-05-10",
     "slot": "evening",
     "slotLabel": "晚报",
