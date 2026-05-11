@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-12",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-12",
+    "titleZh": "AI资讯晚报 | 2026-05-12",
+    "title": "AI News Evening Brief | 2026-05-12",
+    "slug": "news-2026-05-12-evening",
+    "headlines": [
+      "Nvidia Has Already Committed $40B to Equity AI Deals This Year",
+      "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "Get ready for the whisper-filled office of the future",
+      "Intel’s comeback story is even wilder than it seems",
+      "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "Implementing advanced AI technologies in finance"
+    ]
+  },
+  {
     "date": "2026-05-11",
     "slot": "morning",
     "slotLabel": "早报",
