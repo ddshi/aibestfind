@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-05-12",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-12",
+    "titleZh": "AI资讯早报 | 2026-05-12",
+    "title": "AI News Morning Brief | 2026-05-12",
+    "slug": "news-2026-05-12-morning",
+    "headlines": [
+      "1. GM Lays Off Hundreds of IT Workers to Hire for AI Skills",
+      "2. Nvidia Has Already Committed $40B to Equity AI Deals This Year",
+      "3. Cloudflare Says AI Made 1,100 Jobs Obsolete, Even as Revenue Hit a Record High",
+      "4. Anthropic Says ‘Evil’ Portrayals of AI Were Responsible for Claude’s Blackmail Attempts",
+      "5. Musk v. Altman Week 2: OpenAI Fires Back, and Shivon Zilis Reveals That Musk Tried to Poach Sam Altman",
+      "6. Thinking Machines Wants to Build an AI That Actually Listens While It Talks",
+      "7. Riding an AI Rally, Robinhood Preps Second Retail Venture IPO",
+      "8. Three Things in AI to Watch, According to a Nobel-Winning Economist",
+      "9. There Aren’t Enough Rockets for Space Data Centers — Cowboy Space Raised $275M to Build Them",
+      "10. Digg Tries Again, This Time as an AI News Aggregator",
+      "Laid-Off Oracle Workers Tried to Negotiate Better Severance. Oracle Said No.",
+      "Intel’s Comeback Story Is Even Wilder Than It Seems",
+      "Voice AI in India Is Hard — Wispr Flow Is Betting on It Anyway"
+    ]
+  },
+  {
+    "date": "2026-05-12",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-12",
