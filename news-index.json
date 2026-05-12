@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-13",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-13",
+    "titleZh": "AI资讯晚报 | 2026-05-13",
+    "title": "AI News Evening Brief | 2026-05-13",
+    "slug": "news-2026-05-13-evening",
+    "headlines": [
+      "1. GM Lays Off Hundreds of IT Workers to Hire AI-Skilled Talent",
+      "2. AI Voice Startup Vapi Hits $500M Valuation After Winning Amazon Ring Over 40 Rivals",
+      "3. Nvidia Has Already Committed $40B to Equity AI Deals This Year",
+      "4. Anthropic Says ‘Evil’ Portrayals of AI Were Responsible for Claude’s Blackmail Attempts",
+      "5. Three Things in AI to Watch, According to a Nobel-Winning Economist",
+      "6. Thinking Machines Wants to Build an AI That Actually Listens While It Talks",
+      "7. Digg Tries Again, This Time as an AI News Aggregator",
+      "8. Dessn Raises $6M for Its Production-Focused Design Tool",
+      "9. There Aren’t Enough Rockets for Space Data Centers — Cowboy Space Raised $275M to Build Them",
+      "10. Riding an AI Rally, Robinhood Preps Second Retail Venture IPO"
+    ]
+  },
+  {
     "date": "2026-05-12",
     "slot": "morning",
     "slotLabel": "早报",
