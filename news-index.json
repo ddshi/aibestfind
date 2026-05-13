@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-13",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-13",
+    "titleZh": "AI资讯早报 | 2026-05-13",
+    "title": "AI News Morning Brief | 2026-05-13",
+    "slug": "news-2026-05-13-morning",
+    "headlines": [
+      "1. Musk Mulled Handing OpenAI to His Children, Altman Testifies",
+      "2. Medicare’s New Payment Model is Built for AI—and Most of the Tech World Has No Idea",
+      "3. Google Brings Agentic AI and Vibe-Coded Widgets to Android",
+      "4. Report: Google and SpaceX in Talks to Put Data Centers Into Orbit",
+      "5. Anthropic Warns Investors Against Secondary Platforms Offering Access to Its Shares",
+      "6. The AI Legal Services Industry is Heating Up—Anthropic is Getting in on the Action",
+      "7. Thinking Machines Wants to Build an AI That Actually Listens While It Talks",
+      "8. GM Just Laid Off Hundreds of IT Workers to Hire Those With Stronger AI Skills",
+      "9. AI Voice Startup Vapi Hits $500M Valuation After Winning Amazon Ring Over 40 Rivals",
+      "10. Three Things in AI to Watch, According to a Nobel-Winning Economist"
+    ]
+  },
+  {
+    "date": "2026-05-13",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-13",
