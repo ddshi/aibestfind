@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-14",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-14",
+    "titleZh": "AI资讯晚报 | 2026-05-14",
+    "title": "AI News Evening Brief | 2026-05-14",
+    "slug": "news-2026-05-14-evening",
+    "headlines": [
+      "1. Anthropic Now Has More Business Customers Than OpenAI, According to Ramp Data",
+      "2. Anthropic Courts a New Kind of Customer: Small Business Owners",
+      "3. Amazon Launches an AI Shopping Assistant for the Search Bar, Powered by Alexa+",
+      "4. Medicare's New Payment Model Is Built for AI, and Most of the Tech World Has No Idea",
+      "5. WhatsApp Adds an Incognito Mode in Meta AI Chats",
+      "6. Report: Google and SpaceX in Talks to Put Data Centers Into Orbit",
+      "7. Adaption Aims Big With AutoScientist, an AI Tool That Helps Models Train Themselves",
+      "8. Google Brings Agentic AI and Vibe-Coded Widgets to Android",
+      "9. AI Legal Services Heats Up — Anthropic Is Getting in on the Action",
+      "10. Musk Mulled Handing OpenAI to His Children, Altman Testifies"
+    ]
+  },
+  {
     "date": "2026-05-13",
     "slot": "morning",
     "slotLabel": "早报",
