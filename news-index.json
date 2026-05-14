@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-15",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-15",
+    "titleZh": "AI资讯晚报 | 2026-05-15",
+    "title": "AI News Evening Brief | 2026-05-15",
+    "slug": "news-2026-05-15-evening",
+    "headlines": [
+      "1. Cisco Cuts Nearly 4,000 Jobs to Fuel AI Investment",
+      "2. The Human Cost of Deepfakes: A First-Person Account",
+      "3. AI Chatbots Are Leaking People’s Real Phone Numbers",
+      "4. Musk’s xAI Runs Nearly 50 Gas Turbines Unchecked at Mississippi Data Center",
+      "5. Notion Turns Its Workspace Into a Hub for AI Agents",
+      "6. Anthropic Courts Small Businesses While Predicting Proactive AI",
+      "7. Amazon Launches an AI Shopping Assistant, Powered by Alexa+",
+      "8. Wirestock Raises $23M to Feed AI Labs’ Insatiable Data Hunger",
+      "9. Origin Lab Raises $8M to Sell Video Game Data to World-Model Builders",
+      "10. Clio’s $500M Milestone Arrives Just as Anthropic Ups the Ante"
+    ]
+  },
+  {
     "date": "2026-05-14",
     "slot": "morning",
     "slotLabel": "早报",
