@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-14",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-14",
+    "titleZh": "AI资讯早报 | 2026-05-14",
+    "title": "AI News Morning Brief | 2026-05-14",
+    "slug": "news-2026-05-14-morning",
+    "headlines": [
+      "1. Anthropic Now Has More Business Customers Than OpenAI, According to Ramp Data",
+      "2. Clio’s $500M Milestone Arrives Just as Anthropic Ups the Ante",
+      "3. AI Chatbots Are Giving Out People’s Real Phone Numbers",
+      "4. Musk’s xAI Is Running Nearly 50 Gas Turbines Unchecked at Its Mississippi Data Center",
+      "5. Amazon Launches an AI Shopping Assistant for the Search Bar, Powered by Alexa+",
+      "6. Notion Just Turned Its Workspace into a Hub for AI Agents",
+      "7. Medicare’s New Payment Model Is Built for AI, and Most of the Tech World Has No Idea",
+      "8. Anthropic Courts a New Kind of Customer: Small Business Owners",
+      "9. Who Trusts Sam Altman?",
+      "10. Adaption Aims Big with AutoScientist, an AI Tool That Helps Models Train Themselves"
+    ]
+  },
+  {
+    "date": "2026-05-14",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-14",
