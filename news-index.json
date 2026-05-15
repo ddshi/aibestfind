@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-15",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-15",
+    "titleZh": "AI资讯早报 | 2026-05-15",
+    "title": "AI News Morning Brief | 2026-05-15",
+    "slug": "news-2026-05-15-morning",
+    "headlines": [
+      "1. Cerebras Raises $5.5B, Then Stock Pops 108%, in the First Huge Tech IPO of 2026",
+      "2. OpenAI Says Codex Is Coming to Your Phone",
+      "3. OpenAI Is Reportedly Preparing Legal Action Against Apple; It Wouldn’t Be the First Partner to Feel Burned",
+      "4. What Happens When AI Starts Building Itself?",
+      "5. What the Jury Will Actually Decide in the Case of Elon Musk vs. Sam Altman",
+      "6. Cisco Cuts Nearly 4,000 Jobs to Spend More on AI, Reports 'Record Quarterly Revenue'",
+      "7. Elon Musk's SpaceXAI Has Been Bleeding Staff Since Its Merger",
+      "8. Notion Just Turned Its Workspace into a Hub for AI Agents",
+      "9. Musk's xAI Is Running Nearly 50 Gas Turbines Unchecked at Its Mississippi Data Center",
+      "10. The Shock of Seeing Your Body Used in Deepfake Porn"
+    ]
+  },
+  {
+    "date": "2026-05-15",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-15",
