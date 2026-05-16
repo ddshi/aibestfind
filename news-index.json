@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-16",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-16",
+    "titleZh": "AI资讯早报 | 2026-05-16",
+    "title": "AI News Morning Brief | 2026-05-16",
+    "slug": "news-2026-05-16-morning",
+    "headlines": [
+      "1. Musk vs. Altman Trial Wraps: Jury Picks a Side in the Battle for AI's Soul",
+      "2. Cerebras Raises $5.5B in Landmark IPO, Stock Soars 108%",
+      "3. OpenAI Launches ChatGPT for Personal Finance, Connecting to Your Bank Account",
+      "4. Cisco Cuts Nearly 4,000 Jobs to Pivot Spending to AI",
+      "5. OpenAI Reportedly Preparing Legal Action Against Apple",
+      "6. How Chinese Short Dramas Became AI Content Machines",
+      "7. Runway Shifts Gears: From Filmmaker Tool to Google AI Rival",
+      "8. What Happens When AI Starts Building Itself?",
+      "9. OpenAI Says Codex is Coming to Your Phone",
+      "10. Elon Musk's SpaceXAI Has Been Bleeding Staff Since Its Merger"
+    ]
+  },
+  {
+    "date": "2026-05-16",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-16",
