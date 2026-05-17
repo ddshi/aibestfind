@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-17",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-17",
+    "titleZh": "AI资讯晚报 | 2026-05-17",
+    "title": "AI News Evening Brief | 2026-05-17",
+    "slug": "news-2026-05-17-evening",
+    "headlines": [
+      "1. Musk v. Altman Trial Wraps: The Jury Will Decide Who Owns the AI Narrative",
+      "2. Cerebras Raises $5.5B, Stock Pops 108% in Landmark IPO",
+      "3. OpenAI Co-founder Greg Brockman Takes Charge of Product Strategy",
+      "4. OpenAI Launches ChatGPT for Personal Finance, Will Let You Connect Bank Accounts",
+      "5. Research Repository ArXiv Will Ban Authors Who Let AI Do All the Work",
+      "6. OpenAI Reportedly Preparing Legal Action Against Apple",
+      "7. Runway Started by Helping Filmmakers — Now It Wants to Beat Google at AI",
+      "8. Silicon Valley’s Vacationland Needs a New Energy Provider as AI Drives Prices Up",
+      "9. The Haves and Have-Nots of the AI Gold Rush",
+      "10. Osaurus Brings Both Local and Cloud AI Models to Your Mac"
+    ]
+  },
+  {
+    "date": "2026-05-17",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-05-17",
