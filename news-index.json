@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-17",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-17",
+    "titleZh": "AI资讯早报 | 2026-05-17",
+    "title": "AI News Morning Brief | 2026-05-17",
+    "slug": "news-2026-05-17-morning",
+    "headlines": [
+      "1. Musk v. Altman: The Jury Decides",
+      "2. Cerebras IPO: The First Big AI Chip Bet of 2026",
+      "3. OpenAI Launches ChatGPT for Personal Finance",
+      "4. OpenAI vs. Apple: Legal Action Brewing",
+      "5. ArXiv Bans AI-Helper Authors",
+      "6. Runway's Ambition: From Filmmaking to Beating Google",
+      "7. Silicon Valley's Vacationland Feels the AI Energy Crunch",
+      "8. OpenAI's Codex Comes to Your Phone",
+      "9. Chinese Short Dramas Become AI Content Machines",
+      "10. The AI Gold Rush: Haves and Have-Nots"
+    ]
+  },
+  {
     "date": "2026-05-16",
     "slot": "morning",
     "slotLabel": "早报",
