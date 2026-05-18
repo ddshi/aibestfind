@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-18",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-18",
+    "titleZh": "AI资讯早报 | 2026-05-18",
+    "title": "AI News Morning Brief | 2026-05-18",
+    "slug": "news-2026-05-18-morning",
+    "headlines": [
+      "1. The Musk vs. Altman Trial: A Verdict on Trust",
+      "2. The AI Haves and Have-Nots: A Widening Gulf",
+      "3. Apple’s Siri Revamp: Auto-Deleting Chats Signal a Privacy-First AI",
+      "4. OpenAI Launches ChatGPT for Personal Finance",
+      "5. Greg Brockman Returns to Lead OpenAI Product Strategy",
+      "6. ArXiv Cracks Down on AI-Generated Research",
+      "7. Runway’s Ambition: From Filmmaker Tool to Google Rival",
+      "8. AI Is Building Itself: The Dawn of Automated AI Development",
+      "9. The AI Skills Arms Race Hits the Automotive Industry",
+      "10. Chinese Short Dramas: The AI Content Machine"
+    ]
+  },
+  {
     "date": "2026-05-17",
     "slot": "evening",
     "slotLabel": "晚报",
