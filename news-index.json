@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-19",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-19",
+    "titleZh": "AI资讯晚报 | 2026-05-19",
+    "title": "AI News Evening Brief | 2026-05-19",
+    "slug": "news-2026-05-19-evening",
+    "headlines": [
+      "1. Musk v. Altman Trial Concludes: Jury to Decide on Trust and Founding Principles",
+      "2. Inside Anduril and Meta's Quest to Make Smart Glasses for Warfare",
+      "3. OpenAI Launches ChatGPT for Personal Finance, Connecting to Bank Accounts",
+      "4. The Haves and Have-Nots of the AI Gold Rush",
+      "5. Apple's Siri Revamp Could Include Auto-Deleting Chats",
+      "6. Amazon's New Alexa+ Feature Can Generate Podcast Episodes",
+      "7. Research Repository ArXiv Will Ban Authors for a Year if They Let AI Do All the Work",
+      "8. Runway Started by Helping Filmmakers — Now It Wants to Beat Google at AI",
+      "9. South Korea's LetinAR Is Building the Optics Behind AI Glasses",
+      "10. How Chinese Short Dramas Became AI Content Machines"
+    ]
+  },
+  {
     "date": "2026-05-18",
     "slot": "morning",
     "slotLabel": "早报",
