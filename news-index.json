@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-20",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-20",
+    "titleZh": "AI资讯晚报 | 2026-05-20",
+    "title": "AI News Evening Brief | 2026-05-20",
+    "slug": "news-2026-05-20-evening",
+    "headlines": [
+      "1. Elon Musk Loses His Lawsuit Against OpenAI and Sam Altman",
+      "2. OpenAI Co-Founder Andrej Karpathy Joins Anthropic’s Pre-Training Team",
+      "3. Anthropic Acquires the Dev Tools Startup Used by OpenAI, Google, and Cloudflare",
+      "4. Inside Anduril and Meta’s Quest to Make Smart Glasses for Warfare",
+      "5. SandboxAQ Brings Its Drug Discovery Models to Claude — No PhD Required",
+      "6. Amazon’s New Alexa+ Feature Can Generate Podcast Episodes",
+      "7. Apple’s Siri Revamp Could Include Auto-Deleting Chats",
+      "8. The Haves and Have-Nots of the AI Gold Rush",
+      "9. Research Repository ArXiv Will Ban Authors for a Year If They Let AI Do All the Work",
+      "10. What to Expect from Google This Week at I/O"
+    ]
+  },
+  {
     "date": "2026-05-19",
     "slot": "morning",
     "slotLabel": "早报",
