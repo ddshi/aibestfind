@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-19",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-19",
+    "titleZh": "AI资讯早报 | 2026-05-19",
+    "title": "AI News Morning Brief | 2026-05-19",
+    "slug": "news-2026-05-19-morning",
+    "headlines": [
+      "1. Elon Musk Loses Lawsuit Against OpenAI: A Defining Moment for AI Governance",
+      "2. Anthropic Acquires Dev-Tools Startup Used by OpenAI, Google, and Cloudflare",
+      "3. SandboxAQ Brings Drug Discovery to Claude: No PhD Required",
+      "4. Amazon’s Alexa+ Can Now Generate Full Podcast Episodes",
+      "5. Inside Anduril and Meta’s Quest to Make Smart Glasses for Warfare",
+      "6. Apple’s Siri Revamp Could Include Auto-Deleting Chats",
+      "7. ArXiv Will Ban Authors for a Year if They Let AI Do All the Work",
+      "8. South Korea’s LetinAR is Building the Optics Behind AI Glasses",
+      "9. The Haves and Have-Nots of the AI Gold Rush",
+      "10. OpenAI Co-founder Greg Brockman Takes Charge of Product Strategy"
+    ]
+  },
+  {
+    "date": "2026-05-19",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-19",
