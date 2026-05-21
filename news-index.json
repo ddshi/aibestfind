@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-05-21",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-21",
+    "titleZh": "AI资讯早报 | 2026-05-21",
+    "title": "AI News Morning Brief | 2026-05-21",
+    "slug": "news-2026-05-21-morning",
+    "headlines": [
+      "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "Anthropic will pay xAI $1.25B per month for compute",
+      "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+      "Anthropic says it’s about to have its first profitable quarter",
+      "OpenAI barrels toward IPO that may happen in September",
+      "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "Stability AI releases a new audio model that can create 6-minute songs",
+      "Google just declared itself a contender in AI design at IO 2026",
+      "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "Figma adds an AI assistant to its collaborative canvas"
+    ]
+  },
+  {
+    "date": "2026-05-21",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-21",
