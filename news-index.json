@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-22",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-22",
+    "titleZh": "AI资讯晚报 | 2026-05-22",
+    "title": "AI News Evening Brief | 2026-05-22",
+    "slug": "news-2026-05-22-evening",
+    "headlines": [
+      "1. Nvidia's Dominance Deepens: Record Quarter and a $200 Billion \"New Market\"",
+      "2. Anthropic's Profitability and a $1.25B Compute Deal with xAI",
+      "3. Spotify's AI Audio Empire: Audiobooks, Podcasts, and Personal Briefings",
+      "4. xAI's Financial Reality: $6.4B Burn and a $2.8B Generator Spree",
+      "5. Hark Raises $700M for a \"Universal\" AI Interface",
+      "6. Google's AI Agent Ecosystem: A Hard Sell for Consumers",
+      "7. OpenAI Claims It Solved an 80-Year-Old Math Problem",
+      "8. The Path: Tony Robbins and Calm Alums Bet on Safer AI Therapy",
+      "9. Climate Tech Pivots to Critical Minerals—With AI's Help",
+      "10. Tech Researchers Sue the Trump Administration Over Online Safety"
+    ]
+  },
+  {
     "date": "2026-05-21",
     "slot": "morning",
     "slotLabel": "早报",
