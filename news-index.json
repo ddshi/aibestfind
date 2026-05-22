@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-23",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-23",
+    "titleZh": "AI资讯晚报 | 2026-05-23",
+    "title": "AI News Evening Brief | 2026-05-23",
+    "slug": "news-2026-05-23-evening",
+    "headlines": [
+      "1. Hark Raises $700M Series A for Its Secretive ‘Universal’ AI Interface",
+      "2. Spotify and Universal Music Strike Deal Allowing Fan-Made AI Covers and Remixes",
+      "3. Anthropic’s Code with Claude Showed Off Coding’s Future—Whether You Like It or Not",
+      "4. Trump Delays AI Security Executive Order, Saying Language ‘Could Have Been a Blocker’",
+      "5. We Tried Google’s AI Glasses and They’re Almost There",
+      "6. Google I/O Showed How the Path for AI-Driven Science Is Shifting",
+      "7. Six Search Engines Worth Trying Now That Google Isn’t Really Google Anymore",
+      "8. Spotify Takes on Google’s NotebookLM with Its New Podcast Creation App",
+      "9. Google Is Pitching an AI Agent Ecosystem to Consumers Who May Not Buy It",
+      "10. The Path, Founded by Tony Robbins and Calm Alums, Hopes to Offer Safer AI Therapy"
+    ]
+  },
+  {
     "date": "2026-05-22",
     "slot": "morning",
     "slotLabel": "早报",
