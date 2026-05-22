@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-22",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-22",
+    "titleZh": "AI资讯早报 | 2026-05-22",
+    "title": "AI News Morning Brief | 2026-05-22",
+    "slug": "news-2026-05-22-morning",
+    "headlines": [
+      "1. Spotify and Universal Music Strike Deal Allowing Fan-Made AI Covers and Remixes",
+      "2. Anthropic's Code with Claude Showed Off Coding's Future—Whether You Like It or Not",
+      "3. Hark Raises $700M Series A for Its Secretive 'Universal' AI Interface",
+      "4. xAI Burned $6.4B Last Year — SpaceX's IPO Filing Shows Why the Spending Is Far From Over",
+      "5. Trump Delays AI Security Executive Order, Saying Language 'Could Have Been a Blocker'",
+      "6. Jensen Huang Says He's Found a 'Brand New' $200B Market for Nvidia",
+      "7. Anthropic Says It's About to Have Its First Profitable Quarter",
+      "8. Spotify Launches an ElevenLabs-Powered Audiobook Creation Tool",
+      "9. Google Is Pitching an AI Agent Ecosystem to Consumers Who May Not Buy It",
+      "10. Six Search Engines Worth Trying Now That Google Isn't Really Google Anymore"
+    ]
+  },
+  {
+    "date": "2026-05-22",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-22",
