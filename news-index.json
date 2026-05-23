@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-23",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-23",
+    "titleZh": "AI资讯早报 | 2026-05-23",
+    "title": "AI News Morning Brief | 2026-05-23",
+    "slug": "news-2026-05-23-morning",
+    "headlines": [
+      "1. Google’s AI Glasses: Almost There, but Not Quite",
+      "2. Spotify and Universal Music Strike Deal for AI Covers and Remixes",
+      "3. The ‘Inflated ARR’ Game: How VCs Crown AI Startups",
+      "4. Elon Musk’s $1.75 Trillion IPO: The Sound of Ambition",
+      "5. AI Is Being Used to Resurrect the Voices of Dead Pilots",
+      "6. Google I/O 2026: The Shifting Path for AI-Driven Science",
+      "7. Anthropic’s Code with Claude: The Future of Coding, Whether You Like It or Not",
+      "8. You Can No Longer Google the Word ‘Disregard’",
+      "9. The Enhanced Games: Where AI Meets the ‘Steroid Olympics’",
+      "10. Six Search Engines Worth Trying Now That Google Isn’t Really Google Anymore"
+    ]
+  },
+  {
+    "date": "2026-05-23",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-23",
