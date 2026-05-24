@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-24",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-24",
+    "titleZh": "AI资讯晚报 | 2026-05-24",
+    "title": "AI News Evening Brief | 2026-05-24",
+    "slug": "news-2026-05-24-evening",
+    "headlines": [
+      "1. SpaceX Files to Go Public: The $1.75 Trillion Math",
+      "2. The Great AI ARR Inflation",
+      "3. Spotify and Universal Music Embrace AI Covers",
+      "4. Google’s AI Glasses Are Almost There",
+      "5. AI Is Being Used to Resurrect the Voices of Dead Pilots",
+      "6. Ferrari Uses IBM AI to Engineer F1 Superfans",
+      "7. Trump Delays AI Security Executive Order",
+      "8. Google I/O: The Path for AI-Driven Science Is Shifting",
+      "9. Spotify Takes on NotebookLM with a New Podcast App",
+      "10. You Can No Longer Google the Word ‘Disregard’"
+    ]
+  },
+  {
+    "date": "2026-05-24",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-05-24",
