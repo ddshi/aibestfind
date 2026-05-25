@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-25",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-25",
+    "titleZh": "AI资讯早报 | 2026-05-25",
+    "title": "AI News Morning Brief | 2026-05-25",
+    "slug": "news-2026-05-25-morning",
+    "headlines": [
+      "1. SpaceX Files for a $1.75 Trillion IPO, and the Math Requires a Little Faith",
+      "2. You Can No Longer Google the Word 'Disregard'",
+      "3. AI Is Being Used to Resurrect the Voices of Dead Pilots",
+      "4. Trump Delays AI Security Executive Order, Saying Language 'Could Have Been a Blocker'",
+      "5. How VCs and Founders Use Inflated 'ARR' to Crown AI Startups",
+      "6. Spotify and Universal Music Strike Deal Allowing Fan-Made AI Covers and Remixes",
+      "7. Google I/O Showed How the Path for AI-Driven Science Is Shifting",
+      "8. I Tried Amazon's Bee Wearable and Am Both Intrigued and Slightly Creeped Out",
+      "9. Ferrari Is Using IBM's AI to Create F1 Superfans",
+      "10. We Tried Google's AI Glasses and They're Almost There"
+    ]
+  },
+  {
     "date": "2026-05-24",
     "slot": "evening",
     "slotLabel": "晚报",
