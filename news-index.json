@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-26",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-26",
+    "titleZh": "AI资讯晚报 | 2026-05-26",
+    "title": "AI News Evening Brief | 2026-05-26",
+    "slug": "news-2026-05-26-evening",
+    "headlines": [
+      "The Pope’s AI Encyclical Isn’t Really About AI",
+      "Everyone Is Navigating AI Security in Real Time — Even Google",
+      "I Tried Amazon’s Bee Wearable and Am Both Intrigued and Slightly Creeped Out",
+      "Ferrari Is Using IBM’s AI to Create F1 Superfans",
+      "AI Is Being Used to Resurrect the Voices of Dead Pilots",
+      "How VCs and Founders Use Inflated ‘ARR’ to Crown AI Startups",
+      "We Tried Google’s AI Glasses and They’re Almost There",
+      "Google I/O Showed How the Path for AI-Driven Science Is Shifting",
+      "Spotify and Universal Music Strike Deal Allowing Fan-Made AI Covers and Remixes",
+      "Six Search Engines Worth Trying Now That Google Isn’t Really Google Anymore"
+    ]
+  },
+  {
     "date": "2026-05-25",
     "slot": "morning",
     "slotLabel": "早报",
