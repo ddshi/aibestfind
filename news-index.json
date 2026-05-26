@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-27",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-27",
+    "titleZh": "AI资讯晚报 | 2026-05-27",
+    "title": "AI News Evening Brief | 2026-05-27",
+    "slug": "news-2026-05-27-evening",
+    "headlines": [
+      "1. A Reality Check on the AI Jobs Hysteria",
+      "2. Universal Music Group and TikTok Renew Agreement to Combat Unauthorized AI Music",
+      "3. Rethinking Organizational Design in the Age of Agentic AI",
+      "4. Everyone Is Navigating AI Security in Real Time — Even Google",
+      "5. This Startup Is Betting India’s Gig Economy Can Train the World’s Robots",
+      "6. What ClickUp’s Mass Layoff Tells Us About the Future of Work",
+      "7. The Pope’s AI Encyclical Isn’t Really About AI",
+      "8. Ferrari Is Using IBM’s AI to Create F1 Superfans",
+      "9. AI Is Being Used to Resurrect the Voices of Dead Pilots",
+      "10. How VCs and Founders Use Inflated ‘ARR’ to Crown AI Startups"
+    ]
+  },
+  {
     "date": "2026-05-26",
     "slot": "morning",
     "slotLabel": "早报",
