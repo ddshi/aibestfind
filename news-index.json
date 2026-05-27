@@ -1,6 +1,25 @@
 [
   {
     "date": "2026-05-27",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-27",
+    "titleZh": "AI资讯早报 | 2026-05-27",
+    "title": "AI News Morning Brief | 2026-05-27",
+    "slug": "news-2026-05-27-morning",
+    "headlines": [
+      "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "OpenRouter more than doubles valuation to $1.3B in a year",
+      "This startup is betting India’s gig economy can train the world’s robots",
+      "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "Rethinking organizational design in the age of agentic AI",
+      "A reality check on the AI jobs hysteria",
+      "It’s time to address the looming crisis in entry-level work",
+      "Everyone is navigating AI security in real time — even Google"
+    ]
+  },
+  {
+    "date": "2026-05-27",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-27",
