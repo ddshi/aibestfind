@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-28",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-28",
+    "titleZh": "AI资讯早报 | 2026-05-28",
+    "title": "AI News Morning Brief | 2026-05-28",
+    "slug": "news-2026-05-28-morning",
+    "headlines": [
+      "1. AI Coding Startup Cognition Raises $1B at $25B Pre-Money Valuation",
+      "2. Snowflake Signs $6B Deal with AWS for AI CPU Chips",
+      "3. Meta Launches Instagram, Facebook, and WhatsApp Subscriptions, Including AI Plans",
+      "4. YouTube Will Now Automatically Label AI Videos",
+      "5. DuckDuckGo Installs Up 30% as Users Reject Google's AI Search",
+      "6. ElevenLabs' New Music-Generation Model Can Switch Genres Mid-Track",
+      "7. China Is Increasingly Keeping Its Best AI Talent to Itself",
+      "8. Robinhood Now Lets Your AI Agents Trade Stocks",
+      "9. Tech CEOs Are Apparently Suffering from AI Psychosis",
+      "10. Universal Music Group and TikTok Renew Agreement to Combat Unauthorized AI Music"
+    ]
+  },
+  {
+    "date": "2026-05-28",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-28",
