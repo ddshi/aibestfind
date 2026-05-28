@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-29",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-29",
+    "titleZh": "AI资讯晚报 | 2026-05-29",
+    "title": "AI News Evening Brief | 2026-05-29",
+    "slug": "news-2026-05-29-evening",
+    "headlines": [
+      "1. Anthropic Releases Opus 4.8 with New 'Dynamic Workflow' Tool",
+      "2. Sneak Peek at New Siri App Reveals Apple's Plans to Take on ChatGPT and More",
+      "3. AI Coding Startup Cognition Raises $1B at $25B Pre-Money Valuation",
+      "4. Snowflake Signs $6B Deal with AWS for AI CPU Chips",
+      "5. RSI is the New AGI — and It's Just as Hard to Pin Down",
+      "6. Visa Invests in Replit to Power Agentic Payments for Developers",
+      "7. At TechCrunch Disrupt 2026: Databricks' Co-Founder on What Kills Enterprise AI Deals",
+      "8. Meta Launches Instagram, Facebook, and WhatsApp Subscriptions, Including AI Plans",
+      "9. The AI Hype Index: AI Gets Booed in Graduation Season",
+      "10. Has the Hunt for AI Compute Uncovered the Next Cerebras?"
+    ]
+  },
+  {
     "date": "2026-05-28",
     "slot": "morning",
     "slotLabel": "早报",
