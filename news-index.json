@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-29",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-29",
+    "titleZh": "AI资讯早报 | 2026-05-29",
+    "title": "AI News Morning Brief | 2026-05-29",
+    "slug": "news-2026-05-29-morning",
+    "headlines": [
+      "1. Anthropic Raises $65 Billion, Nears $1T Valuation Ahead of IPO",
+      "2. The Internet is Being Rebuilt for Machines",
+      "3. Glean’s Top Line Crosses $300M as AI Budget-Cutting Becomes Its Major Selling Point",
+      "4. Anthropic Releases Opus 4.8 with New ‘Dynamic Workflow’ Tool",
+      "5. Just Like Gold and Oil, We’ll Soon Be Able to Trade AI Token Futures",
+      "6. Sneak Peek at New Siri App Reveals Apple’s Plans to Take on ChatGPT and More",
+      "7. Asana Acquires No-Code Agent-Builder StackAI",
+      "8. Visa Invests in Replit to Power Agentic Payments for Developers",
+      "9. Sesame, the Conversational AI Startup from Oculus Founders, Launches Its iOS App",
+      "10. RSI is the New AGI — And It’s Just as Hard to Pin Down"
+    ]
+  },
+  {
+    "date": "2026-05-29",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-29",
