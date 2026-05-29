@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-05-30",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-30",
+    "titleZh": "AI资讯晚报 | 2026-05-30",
+    "title": "AI News Evening Brief | 2026-05-30",
+    "slug": "news-2026-05-30-evening",
+    "headlines": [
+      "1. Anthropic Raises $65 Billion, Nears $1T Valuation Ahead of IPO",
+      "2. Anthropic Releases Opus 4.8 with New 'Dynamic Workflow' Tool",
+      "3. After Nvidia's $20B 'Not-Aqui-Hire,' AI Chip Startup Groq Reportedly Raising $650M",
+      "4. This Chip Startup Just Raised $135M on a Bet That AI's Biggest Bottleneck Isn't Compute — It's Memory",
+      "5. The Internet Is Being Rebuilt for Machines",
+      "6. Glean's Top Line Crosses $300M as AI Budget Cutting Becomes Its Major Selling Point",
+      "7. Cognition's Scott Wu Says AI Coding Agents Shouldn't Replace Humans",
+      "8. Sneak Peek at New Siri App Reveals Apple's Plans to Take on ChatGPT and More",
+      "9. Sesame, the Conversational AI Startup from Oculus Founders, Launches Its iOS App",
+      "10. How the Pope's 'Magnifica Humanitas' Offers a Template for Individuals to Meet the AI Moment"
+    ]
+  },
+  {
     "date": "2026-05-29",
     "slot": "morning",
     "slotLabel": "早报",
