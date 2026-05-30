@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-05-30",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-30",
+    "titleZh": "AI资讯早报 | 2026-05-30",
+    "title": "AI News Morning Brief | 2026-05-30",
+    "slug": "news-2026-05-30-morning",
+    "headlines": [
+      "1. Anthropic Raises $65 Billion, Nears $1T Valuation Ahead of IPO",
+      "2. Coders Are Refusing to Work Without AI — And That Could Come Back to Bite Them",
+      "3. Does Your CEO Have AI Psychosis? Aaron Levie Thinks Most of Them Do.",
+      "4. The Internet Is Being Rebuilt for Machines",
+      "5. After Nvidia’s $20B Not-Acqui-Hire, AI Chip Startup Groq Reportedly Raising $650M",
+      "6. This Chip Startup Just Raised $135M on a Bet That AI’s Biggest Bottleneck Isn’t Compute — It’s Memory",
+      "7. Cognition’s Scott Wu Says AI Coding Agents Shouldn’t Replace Humans",
+      "8. Glean’s Top Line Crosses $300M as AI Budget Cutting Becomes Its Major Selling Point",
+      "9. Asana Acquires No-Code Agent-Builder StackAI",
+      "10. Just Like Gold and Oil, We’ll Soon Be Able to Trade AI Token Futures"
+    ]
+  },
+  {
+    "date": "2026-05-30",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-05-30",
