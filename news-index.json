@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-05-31",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-05-31",
+    "titleZh": "AI资讯早报 | 2026-05-31",
+    "title": "AI News Morning Brief | 2026-05-31",
+    "slug": "news-2026-05-31-morning",
+    "headlines": [
+      "GitHub Copilot’s Token-Based Billing Sparks Developer Revolt",
+      "Coders Refuse to Work Without AI — A Dangerous Dependency",
+      "Cognition’s Scott Wu: AI Coding Agents Shouldn’t Replace Humans",
+      "After Nvidia’s $20B Miss, Groq Reportedly Raising $650M",
+      "Xcena Raises $135M on Bet That Memory, Not Compute, Is AI’s Real Bottleneck",
+      "Meta Is Reportedly Developing an AI Pendant",
+      "Google’s Gemini Spark: A 24/7 AI Assistant That Actually Works",
+      "Glean Crosses $300M ARR by Selling AI Budget Cutting",
+      "The Internet Is Being Rebuilt for Machines",
+      "Asana Acquires No-Code Agent-Builder StackAI",
+      "The Pope’s \"Magnifica Humanitas\" as a Template for the AI Age"
+    ]
+  },
+  {
     "date": "2026-05-30",
     "slot": "morning",
     "slotLabel": "早报",
