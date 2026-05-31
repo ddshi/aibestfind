@@ -146,6 +146,19 @@ footer{border-top:1px solid var(--border);padding:48px 0 32px;text-align:center}
   .article-item .art-date{margin-left:0}
   .article-item .art-left{flex-wrap:wrap}
 }
+
+/* ========== PAGINATION ========== */
+.pagination-container{display:flex;justify-content:center;align-items:center;gap:8px;padding:32px 0 20px;flex-wrap:wrap}
+.pagination-btn{display:inline-flex;align-items:center;justify-content:center;min-width:38px;height:38px;padding:0 12px;border:1px solid var(--border);border-radius:10px;background:var(--surface);color:var(--text);font-size:.88em;font-weight:600;cursor:pointer;transition:var(--t);text-decoration:none;user-select:none}
+.pagination-btn:hover:not(:disabled){border-color:var(--p);color:var(--p);background:var(--surface2)}
+.pagination-btn.active{background:var(--p);color:#fff;border-color:var(--p);cursor:default}
+.pagination-btn:disabled{opacity:.35;cursor:default}
+.pagination-dots{color:var(--text3);padding:0 4px;font-size:.9em;user-select:none}
+.pagination-info{width:100%;text-align:center;color:var(--text3);font-size:.82em;padding-top:8px}
+@media(max-width:600px){
+  .pagination-btn{min-width:34px;height:34px;font-size:.8em;padding:0 8px;border-radius:8px}
+  .pagination-gap{display:none}
+}
 </style>
 
 <!-- AnyTrack Tracking Code -->
@@ -211,6 +224,7 @@ footer{border-top:1px solid var(--border);padding:48px 0 32px;text-align:center}
     <div id="toolGrid" class="tool-grid">
       <div class="loading-spin"><div class="spinner"></div><p data-i18n="common.loading">Loading...</p></div>
     </div>
+    <div id="toolPagination" class="pagination-container" style="display:none"></div>
 
     <div class="articles-section">
       <div class="section-divider"><span data-i18n="articles.divider">REVIEWS & GUIDES</span></div>
@@ -308,6 +322,7 @@ const i18n = {
     'footer.reviewsTitle': 'Featured Reviews',
     'footer.contact': 'Contact',
     'footer.disclosure': '🛈 Affiliate Disclosure: Some links on this site are affiliate links. If you click through and make a purchase, we may earn a commission at no additional cost to you. This helps support our work in curating and reviewing AI tools. We only recommend products we believe deliver value.',
+    'tools.pageInfo': 'Page {p} of {t}',
     'footer.privacy': 'Privacy Policy'
   },
   zh: {
@@ -341,6 +356,7 @@ const i18n = {
     'footer.reviewsTitle': '精选评测',
     'footer.contact': '联系我们',
     'footer.disclosure': '🛈 联盟推广声明：本网站部分链接为联盟推广链接。如果您通过我们的链接购买，我们可能获得佣金，这不会增加您的任何费用。我们仅推荐我们认为有价值的产品，感谢您的支持。',
+    'tools.pageInfo': '第 {p} 页 / 共 {t} 页',
     'footer.privacy': '隐私政策'
   }
 };
@@ -445,7 +461,97 @@ const staticTools = [
   }
 ];
 
-// ============ LOAD TOOLS ============
+// ============ LOAD TOOLS (with pagination) ============
+const TOOLS_PER_PAGE = 12;
+let allToolsCache = [];
+let currentPage = 1;
+
+function renderToolCard(tool, i) {
+  const isZh = currentLang === 'zh';
+  const name = isZh ? tool.nameZh : tool.nameEn;
+  const desc = isZh ? tool.descZh : tool.descEn;
+  const cat = isZh ? (tool.categoryZh || tool.category) : (tool.categoryEn || tool.category);
+  const badgeClass = tool.badge === 'hot' ? 'badge-hot' : '';
+  const badgeText = tool.badge === 'hot' ? '🔥 Hot' : '';
+  const viewText = isZh ? '查看详情 →' : 'View Details →';
+  const isOwn = tool.badge === 'hot';
+  const targetAttr = isOwn ? '' : ' target="_blank" rel="noopener"';
+  return `
+    <a href="${tool.link}"${targetAttr} class="tool-card" style="animation-delay:${i*0.06}s">
+      ${badgeText ? `<span class="card-badge ${badgeClass}">${badgeText}</span>` : ''}
+      <div class="tool-icon">${tool.icon}</div>
+      <h3>${name}</h3>
+      ${cat ? `<span class="tool-cat-tag">${cat}</span>` : ''}
+      <p class="tool-desc">${desc}</p>
+      <div class="tool-footer"><span class="tool-link">${viewText}</span></div>
+    </a>`;
+}
+
+function renderToolPage(page) {
+  const grid = document.getElementById('toolGrid');
+  const start = (page - 1) * TOOLS_PER_PAGE;
+  const slice = allToolsCache.slice(start, start + TOOLS_PER_PAGE);
+  grid.innerHTML = slice.map((tool, i) => renderToolCard(tool, i)).join('');
+  renderPagination();
+}
+
+function renderPagination() {
+  const container = document.getElementById('toolPagination');
+  const totalPages = Math.ceil(allToolsCache.length / TOOLS_PER_PAGE);
+  if (totalPages <= 1) { container.style.display = 'none'; return; }
+  container.style.display = '';
+
+  const p = currentPage;
+  const isZh = currentLang === 'zh';
+  const prevLabel = isZh ? '‹ 上一页' : '‹ Prev';
+  const nextLabel = isZh ? '下一页 ›' : 'Next ›';
+
+  let html = '';
+  // Prev button
+  html += `<button class="pagination-btn" ${p <= 1 ? 'disabled' : ''} onclick="goToPage(${p-1})">${prevLabel}</button>`;
+
+  // Page number buttons
+  const maxVisible = 5;
+  let startP = Math.max(1, p - Math.floor(maxVisible / 2));
+  let endP = Math.min(totalPages, startP + maxVisible - 1);
+  if (endP - startP < maxVisible - 1) startP = Math.max(1, endP - maxVisible + 1);
+
+  if (startP > 1) { html += `<button class="pagination-btn" onclick="goToPage(1)">1</button>`; }
+  if (startP > 2) { html += `<span class="pagination-dots">…</span>`; }
+
+  for (let i = startP; i <= endP; i++) {
+    html += `<button class="pagination-btn${i === p ? ' active' : ''}" onclick="goToPage(${i})">${i}</button>`;
+  }
+
+  if (endP < totalPages - 1) { html += `<span class="pagination-dots">…</span>`; }
+  if (endP < totalPages) { html += `<button class="pagination-btn" onclick="goToPage(${totalPages})">${totalPages}</button>`; }
+
+  // Next button
+  html += `<button class="pagination-btn" ${p >= totalPages ? 'disabled' : ''} onclick="goToPage(${p+1})">${nextLabel}</button>`;
+
+  // Page info
+  html += `<div class="pagination-info">${t('tools.pageInfo').replace('{p}',p).replace('{t}',totalPages)}</div>`;
+
+  container.innerHTML = html;
+}
+
+function goToPage(p) {
+  const totalPages = Math.ceil(allToolsCache.length / TOOLS_PER_PAGE);
+  if (p < 1 || p > totalPages) return;
+  currentPage = p;
+  renderToolPage(p);
+  // Scroll to top without jumping too far
+  const section = document.getElementById('panel-tools');
+  const grid = document.getElementById('toolGrid');
+  if (section && grid) {
+    const rect = grid.getBoundingClientRect();
+    if (rect.top < 0 || rect.top > window.innerHeight) {
+      section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+  window.scrollTo({ top: window.scrollY - 100, behavior: 'smooth' });
+}
+
 async function loadAndRenderTools() {
   const grid = document.getElementById('toolGrid');
   try {
@@ -470,35 +576,16 @@ async function loadAndRenderTools() {
 
     // Own tools first, then curated sorted by date (newest first)
     jsonTools.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-    const allTools = [...staticTools, ...jsonTools];
+    allToolsCache = [...staticTools, ...jsonTools];
 
-    if (allTools.length === 0) {
+    if (allToolsCache.length === 0) {
       grid.innerHTML = '<div class="articles-empty">' + t('tools.loadError') + '</div>';
       return;
     }
 
-    const isZh = currentLang === 'zh';
-    grid.innerHTML = allTools.map((tool, i) => {
-      const name = isZh ? tool.nameZh : tool.nameEn;
-      const desc = isZh ? tool.descZh : tool.descEn;
-      const cat = isZh ? (tool.categoryZh || tool.category) : (tool.categoryEn || tool.category);
-      const badgeClass = tool.badge === 'hot' ? 'badge-hot' : '';
-      const badgeText = tool.badge === 'hot' ? '🔥 Hot' : '';
-      const featuredClass = '';
-      const viewText = isZh ? '查看详情 →' : 'View Details →';
-      // Own tools link to review pages, curated tools link externally
-      const isOwn = tool.badge === 'hot';
-      const targetAttr = isOwn ? '' : ' target="_blank" rel="noopener"';
-      return `
-        <a href="${tool.link}"${targetAttr} class="tool-card${featuredClass}" style="animation-delay:${i*0.06}s">
-          ${badgeText ? `<span class="card-badge ${badgeClass}">${badgeText}</span>` : ''}
-          <div class="tool-icon">${tool.icon}</div>
-          <h3>${name}</h3>
-          ${cat ? `<span class="tool-cat-tag">${cat}</span>` : ''}
-          <p class="tool-desc">${desc}</p>
-          <div class="tool-footer"><span class="tool-link">${viewText}</span></div>
-        </a>`;
-    }).join('');
+    // Reset to page 1 on lang switch / reload
+    currentPage = 1;
+    renderToolPage(1);
   } catch(err) {
     grid.innerHTML = '<div class="articles-empty">' + t('tools.loadError') + '</div>';
   }
