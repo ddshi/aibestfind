@@ -5,6 +5,14 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://aibestfind.com/posts/suno/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aibestfind.com/posts/midjourney/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://aibestfind.com/posts/cursor-vs-claudecode/</loc>
     <priority>0.6</priority>
   </url>

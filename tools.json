@@ -11,17 +11,6 @@
     "date": "2026-01-15"
   },
   {
-    "nameEn": "Midjourney",
-    "nameZh": "Midjourney",
-    "descEn": "Top-tier AI image generator — create stunning artwork from text prompts with unmatched aesthetic quality.",
-    "descZh": "顶级AI图像生成工具，通过文字描述生成高质量艺术作品",
-    "url": "https://www.midjourney.com",
-    "category": "图像生成",
-    "categoryEn": "Image Generation",
-    "icon": "🎨",
-    "date": "2026-02-20"
-  },
-  {
     "nameEn": "Cursor",
     "nameZh": "Cursor",
     "descEn": "AI-first code editor built on VS Code — understands your entire codebase and generates context-aware code.",
@@ -108,17 +97,6 @@
     "categoryEn": "Video Creation",
     "icon": "🎥",
     "date": "2026-05-14"
-  },
-  {
-    "nameEn": "Suno",
-    "nameZh": "Suno",
-    "descEn": "AI music generator — create full songs with vocals, instruments, and lyrics from a simple text prompt.",
-    "descZh": "AI音乐生成器，通过文字提示即可创作带有歌词、人声和乐器的完整歌曲",
-    "url": "https://suno.ai",
-    "category": "音乐生成",
-    "categoryEn": "Music Generation",
-    "icon": "🎵",
-    "date": "2026-05-15"
   },
   {
     "nameEn": "GitHub Copilot",
