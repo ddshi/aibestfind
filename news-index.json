@@ -1,6 +1,28 @@
 [
   {
     "date": "2026-05-31",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-05-31",
+    "titleZh": "AI资讯晚报 | 2026-05-31",
+    "title": "AI News Evening Brief | 2026-05-31",
+    "slug": "news-2026-05-31-evening",
+    "headlines": [
+      "SoftBank Says It Will Invest Up to €75 Billion to Build French Data Centers",
+      "After Nvidia’s $20B Not-Acqui-Hire, AI Chip Startup Groq Reportedly Raising $650M",
+      "This Chip Startup Just Raised $135M on a Bet That AI’s Biggest Bottleneck Isn’t Compute — It’s Memory",
+      "‘What a Joke’: GitHub Copilot’s New Token-Based Billing Spurs Consternation Among Devs",
+      "Coders Are Refusing to Work Without AI — and That Could Come Back to Bite Them",
+      "Cognition’s Scott Wu Says AI Coding Agents Shouldn’t Replace Humans",
+      "Meta Is Reportedly Developing an AI Pendant",
+      "I Put Google’s 24/7 AI Assistant Gemini Spark to Work, and It’s Actually Pretty Useful",
+      "Glean’s Top Line Crosses $300M as AI Budget Cutting Becomes Its Major Selling Point",
+      "Does Your CEO Have AI Psychosis? Aaron Levie Thinks Most of Them Do.",
+      "The Internet Is Being Rebuilt for Machines"
+    ]
+  },
+  {
+    "date": "2026-05-31",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-05-31",
