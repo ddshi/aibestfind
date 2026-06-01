@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-06-01",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-01",
+    "titleZh": "AI资讯早报 | 2026-06-01",
+    "title": "AI News Morning Brief | 2026-06-01",
+    "slug": "news-2026-06-01-morning",
+    "headlines": [
+      "1. SoftBank Says It Will Invest Up to €75 Billion to Build French Data Centers",
+      "2. Making Sense of the Debate Over AI Psychosis",
+      "3. 'What a Joke': GitHub Copilot's New Token-Based Billing Spurs Consternation Among Devs",
+      "4. After Nvidia's $20B Not-Acqui-Hire, AI Chip Startup Groq Reportedly Raising $650M",
+      "5. Erin Brockovich Takes Aim at Data Center Secrecy",
+      "6. Coders Are Refusing to Work Without AI — and That Could Come Back to Bite Them",
+      "7. Meta Is Reportedly Developing an AI Pendant",
+      "8. This Chip Startup Just Raised $135M on a Bet That AI's Biggest Bottleneck Isn't Compute — It's Memory",
+      "9. I Put Google's 24/7 AI Assistant Gemini Spark to Work, and It's Actually Pretty Useful",
+      "10. As the Browser Wars Heat Up, Here Are the Hottest Alternatives to Chrome and Safari in 2026",
+      "The \"AI-Pilled\" Company: A Cautionary Tale",
+      "So You've Heard These AI Terms and Nodded Along; Let's Fix That",
+      "How the Pope's Magnifica Humanitas Offers a Template for Individuals to Meet the AI Moment"
+    ]
+  },
+  {
     "date": "2026-05-31",
     "slot": "evening",
     "slotLabel": "晚报",
