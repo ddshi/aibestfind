@@ -59,31 +59,51 @@ function deepseekChat(messages) {
       model: 'deepseek-chat',
       messages,
       temperature: 0.7,
-      max_tokens: 8000
+      max_tokens: 4096
     });
 
-    const req = https.request({
+    const options = {
       hostname: 'api.deepseek.com',
       path: '/v1/chat/completions',
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': `Bearer ${apiKey}`
-      },
-      timeout: 120000
-    }, (res) => {
+        'Authorization': 'Bearer ' + apiKey,
+        'Content-Length': Buffer.byteLength(body)
+      }
+    };
+
+    const req = https.request(options, (res) => {
       let data = '';
       res.on('data', c => data += c);
       res.on('end', () => {
+        if (res.statusCode !== 200) {
+          console.error('DeepSeek API error response body:', data.substring(0, 500));
+          return reject(new Error(`API ${res.statusCode}: ${data.substring(0, 200)}`));
+        }
         try {
           const json = JSON.parse(data);
-          if (json.error) return reject(new Error(json.error.message));
+          if (json.error) {
+            console.error('DeepSeek API error details:', JSON.stringify(json.error));
+            return reject(new Error(json.error.message || 'Unknown API error'));
+          }
+          if (!json.choices || !json.choices[0] || !json.choices[0].message) {
+            console.error('Unexpected API response structure:', JSON.stringify(json).substring(0, 300));
+            return reject(new Error('Unexpected API response structure'));
+          }
           resolve(json.choices[0].message.content);
         } catch (e) { reject(e); }
       });
     });
 
-    req.on('error', reject);
+    req.on('error', (err) => {
+      console.error('HTTPS request error:', err.message);
+      reject(err);
+    });
+    req.setTimeout(120000, () => {
+      req.destroy();
+      reject(new Error('API request timeout after 120s'));
+    });
     req.write(body);
     req.end();
   });
