@@ -520,16 +520,14 @@ function renderToolPage(page) {
   const grid = document.getElementById('toolGrid');
   const start = (page - 1) * TOOLS_PER_PAGE;
   const slice = allToolsCache.slice(start, start + TOOLS_PER_PAGE);
-  let html = '';
-  slice.forEach((tool, i) => {
-    html += renderToolCard(tool, i);
+  grid.innerHTML = slice.map((tool, i) => {
+    let card = renderToolCard(tool, i);
     // Insert in-feed ad every 4 cards
     if ((i + 1) % 4 === 0 && i < slice.length - 1) {
-      html += '<div class="ad-infeed"><span class="ad-label">Advertisement</span><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9940491001879508" data-ad-slot="" data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86"></ins></div>';
+      card += '<div class="ad-infeed"><span class="ad-label">Advertisement</span><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9940491001879508" data-ad-slot="" data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86"></ins></div>';
     }
-  });
-  grid.innerHTML = html;
-  // Trigger AdSense for dynamically injected ads
+    return card;
+  }).join('');
   (adsbygoogle = window.adsbygoogle || []).push({});
   renderPagination();
 }
