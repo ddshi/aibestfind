@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-02",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-02",
+    "titleZh": "AI资讯早报 | 2026-06-02",
+    "title": "AI News Morning Brief | 2026-06-02",
+    "slug": "news-2026-06-02-morning",
+    "headlines": [
+      "Alphabet plans to raise $80B to pay for AI buildout",
+      "SoftBank says it will invest up to €75B to build French data centers",
+      "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "Erin Brockovich takes aim at data center secrecy",
+      "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "Anthropic files to go public",
+      "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "This AI weather startup is out-forecasting government agencies",
+      "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs"
+    ]
+  },
+  {
+    "date": "2026-06-02",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-02",
