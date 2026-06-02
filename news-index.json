@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-03",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-03",
+    "titleZh": "AI资讯晚报 | 2026-06-03",
+    "title": "AI News Evening Brief | 2026-06-03",
+    "slug": "news-2026-06-03-evening",
+    "headlines": [
+      "Anthropic Files to Go Public as It Scales Claude Mythos to Critical Infrastructure",
+      "Florida Sues OpenAI and Sam Altman in First-of-Its-Kind Lawsuit Over Violent Incidents",
+      "Alphabet Plans to Raise $80 Billion to Pay for AI Buildout",
+      "Nvidia Chases $200B CPU Market with AI Agent PCs from Microsoft, Dell, and HP",
+      "Trump Signs Narrower Executive Order on AI Oversight After Industry Objections",
+      "Amazon Faces Class Action Lawsuit Over Ring Facial Recognition Feature",
+      "OpenAI Launches New Codex Tools for White-Collar Work",
+      "China Approves World's First Invasive Brain-Computer Chip",
+      "Microsoft Offers Devs a Better Way to Control AI Agent Behavior",
+      "Rocket Engine Startup Impulse Raises $500 Million to Hire People, Not AI"
+    ]
+  },
+  {
     "date": "2026-06-02",
     "slot": "morning",
     "slotLabel": "早报",
