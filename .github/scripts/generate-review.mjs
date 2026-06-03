@@ -166,7 +166,7 @@ function addStaticTool(html, tool) {
     if (!inArr) continue;
     if (html[i] === '{') depth++;
     if (html[i] === '}') depth--;
-    if (html[i] === ']' && depth === 0) {
+    if (html[i] === ']' && depth === 1) {
       cutIdx = i;
       break;
     }
