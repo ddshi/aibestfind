@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Replit Agent",
-    "nameZh": "Replit Agent",
-    "descEn": "Build and deploy full-stack apps from natural language — AI agent inside Replit's collaborative coding platform.",
-    "descZh": "自然语言构建和部署全栈应用——Replit协作编程平台内置AI代理",
-    "url": "https://replit.com",
-    "category": "编程开发",
-    "categoryEn": "Coding",
-    "icon": "🔄",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Bolt.new",
     "nameZh": "Bolt.new",
     "descEn": "StackBlitz AI app builder — prompt to full-stack web app with instant preview, no setup required.",
