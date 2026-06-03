@@ -18,6 +18,17 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Verify script version
+        run: |
+          echo "=== Git log ==="
+          git log --oneline -3
+          echo ""
+          echo "=== Does generate-review.mjs contain DIAG? ==="
+          grep -c 'DIAG' .github/scripts/generate-review.mjs && echo "YES - latest code" || echo "NO - OLD CODE!"
+          echo ""
+          echo "=== addStaticTool function ==="
+          sed -n '/function addStaticTool/,/^}$/p' .github/scripts/generate-review.mjs | head -30
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
