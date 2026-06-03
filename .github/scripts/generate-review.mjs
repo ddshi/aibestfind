@@ -140,11 +140,11 @@ function addArticleTitle(html, slug, enTitle, zhTitle) {
   }
   if (cutIdx === -1) throw new Error('articleTitles closing brace not found');
 
-  const newEntry = `
+  const newEntry = `,
   ${slug}: {
     en: '${enTitle.replace(/'/g, "\\'")}',
     zh: '${zhTitle.replace(/'/g, "\\'")}'
-  },`;
+  }`;
 
   return html.slice(0, cutIdx) + newEntry + '\n' + html.slice(cutIdx);
 }
