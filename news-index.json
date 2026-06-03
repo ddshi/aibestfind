@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-04",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-04",
+    "titleZh": "AI资讯晚报 | 2026-06-04",
+    "title": "AI News Evening Brief | 2026-06-04",
+    "slug": "news-2026-06-04-evening",
+    "headlines": [
+      "Trump Signs Narrower Executive Order on AI Oversight After Industry Objections",
+      "Publishers Will Be Able to Opt Out of AI Search, Thanks to New Regulation",
+      "Anthropic Scales Claude Mythos to Critical Infrastructure in 15+ Countries",
+      "Meta’s AI Agent for WhatsApp Business Is Now Available Globally",
+      "Amazon Faces Class Action Lawsuit Over Ring Facial-Recognition Feature",
+      "Coralogix Raises $200M on Bet That Someone Needs to Watch the AI Agents",
+      "How Virtual Power Plants Could Provide Energy for Data Centers",
+      "Uber Caps Employee AI Spending After Blowing Through Budget in 4 Months",
+      "Google Rolls Out Fake Call Detection to Protect Against AI Deepfake Impersonation Scams",
+      "Martin Scorsese Becomes the Latest — and Most Unlikely — Hollywood Voice for AI"
+    ]
+  },
+  {
     "date": "2026-06-03",
     "slot": "morning",
     "slotLabel": "早报",
