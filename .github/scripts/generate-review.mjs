@@ -156,30 +156,11 @@ function addStaticTool(html, tool) {
   const startIdx = html.indexOf(marker);
   if (startIdx === -1) throw new Error('staticTools not found in index.html');
 
-  // 找到 staticTools 数组配对的 ] (用 [ ] 本身追踪深度)
-  const openPos = startIdx + marker.length - 1; // '[' 的位置
-  const ctxBefore = html.substring(Math.max(0, openPos - 40), openPos + 40).replace(/\n/g, '\\n').replace(/\r/g, '\\r');
-  console.log(`  [DIAG] openPos=${openPos}, marker context: ${JSON.stringify(ctxBefore)}`);
-  let depth = 1;
-  let cutIdx = -1;
-  let dbg = [];
-  for (let i = openPos + 1; i < html.length; i++) {
-    if (html[i] === '[') { depth++; dbg.push({i, op:'[', d:depth}); }
-    if (html[i] === ']') {
-      depth--;
-      dbg.push({i, op:']', d:depth});
-      if (dbg.length <= 5 || depth <= 1) {
-        const ctx = html.substring(Math.max(0,i-20), i+5).replace(/\n/g,'\\n').replace(/\r/g,'\\r');
-        console.log(`  [DIAG] ${depth===0?'CLOSE':']'} at ${i} depth=${depth} ctx=${JSON.stringify(ctx)}`);
-      }
-      if (depth === 0) { cutIdx = i; break; }
-    }
-  }
-  if (cutIdx === -1) {
-    console.error(`  [DIAG] FAIL: final depth=${depth}, total brackets scanned: ${dbg.length}`);
-    console.error(`  [DIAG] First 10 brackets: ${JSON.stringify(dbg.slice(0,10))}`);
-    throw new Error('staticTools closing bracket not found');
-  }
+  // 找到 staticTools 数组后面第一个 ]; 的位置
+  // 用 ] 的索引 + 分号检测，比深度追踪简单可靠
+  const closeIdx = html.indexOf('];', startIdx + marker.length);
+  if (closeIdx === -1) throw new Error('staticTools closing ]; not found');
+  const cutIdx = closeIdx; // ]; 中 ] 的位置
 
   const safeStr = (s) => (s || '').replace(/'/g, "\\'").replace(/\n/g, ' ');
 
