@@ -1,16 +1,5 @@
 [
   {
-    "nameEn": "Devin",
-    "nameZh": "Devin",
-    "descEn": "Autonomous AI software engineer by Cognition — writes, debugs, and deploys production code end-to-end.",
-    "descZh": "Cognition推出的自主AI软件工程师，端到端编写、调试和部署生产级代码",
-    "url": "https://devin.ai",
-    "category": "编程开发",
-    "categoryEn": "Coding",
-    "icon": "🧑‍💻",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Claude",
     "nameZh": "Claude",
     "descEn": "Anthropic's AI assistant — excels at long-form text, code generation, and deep analytical reasoning.",
