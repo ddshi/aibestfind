@@ -152,39 +152,22 @@ function addArticleTitle(html, slug, enTitle, zhTitle) {
 /** 在 index.html 的 staticTools 数组末尾添加新条目 */
 function addStaticTool(html, tool) {
   const marker = 'const staticTools = [';
-  const endMarker = '];';
 
   const startIdx = html.indexOf(marker);
   if (startIdx === -1) throw new Error('staticTools not found in index.html');
 
-  // 找到 staticTools 数组的结束 ];
-  let depth = 0;
-  let inArr = false;
+  // 找到 staticTools 数组配对的 ] (用 [ ] 本身追踪深度)
+  const openPos = startIdx + marker.length - 1; // '[' 的位置
+  let depth = 1;
   let cutIdx = -1;
-  let debugBrackets = [];
-  for (let i = startIdx; i < html.length - 1; i++) {
-    if (html[i] === '[' && !inArr) {
-      console.log(`  [DEBUG] Opening [ at pos ${i}, depth set to 1`);
-      inArr = true; depth = 1; continue;
-    }
-    if (!inArr) continue;
-    if (html[i] === '{') depth++;
-    if (html[i] === '}') depth--;
+  for (let i = openPos + 1; i < html.length; i++) {
+    if (html[i] === '[') depth++;
     if (html[i] === ']') {
-      const ctx = html.substring(Math.max(0,i-20), i+5).replace(/\n/g,'\\n').replace(/\r/g,'\\r');
-      console.log(`  [DEBUG] ] at pos ${i}, depth=${depth}, ctx=${JSON.stringify(ctx)}`);
-      debugBrackets.push({pos: i, depth});
-      if (depth === 1) {
-        cutIdx = i;
-        break;
-      }
+      depth--;
+      if (depth === 0) { cutIdx = i; break; }
     }
   }
-  if (cutIdx === -1) {
-    console.error(`  [DEBUG] Total ] found: ${debugBrackets.length}`);
-    debugBrackets.forEach(b => console.error(`    pos ${b.pos}, depth=${b.depth}`));
-    throw new Error('staticTools closing bracket not found');
-  }
+  if (cutIdx === -1) throw new Error('staticTools closing bracket not found');
 
   const safeStr = (s) => (s || '').replace(/'/g, "\\'").replace(/\n/g, ' ');
 
