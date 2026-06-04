@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-06-04",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-04",
+    "titleZh": "AI资讯早报 | 2026-06-04",
+    "title": "AI News Morning Brief | 2026-06-04",
+    "slug": "news-2026-06-04-morning",
+    "headlines": [
+      "Alphabet’s Record-Breaking $85B Raise for Google’s AI Business Is a Helluva Good Signal",
+      "Coralogix Raises $200M on Bet That Someone Needs to Watch the AI Agents",
+      "Cyera Eyes $12B Valuation at 80x ARR Multiple Despite Operating Losses",
+      "Uber Caps Employee AI Spending After Blowing Through Budget in 4 Months",
+      "Google’s Dreambeans: Your Life, Turned Into a Cartoon",
+      "Amazon Will Show AI Product Images When You Search for Some Reason",
+      "Meta’s AI Agent for WhatsApp Business Is Now Available Globally",
+      "Microsoft Launches Scout, an OpenClaw-Inspired Personal Assistant",
+      "New Microsoft Tool Lets Devs Spin Up AI Behavior Tests Using Text Descriptions",
+      "Publishers Will Be Able to Opt Out of AI Search, Thanks to New Regulation",
+      "Trump Signs Narrower Executive Order on AI Oversight After Industry Objections",
+      "Google Rolls Out Fake Call Detection to Protect Against AI Deepfake Impersonation Scams",
+      "Amazon Faces Class Action Lawsuit Over Ring Facial-Recognition Feature"
+    ]
+  },
+  {
+    "date": "2026-06-04",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-04",
