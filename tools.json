@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Bolt.new",
-    "nameZh": "Bolt.new",
-    "descEn": "StackBlitz AI app builder — prompt to full-stack web app with instant preview, no setup required.",
-    "descZh": "StackBlitz AI应用构建器——提示词输入即可生成全栈Web应用，即时预览，零配置",
-    "url": "https://bolt.new",
-    "category": "编程开发",
-    "categoryEn": "Coding",
-    "icon": "⚡",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "V0 by Vercel",
     "nameZh": "V0 by Vercel",
     "descEn": "Generate production-ready React/Next.js UI components from text prompts with Tailwind CSS.",
