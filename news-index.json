@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-05",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-05",
+    "titleZh": "AI资讯晚报 | 2026-06-05",
+    "title": "AI News Evening Brief | 2026-06-05",
+    "slug": "news-2026-06-05-evening",
+    "headlines": [
+      "1. Alphabet’s Record-Breaking $85B Raise for Google’s AI Business",
+      "2. What to Expect from WWDC 2026: Siri’s Highly Anticipated Revamp",
+      "3. How Courts Are Coping with a Flood of AI-Generated Lawsuits",
+      "4. Meta Rolls Out a New AI Creator Assistant on Facebook",
+      "5. Publishers Will Be Able to Opt Out of AI Search, Thanks to New Regulation",
+      "6. Is Silicon Valley Ready to Put Robots in People’s Homes? Hello Robot Is.",
+      "7. Amazon Will Show AI Product Images When You Search for Some Reason",
+      "8. Uber Caps Employee AI Spending After Blowing Through Budget in 4 Months",
+      "9. Coralogix Raises $200M on Bet That Someone Needs to Watch the AI Agents",
+      "10. Martin Scorsese Becomes the Latest — and Most Unlikely — Hollywood Voice for AI"
+    ]
+  },
+  {
     "date": "2026-06-04",
     "slot": "morning",
     "slotLabel": "早报",
