@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "V0 by Vercel",
-    "nameZh": "V0 by Vercel",
-    "descEn": "Generate production-ready React/Next.js UI components from text prompts with Tailwind CSS.",
-    "descZh": "通过文本提示生成生产级React/Next.js UI组件，内置Tailwind CSS",
-    "url": "https://v0.dev",
-    "category": "编程开发",
-    "categoryEn": "Coding",
-    "icon": "🎨",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Lovable",
     "nameZh": "Lovable",
     "descEn": "AI-powered app builder — create full SaaS applications from a single prompt with auth, database, and hosting.",
