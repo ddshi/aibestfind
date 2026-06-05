@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-06",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-06",
+    "titleZh": "AI资讯晚报 | 2026-06-06",
+    "title": "AI News Evening Brief | 2026-06-06",
+    "slug": "news-2026-06-06-evening",
+    "headlines": [
+      "1. The Token Bill Comes Due: Inside the Industry Scramble to Manage AI's Runaway Costs",
+      "2. Alphabet's Record-Breaking $85B Raise for Google's AI Business is a Helluva Good Signal",
+      "3. The Meta Hack Shows There's More to AI Security Than Mythos",
+      "4. Ahead of Its IPO, Anthropic's Daniela Amodei Shrugs Off Doubts About AI's Returns",
+      "5. Are AI Chatbots Making Us Lose Control of Our Brains?",
+      "6. Meta Steals a Tactic from Tesla and Builds Data Centers in Tents",
+      "7. AirTrunk Commits $30B to Build 5GW of AI Data Centers in India",
+      "8. Apple Approves Poke as the First AI Agent on its Messages for Business Platform",
+      "9. Mira Murati Steps Back into the Spotlight, Carefully",
+      "10. How Courts Are Coping with a Flood of AI-Generated Lawsuits"
+    ]
+  },
+  {
     "date": "2026-06-05",
     "slot": "morning",
     "slotLabel": "早报",
