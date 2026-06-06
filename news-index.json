@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-06",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-06",
+    "titleZh": "AI资讯早报 | 2026-06-06",
+    "title": "AI News Morning Brief | 2026-06-06",
+    "slug": "news-2026-06-06-morning",
+    "headlines": [
+      "Google Will Pay SpaceX $920M Per Month for Compute",
+      "The Token Bill Comes Due: Inside the Industry Scramble to Manage AI's Runaway Costs",
+      "AirTrunk Commits $30B to Build 5GW of AI Data Centers in India",
+      "Ahead of Its IPO, Anthropic's Daniela Amodei Shrugs Off Doubts About AI's Returns",
+      "The Meta Hack Shows There's More to AI Security Than Mythos",
+      "Are AI Chatbots Making Us Lose Control of Our Brains?",
+      "Meta Steals a Tactic from Tesla and Builds Data Centers in Tents",
+      "Apple Approves Poke as the First AI Agent on Its Messages for Business Platform",
+      "Airbnb's Brian Chesky Plans to Launch a New AI Lab",
+      "The 'Together Tech' Wave Might Be the Most Intriguing Startup Bet of 2026"
+    ]
+  },
+  {
+    "date": "2026-06-06",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-06",
