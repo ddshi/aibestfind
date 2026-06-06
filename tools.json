@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Lovable",
-    "nameZh": "Lovable",
-    "descEn": "AI-powered app builder — create full SaaS applications from a single prompt with auth, database, and hosting.",
-    "descZh": "AI驱动的应用构建器——一条提示词创建带认证、数据库和托管的完整SaaS应用",
-    "url": "https://lovable.dev",
-    "category": "编程开发",
-    "categoryEn": "Coding",
-    "icon": "💝",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Claude Code",
     "nameZh": "Claude Code",
     "descEn": "Anthropic's agentic coding CLI — operates in terminal, reads entire codebases, and directly edits files.",
