@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-06-07",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-07",
+    "titleZh": "AI资讯晚报 | 2026-06-07",
+    "title": "AI News Evening Brief | 2026-06-07",
+    "slug": "news-2026-06-07-evening",
+    "headlines": [
+      "Google Will Pay SpaceX $920M Per Month for Compute",
+      "AirTrunk Commits $30B to Build 5GW of AI Data Centers in India",
+      "Meta Steals a Tactic from Tesla and Builds Data Centers in Tents",
+      "The Trump Administration Might Take an Equity Stake in OpenAI",
+      "Sriram Krishnan Is Leaving His Role as White House AI Advisor",
+      "Ahead of Its IPO, Anthropic’s Daniela Amodei Shrugs Off Doubts About AI’s Returns",
+      "The Meta Hack Shows There’s More to AI Security Than Mythos",
+      "OpenAI Unveils Lockdown Mode to Protect Sensitive Data from Prompt Injection Attacks",
+      "The Token Bill Comes Due: Inside the Industry Scramble to Manage AI’s Runaway Costs",
+      "Are AI Chatbots Making Us Lose Control of Our Brains?",
+      "What to Expect from WWDC 2026: Siri’s Highly Anticipated Revamp and Apple Intelligence Updates",
+      "Apple Approves Poke as the First AI Agent on Its Messages for Business Platform",
+      "Mira Murati Steps Back into the Spotlight, Carefully"
+    ]
+  },
+  {
+    "date": "2026-06-07",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-06-07",
@@ -1250,27 +1274,6 @@
       "Nvidia's New H200 GPU Sets AI Training Benchmarks",
       "Meta Open-Sources Llama 4 Family of Models",
       "AI-Powered Coding Assistants Now Used by 60% of Developers"
-    ]
-  },
-  {
-    "date": "2026-05-06",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | May 6, 2026",
-    "titleZh": "AI资讯晚报 | 2026年5月6日",
-    "title": "AI News Evening Brief | May 6, 2026",
-    "slug": "news-2026-05-06-evening",
-    "headlines": [
-      "1. OpenAI发布GPT-5.5 Instant，成为ChatGPT新默认模型",
-      "2. SAP豪掷11.6亿美元，投资成立仅18个月的德国AI实验室",
-      "3. 苹果计划在iOS 27中实现AI模型“自由选择”",
-      "4. Meta利用AI分析身高与骨骼结构，加强未成年人识别",
-      "5. 宾夕法尼亚州起诉Character.AI，指控聊天机器人冒充医生",
-      "6. ElevenLabs引入贝莱德、杰米·福克斯等新投资者",
-      "7. CopilotKit获2700万美元融资，助力开发者构建原生AI Agent",
-      "8. PayPal宣布“重新成为科技公司”，AI是核心驱动力",
-      "9. 印度首家生成式AI独角兽转型云服务，模型开发遇现实挑战",
-      "10. 图像AI模型成应用增长新引擎，超越聊天机器人升级"
     ]
   }
 ]
