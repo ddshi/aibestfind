@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Claude Code",
-    "nameZh": "Claude Code",
-    "descEn": "Anthropic's agentic coding CLI — operates in terminal, reads entire codebases, and directly edits files.",
-    "descZh": "Anthropic出品的代理式编程CLI工具，在终端中运行，可读取整个代码库并直接编辑文件",
-    "url": "https://docs.anthropic.com/en/docs/claude-code",
-    "category": "编程开发",
-    "categoryEn": "Coding",
-    "icon": "🛠️",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "HeyGen",
     "nameZh": "HeyGen",
     "descEn": "AI video avatar platform — create lip-synced talking videos in 40+ languages, clone your face and voice.",
