@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-07",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-07",
+    "titleZh": "AI资讯早报 | 2026-06-07",
+    "title": "AI News Morning Brief | 2026-06-07",
+    "slug": "news-2026-06-07-morning",
+    "headlines": [
+      "1. Google Will Pay SpaceX $920M Per Month for Compute",
+      "2. The Token Bill Comes Due: Inside the Industry Scramble to Manage AI’s Runaway Costs",
+      "3. OpenAI Unveils Lockdown Mode to Protect Sensitive Data from Prompt Injection Attacks",
+      "4. The Meta Hack Shows There’s More to AI Security Than Mythos",
+      "5. AirTrunk Commits $30B to Build 5GW of AI Data Centers in India",
+      "6. What to Expect from WWDC 2026: Siri’s Highly Anticipated Revamp and Apple Intelligence Updates",
+      "7. The Trump Administration Might Take an Equity Stake in OpenAI",
+      "8. Ahead of Its IPO, Anthropic’s Daniela Amodei Shrugs Off Doubts About AI’s Returns",
+      "9. Meta Steals a Tactic from Tesla and Builds Data Centers in Tents",
+      "10. Are AI Chatbots Making Us Lose Control of Our Brains?"
+    ]
+  },
+  {
     "date": "2026-06-06",
     "slot": "morning",
     "slotLabel": "早报",
