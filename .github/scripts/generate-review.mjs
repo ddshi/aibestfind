@@ -140,11 +140,11 @@ function addArticleTitle(html, slug, enTitle, zhTitle) {
   }
   if (cutIdx === -1) throw new Error('articleTitles closing brace not found');
 
-  const newEntry = `,
+  const newEntry = `
   ${slug}: {
     en: '${enTitle.replace(/'/g, "\\'")}',
     zh: '${zhTitle.replace(/'/g, "\\'")}'
-  }`;
+  },`;
 
   return html.slice(0, cutIdx) + newEntry + '\n' + html.slice(cutIdx);
 }
@@ -164,13 +164,13 @@ function addStaticTool(html, tool) {
 
   const safeStr = (s) => (s || '').replace(/'/g, "\\'").replace(/\n/g, ' ');
 
-  const newEntry = `,
+  const newEntry = `
   {
     id: '${tool.slug}', icon:'${tool.icon}', badge:'hot',
     nameEn:'${safeStr(tool.nameEn)}', nameZh:'${safeStr(tool.nameZh)}',
     descEn:'${safeStr(tool.descEn)}', descZh:'${safeStr(tool.descZh)}',
     link:'/posts/${tool.slug}/', date: '${todayDate()}'
-  }`;
+  },`;
 
   return html.slice(0, cutIdx) + newEntry + '\n' + html.slice(cutIdx);
 }
