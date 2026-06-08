@@ -140,7 +140,12 @@ function addArticleTitle(html, slug, enTitle, zhTitle) {
   }
   if (cutIdx === -1) throw new Error('articleTitles closing brace not found');
 
-  const newEntry = `
+  // 检查前一个条目是否需要补逗号（向前跳过空白找到最后一个非空白字符）
+  let prevIdx = cutIdx - 1;
+  while (prevIdx > 0 && /[\s]/.test(html[prevIdx])) prevIdx--;
+  const needsComma = html[prevIdx] !== ',';
+
+  const newEntry = `${needsComma ? ',' : ''}
   ${slug}: {
     en: '${enTitle.replace(/'/g, "\\'")}',
     zh: '${zhTitle.replace(/'/g, "\\'")}'
@@ -164,7 +169,12 @@ function addStaticTool(html, tool) {
 
   const safeStr = (s) => (s || '').replace(/'/g, "\\'").replace(/\n/g, ' ');
 
-  const newEntry = `
+  // 检查前一个条目是否需要补逗号
+  let prevIdx = cutIdx - 1;
+  while (prevIdx > 0 && /[\s]/.test(html[prevIdx])) prevIdx--;
+  const needsComma = html[prevIdx] !== ',';
+
+  const newEntry = `${needsComma ? ',' : ''}
   {
     id: '${tool.slug}', icon:'${tool.icon}', badge:'hot',
     nameEn:'${safeStr(tool.nameEn)}', nameZh:'${safeStr(tool.nameZh)}',
