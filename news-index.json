@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-09",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-09",
+    "titleZh": "AI资讯晚报 | 2026-06-09",
+    "title": "AI News Evening Brief | 2026-06-09",
+    "slug": "news-2026-06-09-evening",
+    "headlines": [
+      "1. Google Will Pay SpaceX $920M Per Month for Compute",
+      "2. AirTrunk Commits $30B to Build 5GW of AI Data Centers in India",
+      "3. The Token Bill Comes Due: Inside the Industry Scramble to Manage AI’s Runaway Costs",
+      "4. OpenAI Unveils Lockdown Mode to Protect Sensitive Data from Prompt Injection Attacks",
+      "5. The Trump Administration Might Take an Equity Stake in OpenAI",
+      "6. Sriram Krishnan Is Leaving His Role as White House AI Advisor",
+      "7. OpenAI Is Still Working on That ‘Super App’",
+      "8. Are AI Chatbots Making Us Lose Control of Our Brains?",
+      "9. The Meta Hack Shows There’s More to AI Security than Mythos",
+      "10. Mira Murati Steps Back into the Spotlight, Carefully"
+    ]
+  },
+  {
     "date": "2026-06-08",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1255,27 +1276,6 @@
       "8. Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
       "9. Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
       "10. Five architects of the AI economy explain where the wheels are coming off"
-    ]
-  },
-  {
-    "date": "2026-05-07",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-07",
-    "titleZh": "AI资讯晚报 | 2026-05-07",
-    "title": "AI News Evening Brief | 2026-05-07",
-    "slug": "news-2026-05-07-evening",
-    "headlines": [
-      "1. OpenAI Launches New Voice Intelligence Features in Its API",
-      "2. Elon Musk’s Lawsuit Is Putting OpenAI’s Safety Record Under the Microscope",
-      "3. China’s Moonshot AI Raises $2B at $20B Valuation as Demand for Open Source AI Skyrockets",
-      "4. How Anthropic’s Mythos Has Rewritten Firefox’s Approach to Cybersecurity",
-      "5. Spotify Wants to Become the Home for AI-Generated Personal Audio",
-      "6. Perplexity’s Personal Computer Is Now Available to Everyone on Mac",
-      "7. Voi Founders’ New AI Startup Pit Has Become the Latest Rising Star Out of Stockholm",
-      "8. OpenAI Introduces New ‘Trusted Contact’ Safeguard for Cases of Possible Self-Harm",
-      "9. Five Architects of the AI Economy Explain Where the Wheels Are Coming Off",
-      "10. Snap Says Its $400M Deal with Perplexity ‘Amicably Ended’"
     ]
   }
 ]
