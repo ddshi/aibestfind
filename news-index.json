@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-08",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-08",
+    "titleZh": "AI资讯早报 | 2026-06-08",
+    "title": "AI News Morning Brief | 2026-06-08",
+    "slug": "news-2026-06-08-morning",
+    "headlines": [
+      "1. Is This the Dawn of the Tokenpocalypse?",
+      "2. Google Will Pay SpaceX $920M Per Month for Compute",
+      "3. OpenAI Unveils Lockdown Mode to Protect Sensitive Data from Prompt Injection Attacks",
+      "4. What to Expect from WWDC 2026: Siri's Highly Anticipated Revamp and Apple Intelligence Updates",
+      "5. The Trump Administration Might Take an Equity Stake in OpenAI",
+      "6. The Token Bill Comes Due: Inside the Industry Scramble to Manage AI's Runaway Costs",
+      "7. The Meta Hack Shows There's More to AI Security Than Mythos",
+      "8. Ahead of Its IPO, Anthropic's Daniela Amodei Shrugs Off Doubts About AI's Returns",
+      "9. Sriram Krishnan Is Leaving His Role as White House AI Advisor",
+      "10. AirTrunk Commits $30B to Build 5GW of AI Data Centers in India"
+    ]
+  },
+  {
     "date": "2026-06-07",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1255,25 +1276,6 @@
       "8. OpenAI Introduces New ‘Trusted Contact’ Safeguard for Cases of Possible Self-Harm",
       "9. Five Architects of the AI Economy Explain Where the Wheels Are Coming Off",
       "10. Snap Says Its $400M Deal with Perplexity ‘Amicably Ended’"
-    ]
-  },
-  {
-    "date": "2026-05-06",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | May 6, 2026",
-    "titleZh": "AI资讯早报 | 2026年5月6日",
-    "title": "AI News Morning Brief | May 6, 2026",
-    "slug": "news-2026-05-06-morning",
-    "headlines": [
-      "OpenAI Unveils GPT-5 with Advanced Reasoning Capabilities",
-      "Google DeepMind's AlphaFold 3 Revolutionizes Drug Discovery",
-      "Anthropic Launches Claude 4 with Million-Token Context Window",
-      "Apple Reportedly Building AI-Powered Robotics Division",
-      "EU Finalizes Comprehensive AI Regulation Framework",
-      "Nvidia's New H200 GPU Sets AI Training Benchmarks",
-      "Meta Open-Sources Llama 4 Family of Models",
-      "AI-Powered Coding Assistants Now Used by 60% of Developers"
     ]
   }
 ]
