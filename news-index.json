@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-10",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-10",
+    "titleZh": "AI资讯晚报 | 2026-06-10",
+    "title": "AI News Evening Brief | 2026-06-10",
+    "slug": "news-2026-06-10-evening",
+    "headlines": [
+      "1. It’s Not FAANG Anymore. It’s MANGOS.",
+      "2. OpenAI Files Confidentially for IPO, Following Anthropic",
+      "3. Lovable Says It Has Hit $500M in Annualized Revenue, with 1 Million New Projects a Week",
+      "4. Why Apple’s Slow-and-Steady AI Bet Is Starting to Look Pretty Smart",
+      "5. Sandstone Raises $30M to Bring AI to In-House Legal Teams",
+      "6. Learning to Lead in a Hybrid Human-AI Enterprise",
+      "7. Apple’s WWDC AI Demos Looked More Real After $250M False Ad Settlement",
+      "8. As OpenAI Files for IPO, Sam Altman’s Eye-Scanning Company Is Doing Layoffs",
+      "9. Five Things You Need to Know About AI",
+      "10. How an E-Scooter Founder Raised $5 Million to Build Space Data Centers"
+    ]
+  },
+  {
     "date": "2026-06-09",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1255,27 +1276,6 @@
       "8. Arm's First Custom CPU to Power Meta's AI Data Centers Later This Year",
       "9. Laid-Off Oracle Workers Sought Better Severance—Oracle Said No",
       "10. The Fax Machine Is the Bottleneck in US Healthcare—VCs Are Starting to Notice"
-    ]
-  },
-  {
-    "date": "2026-05-08",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-08",
-    "titleZh": "AI资讯晚报 | 2026-05-08",
-    "title": "AI News Evening Brief | 2026-05-08",
-    "slug": "news-2026-05-08-evening",
-    "headlines": [
-      "1. China’s Moonshot AI Raises $2B at $20B Valuation as Demand for Open Source AI Skyrockets",
-      "2. Elon Musk’s Lawsuit is Putting OpenAI’s Safety Record Under the Microscope",
-      "3. OpenAI Launches New Voice Intelligence Features in Its API",
-      "4. OpenAI Introduces New ‘Trusted Contact’ Safeguard for Cases of Possible Self-Harm",
-      "5. How Anthropic’s Mythos Has Rewritten Firefox’s Approach to Cybersecurity",
-      "6. Spotify Wants to Become the Home for AI-Generated Personal Audio",
-      "7. Perplexity’s Personal Computer is Now Available to Everyone on Mac",
-      "8. Voi Founders’ New AI Startup Pit Has Become the Latest Rising Star Out of Stockholm",
-      "9. Aurora’s Chris Urmson on Why Self-Driving Trucks Are Finally Ready to Scale",
-      "10. The Download: AI Malaise and Babymaking Tech"
     ]
   }
 ]
