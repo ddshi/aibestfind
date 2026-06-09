@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Ideogram",
-    "nameZh": "Ideogram",
-    "descEn": "AI image generation with superior text rendering — logos, posters, and typography designs that actually work.",
-    "descZh": "文字渲染能力出众的AI图像生成工具——可生成准确的Logo、海报和排版设计",
-    "url": "https://ideogram.ai",
-    "category": "图像生成",
-    "categoryEn": "Image Generation",
-    "icon": "🖌️",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Kling AI",
     "nameZh": "可灵AI",
     "descEn": "Kuaishou's cinematic AI video generator — text/image to high-quality video with professional motion effects.",
