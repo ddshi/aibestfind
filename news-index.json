@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-10",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-10",
+    "titleZh": "AI资讯早报 | 2026-06-10",
+    "title": "AI News Morning Brief | 2026-06-10",
+    "slug": "news-2026-06-10-morning",
+    "headlines": [
+      "1. Apple’s WWDC 2026: The Pragmatic AI Giant Finally Shows Its Hand",
+      "2. OpenAI and Anthropic File Confidentially for IPOs — The AI Gold Rush Goes Public",
+      "3. Anthropic’s Claude Fable 5: Making Weirdly Fun Video Games with a Click",
+      "4. Google Fires a Warning Shot in the AI Subscription Price Wars",
+      "5. It’s Not FAANG Anymore. It’s MANGOS.",
+      "6. Can Tech Companies Learn to Love Cheaper AI Models?",
+      "7. Lovable Hits $500M ARR: The AI App Builder That Can’t Be Ignored",
+      "8. Sandstone Raises $30M to Bring AI to In-House Legal Teams",
+      "9. Learning to Lead in a Hybrid Human-AI Enterprise",
+      "10. The New Tech Power Broker: Justin Ernest’s $500M AI Bet"
+    ]
+  },
+  {
+    "date": "2026-06-10",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-10",
@@ -1255,27 +1276,6 @@
       "Intel’s Comeback Story Is Even Wilder Than It Seems",
       "Voi Founders’ New AI Startup Pit Has Become the Latest Rising Star Out of Stockholm",
       "The Fax Machine Is the Bottleneck in US Healthcare, and VCs Are Starting to Notice"
-    ]
-  },
-  {
-    "date": "2026-05-09",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-09",
-    "titleZh": "AI资讯早报 | 2026-05-09",
-    "title": "AI News Morning Brief | 2026-05-09",
-    "slug": "news-2026-05-09-morning",
-    "headlines": [
-      "1. Musk v. Altman Trial Week 2: OpenAI Fires Back with Explosive Counterclaims",
-      "2. Cloudflare Lays Off 1,100 Workers as AI Makes Support Roles Obsolete",
-      "3. Railway Secures  to Challenge AWS with AI-Native Cloud Infrastructure",
-      "4. Intel's Comeback Story: Stock Surges 490% Amid AI Chip Renaissance",
-      "5. AI Data Centers Face Growing Backlash: 43% of Americans Blame Them for Rising Power Bills",
-      "6. Enterprise AI Gold Rush: SAP Drops , Anthropic and OpenAI Rush Joint Ventures",
-      "7. Iran Threatens OpenAI's Stargate Data Center in Abu Dhabi",
-      "8. Arm's First Custom CPU to Power Meta's AI Data Centers Later This Year",
-      "9. Laid-Off Oracle Workers Sought Better Severance—Oracle Said No",
-      "10. The Fax Machine Is the Bottleneck in US Healthcare—VCs Are Starting to Notice"
     ]
   }
 ]
