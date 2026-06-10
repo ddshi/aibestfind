@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Kling AI",
-    "nameZh": "可灵AI",
-    "descEn": "Kuaishou's cinematic AI video generator — text/image to high-quality video with professional motion effects.",
-    "descZh": "快手出品的电影级AI视频生成器——文字/图片转高质量视频，专业级运镜效果",
-    "url": "https://klingai.com",
-    "category": "视频创作",
-    "categoryEn": "Video Creation",
-    "icon": "🎬",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Pika Labs",
     "nameZh": "Pika",
     "descEn": "AI video generation platform — lip sync, scene extension, sound effects, and cinematic motion from text/images.",
