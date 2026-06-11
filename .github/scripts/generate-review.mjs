@@ -145,8 +145,10 @@ function addArticleTitle(html, slug, enTitle, zhTitle) {
   while (prevIdx > 0 && /[\s]/.test(html[prevIdx])) prevIdx--;
   const needsComma = html[prevIdx] !== ',';
 
+  // Quote keys that contain hyphens or other special chars (JS identifier rules)
+  const safeKey = /^[a-zA-Z_$][a-zA-Z0-9_$]*$/.test(slug) ? slug : `'${slug}'`;
   const newEntry = `${needsComma ? ',' : ''}
-  ${slug}: {
+  ${safeKey}: {
     en: '${enTitle.replace(/'/g, "\\'")}',
     zh: '${zhTitle.replace(/'/g, "\\'")}'
   },`;
