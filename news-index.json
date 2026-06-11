@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-11",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-11",
+    "titleZh": "AI资讯早报 | 2026-06-11",
+    "title": "AI News Morning Brief | 2026-06-11",
+    "slug": "news-2026-06-11-morning",
+    "headlines": [
+      "1. xAI Fired an Engineer Who Raised Alarms About Grok Safety, New Lawsuit Claims",
+      "2. Fresh Off Bond Sale, Amazon Borrows $17.5B from Banks as AI Spending Continues",
+      "3. Cybersecurity Researchers Aren’t Happy About the Guardrails on Anthropic’s Fable",
+      "4. ‘AI-Pilled’ Firms Spend $7,500 Per Employee Each Month on AI",
+      "5. Datadog Veterans Launch AI Coding Startup Niteshift on a Bet Against Big AI Lock-in",
+      "6. Google Just Fired a Warning Shot in the AI Subscription Price Wars",
+      "7. Meta Signs First AI Data Center Deal in India with Reliance",
+      "8. Decart’s New World Model Can Simulate Hours of Photorealistic Driving — With Some Caveats",
+      "9. Warner Music Acquires AI Attribution Startup Sureel AI",
+      "10. Anthropic’s Dario Amodei Has Just One Direct Report"
+    ]
+  },
+  {
+    "date": "2026-06-11",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-11",
@@ -1259,27 +1280,6 @@
       "8. Voi Founders’ New AI Startup Pit Has Become the Latest Rising Star Out of Stockholm",
       "9. The Fax Machine Is the Bottleneck in US Healthcare, and VCs Are Starting to Notice",
       "10. So You’ve Heard These AI Terms and Nodded Along; Let’s Fix That"
-    ]
-  },
-  {
-    "date": "2026-05-10",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-10",
-    "titleZh": "AI资讯早报 | 2026-05-10",
-    "title": "AI News Morning Brief | 2026-05-10",
-    "slug": "news-2026-05-10-morning",
-    "headlines": [
-      "Musk v. Altman Week 2: OpenAI Fires Back, and Shivon Zilis Reveals That Musk Tried to Poach Sam Altman",
-      "Nvidia Has Already Committed $40B to Equity AI Deals This Year",
-      "Cloudflare Says AI Made 1,100 Jobs Obsolete, Even as Revenue Hit a Record High",
-      "Intel's Comeback Story Is Even Wilder Than It Seems",
-      "OpenAI Launches New Voice Intelligence Features in Its API",
-      "How Anthropic's Mythos Has Rewritten Firefox's Approach to Cybersecurity",
-      "Elon Musk's Lawsuit Is Putting OpenAI's Safety Record Under the Microscope",
-      "Voi Founders' New AI Startup Pit Has Become the Latest Rising Star Out of Stockholm",
-      "OpenAI Introduces New 'Trusted Contact' Safeguard for Cases of Possible Self-Harm",
-      "The Fax Machine Is the Bottleneck in US Healthcare, and VCs Are Starting to Notice"
     ]
   }
 ]
