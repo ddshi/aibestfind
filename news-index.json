@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-06-13",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-13",
+    "titleZh": "AI资讯晚报 | 2026-06-13",
+    "title": "AI News Evening Brief | 2026-06-13",
+    "slug": "news-2026-06-13-evening",
+    "headlines": [
+      "SpaceX Officially Prices Shares at $135 in the Largest IPO Ever",
+      "SpaceX SPV Investors Won't Know Their True Holdings Until Post-IPO Lock-ups Lift",
+      "It's Hot IPO Summer, and the MANGOS Are Ripe",
+      "Jeff Bezos's Prometheus Raises $12B to Build an 'Artificial General Engineer' for the Physical World",
+      "Theker Just Raised $85M to Build the Factory Robot That Doesn't Specialize in Anything",
+      "Google DeepMind Is Worried About What Happens When Millions of Agents Start to Interact",
+      "Cheaper, Faster, and Culturally Aware, Avataar's Video AI Is Built for India's Scale",
+      "Deezer's New Tool Can Identify AI Music from Spotify, Apple Music, and Others",
+      "DoorDash's New AI Chatbot Lets You Order with Prompts and Photos",
+      "Why 'Reprogramming' Is the Buzziest Approach to Reversing Aging Right Now",
+      "Inside Soccer's Data Renaissance"
+    ]
+  },
+  {
     "date": "2026-06-12",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1259,27 +1281,6 @@
       "Laid-Off Oracle Workers Tried to Negotiate Better Severance. Oracle Said No.",
       "Intel’s Comeback Story Is Even Wilder Than It Seems",
       "Voice AI in India Is Hard — Wispr Flow Is Betting on It Anyway"
-    ]
-  },
-  {
-    "date": "2026-05-12",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-12",
-    "titleZh": "AI资讯晚报 | 2026-05-12",
-    "title": "AI News Evening Brief | 2026-05-12",
-    "slug": "news-2026-05-12-evening",
-    "headlines": [
-      "Nvidia Has Already Committed $40B to Equity AI Deals This Year",
-      "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
-      "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-      "We’re feeling cynical about xAI’s big deal with Anthropic",
-      "Get ready for the whisper-filled office of the future",
-      "Intel’s comeback story is even wilder than it seems",
-      "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-      "Implementing advanced AI technologies in finance"
     ]
   }
 ]
