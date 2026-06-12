@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Descript",
-    "nameZh": "Descript",
-    "descEn": "AI-powered all-in-one video/audio editor — edit media like a doc, with transcription, screen recording, and AI effects.",
-    "descZh": "AI全能音视频编辑器——像编辑文档一样编辑媒体，集成转录、录屏和AI特效",
-    "url": "https://descript.com",
-    "category": "视频创作",
-    "categoryEn": "Video Creation",
-    "icon": "🎙️",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "LangChain",
     "nameZh": "LangChain",
     "descEn": "Leading framework for building LLM-powered apps — chains, agents, retrieval, and tools for production AI.",
