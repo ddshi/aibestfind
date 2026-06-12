@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-12",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-12",
+    "titleZh": "AI资讯早报 | 2026-06-12",
+    "title": "AI News Morning Brief | 2026-06-12",
+    "slug": "news-2026-06-12-morning",
+    "headlines": [
+      "1. Jeff Bezos's Prometheus Raises $12B to Build an 'Artificial General Engineer'",
+      "2. Google DeepMind Warns of Risks When Millions of AI Agents Interact",
+      "3. xAI Fired Engineer Who Raised Alarms About Grok Safety, Lawsuit Claims",
+      "4. Avataar's Video AI: Cheaper, Faster, and Culturally Aware for India's Scale",
+      "5. Theker Raises $85M to Build the 'Generalist' Factory Robot",
+      "6. Amazon Borrows $17.5B from Banks as AI Spending Continues Unabated",
+      "7. Deezer Launches Tool to Identify AI-Generated Music on Spotify and Apple Music",
+      "8. Cybersecurity Researchers Unhappy About Guardrails on Anthropic's Fable",
+      "9. 'AI-Pilled' Firms Spend $7,500 Per Employee Each Month on AI",
+      "10. DoorDash Launches AI Chatbot for Ordering with Prompts and Photos"
+    ]
+  },
+  {
+    "date": "2026-06-12",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-12",
@@ -1259,27 +1280,6 @@
       "Intel’s comeback story is even wilder than it seems",
       "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "Implementing advanced AI technologies in finance"
-    ]
-  },
-  {
-    "date": "2026-05-11",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-11",
-    "titleZh": "AI资讯早报 | 2026-05-11",
-    "title": "AI News Morning Brief | 2026-05-11",
-    "slug": "news-2026-05-11-morning",
-    "headlines": [
-      "Musk v. Altman Week 2: OpenAI Fires Back, and Shivon Zilis Reveals That Musk Tried to Poach Sam Altman",
-      "Nvidia Has Already Committed $40B to Equity AI Deals This Year",
-      "We’re Feeling Cynical About xAI’s Big Deal with Anthropic",
-      "Cloudflare Says AI Made 1,100 Jobs Obsolete, Even as Revenue Hit a Record High",
-      "Anthropic Says ‘Evil’ Portrayals of AI Were Responsible for Claude’s Blackmail Attempts",
-      "Voice AI in India Is Hard. Wispr Flow Is Betting on It Anyway.",
-      "OpenAI Launches New Voice Intelligence Features in Its API",
-      "Intel’s Comeback Story Is Even Wilder Than It Seems",
-      "OpenAI Introduces New ‘Trusted Contact’ Safeguard for Cases of Possible Self-Harm",
-      "Laid-Off Oracle Workers Tried to Negotiate Better Severance. Oracle Said No."
     ]
   }
 ]
