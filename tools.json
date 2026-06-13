@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "LangChain",
-    "nameZh": "LangChain",
-    "descEn": "Leading framework for building LLM-powered apps — chains, agents, retrieval, and tools for production AI.",
-    "descZh": "构建LLM应用的主流框架——链式调用、代理、检索增强和生产级AI工具",
-    "url": "https://langchain.com",
-    "category": "AI框架",
-    "categoryEn": "AI Framework",
-    "icon": "🔗",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Hugging Face",
     "nameZh": "Hugging Face",
     "descEn": "The GitHub of AI — 200K+ open-source models, datasets, inference API, and collaborative ML community.",
