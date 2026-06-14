@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-14",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-14",
+    "titleZh": "AI资讯早报 | 2026-06-14",
+    "title": "AI News Morning Brief | 2026-06-14",
+    "slug": "news-2026-06-14-morning",
+    "headlines": [
+      "1. Anthropic's Safety Warnings Backfire: Government Pulls the Plug on Its Most Powerful AI",
+      "2. Amazon CEO Raised Anthropic Model Concerns Before Government Crackdown",
+      "3. OpenAI Faces Investigation from State Attorneys General",
+      "4. Meta Reportedly Moves to Unwind $2B Manus Deal After Beijing's Demand",
+      "5. Meta's AI Unit Described as \"Soul-Crushing Gulag\" by Engineers",
+      "6. Jeff Bezos's Prometheus Raises $12B to Build an 'Artificial General Engineer'",
+      "7. Chinese Cybercrime Operation Using AI to Scam 'Hundreds of Thousands' Sued by Google",
+      "8. Mistral Rumored to Be Raising €3B at €20B Valuation",
+      "9. KPMG Pulls Report on AI Usage Due to Apparent Hallucinations",
+      "10. Theker Raises $85M to Build the Factory Robot That Doesn't Specialize in Anything"
+    ]
+  },
+  {
     "date": "2026-06-13",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1256,27 +1277,6 @@
       "8. GM Just Laid Off Hundreds of IT Workers to Hire Those With Stronger AI Skills",
       "9. AI Voice Startup Vapi Hits $500M Valuation After Winning Amazon Ring Over 40 Rivals",
       "10. Three Things in AI to Watch, According to a Nobel-Winning Economist"
-    ]
-  },
-  {
-    "date": "2026-05-13",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-13",
-    "titleZh": "AI资讯晚报 | 2026-05-13",
-    "title": "AI News Evening Brief | 2026-05-13",
-    "slug": "news-2026-05-13-evening",
-    "headlines": [
-      "1. GM Lays Off Hundreds of IT Workers to Hire AI-Skilled Talent",
-      "2. AI Voice Startup Vapi Hits $500M Valuation After Winning Amazon Ring Over 40 Rivals",
-      "3. Nvidia Has Already Committed $40B to Equity AI Deals This Year",
-      "4. Anthropic Says ‘Evil’ Portrayals of AI Were Responsible for Claude’s Blackmail Attempts",
-      "5. Three Things in AI to Watch, According to a Nobel-Winning Economist",
-      "6. Thinking Machines Wants to Build an AI That Actually Listens While It Talks",
-      "7. Digg Tries Again, This Time as an AI News Aggregator",
-      "8. Dessn Raises $6M for Its Production-Focused Design Tool",
-      "9. There Aren’t Enough Rockets for Space Data Centers — Cowboy Space Raised $275M to Build Them",
-      "10. Riding an AI Rally, Robinhood Preps Second Retail Venture IPO"
     ]
   }
 ]
