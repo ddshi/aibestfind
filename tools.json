@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Hugging Face",
-    "nameZh": "Hugging Face",
-    "descEn": "The GitHub of AI — 200K+ open-source models, datasets, inference API, and collaborative ML community.",
-    "descZh": "AI界的GitHub——20万+开源模型、数据集、推理API和协作式ML社区",
-    "url": "https://huggingface.co",
-    "category": "AI平台",
-    "categoryEn": "AI Platform",
-    "icon": "🤗",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Pinecone",
     "nameZh": "Pinecone",
     "descEn": "Serverless vector database for AI — semantic search, RAG pipelines, and agent memory at scale.",
