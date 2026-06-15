@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Pinecone",
-    "nameZh": "Pinecone",
-    "descEn": "Serverless vector database for AI — semantic search, RAG pipelines, and agent memory at scale.",
-    "descZh": "AI无服务器向量数据库——大规模语义搜索、RAG管道和代理记忆存储",
-    "url": "https://pinecone.io",
-    "category": "AI基础设施",
-    "categoryEn": "AI Infrastructure",
-    "icon": "📌",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Coze",
     "nameZh": "Coze",
     "descEn": "ByteDance's no-code AI bot platform — build custom GPTs, chatbots, and automated workflows visually.",
