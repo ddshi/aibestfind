@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-16",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-16",
+    "titleZh": "AI资讯晚报 | 2026-06-16",
+    "title": "AI News Evening Brief | 2026-06-16",
+    "slug": "news-2026-06-16-evening",
+    "headlines": [
+      "1. Cybersecurity Vets Protest 'Dangerous' US Government Ban on Anthropic's Most Powerful Models",
+      "2. Anthropic's Safety Warnings May Have Just Backfired — The Government Has Pulled the Plug on Its Most Powerful AI",
+      "3. OpenAI Faces Investigation from State Attorneys General",
+      "4. This Man with ALS Is 'The First Power User' of a Brain Implant That Lets Him Speak",
+      "5. The AI Layoff Wave Is Becoming a Powder Keg",
+      "6. Salesforce Acquires AI Customer Service Platform Fin for $3.6 Billion",
+      "7. Sarvam Becomes India's Newest AI Unicorn with $234 Million Funding Round Led by HCLTech",
+      "8. As AI Agents Become Employees, NewCore Emerges with $66M to Give Them Identities",
+      "9. As AI Companies Race to Go Public, Who Else Is Along for the Ride?",
+      "10. Meta Reportedly Moves to Unwind $2B Manus Deal After Beijing's Demand"
+    ]
+  },
+  {
     "date": "2026-06-15",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1256,27 +1277,6 @@
       "8. Wirestock Raises $23M to Feed AI Labs’ Insatiable Data Hunger",
       "9. Origin Lab Raises $8M to Sell Video Game Data to World-Model Builders",
       "10. Clio’s $500M Milestone Arrives Just as Anthropic Ups the Ante"
-    ]
-  },
-  {
-    "date": "2026-05-14",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-14",
-    "titleZh": "AI资讯早报 | 2026-05-14",
-    "title": "AI News Morning Brief | 2026-05-14",
-    "slug": "news-2026-05-14-morning",
-    "headlines": [
-      "1. Anthropic Now Has More Business Customers Than OpenAI, According to Ramp Data",
-      "2. Clio’s $500M Milestone Arrives Just as Anthropic Ups the Ante",
-      "3. AI Chatbots Are Giving Out People’s Real Phone Numbers",
-      "4. Musk’s xAI Is Running Nearly 50 Gas Turbines Unchecked at Its Mississippi Data Center",
-      "5. Amazon Launches an AI Shopping Assistant for the Search Bar, Powered by Alexa+",
-      "6. Notion Just Turned Its Workspace into a Hub for AI Agents",
-      "7. Medicare’s New Payment Model Is Built for AI, and Most of the Tech World Has No Idea",
-      "8. Anthropic Courts a New Kind of Customer: Small Business Owners",
-      "9. Who Trusts Sam Altman?",
-      "10. Adaption Aims Big with AutoScientist, an AI Tool That Helps Models Train Themselves"
     ]
   }
 ]
