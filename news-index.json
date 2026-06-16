@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-17",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-17",
+    "titleZh": "AI资讯晚报 | 2026-06-17",
+    "title": "AI News Evening Brief | 2026-06-17",
+    "slug": "news-2026-06-17-evening",
+    "headlines": [
+      "ChatGPT’s Market Share Slips Below 50% for First Time",
+      "Sixty Percent of US Consumers Say ‘AI’ in Brand Messaging Is a Turnoff, Survey Finds",
+      "Plaud Says Its Software Business Topped $100M in ARR After Shipping Over 2M AI Notetakers",
+      "DOJ Claims xAI’s Unpermitted Gas Turbines Are a Matter of ‘National, Economic, and Energy Security’",
+      "Cybersecurity Vets Protest ‘Dangerous’ US Government Ban on Anthropic’s Most Powerful Models",
+      "SpaceX to Acquire Cursor for $60B in Stock, Days After Blockbuster IPO",
+      "Salesforce Acquires AI Customer Service Platform Fin for $3.6B",
+      "This Man with ALS Is “the First Power User” of a Brain Implant That Lets Him Speak",
+      "Malaysia’s AI Agent-Powered Messaging App Respond.io Raises $62.5M, Eyes Acquisitions",
+      "Probably Raises $9M to Build a More Reliable Kind of AI"
+    ]
+  },
+  {
     "date": "2026-06-16",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1256,27 +1277,6 @@
       "8. Cisco Cuts Nearly 4,000 Jobs to Spend More on AI",
       "9. Osaurus Brings Both Local and Cloud AI Models to Your Mac",
       "10. Elon Musk’s SpaceXAI Has Been Bleeding Staff Since Its Merger"
-    ]
-  },
-  {
-    "date": "2026-05-15",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-15",
-    "titleZh": "AI资讯早报 | 2026-05-15",
-    "title": "AI News Morning Brief | 2026-05-15",
-    "slug": "news-2026-05-15-morning",
-    "headlines": [
-      "1. Cerebras Raises $5.5B, Then Stock Pops 108%, in the First Huge Tech IPO of 2026",
-      "2. OpenAI Says Codex Is Coming to Your Phone",
-      "3. OpenAI Is Reportedly Preparing Legal Action Against Apple; It Wouldn’t Be the First Partner to Feel Burned",
-      "4. What Happens When AI Starts Building Itself?",
-      "5. What the Jury Will Actually Decide in the Case of Elon Musk vs. Sam Altman",
-      "6. Cisco Cuts Nearly 4,000 Jobs to Spend More on AI, Reports 'Record Quarterly Revenue'",
-      "7. Elon Musk's SpaceXAI Has Been Bleeding Staff Since Its Merger",
-      "8. Notion Just Turned Its Workspace into a Hub for AI Agents",
-      "9. Musk's xAI Is Running Nearly 50 Gas Turbines Unchecked at Its Mississippi Data Center",
-      "10. The Shock of Seeing Your Body Used in Deepfake Porn"
     ]
   }
 ]
