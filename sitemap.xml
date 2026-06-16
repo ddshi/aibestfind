@@ -65,6 +65,10 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://aibestfind.com/posts/coze/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://aibestfind.com/posts/claude-code/</loc>
     <priority>0.6</priority>
   </url>

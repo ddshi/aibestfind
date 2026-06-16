@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Coze",
-    "nameZh": "Coze",
-    "descEn": "ByteDance's no-code AI bot platform — build custom GPTs, chatbots, and automated workflows visually.",
-    "descZh": "字节跳动推出的无代码AI机器人平台——可视化构建自定义GPT、聊天机器人和自动化工作流",
-    "url": "https://coze.com",
-    "category": "AI应用构建",
-    "categoryEn": "AI Builder",
-    "icon": "🤖",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "KREA AI",
     "nameZh": "KREA AI",
     "descEn": "Real-time AI image generation and editing — train custom styles, upscale, and generate with live canvas.",
