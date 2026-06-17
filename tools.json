@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "KREA AI",
-    "nameZh": "KREA AI",
-    "descEn": "Real-time AI image generation and editing — train custom styles, upscale, and generate with live canvas.",
-    "descZh": "实时AI图像生成和编辑——训练自定义风格，放大和实时画布生成",
-    "url": "https://krea.ai",
-    "category": "图像生成",
-    "categoryEn": "Image Generation",
-    "icon": "🖼️",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Glean",
     "nameZh": "Glean",
     "descEn": "Enterprise AI search — connects to all your work apps, answers questions, and surfaces knowledge instantly.",
