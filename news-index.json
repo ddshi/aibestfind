@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-18",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-18",
+    "titleZh": "AI资讯晚报 | 2026-06-18",
+    "title": "AI News Evening Brief | 2026-06-18",
+    "slug": "news-2026-06-18-evening",
+    "headlines": [
+      "Google Bets on Gemini to Reinvent the Smart Home Speaker",
+      "Sixty Percent of US Consumers Say 'AI' in Brand Messaging is a Turnoff",
+      "Collecting Robot Training Data is Dirty, Unglamorous Work. Some AI Labs Are Already Paying XDOF to Do It.",
+      "Pramaana Labs Raises $27M Seed Round from Khosla Ventures to Bring Formal Verification to AI",
+      "Canadian Pension Giant Joins Race to Fund India's AI-Fueled Data Center Boom",
+      "DeepL Acquires Mixhalo for Live-Event Audio Streaming and Translation",
+      "Pinterest Launches an Experimental AI Shopping App Called 'Ask Pinterest'",
+      "Anthropic's Latest Feud with the Trump Admin May Actually Help It, Sales Data Suggests",
+      "Plaud Says Its Software Business Topped $100M in ARR After Shipping Over 2M AI Notetakers",
+      "Probably Raises $9M to Build a More Reliable Kind of AI"
+    ]
+  },
+  {
     "date": "2026-06-17",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1256,27 +1277,6 @@
       "8. OpenAI's Codex Comes to Your Phone",
       "9. Chinese Short Dramas Become AI Content Machines",
       "10. The AI Gold Rush: Haves and Have-Nots"
-    ]
-  },
-  {
-    "date": "2026-05-16",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-16",
-    "titleZh": "AI资讯早报 | 2026-05-16",
-    "title": "AI News Morning Brief | 2026-05-16",
-    "slug": "news-2026-05-16-morning",
-    "headlines": [
-      "1. Musk vs. Altman Trial Wraps: Jury Picks a Side in the Battle for AI's Soul",
-      "2. Cerebras Raises $5.5B in Landmark IPO, Stock Soars 108%",
-      "3. OpenAI Launches ChatGPT for Personal Finance, Connecting to Your Bank Account",
-      "4. Cisco Cuts Nearly 4,000 Jobs to Pivot Spending to AI",
-      "5. OpenAI Reportedly Preparing Legal Action Against Apple",
-      "6. How Chinese Short Dramas Became AI Content Machines",
-      "7. Runway Shifts Gears: From Filmmaker Tool to Google AI Rival",
-      "8. What Happens When AI Starts Building Itself?",
-      "9. OpenAI Says Codex is Coming to Your Phone",
-      "10. Elon Musk's SpaceXAI Has Been Bleeding Staff Since Its Merger"
     ]
   }
 ]
