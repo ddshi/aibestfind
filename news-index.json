@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-17",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-17",
+    "titleZh": "AI资讯早报 | 2026-06-17",
+    "title": "AI News Morning Brief | 2026-06-17",
+    "slug": "news-2026-06-17-morning",
+    "headlines": [
+      "Anthropic’s Government Feud Paradoxically Drives Sales",
+      "SpaceX Valuation Hits $2.6T; Acquires Cursor for $60B Post-IPO",
+      "ChatGPT’s Market Share Drops Below 50% for the First Time",
+      "60% of US Consumers Find ‘AI’ in Branding a Turnoff",
+      "DOJ Defends xAI’s Unpermitted Gas Turbines as Matter of National Security",
+      "Cybersecurity Vets Protest ‘Dangerous’ Government Ban on Anthropic Models",
+      "Android 17 Launches with Expanded Gemini Features and Multitasking Tools",
+      "Plaud’s AI Notetaker Business Hits $100M ARR on 2M Devices Shipped",
+      "Meta’s ‘AI Mode’ on Facebook Scrapes Public Data Across All Its Platforms",
+      "Probably Raises $9M to Build a More Reliable Kind of AI"
+    ]
+  },
+  {
+    "date": "2026-06-17",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-17",
@@ -1256,27 +1277,6 @@
       "8. What Happens When AI Starts Building Itself?",
       "9. OpenAI Says Codex is Coming to Your Phone",
       "10. Elon Musk's SpaceXAI Has Been Bleeding Staff Since Its Merger"
-    ]
-  },
-  {
-    "date": "2026-05-16",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-16",
-    "titleZh": "AI资讯晚报 | 2026-05-16",
-    "title": "AI News Evening Brief | 2026-05-16",
-    "slug": "news-2026-05-16-evening",
-    "headlines": [
-      "1. OpenAI vs. Apple: A Partnership Turns Sour",
-      "2. Cerebras Raises $5.5B, Stock Pops 108% in 2026's Biggest IPO",
-      "3. What Happens When AI Starts Building Itself?",
-      "4. What the Jury Will Decide in Musk vs. Altman",
-      "5. OpenAI Says Codex Is Coming to Your Phone",
-      "6. Runway Started by Helping Filmmakers. Now It Wants to Beat Google at AI.",
-      "7. China’s AI Drama Factory: How Short Dramas Became Content Machines",
-      "8. Cisco Cuts Nearly 4,000 Jobs to Spend More on AI",
-      "9. Osaurus Brings Both Local and Cloud AI Models to Your Mac",
-      "10. Elon Musk’s SpaceXAI Has Been Bleeding Staff Since Its Merger"
     ]
   }
 ]
