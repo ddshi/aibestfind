@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-18",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-18",
+    "titleZh": "AI资讯早报 | 2026-06-18",
+    "title": "AI News Morning Brief | 2026-06-18",
+    "slug": "news-2026-06-18-morning",
+    "headlines": [
+      "1. Only 16% of Americans Think AI Will Have a Positive Impact on Society, a New Study Shows",
+      "2. World Leaders Want American AI. They Just Don’t Want America to Be Able to Turn It Off.",
+      "3. World Model Maker Odyssey Nabs $1.45B Valuation Backed by Amazon and Other Big Names",
+      "4. Google Bets on Gemini to Reinvent the Smart Home Speaker",
+      "5. Anthropic Becomes First AI Startup to Join the Frontier Carbon Removal Coalition",
+      "6. NEA’s Tiffany Luck Says Enterprises Are Still Figuring Out Their AI ROI",
+      "7. Pramaana Labs Raises $27M Seed Round from Khosla Ventures to Bring Formal Verification to AI",
+      "8. Collecting Robot Training Data Is Dirty, Unglamorous Work. Some AI Labs Are Already Paying XDOF to Do It.",
+      "9. Pinterest Launches an Experimental AI Shopping App Called ‘Ask Pinterest’",
+      "10. Canadian Pension Giant Joins Race to Fund India’s AI-Fueled Data Center Boom"
+    ]
+  },
+  {
+    "date": "2026-06-18",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-18",
@@ -1256,27 +1277,6 @@
       "8. Silicon Valley’s Vacationland Needs a New Energy Provider as AI Drives Prices Up",
       "9. The Haves and Have-Nots of the AI Gold Rush",
       "10. Osaurus Brings Both Local and Cloud AI Models to Your Mac"
-    ]
-  },
-  {
-    "date": "2026-05-17",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-17",
-    "titleZh": "AI资讯早报 | 2026-05-17",
-    "title": "AI News Morning Brief | 2026-05-17",
-    "slug": "news-2026-05-17-morning",
-    "headlines": [
-      "1. Musk v. Altman: The Jury Decides",
-      "2. Cerebras IPO: The First Big AI Chip Bet of 2026",
-      "3. OpenAI Launches ChatGPT for Personal Finance",
-      "4. OpenAI vs. Apple: Legal Action Brewing",
-      "5. ArXiv Bans AI-Helper Authors",
-      "6. Runway's Ambition: From Filmmaking to Beating Google",
-      "7. Silicon Valley's Vacationland Feels the AI Energy Crunch",
-      "8. OpenAI's Codex Comes to Your Phone",
-      "9. Chinese Short Dramas Become AI Content Machines",
-      "10. The AI Gold Rush: Haves and Have-Nots"
     ]
   }
 ]
