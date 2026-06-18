@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Glean",
-    "nameZh": "Glean",
-    "descEn": "Enterprise AI search — connects to all your work apps, answers questions, and surfaces knowledge instantly.",
-    "descZh": "企业级AI搜索——连接所有工作应用，即时回答问题并呈现知识",
-    "url": "https://glean.com",
-    "category": "企业AI",
-    "categoryEn": "Enterprise AI",
-    "icon": "🔎",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Harvey AI",
     "nameZh": "Harvey AI",
     "descEn": "AI platform for legal professionals — contract analysis, legal research, drafting, and compliance automation.",
