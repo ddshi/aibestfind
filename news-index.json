@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-19",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-19",
+    "titleZh": "AI资讯晚报 | 2026-06-19",
+    "title": "AI News Evening Brief | 2026-06-19",
+    "slug": "news-2026-06-19-evening",
+    "headlines": [
+      "1. Only 16% of Americans Think AI Will Have a Positive Impact on Society",
+      "2. World Leaders Want American AI. They Just Don't Want America to Be Able to Turn It Off.",
+      "3. World Model Maker Odyssey Nabs $1.45B Valuation Backed by Amazon",
+      "4. NEA's Tiffany Luck Says Enterprises Are Still Figuring Out Their AI ROI",
+      "5. After Unveiling Ridiculously Expensive AR Glasses, Snap's Stock Takes a Dive",
+      "6. General Intuition in Talks to Raise $300M at Around $2B Valuation",
+      "7. Collecting Robot Training Data Is Dirty, Unglamorous Work. Some AI Labs Are Already Paying XDOF to Do It.",
+      "8. A Tech Worker-Backed PAC Is Bringing a $5M Knife to Big Tech's $100M Gunfight",
+      "9. Google Bets on Gemini to Reinvent the Smart Home Speaker",
+      "10. Anthropic Becomes First AI Startup to Join the Frontier Carbon Removal Coalition"
+    ]
+  },
+  {
     "date": "2026-06-18",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1256,27 +1277,6 @@
       "8. AI Is Building Itself: The Dawn of Automated AI Development",
       "9. The AI Skills Arms Race Hits the Automotive Industry",
       "10. Chinese Short Dramas: The AI Content Machine"
-    ]
-  },
-  {
-    "date": "2026-05-17",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-17",
-    "titleZh": "AI资讯晚报 | 2026-05-17",
-    "title": "AI News Evening Brief | 2026-05-17",
-    "slug": "news-2026-05-17-evening",
-    "headlines": [
-      "1. Musk v. Altman Trial Wraps: The Jury Will Decide Who Owns the AI Narrative",
-      "2. Cerebras Raises $5.5B, Stock Pops 108% in Landmark IPO",
-      "3. OpenAI Co-founder Greg Brockman Takes Charge of Product Strategy",
-      "4. OpenAI Launches ChatGPT for Personal Finance, Will Let You Connect Bank Accounts",
-      "5. Research Repository ArXiv Will Ban Authors Who Let AI Do All the Work",
-      "6. OpenAI Reportedly Preparing Legal Action Against Apple",
-      "7. Runway Started by Helping Filmmakers — Now It Wants to Beat Google at AI",
-      "8. Silicon Valley’s Vacationland Needs a New Energy Provider as AI Drives Prices Up",
-      "9. The Haves and Have-Nots of the AI Gold Rush",
-      "10. Osaurus Brings Both Local and Cloud AI Models to Your Mac"
     ]
   }
 ]
