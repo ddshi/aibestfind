@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-19",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-19",
+    "titleZh": "AI资讯早报 | 2026-06-19",
+    "title": "AI News Morning Brief | 2026-06-19",
+    "slug": "news-2026-06-19-morning",
+    "headlines": [
+      "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "AI data centers just got a government-mandated fast lane to the grid",
+      "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "Almost half of US singles feel negatively about AI in dating, Match says",
+      "The smartphone era created an attention crisis — slow tech is fixing it",
+      "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "World leaders want American AI. They just don’t want America to be able to turn it off."
+    ]
+  },
+  {
+    "date": "2026-06-19",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-19",
@@ -1256,27 +1277,6 @@
       "8. Runway Started by Helping Filmmakers — Now It Wants to Beat Google at AI",
       "9. South Korea's LetinAR Is Building the Optics Behind AI Glasses",
       "10. How Chinese Short Dramas Became AI Content Machines"
-    ]
-  },
-  {
-    "date": "2026-05-18",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-18",
-    "titleZh": "AI资讯早报 | 2026-05-18",
-    "title": "AI News Morning Brief | 2026-05-18",
-    "slug": "news-2026-05-18-morning",
-    "headlines": [
-      "1. The Musk vs. Altman Trial: A Verdict on Trust",
-      "2. The AI Haves and Have-Nots: A Widening Gulf",
-      "3. Apple’s Siri Revamp: Auto-Deleting Chats Signal a Privacy-First AI",
-      "4. OpenAI Launches ChatGPT for Personal Finance",
-      "5. Greg Brockman Returns to Lead OpenAI Product Strategy",
-      "6. ArXiv Cracks Down on AI-Generated Research",
-      "7. Runway’s Ambition: From Filmmaker Tool to Google Rival",
-      "8. AI Is Building Itself: The Dawn of Automated AI Development",
-      "9. The AI Skills Arms Race Hits the Automotive Industry",
-      "10. Chinese Short Dramas: The AI Content Machine"
     ]
   }
 ]
