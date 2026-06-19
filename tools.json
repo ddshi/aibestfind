@@ -143,17 +143,6 @@
     "date": "2026-05-19"
   },
   {
-    "nameEn": "Harvey AI",
-    "nameZh": "Harvey AI",
-    "descEn": "AI platform for legal professionals — contract analysis, legal research, drafting, and compliance automation.",
-    "descZh": "法律专业人士的AI平台——合同分析、法律研究、文件起草和合规自动化",
-    "url": "https://harvey.ai",
-    "category": "行业AI",
-    "categoryEn": "Industry AI",
-    "icon": "⚖️",
-    "date": "2026-06-01"
-  },
-  {
     "nameEn": "Copy.ai",
     "nameZh": "Copy.ai",
     "descEn": "AI-powered GTM platform — automate marketing workflows, sales outreach, and content creation at scale.",
