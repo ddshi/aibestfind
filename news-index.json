@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-20",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-20",
+    "titleZh": "AI资讯晚报 | 2026-06-20",
+    "title": "AI News Evening Brief | 2026-06-20",
+    "slug": "news-2026-06-20-evening",
+    "headlines": [
+      "1. The US Banned Anthropic’s Fable 5 — But the Numbers Don’t Seem to Care",
+      "2. Billionaire Ambani Wants AI in Every Call, App, and Home",
+      "3. A Startup Claims It Broke Through a Bottleneck That’s Holding Back LLMs",
+      "4. Amazon Hopes to Challenge Nvidia More Directly by Selling Its AI Chips",
+      "5. AI Inference Startup Baseten Reportedly Raising $1.5B Months After Its Last Mega-Round",
+      "6. AI Data Centers Just Got a Government-Mandated Fast Lane to the Grid",
+      "7. Brain-Computer Interface Trials Are Taking Off",
+      "8. OpenAI Is Bringing on Some Big Guns in the Lead-Up to Its IPO",
+      "9. Snap Spins Off AI Video Team into New Company, Dotmo, Due to Costs",
+      "10. The US Says ASML’s Top Chip Tool May Be in China. ASML Says It Isn’t"
+    ]
+  },
+  {
     "date": "2026-06-19",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1256,27 +1277,6 @@
       "8. South Korea’s LetinAR is Building the Optics Behind AI Glasses",
       "9. The Haves and Have-Nots of the AI Gold Rush",
       "10. OpenAI Co-founder Greg Brockman Takes Charge of Product Strategy"
-    ]
-  },
-  {
-    "date": "2026-05-19",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-19",
-    "titleZh": "AI资讯晚报 | 2026-05-19",
-    "title": "AI News Evening Brief | 2026-05-19",
-    "slug": "news-2026-05-19-evening",
-    "headlines": [
-      "1. Musk v. Altman Trial Concludes: Jury to Decide on Trust and Founding Principles",
-      "2. Inside Anduril and Meta's Quest to Make Smart Glasses for Warfare",
-      "3. OpenAI Launches ChatGPT for Personal Finance, Connecting to Bank Accounts",
-      "4. The Haves and Have-Nots of the AI Gold Rush",
-      "5. Apple's Siri Revamp Could Include Auto-Deleting Chats",
-      "6. Amazon's New Alexa+ Feature Can Generate Podcast Episodes",
-      "7. Research Repository ArXiv Will Ban Authors for a Year if They Let AI Do All the Work",
-      "8. Runway Started by Helping Filmmakers — Now It Wants to Beat Google at AI",
-      "9. South Korea's LetinAR Is Building the Optics Behind AI Glasses",
-      "10. How Chinese Short Dramas Became AI Content Machines"
     ]
   }
 ]
