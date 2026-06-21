@@ -141,16 +141,5 @@
     "categoryEn": "Presentation",
     "icon": "📊",
     "date": "2026-05-19"
-  },
-  {
-    "nameEn": "Writesonic",
-    "nameZh": "Writesonic",
-    "descEn": "AI content and SEO platform — generate blog posts, product descriptions, and landing pages with built-in optimization.",
-    "descZh": "AI内容和SEO平台——生成带内置优化的博客文章、产品描述和落地页",
-    "url": "https://writesonic.com",
-    "category": "内容创作",
-    "categoryEn": "Writing",
-    "icon": "📝",
-    "date": "2026-06-01"
   }
 ]
