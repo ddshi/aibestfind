@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-21",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-21",
+    "titleZh": "AI资讯晚报 | 2026-06-21",
+    "title": "AI News Evening Brief | 2026-06-21",
+    "slug": "news-2026-06-21-evening",
+    "headlines": [
+      "1. The Anthropic Ban: A Geopolitical Earthquake",
+      "2. Talent War: Nobel Laureate Jumps Ship to Anthropic",
+      "3. The Economics of Inference: Baseten’s Billion-Dollar Bet",
+      "4. The Bottleneck Breakthrough: A Startup Claims a New Path",
+      "5. iOS 27: AI Gets Practical on Your iPhone",
+      "6. The IPO Prep: OpenAI Gears Up for the Big Dance",
+      "7. The Humanist Warning: \"Chatbots Are Not Your Friends\"",
+      "8. The Unlikely Entrant: Allbirds and the AI Sneaker",
+      "9. The Infrastructure Wars: Elastic Acquires Deductive AI",
+      "10. The BCI Frontier: Trials Take Off"
+    ]
+  },
+  {
+    "date": "2026-06-21",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-06-21",
@@ -1254,27 +1275,6 @@
       "8. Elon Musk Said Sam Altman 'Stole' a Non-Profit — But the Trial Showed He Had Similar Aims",
       "9. You Can Now Talk to Your Gmail Inbox, as Seen at Google IO 2026",
       "10. OpenAI Is Making It Easier to Check If an Image Was Made by Their Models"
-    ]
-  },
-  {
-    "date": "2026-05-20",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-20",
-    "titleZh": "AI资讯早报 | 2026-05-20",
-    "title": "AI News Morning Brief | 2026-05-20",
-    "slug": "news-2026-05-20-morning",
-    "headlines": [
-      "1. Google Search as You Know It Is Over",
-      "2. With Gemini 3.5 Flash, Google Bets Its Next AI Wave on Agents, Not Chatbots",
-      "3. Elon Musk Said Sam Altman 'Stole' a Non-Profit — But the Trial Showed He Had Similar Aims",
-      "4. OpenAI Co-Founder Andrej Karpathy Joins Anthropic's Pre-Training Team",
-      "5. Google's Genie World Model Can Now Simulate Real Streets with Street View",
-      "6. Google Takes a Page Out of Meta's Book, Announces New Audio-Powered Smart Glasses at I/O 2026",
-      "7. Google Declared Itself a Contender in AI Design at I/O 2026",
-      "8. Google's Gemini Omni Turns Images, Audio, and Text into Video — And That's Just the Start",
-      "9. You Can Now Talk to Your Gmail Inbox, as Seen at Google I/O 2026",
-      "10. From Teen Hacker to Iron Dome Researcher, This Founder Raised $28M to Fight AI Phishing"
     ]
   }
 ]
