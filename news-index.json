@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-06-21",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-21",
+    "titleZh": "AI资讯早报 | 2026-06-21",
+    "title": "AI News Morning Brief | 2026-06-21",
+    "slug": "news-2026-06-21-morning",
+    "headlines": [
+      "1. The Anthropic Ban: A Geopolitical Earthquake",
+      "2. The Talent Shuffle: A Nobel Laureate Defects",
+      "3. The Infrastructure Arms Race: Breaking the Bottleneck",
+      "4. The Human Cost: Skepticism and Skepticism",
+      "5. Corporate Maneuvers: Spinoffs, IPOs, and Ambition"
+    ]
+  },
+  {
     "date": "2026-06-20",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1259,27 +1275,6 @@
       "8. Google's Gemini Omni Turns Images, Audio, and Text into Video — And That's Just the Start",
       "9. You Can Now Talk to Your Gmail Inbox, as Seen at Google I/O 2026",
       "10. From Teen Hacker to Iron Dome Researcher, This Founder Raised $28M to Fight AI Phishing"
-    ]
-  },
-  {
-    "date": "2026-05-20",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-20",
-    "titleZh": "AI资讯晚报 | 2026-05-20",
-    "title": "AI News Evening Brief | 2026-05-20",
-    "slug": "news-2026-05-20-evening",
-    "headlines": [
-      "1. Elon Musk Loses His Lawsuit Against OpenAI and Sam Altman",
-      "2. OpenAI Co-Founder Andrej Karpathy Joins Anthropic’s Pre-Training Team",
-      "3. Anthropic Acquires the Dev Tools Startup Used by OpenAI, Google, and Cloudflare",
-      "4. Inside Anduril and Meta’s Quest to Make Smart Glasses for Warfare",
-      "5. SandboxAQ Brings Its Drug Discovery Models to Claude — No PhD Required",
-      "6. Amazon’s New Alexa+ Feature Can Generate Podcast Episodes",
-      "7. Apple’s Siri Revamp Could Include Auto-Deleting Chats",
-      "8. The Haves and Have-Nots of the AI Gold Rush",
-      "9. Research Repository ArXiv Will Ban Authors for a Year If They Let AI Do All the Work",
-      "10. What to Expect from Google This Week at I/O"
     ]
   }
 ]
