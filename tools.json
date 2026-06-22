@@ -130,16 +130,5 @@
     "categoryEn": "AI Avatars",
     "icon": "🗣️",
     "date": "2026-05-18"
-  },
-  {
-    "nameEn": "Gamma",
-    "nameZh": "Gamma",
-    "descEn": "AI presentation and document builder — create beautiful decks, docs, and webpages from a single prompt in seconds.",
-    "descZh": "AI演示文稿和文档生成器，通过提示词秒速创建精美的PPT、文档和网页",
-    "url": "https://gamma.app",
-    "category": "演示文稿",
-    "categoryEn": "Presentation",
-    "icon": "📊",
-    "date": "2026-05-19"
   }
 ]
