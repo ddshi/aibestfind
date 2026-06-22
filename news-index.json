@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-06-22",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-22",
+    "titleZh": "AI资讯早报 | 2026-06-22",
+    "title": "AI News Morning Brief | 2026-06-22",
+    "slug": "news-2026-06-22-morning",
+    "headlines": [
+      "Nobel Laureate John Jumper Leaves DeepMind for Rival Anthropic",
+      "US Government’s Anthropic Ban: An Accidental Brand Boost?",
+      "AI Inference Startup Baseten Reportedly Raising $1.5B Months After Last Mega-Round",
+      "A Startup Claims It Broke Through a Bottleneck That’s Holding Back LLMs",
+      "Beyond Siri: Practical AI Features Coming to iPhone in iOS 27",
+      "Signal’s Meredith Whittaker: AI Chatbots ‘Are Not Your Friends’",
+      "OpenAI Brings on Big Guns in Lead-Up to IPO",
+      "Snap Spins Off AI Video Team Into New Company, Dotmo, Due to Costs",
+      "Elastic Agrees to Buy CRV-Backed Deductive AI for Up to $85M",
+      "Brain-Computer Interface Trials Are Taking Off",
+      "Billionaire Ambani Wants AI in Every Call, App, and Home",
+      "In the Weights: Your New AI-Centric Vanity Search"
+    ]
+  },
+  {
     "date": "2026-06-21",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1254,27 +1277,6 @@
       "You can now talk to your Gmail inbox, as seen at Google IO 2026",
       "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
       "Figma adds an AI assistant to its collaborative canvas"
-    ]
-  },
-  {
-    "date": "2026-05-21",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-21",
-    "titleZh": "AI资讯晚报 | 2026-05-21",
-    "title": "AI News Evening Brief | 2026-05-21",
-    "slug": "news-2026-05-21-evening",
-    "headlines": [
-      "1. Google Search as You Know It Is Over",
-      "2. With Gemini 3.5 Flash, Google Bets Its Next AI Wave on Agents, Not Chatbots",
-      "3. Google Just Declared Itself a Contender in AI Design at IO 2026",
-      "4. Stability AI Releases a New Audio Model That Can Create Six-Minute Songs",
-      "5. Figma Adds an AI Assistant to Its Collaborative Canvas",
-      "6. NanoClaw Creator Turns Down $20M Buyout, Raises $12M Seed Instead",
-      "7. From Teen Hacker to Iron Dome Researcher, This Founder Raised $28M to Fight AI Phishing",
-      "8. Elon Musk Said Sam Altman 'Stole' a Non-Profit — But the Trial Showed He Had Similar Aims",
-      "9. You Can Now Talk to Your Gmail Inbox, as Seen at Google IO 2026",
-      "10. OpenAI Is Making It Easier to Check If an Image Was Made by Their Models"
     ]
   }
 ]
