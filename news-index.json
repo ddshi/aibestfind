@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-06-23",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-23",
+    "titleZh": "AI资讯晚报 | 2026-06-23",
+    "title": "AI News Evening Brief | 2026-06-23",
+    "slug": "news-2026-06-23-evening",
+    "headlines": [
+      "The Government vs. Anthropic: A Feud That's Redefining AI Policy",
+      "Nobel Laureate John Jumper Leaves DeepMind for Anthropic",
+      "Apple's iOS 27: Practical AI Beyond the Siri Hype",
+      "SpaceX Bets on Open Source: Compute Deal with Reflection AI",
+      "Signal's Meredith Whittaker: \"AI Chatbots Are Not Your Friends\"",
+      "Amazon Tests Alexa+ in India with Hindi Support",
+      "A Startup Claims to Have Broken a Key LLM Bottleneck",
+      "Reliance's Ambani Wants AI in Every Call, App, and Home",
+      "Brain-Computer Interface Trials Are Taking Off"
+    ]
+  },
+  {
     "date": "2026-06-22",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1253,30 +1273,6 @@
       "8. The Path: Tony Robbins and Calm Alums Bet on Safer AI Therapy",
       "9. Climate Tech Pivots to Critical Minerals—With AI's Help",
       "10. Tech Researchers Sue the Trump Administration Over Online Safety"
-    ]
-  },
-  {
-    "date": "2026-05-21",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-21",
-    "titleZh": "AI资讯早报 | 2026-05-21",
-    "title": "AI News Morning Brief | 2026-05-21",
-    "slug": "news-2026-05-21-morning",
-    "headlines": [
-      "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-      "Nvidia posts another record quarter, reveals $43B of holdings in startups",
-      "Anthropic will pay xAI $1.25B per month for compute",
-      "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-      "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-      "Anthropic says it’s about to have its first profitable quarter",
-      "OpenAI barrels toward IPO that may happen in September",
-      "OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "Stability AI releases a new audio model that can create 6-minute songs",
-      "Google just declared itself a contender in AI design at IO 2026",
-      "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-      "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-      "Figma adds an AI assistant to its collaborative canvas"
     ]
   }
 ]
