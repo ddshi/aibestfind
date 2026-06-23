@@ -119,16 +119,5 @@
     "categoryEn": "Writing",
     "icon": "✍️",
     "date": "2026-05-17"
-  },
-  {
-    "nameEn": "Synthesia",
-    "nameZh": "Synthesia",
-    "descEn": "AI video avatar platform — create professional talking-head videos in 140+ languages without cameras or actors.",
-    "descZh": "AI数字人视频平台，无需摄像或演员即可创建140+种语言的专业口播视频",
-    "url": "https://www.synthesia.io",
-    "category": "数字人",
-    "categoryEn": "AI Avatars",
-    "icon": "🗣️",
-    "date": "2026-05-18"
   }
 ]
