@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-23",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-23",
+    "titleZh": "AI资讯早报 | 2026-06-23",
+    "title": "AI News Morning Brief | 2026-06-23",
+    "slug": "news-2026-06-23-morning",
+    "headlines": [
+      "1. Nobel Laureate John Jumper Leaves DeepMind for Rival Anthropic",
+      "2. The US Government’s Anthropic Ban: A PR Windfall?",
+      "3. AI Chipmaker Groq Confirms $650M Raise, Re-Staffs After Nvidia Deal",
+      "4. Google DeepMind Bets $75M on AI’s Future in Hollywood with A24 Deal",
+      "5. OpenAI Launches New Initiative to Help Find and Patch Open Source Bugs",
+      "6. Nvidia Wants to Cut Data Center Water Use, But That’s Not the Same as Fixing AI’s Water Problem",
+      "7. SpaceX Inks Compute Deal with Reflection AI, an Open Source AI Lab",
+      "8. The Running List: Major Tech Layoffs in 2026 Where Employers Cited AI",
+      "9. The AI World is Getting ‘Loopy’",
+      "10. Beyond Siri: Here Are the Practical AI Features Coming to Your iPhone in iOS 27"
+    ]
+  },
+  {
+    "date": "2026-06-23",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-23",
@@ -1252,27 +1273,6 @@
       "8. Spotify Launches an ElevenLabs-Powered Audiobook Creation Tool",
       "9. Google Is Pitching an AI Agent Ecosystem to Consumers Who May Not Buy It",
       "10. Six Search Engines Worth Trying Now That Google Isn't Really Google Anymore"
-    ]
-  },
-  {
-    "date": "2026-05-22",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-22",
-    "titleZh": "AI资讯晚报 | 2026-05-22",
-    "title": "AI News Evening Brief | 2026-05-22",
-    "slug": "news-2026-05-22-evening",
-    "headlines": [
-      "1. Nvidia's Dominance Deepens: Record Quarter and a $200 Billion \"New Market\"",
-      "2. Anthropic's Profitability and a $1.25B Compute Deal with xAI",
-      "3. Spotify's AI Audio Empire: Audiobooks, Podcasts, and Personal Briefings",
-      "4. xAI's Financial Reality: $6.4B Burn and a $2.8B Generator Spree",
-      "5. Hark Raises $700M for a \"Universal\" AI Interface",
-      "6. Google's AI Agent Ecosystem: A Hard Sell for Consumers",
-      "7. OpenAI Claims It Solved an 80-Year-Old Math Problem",
-      "8. The Path: Tony Robbins and Calm Alums Bet on Safer AI Therapy",
-      "9. Climate Tech Pivots to Critical Minerals—With AI's Help",
-      "10. Tech Researchers Sue the Trump Administration Over Online Safety"
     ]
   }
 ]
