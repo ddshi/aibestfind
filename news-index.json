@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-24",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-24",
+    "titleZh": "AI资讯晚报 | 2026-06-24",
+    "title": "AI News Evening Brief | 2026-06-24",
+    "slug": "news-2026-06-24-evening",
+    "headlines": [
+      "1. Anthropic Under Fire: The Government Feud Escalates",
+      "2. Groq’s $650M Resurrection: The Chip War Intensifies",
+      "3. The $400 Million Machine: ASML’s Next-Gen Chipmaking Marvel",
+      "4. AI vs. The Environment: Nvidia’s Water Problem and a Novel Solution",
+      "5. Google DeepMind’s $75M Hollywood Bet: An A24 Deal",
+      "6. OpenAI’s Open Source Gambit: Patching Bugs for the Public Good",
+      "7. The AI Layoff Tracker: 2026’s Bleakest Running List",
+      "8. SpaceX’s Compute Deal: A New Alliance with Open Source AI",
+      "9. The AI World is Getting ‘Loopy’",
+      "10. Signal’s Meredith Whittaker: ‘AI Chatbots Are Not Your Friends’"
+    ]
+  },
+  {
     "date": "2026-06-23",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1252,27 +1273,6 @@
       "8. Spotify Takes on Google’s NotebookLM with Its New Podcast Creation App",
       "9. Google Is Pitching an AI Agent Ecosystem to Consumers Who May Not Buy It",
       "10. The Path, Founded by Tony Robbins and Calm Alums, Hopes to Offer Safer AI Therapy"
-    ]
-  },
-  {
-    "date": "2026-05-22",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-22",
-    "titleZh": "AI资讯早报 | 2026-05-22",
-    "title": "AI News Morning Brief | 2026-05-22",
-    "slug": "news-2026-05-22-morning",
-    "headlines": [
-      "1. Spotify and Universal Music Strike Deal Allowing Fan-Made AI Covers and Remixes",
-      "2. Anthropic's Code with Claude Showed Off Coding's Future—Whether You Like It or Not",
-      "3. Hark Raises $700M Series A for Its Secretive 'Universal' AI Interface",
-      "4. xAI Burned $6.4B Last Year — SpaceX's IPO Filing Shows Why the Spending Is Far From Over",
-      "5. Trump Delays AI Security Executive Order, Saying Language 'Could Have Been a Blocker'",
-      "6. Jensen Huang Says He's Found a 'Brand New' $200B Market for Nvidia",
-      "7. Anthropic Says It's About to Have Its First Profitable Quarter",
-      "8. Spotify Launches an ElevenLabs-Powered Audiobook Creation Tool",
-      "9. Google Is Pitching an AI Agent Ecosystem to Consumers Who May Not Buy It",
-      "10. Six Search Engines Worth Trying Now That Google Isn't Really Google Anymore"
     ]
   }
 ]
