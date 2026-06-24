@@ -108,16 +108,5 @@
     "categoryEn": "Coding",
     "icon": "💻",
     "date": "2026-05-16"
-  },
-  {
-    "nameEn": "Jasper",
-    "nameZh": "Jasper",
-    "descEn": "AI content writing platform for marketing — blog posts, ad copy, social media, and brand voice training.",
-    "descZh": "AI营销写作平台，生成博客文章、广告文案、社交媒体内容和品牌语调训练",
-    "url": "https://www.jasper.ai",
-    "category": "内容创作",
-    "categoryEn": "Writing",
-    "icon": "✍️",
-    "date": "2026-05-17"
   }
 ]
