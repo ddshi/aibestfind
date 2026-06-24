@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-24",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-24",
+    "titleZh": "AI资讯早报 | 2026-06-24",
+    "title": "AI News Morning Brief | 2026-06-24",
+    "slug": "news-2026-06-24-morning",
+    "headlines": [
+      "1. Google DeepMind Bets $75M on AI’s Future in Hollywood with A24 Deal",
+      "2. Anthropic’s Claude Is Learning Your Company, One Slack Message at a Time",
+      "3. AI Chipmaker Groq Confirms $650M Raise, Re-staffs After Nvidia’s $20B Not-Acqui-Hire Deal",
+      "4. India’s MoEngage Bets That the Future of Marketing Is Millions of AI Agents",
+      "5. Ultrasound Imaging Turns a Robot Hand into a Skillful Mimic",
+      "6. Nvidia Wants to Cut Data Center Water Use, But That’s Not the Same as Fixing AI’s Water Problem",
+      "7. OpenAI Launches New Initiative to Help Find and Patch Open Source Bugs",
+      "8. Fika Jobs Raises $4M to Build a Video-First Hiring Platform Where AI Agents Interview Candidates",
+      "9. The Running List: Major Tech Layoffs in 2026 Where Employers Cited AI",
+      "10. The AI World Is Getting ‘Loopy’"
+    ]
+  },
+  {
+    "date": "2026-06-24",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-24",
@@ -1252,27 +1273,6 @@
       "8. You Can No Longer Google the Word ‘Disregard’",
       "9. The Enhanced Games: Where AI Meets the ‘Steroid Olympics’",
       "10. Six Search Engines Worth Trying Now That Google Isn’t Really Google Anymore"
-    ]
-  },
-  {
-    "date": "2026-05-23",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-23",
-    "titleZh": "AI资讯晚报 | 2026-05-23",
-    "title": "AI News Evening Brief | 2026-05-23",
-    "slug": "news-2026-05-23-evening",
-    "headlines": [
-      "1. Hark Raises $700M Series A for Its Secretive ‘Universal’ AI Interface",
-      "2. Spotify and Universal Music Strike Deal Allowing Fan-Made AI Covers and Remixes",
-      "3. Anthropic’s Code with Claude Showed Off Coding’s Future—Whether You Like It or Not",
-      "4. Trump Delays AI Security Executive Order, Saying Language ‘Could Have Been a Blocker’",
-      "5. We Tried Google’s AI Glasses and They’re Almost There",
-      "6. Google I/O Showed How the Path for AI-Driven Science Is Shifting",
-      "7. Six Search Engines Worth Trying Now That Google Isn’t Really Google Anymore",
-      "8. Spotify Takes on Google’s NotebookLM with Its New Podcast Creation App",
-      "9. Google Is Pitching an AI Agent Ecosystem to Consumers Who May Not Buy It",
-      "10. The Path, Founded by Tony Robbins and Calm Alums, Hopes to Offer Safer AI Therapy"
     ]
   }
 ]
