@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-25",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-25",
+    "titleZh": "AI资讯晚报 | 2026-06-25",
+    "title": "AI News Evening Brief | 2026-06-25",
+    "slug": "news-2026-06-25-evening",
+    "headlines": [
+      "OpenAI Unveils Its First Custom Chip, Built by Broadcom",
+      "Stripe, Anthropic and OpenAI Are Backing an Effort to Stop Respiratory Infections",
+      "AI Chipmaker Groq Confirms $650M Raise, Re-Staffs After Nvidia’s $20B Not-Acqui-Hire Deal",
+      "The Running List: Major Tech Layoffs in 2026 Where Employers Cited AI",
+      "Anthropic’s Claude Tag Is Learning Your Company, One Slack Message at a Time",
+      "India’s MoEngage Bets That the Future of Marketing Is Millions of AI Agents",
+      "OpenAI Launches New Initiative to Help Find and Patch Open Source Bugs",
+      "The Emergence of the Web Data Infrastructure Layer for AI",
+      "Fika Jobs Raises $4M to Build a Video-First Hiring Platform Where AI Agents Interview Candidates",
+      "Europe’s Extreme Heat Is Shutting Down Power Plants"
+    ]
+  },
+  {
     "date": "2026-06-24",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1252,27 +1273,6 @@
       "8. Google I/O 2026: The Path for AI-Driven Science Shifts",
       "9. Spotify Takes on NotebookLM: The New Desktop App for AI Podcasts",
       "10. Six Search Engines to Try Now That Google Isn't Really Google Anymore"
-    ]
-  },
-  {
-    "date": "2026-05-23",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-23",
-    "titleZh": "AI资讯早报 | 2026-05-23",
-    "title": "AI News Morning Brief | 2026-05-23",
-    "slug": "news-2026-05-23-morning",
-    "headlines": [
-      "1. Google’s AI Glasses: Almost There, but Not Quite",
-      "2. Spotify and Universal Music Strike Deal for AI Covers and Remixes",
-      "3. The ‘Inflated ARR’ Game: How VCs Crown AI Startups",
-      "4. Elon Musk’s $1.75 Trillion IPO: The Sound of Ambition",
-      "5. AI Is Being Used to Resurrect the Voices of Dead Pilots",
-      "6. Google I/O 2026: The Shifting Path for AI-Driven Science",
-      "7. Anthropic’s Code with Claude: The Future of Coding, Whether You Like It or Not",
-      "8. You Can No Longer Google the Word ‘Disregard’",
-      "9. The Enhanced Games: Where AI Meets the ‘Steroid Olympics’",
-      "10. Six Search Engines Worth Trying Now That Google Isn’t Really Google Anymore"
     ]
   }
 ]
