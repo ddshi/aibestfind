@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-25",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-25",
+    "titleZh": "AI资讯早报 | 2026-06-25",
+    "title": "AI News Morning Brief | 2026-06-25",
+    "slug": "news-2026-06-25-morning",
+    "headlines": [
+      "1. OpenAI Unveils Its First Custom Chip, Built by Broadcom",
+      "2. Europe Is Pushing Back on Washington’s Chip War",
+      "3. AI Was Supposed to Kill Engineering Jobs, But New Data Suggests They’re the Most Resilient",
+      "4. AI Researchers Continue to Leave Google for Its Rivals",
+      "5. Companies Are Scrambling to Stop Employees from Maxing Out AI Budgets With Small Tasks",
+      "6. The Memory Chip Crunch Is Paying Off for This US Company",
+      "7. Cerebras Stock Plunges After Earnings as CEO Says Margin Outlook Was Misunderstood",
+      "8. Agility Robotics Plans to Go Public Via SPAC in a $2.5B Deal",
+      "9. Facebook Rolls Out an AI Companion App for Creators",
+      "10. India’s MoEngage Bets That the Future of Marketing Is Millions of AI Agents"
+    ]
+  },
+  {
+    "date": "2026-06-25",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-25",
@@ -1252,27 +1273,6 @@
       "8. Google I/O: The Path for AI-Driven Science Is Shifting",
       "9. Spotify Takes on NotebookLM with a New Podcast App",
       "10. You Can No Longer Google the Word ‘Disregard’"
-    ]
-  },
-  {
-    "date": "2026-05-24",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-24",
-    "titleZh": "AI资讯早报 | 2026-05-24",
-    "title": "AI News Morning Brief | 2026-05-24",
-    "slug": "news-2026-05-24-morning",
-    "headlines": [
-      "1. SpaceX Files for $1.75 Trillion IPO: The Ultimate AI-Powered Bet",
-      "2. Google’s AI Glasses Are Almost There: A Hands-On Review",
-      "3. Spotify Launches a Trio of AI Audio Tools: Covers, Podcasts, and Audiobooks",
-      "4. The ARR Inflation Crisis: How VCs Are Crowning AI Startups",
-      "5. Trump Delays AI Security Executive Order: A Regulatory Pause",
-      "6. Ferrari Uses IBM AI to Engineer F1 Superfans",
-      "7. AI Is Resurrecting the Voices of Dead Pilots",
-      "8. Google I/O 2026: The Path for AI-Driven Science Shifts",
-      "9. Spotify Takes on NotebookLM: The New Desktop App for AI Podcasts",
-      "10. Six Search Engines to Try Now That Google Isn't Really Google Anymore"
     ]
   }
 ]
