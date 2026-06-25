@@ -97,16 +97,5 @@
     "categoryEn": "Video Creation",
     "icon": "🎥",
     "date": "2026-05-14"
-  },
-  {
-    "nameEn": "GitHub Copilot",
-    "nameZh": "GitHub Copilot",
-    "descEn": "AI pair programmer from GitHub — autocomplete, chat, and code review inside your editor with context awareness.",
-    "descZh": "GitHub出品的AI编程搭档，编辑器内的代码补全、对话和审查，支持上下文感知",
-    "url": "https://github.com/features/copilot",
-    "category": "编程开发",
-    "categoryEn": "Coding",
-    "icon": "💻",
-    "date": "2026-05-16"
   }
 ]
