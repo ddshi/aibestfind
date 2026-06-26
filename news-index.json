@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-27",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-27",
+    "titleZh": "AI资讯晚报 | 2026-06-27",
+    "title": "AI News Evening Brief | 2026-06-27",
+    "slug": "news-2026-06-27-evening",
+    "headlines": [
+      "1. The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "2. Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT",
+      "3. General Intuition's $2.3B bet that video games can train AI agents for the real world",
+      "4. Databricks' former AI chief thinks he can cut AI's power bill by 1,000x",
+      "5. Patronus AI lands $50M to build 'digital worlds' that stress-test AI agents",
+      "6. Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "7. IBM has unveiled chip technology that could help extend Moore's Law another decade",
+      "8. AI was supposed to kill engineering jobs, but new data suggests they're the most resilient",
+      "9. Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "10. Adobe acquires image and video enhancement tool maker Topaz Labs"
+    ]
+  },
+  {
     "date": "2026-06-26",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1252,27 +1273,6 @@
       "8. Spotify and Universal Music Strike Deal Allowing Fan-Made AI Covers and Remixes",
       "9. How VCs and Founders Use Inflated ‘ARR’ to Crown AI Startups",
       "10. I Tried Amazon’s Bee Wearable and Am Both Intrigued and Slightly Creeped Out"
-    ]
-  },
-  {
-    "date": "2026-05-26",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-26",
-    "titleZh": "AI资讯晚报 | 2026-05-26",
-    "title": "AI News Evening Brief | 2026-05-26",
-    "slug": "news-2026-05-26-evening",
-    "headlines": [
-      "The Pope’s AI Encyclical Isn’t Really About AI",
-      "Everyone Is Navigating AI Security in Real Time — Even Google",
-      "I Tried Amazon’s Bee Wearable and Am Both Intrigued and Slightly Creeped Out",
-      "Ferrari Is Using IBM’s AI to Create F1 Superfans",
-      "AI Is Being Used to Resurrect the Voices of Dead Pilots",
-      "How VCs and Founders Use Inflated ‘ARR’ to Crown AI Startups",
-      "We Tried Google’s AI Glasses and They’re Almost There",
-      "Google I/O Showed How the Path for AI-Driven Science Is Shifting",
-      "Spotify and Universal Music Strike Deal Allowing Fan-Made AI Covers and Remixes",
-      "Six Search Engines Worth Trying Now That Google Isn’t Really Google Anymore"
     ]
   }
 ]
