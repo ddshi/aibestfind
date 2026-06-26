@@ -86,16 +86,5 @@
     "categoryEn": "Image Generation",
     "icon": "🖼️",
     "date": "2026-05-13"
-  },
-  {
-    "nameEn": "Runway",
-    "nameZh": "Runway",
-    "descEn": "Professional AI video creation platform — Gen-4 model for text-to-video, video editing, and VFX.",
-    "descZh": "专业AI视频创作平台，Gen-4文字转视频模型，支持视频编辑和视觉特效",
-    "url": "https://runwayml.com",
-    "category": "视频创作",
-    "categoryEn": "Video Creation",
-    "icon": "🎥",
-    "date": "2026-05-14"
   }
 ]
