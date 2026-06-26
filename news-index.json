@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-26",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-26",
+    "titleZh": "AI资讯早报 | 2026-06-26",
+    "title": "AI News Morning Brief | 2026-06-26",
+    "slug": "news-2026-06-26-morning",
+    "headlines": [
+      "1. The White House Asks OpenAI to Slow Roll Its New Model Over Safety Concerns",
+      "2. Anthropic’s Claude Is Winning Over Paid Consumers, a Market Owned by ChatGPT",
+      "3. General Intuition’s $2.3B Bet That Video Games Can Train AI Agents for the Real World",
+      "4. Databricks’ Former AI Chief Thinks He Can Cut AI’s Power Bill by 1,000x",
+      "5. Amazon Ups India Bet with Fresh $13B AI Infrastructure Investment",
+      "6. Cerebras Stock Plunges After Earnings as CEO Says Margin Outlook Was Misunderstood",
+      "7. Patronus AI Lands $50M to Build ‘Digital Worlds’ That Stress-Test AI Agents",
+      "8. AI Was Supposed to Kill Engineering Jobs, But New Data Suggests They’re the Most Resilient",
+      "9. Companies Are Scrambling to Stop Employees from Maxing Out AI Budgets with Small Tasks",
+      "10. IBM Has Unveiled Chip Technology That Could Help Extend Moore’s Law Another Decade"
+    ]
+  },
+  {
+    "date": "2026-06-26",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-26",
@@ -1252,27 +1273,6 @@
       "Google I/O Showed How the Path for AI-Driven Science Is Shifting",
       "Spotify and Universal Music Strike Deal Allowing Fan-Made AI Covers and Remixes",
       "Six Search Engines Worth Trying Now That Google Isn’t Really Google Anymore"
-    ]
-  },
-  {
-    "date": "2026-05-25",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-25",
-    "titleZh": "AI资讯早报 | 2026-05-25",
-    "title": "AI News Morning Brief | 2026-05-25",
-    "slug": "news-2026-05-25-morning",
-    "headlines": [
-      "1. SpaceX Files for a $1.75 Trillion IPO, and the Math Requires a Little Faith",
-      "2. You Can No Longer Google the Word 'Disregard'",
-      "3. AI Is Being Used to Resurrect the Voices of Dead Pilots",
-      "4. Trump Delays AI Security Executive Order, Saying Language 'Could Have Been a Blocker'",
-      "5. How VCs and Founders Use Inflated 'ARR' to Crown AI Startups",
-      "6. Spotify and Universal Music Strike Deal Allowing Fan-Made AI Covers and Remixes",
-      "7. Google I/O Showed How the Path for AI-Driven Science Is Shifting",
-      "8. I Tried Amazon's Bee Wearable and Am Both Intrigued and Slightly Creeped Out",
-      "9. Ferrari Is Using IBM's AI to Create F1 Superfans",
-      "10. We Tried Google's AI Glasses and They're Almost There"
     ]
   }
 ]
