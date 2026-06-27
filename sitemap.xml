@@ -21,6 +21,10 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://aibestfind.com/posts/stable-diffusion/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://aibestfind.com/posts/runway/</loc>
     <priority>0.6</priority>
   </url>

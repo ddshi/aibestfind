@@ -75,16 +75,5 @@
     "categoryEn": "Multimodal AI",
     "icon": "💎",
     "date": "2026-05-12"
-  },
-  {
-    "nameEn": "Stable Diffusion",
-    "nameZh": "Stable Diffusion",
-    "descEn": "Open-source AI image generation — run locally, fine-tune models, and create with full creative control.",
-    "descZh": "开源AI图像生成模型，可本地运行，支持模型微调和完整创意控制",
-    "url": "https://stability.ai",
-    "category": "图像生成",
-    "categoryEn": "Image Generation",
-    "icon": "🖼️",
-    "date": "2026-05-13"
   }
 ]
