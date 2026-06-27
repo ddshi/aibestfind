@@ -1,6 +1,28 @@
 [
   {
     "date": "2026-06-27",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-27",
+    "titleZh": "AI资讯早报 | 2026-06-27",
+    "title": "AI News Morning Brief | 2026-06-27",
+    "slug": "news-2026-06-27-morning",
+    "headlines": [
+      "1. Trump Admin Releases Anthropic Mythos to More Than 100 US Companies and Agencies",
+      "2. OpenAI Limits GPT-5.6 Rollout After Government Request, Says Restrictions Shouldn't Be the Norm",
+      "3. It's Not About Anthropic vs. OpenAI Anymore",
+      "4. Why Everyone from OpenAI to SpaceX Is Building Their Own Chips (and Turning Up the Heat on Nvidia)",
+      "5. Anthropic's Claude Is Winning Over Paid Consumers, a Market Owned by ChatGPT",
+      "6. Patronus AI Lands $50M to Build 'Digital Worlds' That Stress-Test AI Agents",
+      "7. General Intuition's $2.3B Bet That Video Games Can Train AI Agents for the Real World",
+      "8. Amazon Ups India Bet with Fresh $13B AI Infrastructure Investment",
+      "10. OpenAI Poaches Uber India Chief to Lead Its Biggest Market Outside the US",
+      "Adobe Acquires Topaz Labs: AI-Powered Image and Video Enhancement",
+      "Netris Raises $15M from a16z to Help AI Neoclouds Go Live Faster"
+    ]
+  },
+  {
+    "date": "2026-06-27",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-27",
@@ -1252,27 +1274,6 @@
       "8. Ferrari Is Using IBM’s AI to Create F1 Superfans",
       "9. AI Is Being Used to Resurrect the Voices of Dead Pilots",
       "10. How VCs and Founders Use Inflated ‘ARR’ to Crown AI Startups"
-    ]
-  },
-  {
-    "date": "2026-05-26",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-26",
-    "titleZh": "AI资讯早报 | 2026-05-26",
-    "title": "AI News Morning Brief | 2026-05-26",
-    "slug": "news-2026-05-26-morning",
-    "headlines": [
-      "1. What ClickUp’s Mass Layoff Tells Us About the Future of Work",
-      "2. Everyone Is Navigating AI Security in Real Time — Even Google",
-      "3. The Pope’s AI Encyclical Isn’t Really About AI",
-      "4. AI Is Being Used to Resurrect the Voices of Dead Pilots",
-      "5. Ferrari Is Using IBM’s AI to Create F1 Superfans",
-      "6. We Tried Google’s AI Glasses and They’re Almost There",
-      "7. Google I/O Showed How the Path for AI-Driven Science Is Shifting",
-      "8. Spotify and Universal Music Strike Deal Allowing Fan-Made AI Covers and Remixes",
-      "9. How VCs and Founders Use Inflated ‘ARR’ to Crown AI Startups",
-      "10. I Tried Amazon’s Bee Wearable and Am Both Intrigued and Slightly Creeped Out"
     ]
   }
 ]
