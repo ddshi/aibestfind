@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-28",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-06-28",
+    "titleZh": "AI资讯晚报 | 2026-06-28",
+    "title": "AI News Evening Brief | 2026-06-28",
+    "slug": "news-2026-06-28-evening",
+    "headlines": [
+      "1. Trump Admin Unleashes Anthropic's 'Mythos' as OpenAI Faces Government Restrictions",
+      "2. OpenAI Limits GPT-5.6 Rollout After Government Request, Warns Against Precedent",
+      "3. Asian AI Startups Launch 'Mythos-Like' Models as Anthropic's Export Ban Drags On",
+      "4. The Great Chip Rebellion: OpenAI, SpaceX, and the Exodus from Nvidia",
+      "5. It's Not About Anthropic vs. OpenAI Anymore",
+      "6. SoftBank's CEO Questions Elon Musk's Orbital Data Center Hype",
+      "7. Patronus AI Lands $50M to Build 'Digital Worlds' That Stress-Test AI Agents",
+      "8. General Intuition's $2.3B Bet That Video Games Can Train AI Agents for the Real World",
+      "9. Databricks' Former AI Chief Thinks He Can Cut AI's Power Bill by 1,000x",
+      "10. OpenAI Poaches Uber India Chief to Lead Its Biggest Market Outside the US"
+    ]
+  },
+  {
+    "date": "2026-06-28",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-06-28",
@@ -1256,25 +1277,6 @@
       "A reality check on the AI jobs hysteria",
       "Tech CEOs are apparently suffering from AI psychosis",
       "Rethinking organizational design in the age of agentic AI"
-    ]
-  },
-  {
-    "date": "2026-05-27",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-27",
-    "titleZh": "AI资讯早报 | 2026-05-27",
-    "title": "AI News Morning Brief | 2026-05-27",
-    "slug": "news-2026-05-27-morning",
-    "headlines": [
-      "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "OpenRouter more than doubles valuation to $1.3B in a year",
-      "This startup is betting India’s gig economy can train the world’s robots",
-      "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "Rethinking organizational design in the age of agentic AI",
-      "A reality check on the AI jobs hysteria",
-      "It’s time to address the looming crisis in entry-level work",
-      "Everyone is navigating AI security in real time — even Google"
     ]
   }
 ]
