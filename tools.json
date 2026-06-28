@@ -64,16 +64,5 @@
     "categoryEn": "AI Search",
     "icon": "🔍",
     "date": "2026-05-11"
-  },
-  {
-    "nameEn": "Google Gemini",
-    "nameZh": "Google Gemini",
-    "descEn": "Google's multimodal AI — natively understands text, images, audio, and code with deep Google ecosystem integration.",
-    "descZh": "谷歌多模态AI，原生理解文本、图像、音频和代码，与Google生态深度整合",
-    "url": "https://gemini.google.com",
-    "category": "多模态AI",
-    "categoryEn": "Multimodal AI",
-    "icon": "💎",
-    "date": "2026-05-12"
   }
 ]
