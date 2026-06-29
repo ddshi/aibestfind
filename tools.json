@@ -53,16 +53,5 @@
     "categoryEn": "Chat Assistant",
     "icon": "🤖",
     "date": "2026-05-10"
-  },
-  {
-    "nameEn": "Perplexity AI",
-    "nameZh": "Perplexity AI",
-    "descEn": "AI-powered search engine with real-time citations — get answers with linked sources, not just links.",
-    "descZh": "AI搜索引擎，实时引用来源，提供带链接的答案而非简单链接列表",
-    "url": "https://www.perplexity.ai",
-    "category": "智能搜索",
-    "categoryEn": "AI Search",
-    "icon": "🔍",
-    "date": "2026-05-11"
   }
 ]
