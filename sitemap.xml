@@ -129,6 +129,10 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://aibestfind.com/posts/chatgpt/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://aibestfind.com/posts/bolt-new/</loc>
     <priority>0.6</priority>
   </url>

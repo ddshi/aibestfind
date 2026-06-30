@@ -42,16 +42,5 @@
     "categoryEn": "Audio",
     "icon": "🎙️",
     "date": "2026-04-18"
-  },
-  {
-    "nameEn": "ChatGPT",
-    "nameZh": "ChatGPT",
-    "descEn": "OpenAI's flagship AI assistant — powerful reasoning, creative writing, image understanding, and plugin ecosystem.",
-    "descZh": "OpenAI旗舰AI助手，强大的推理、创意写作、图像理解和插件生态",
-    "url": "https://chat.openai.com",
-    "category": "对话助手",
-    "categoryEn": "Chat Assistant",
-    "icon": "🤖",
-    "date": "2026-05-10"
   }
 ]
