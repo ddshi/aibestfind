@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-30",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-06-30",
+    "titleZh": "AI资讯早报 | 2026-06-30",
+    "title": "AI News Morning Brief | 2026-06-30",
+    "slug": "news-2026-06-30-morning",
+    "headlines": [
+      "Trump Administration Releases Anthropic Mythos to More Than 100 US Companies, Agencies",
+      "South Korean Tech Giants Commit Over $550B to Ease ‘RAMageddon’",
+      "Ford Rehires ‘Gray Beard’ Engineers After AI Falls Short",
+      "Arena, the AI Leaderboard Everyone Uses, Is Now a $100M Business",
+      "Anthropic and Gov. Newsom Forge Deal Allowing California Government to Use Claude at Half Price",
+      "AI Agents Are Not Your “Coworkers”",
+      "Asian AI Startups Launch Mythos-Like Models as Anthropic’s Export Ban Drags On",
+      "Vibe Coding Platform Base44 Launches Own Model as AI Startups Seek Defensibility",
+      "Gemini’s Personalized AI Image Generation Is Now Free for US Users",
+      "Robot Hand Company Settles Tesla Trade Secret Suit and Announces $11M Raise"
+    ]
+  },
+  {
+    "date": "2026-06-30",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-06-30",
@@ -1248,27 +1269,6 @@
       "8. Visa Invests in Replit to Power Agentic Payments for Developers",
       "9. Sesame, the Conversational AI Startup from Oculus Founders, Launches Its iOS App",
       "10. RSI is the New AGI — And It’s Just as Hard to Pin Down"
-    ]
-  },
-  {
-    "date": "2026-05-29",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-29",
-    "titleZh": "AI资讯晚报 | 2026-05-29",
-    "title": "AI News Evening Brief | 2026-05-29",
-    "slug": "news-2026-05-29-evening",
-    "headlines": [
-      "1. Anthropic Releases Opus 4.8 with New 'Dynamic Workflow' Tool",
-      "2. Sneak Peek at New Siri App Reveals Apple's Plans to Take on ChatGPT and More",
-      "3. AI Coding Startup Cognition Raises $1B at $25B Pre-Money Valuation",
-      "4. Snowflake Signs $6B Deal with AWS for AI CPU Chips",
-      "5. RSI is the New AGI — and It's Just as Hard to Pin Down",
-      "6. Visa Invests in Replit to Power Agentic Payments for Developers",
-      "7. At TechCrunch Disrupt 2026: Databricks' Co-Founder on What Kills Enterprise AI Deals",
-      "8. Meta Launches Instagram, Facebook, and WhatsApp Subscriptions, Including AI Plans",
-      "9. The AI Hype Index: AI Gets Booed in Graduation Season",
-      "10. Has the Hunt for AI Compute Uncovered the Next Cerebras?"
     ]
   }
 ]
