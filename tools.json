@@ -31,16 +31,5 @@
     "categoryEn": "Productivity",
     "icon": "📝",
     "date": "2026-03-25"
-  },
-  {
-    "nameEn": "ElevenLabs",
-    "nameZh": "ElevenLabs",
-    "descEn": "Industry-leading AI voice synthesis — generate natural, lifelike speech and voiceovers in 29 languages.",
-    "descZh": "顶级AI语音合成工具，生成自然逼真的语音和配音，支持29种语言",
-    "url": "https://elevenlabs.io",
-    "category": "音频创作",
-    "categoryEn": "Audio",
-    "icon": "🎙️",
-    "date": "2026-04-18"
   }
 ]
