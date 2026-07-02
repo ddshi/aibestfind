@@ -20,16 +20,5 @@
     "categoryEn": "Coding",
     "icon": "⚡",
     "date": "2026-03-10"
-  },
-  {
-    "nameEn": "Notion AI",
-    "nameZh": "Notion AI",
-    "descEn": "AI writing assistant integrated into Notion — organize notes, generate docs, and summarize with one click.",
-    "descZh": "集成在Notion中的AI写作助手，帮助整理笔记、生成文档",
-    "url": "https://www.notion.so/product/ai",
-    "category": "效率工具",
-    "categoryEn": "Productivity",
-    "icon": "📝",
-    "date": "2026-03-25"
   }
 ]
