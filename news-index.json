@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-03",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-03",
+    "titleZh": "AI资讯晚报 | 2026-07-03",
+    "title": "AI News Evening Brief | 2026-07-03",
+    "slug": "news-2026-07-03-evening",
+    "headlines": [
+      "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "Wayve launches $85M employee tender offer at $8.5B valuation"
+    ]
+  },
+  {
     "date": "2026-07-02",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1246,28 +1267,6 @@
       "The \"AI-Pilled\" Company: A Cautionary Tale",
       "So You've Heard These AI Terms and Nodded Along; Let's Fix That",
       "How the Pope's Magnifica Humanitas Offers a Template for Individuals to Meet the AI Moment"
-    ]
-  },
-  {
-    "date": "2026-05-31",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-05-31",
-    "titleZh": "AI资讯晚报 | 2026-05-31",
-    "title": "AI News Evening Brief | 2026-05-31",
-    "slug": "news-2026-05-31-evening",
-    "headlines": [
-      "SoftBank Says It Will Invest Up to €75 Billion to Build French Data Centers",
-      "After Nvidia’s $20B Not-Acqui-Hire, AI Chip Startup Groq Reportedly Raising $650M",
-      "This Chip Startup Just Raised $135M on a Bet That AI’s Biggest Bottleneck Isn’t Compute — It’s Memory",
-      "‘What a Joke’: GitHub Copilot’s New Token-Based Billing Spurs Consternation Among Devs",
-      "Coders Are Refusing to Work Without AI — and That Could Come Back to Bite Them",
-      "Cognition’s Scott Wu Says AI Coding Agents Shouldn’t Replace Humans",
-      "Meta Is Reportedly Developing an AI Pendant",
-      "I Put Google’s 24/7 AI Assistant Gemini Spark to Work, and It’s Actually Pretty Useful",
-      "Glean’s Top Line Crosses $300M as AI Budget Cutting Becomes Its Major Selling Point",
-      "Does Your CEO Have AI Psychosis? Aaron Levie Thinks Most of Them Do.",
-      "The Internet Is Being Rebuilt for Machines"
     ]
   }
 ]
