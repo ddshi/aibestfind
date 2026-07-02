@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-02",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-02",
+    "titleZh": "AI资讯早报 | 2026-07-02",
+    "title": "AI News Morning Brief | 2026-07-02",
+    "slug": "news-2026-07-02-morning",
+    "headlines": [
+      "1. Anthropic Launches Claude Science, a New Flagship for Scientific Research",
+      "2. Cloudflare’s New Policy Pushes AI Companies to Pay for Publishers’ Content",
+      "3. Anthropic Launches Claude Sonnet 5 as a Cheaper Way to Run Agents",
+      "4. Venice AI Becomes a Unicorn with $65M Series A as Its Privacy-First Platform Takes Off",
+      "5. LLMs Are Stuck in a Groupthink Groove. This Startup Is Trying to Get Them Out.",
+      "6. Gemini Spark, Google’s Agentic Assistant, Is Now Available on Mac",
+      "7. Nvidia Competitor Etched Hits $5B Valuation, $1B in Sales for AI Chip",
+      "8. Meta, Like SpaceX, Looks to Turn Excess AI Compute into Cash",
+      "9. The DeepMind Trio Who Built a Poker AI Are Now Making Money for Quant Hedge Funds",
+      "10. Indian Tech Tycoon Bets $30M of His Own Money to Build an AI Alternative to Microsoft Office"
+    ]
+  },
+  {
+    "date": "2026-07-02",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-07-02",
@@ -1247,28 +1268,6 @@
       "Glean’s Top Line Crosses $300M as AI Budget Cutting Becomes Its Major Selling Point",
       "Does Your CEO Have AI Psychosis? Aaron Levie Thinks Most of Them Do.",
       "The Internet Is Being Rebuilt for Machines"
-    ]
-  },
-  {
-    "date": "2026-05-31",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-05-31",
-    "titleZh": "AI资讯早报 | 2026-05-31",
-    "title": "AI News Morning Brief | 2026-05-31",
-    "slug": "news-2026-05-31-morning",
-    "headlines": [
-      "GitHub Copilot’s Token-Based Billing Sparks Developer Revolt",
-      "Coders Refuse to Work Without AI — A Dangerous Dependency",
-      "Cognition’s Scott Wu: AI Coding Agents Shouldn’t Replace Humans",
-      "After Nvidia’s $20B Miss, Groq Reportedly Raising $650M",
-      "Xcena Raises $135M on Bet That Memory, Not Compute, Is AI’s Real Bottleneck",
-      "Meta Is Reportedly Developing an AI Pendant",
-      "Google’s Gemini Spark: A 24/7 AI Assistant That Actually Works",
-      "Glean Crosses $300M ARR by Selling AI Budget Cutting",
-      "The Internet Is Being Rebuilt for Machines",
-      "Asana Acquires No-Code Agent-Builder StackAI",
-      "The Pope’s \"Magnifica Humanitas\" as a Template for the AI Age"
     ]
   }
 ]
