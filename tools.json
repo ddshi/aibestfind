@@ -9,16 +9,5 @@
     "categoryEn": "Chat Assistant",
     "icon": "🧠",
     "date": "2026-01-15"
-  },
-  {
-    "nameEn": "Cursor",
-    "nameZh": "Cursor",
-    "descEn": "AI-first code editor built on VS Code — understands your entire codebase and generates context-aware code.",
-    "descZh": "基于VS Code的AI编辑器，支持整个代码库上下文理解和生成",
-    "url": "https://cursor.sh",
-    "category": "编程开发",
-    "categoryEn": "Coding",
-    "icon": "⚡",
-    "date": "2026-03-10"
   }
 ]
