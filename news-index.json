@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-03",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-03",
+    "titleZh": "AI资讯早报 | 2026-07-03",
+    "title": "AI News Morning Brief | 2026-07-03",
+    "slug": "news-2026-07-03-morning",
+    "headlines": [
+      "1. Microsoft Launches Its Own AI Deployment Company with $2.5 Billion Commitment",
+      "2. Anthropic is Discussing a New Custom Chip with Samsung",
+      "3. Mark Zuckerberg Tells Staff That AI Agents Haven’t Progressed as Quickly as He’d Hoped",
+      "4. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
+      "5. Cloudflare’s New Policy Pushes AI Companies to Pay for Publishers’ Content",
+      "6. Venice AI Becomes a Unicorn with $65M Series A as Its Privacy-First AI Platform Takes Off",
+      "7. LLMs Are Stuck in a Groupthink Rut. This Startup Is Trying to Get Them Out.",
+      "8. SpaceX Has an AI Device Prototype, and It Sure Sounds Phone-ish",
+      "9. Gemini Spark, Google’s Agentic Assistant, Is Now Available on Mac",
+      "10. Meta Quietly Launches Vibe-Coded Gaming App Pocket"
+    ]
+  },
+  {
+    "date": "2026-07-03",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-07-03",
@@ -1243,30 +1264,6 @@
       "8. DuckDuckGo Makes Its 'No-AI' Search Engine Easier to Access as Its Traffic Booms",
       "9. Meta Is Reportedly Developing an AI Pendant",
       "10. Water Access Is Now a Risk Factor in SpaceX's IPO"
-    ]
-  },
-  {
-    "date": "2026-06-01",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-01",
-    "titleZh": "AI资讯早报 | 2026-06-01",
-    "title": "AI News Morning Brief | 2026-06-01",
-    "slug": "news-2026-06-01-morning",
-    "headlines": [
-      "1. SoftBank Says It Will Invest Up to €75 Billion to Build French Data Centers",
-      "2. Making Sense of the Debate Over AI Psychosis",
-      "3. 'What a Joke': GitHub Copilot's New Token-Based Billing Spurs Consternation Among Devs",
-      "4. After Nvidia's $20B Not-Acqui-Hire, AI Chip Startup Groq Reportedly Raising $650M",
-      "5. Erin Brockovich Takes Aim at Data Center Secrecy",
-      "6. Coders Are Refusing to Work Without AI — and That Could Come Back to Bite Them",
-      "7. Meta Is Reportedly Developing an AI Pendant",
-      "8. This Chip Startup Just Raised $135M on a Bet That AI's Biggest Bottleneck Isn't Compute — It's Memory",
-      "9. I Put Google's 24/7 AI Assistant Gemini Spark to Work, and It's Actually Pretty Useful",
-      "10. As the Browser Wars Heat Up, Here Are the Hottest Alternatives to Chrome and Safari in 2026",
-      "The \"AI-Pilled\" Company: A Cautionary Tale",
-      "So You've Heard These AI Terms and Nodded Along; Let's Fix That",
-      "How the Pope's Magnifica Humanitas Offers a Template for Individuals to Meet the AI Moment"
     ]
   }
 ]
