@@ -1,13 +1,1 @@
-[
-  {
-    "nameEn": "Claude",
-    "nameZh": "Claude",
-    "descEn": "Anthropic's AI assistant — excels at long-form text, code generation, and deep analytical reasoning.",
-    "descZh": "Anthropic开发的AI助手，擅长长文本理解、代码生成和深度分析",
-    "url": "https://claude.ai",
-    "category": "对话助手",
-    "categoryEn": "Chat Assistant",
-    "icon": "🧠",
-    "date": "2026-01-15"
-  }
-]
+[]
