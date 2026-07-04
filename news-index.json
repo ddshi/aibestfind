@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-04",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-04",
+    "titleZh": "AI资讯早报 | 2026-07-04",
+    "title": "AI News Morning Brief | 2026-07-04",
+    "slug": "news-2026-07-04-morning",
+    "headlines": [
+      "1. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
+      "2. Mark Zuckerberg Tells Staff That AI Agents Haven't Progressed as Quickly as He'd Hoped",
+      "3. Microsoft Launches Its Own AI Deployment Company with $2.5 Billion Commitment",
+      "4. Anthropic Is Discussing a New Custom Chip with Samsung",
+      "5. Cloudflare's New Policy Pushes AI Companies to Pay for Publishers' Content",
+      "6. A Device That Revives Eyeballs from Dead Donors Could Make Eye Transplants Possible",
+      "7. Meta Quietly Launches Vibe-Coded Gaming App Pocket",
+      "8. Indian Tech Tycoon Bets $30M of His Own Money to Build AI Alternative to Microsoft Office",
+      "9. Teaching AI to Run with the Turbines",
+      "10. Jersey Mike's IPO Illustrates How Bad the AI Hype Has Become"
+    ]
+  },
+  {
     "date": "2026-07-03",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1243,27 +1264,6 @@
       "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
       "This AI weather startup is out-forecasting government agencies",
       "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs"
-    ]
-  },
-  {
-    "date": "2026-06-02",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-02",
-    "titleZh": "AI资讯晚报 | 2026-06-02",
-    "title": "AI News Evening Brief | 2026-06-02",
-    "slug": "news-2026-06-02-evening",
-    "headlines": [
-      "1. Anthropic Files to Go Public",
-      "2. SoftBank Says It Will Invest Up to €75 Billion to Build French Data Centers",
-      "3. China Has Approved the World's First Invasive Brain-Computer Chip—Here's What's Next",
-      "4. Erin Brockovich Takes Aim at Data Center Secrecy",
-      "5. 'What a Joke': GitHub Copilot's New Token-Based Billing Spurs Consternation Among Devs",
-      "6. This AI Weather Startup Is Out-Forecasting Government Agencies",
-      "7. Coders Are Refusing to Work Without AI — and That Could Come Back to Bite Them",
-      "8. DuckDuckGo Makes Its 'No-AI' Search Engine Easier to Access as Its Traffic Booms",
-      "9. Meta Is Reportedly Developing an AI Pendant",
-      "10. Water Access Is Now a Risk Factor in SpaceX's IPO"
     ]
   }
 ]
