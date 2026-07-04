@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-04",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-04",
+    "titleZh": "AI资讯晚报 | 2026-07-04",
+    "title": "AI News Evening Brief | 2026-07-04",
+    "slug": "news-2026-07-04-evening",
+    "headlines": [
+      "1. Mark Zuckerberg Tells Staff That AI Agents Haven't Progressed as Quickly as He'd Hoped",
+      "2. Microsoft Launches Its Own AI Deployment Company with $2.5 Billion Commitment",
+      "3. Anthropic Is Discussing a New Custom Chip with Samsung",
+      "4. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
+      "5. Cloudflare's New Policy Pushes AI Companies to Pay for Publishers' Content",
+      "6. Jersey Mike's IPO Illustrates How Bad the AI Hype Has Become",
+      "7. A Device That Revives Eyeballs from Dead Donors Could Make Eye Transplants Possible",
+      "8. Meta Quietly Launches Vibe-Coded Gaming App Pocket",
+      "9. Indian Tech Tycoon Bets $30M of His Own Money to Build AI Alternative to Microsoft Office",
+      "10. Teaching AI to Run with the Turbines"
+    ]
+  },
+  {
+    "date": "2026-07-04",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-07-04",
@@ -1243,27 +1264,6 @@
       "China Approves World's First Invasive Brain-Computer Chip",
       "Microsoft Offers Devs a Better Way to Control AI Agent Behavior",
       "Rocket Engine Startup Impulse Raises $500 Million to Hire People, Not AI"
-    ]
-  },
-  {
-    "date": "2026-06-02",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-02",
-    "titleZh": "AI资讯早报 | 2026-06-02",
-    "title": "AI News Morning Brief | 2026-06-02",
-    "slug": "news-2026-06-02-morning",
-    "headlines": [
-      "Alphabet plans to raise $80B to pay for AI buildout",
-      "SoftBank says it will invest up to €75B to build French data centers",
-      "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-      "Erin Brockovich takes aim at data center secrecy",
-      "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-      "Anthropic files to go public",
-      "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
-      "This AI weather startup is out-forecasting government agencies",
-      "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs"
     ]
   }
 ]
