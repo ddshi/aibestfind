@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-05",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-05",
+    "titleZh": "AI资讯早报 | 2026-07-05",
+    "title": "AI News Morning Brief | 2026-07-05",
+    "slug": "news-2026-07-05-morning",
+    "headlines": [
+      "1. Microsoft Launches Its Own AI Deployment Company with $2.5 Billion Commitment",
+      "2. Anthropic Is Discussing a New Custom Chip with Samsung",
+      "3. Mark Zuckerberg Tells Staff That AI Agents Haven’t Progressed as Quickly as He’d Hoped",
+      "4. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
+      "5. Midjourney Wants Hollywood Studios to Reveal the Details of Their AI Usage",
+      "6. Alibaba Reportedly Bans Employees from Using Claude Code",
+      "7. A Device That Revives Eyeballs from Dead Donors Could Make Eye Transplants Possible",
+      "8. Jersey Mike’s IPO Illustrates How Bad the AI Hype Has Become",
+      "9. Meta Quietly Launches Vibe-Coded Gaming App Pocket",
+      "10. The Browser Wars Aren’t About Search Anymore — Here Are the Best Alternatives to Chrome and Safari"
+    ]
+  },
+  {
     "date": "2026-07-04",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1243,27 +1264,6 @@
       "8. Microsoft Launches Scout, an OpenClaw-Inspired Personal Assistant",
       "9. Amazon Faces Class Action Over Ring Facial Recognition",
       "10. OpenAI Launches New Codex Tools for White-Collar Work"
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-03",
-    "titleZh": "AI资讯晚报 | 2026-06-03",
-    "title": "AI News Evening Brief | 2026-06-03",
-    "slug": "news-2026-06-03-evening",
-    "headlines": [
-      "Anthropic Files to Go Public as It Scales Claude Mythos to Critical Infrastructure",
-      "Florida Sues OpenAI and Sam Altman in First-of-Its-Kind Lawsuit Over Violent Incidents",
-      "Alphabet Plans to Raise $80 Billion to Pay for AI Buildout",
-      "Nvidia Chases $200B CPU Market with AI Agent PCs from Microsoft, Dell, and HP",
-      "Trump Signs Narrower Executive Order on AI Oversight After Industry Objections",
-      "Amazon Faces Class Action Lawsuit Over Ring Facial Recognition Feature",
-      "OpenAI Launches New Codex Tools for White-Collar Work",
-      "China Approves World's First Invasive Brain-Computer Chip",
-      "Microsoft Offers Devs a Better Way to Control AI Agent Behavior",
-      "Rocket Engine Startup Impulse Raises $500 Million to Hire People, Not AI"
     ]
   }
 ]
