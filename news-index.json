@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-05",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-05",
+    "titleZh": "AI资讯晚报 | 2026-07-05",
+    "title": "AI News Evening Brief | 2026-07-05",
+    "slug": "news-2026-07-05-evening",
+    "headlines": [
+      "1. Mark Zuckerberg Tells Staff That AI Agents Haven't Progressed as Quickly as He'd Hoped",
+      "2. Microsoft Launches Its Own AI Deployment Company with $2.5 Billion Commitment",
+      "3. Anthropic Is Discussing a New Custom Chip with Samsung",
+      "4. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
+      "5. Alibaba Reportedly Bans Employees from Using Claude Code",
+      "6. Midjourney Wants Hollywood Studios to Reveal the Details of Their AI Usage",
+      "7. Meta Quietly Launches Vibe-Coded Gaming App Pocket",
+      "8. New Google Commercial Imagines a Declaration of Independence Written with Help from AI",
+      "9. Jersey Mike's IPO Illustrates How Bad the AI Hype Has Become",
+      "10. What Is Mistral AI? Everything to Know About the OpenAI Competitor"
+    ]
+  },
+  {
+    "date": "2026-07-05",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-07-05",
@@ -1243,27 +1264,6 @@
       "Uber Caps Employee AI Spending After Blowing Through Budget in 4 Months",
       "Google Rolls Out Fake Call Detection to Protect Against AI Deepfake Impersonation Scams",
       "Martin Scorsese Becomes the Latest — and Most Unlikely — Hollywood Voice for AI"
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-03",
-    "titleZh": "AI资讯早报 | 2026-06-03",
-    "title": "AI News Morning Brief | 2026-06-03",
-    "slug": "news-2026-06-03-morning",
-    "headlines": [
-      "1. Florida Sues OpenAI and Sam Altman in Landmark Safety Lawsuit",
-      "2. Alphabet Plans $80B Raise to Fuel AI Infrastructure Buildout",
-      "3. Anthropic Scales Claude Mythos to Critical Infrastructure in 15+ Countries",
-      "4. Nvidia Chases $200B CPU Market with AI Agent PCs",
-      "5. Trump Signs Narrower Executive Order on AI Oversight",
-      "6. Google Rolls Out Fake Call Detection to Combat AI Deepfake Scams",
-      "7. Uber Caps Employee AI Spending After Budget Burned in 4 Months",
-      "8. Microsoft Launches Scout, an OpenClaw-Inspired Personal Assistant",
-      "9. Amazon Faces Class Action Over Ring Facial Recognition",
-      "10. OpenAI Launches New Codex Tools for White-Collar Work"
     ]
   }
 ]
