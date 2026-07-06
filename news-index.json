@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-06",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-06",
+    "titleZh": "AI资讯早报 | 2026-07-06",
+    "title": "AI News Morning Brief | 2026-07-06",
+    "slug": "news-2026-07-06-morning",
+    "headlines": [
+      "1. Amazon Will Stop Accepting New Customers for Mechanical Turk",
+      "2. Mark Zuckerberg Tells Staff That AI Agents Haven’t Progressed as Quickly as He’d Hoped",
+      "3. Anthropic Is Discussing a New Custom Chip with Samsung",
+      "4. Microsoft Launches Its Own AI Deployment Company with $2.5 Billion Commitment",
+      "5. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
+      "6. Midjourney Wants Hollywood Studios to Reveal the Details of Their AI Usage",
+      "7. Alibaba Reportedly Bans Employees from Using Claude Code",
+      "8. New Google Commercial Imagines a Declaration of Independence Written with Help from AI",
+      "9. A Device That Revives Eyeballs from Dead Donors Could Make Eye Transplants Possible",
+      "10. Jersey Mike’s IPO Illustrates How Bad the AI Hype Has Become"
+    ]
+  },
+  {
     "date": "2026-07-05",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1243,27 +1264,6 @@
       "Trump Signs Narrower Executive Order on AI Oversight After Industry Objections",
       "Google Rolls Out Fake Call Detection to Protect Against AI Deepfake Impersonation Scams",
       "Amazon Faces Class Action Lawsuit Over Ring Facial-Recognition Feature"
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-04",
-    "titleZh": "AI资讯晚报 | 2026-06-04",
-    "title": "AI News Evening Brief | 2026-06-04",
-    "slug": "news-2026-06-04-evening",
-    "headlines": [
-      "Trump Signs Narrower Executive Order on AI Oversight After Industry Objections",
-      "Publishers Will Be Able to Opt Out of AI Search, Thanks to New Regulation",
-      "Anthropic Scales Claude Mythos to Critical Infrastructure in 15+ Countries",
-      "Meta’s AI Agent for WhatsApp Business Is Now Available Globally",
-      "Amazon Faces Class Action Lawsuit Over Ring Facial-Recognition Feature",
-      "Coralogix Raises $200M on Bet That Someone Needs to Watch the AI Agents",
-      "How Virtual Power Plants Could Provide Energy for Data Centers",
-      "Uber Caps Employee AI Spending After Blowing Through Budget in 4 Months",
-      "Google Rolls Out Fake Call Detection to Protect Against AI Deepfake Impersonation Scams",
-      "Martin Scorsese Becomes the Latest — and Most Unlikely — Hollywood Voice for AI"
     ]
   }
 ]
