@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-07",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-07",
+    "titleZh": "AI资讯晚报 | 2026-07-07",
+    "title": "AI News Evening Brief | 2026-07-07",
+    "slug": "news-2026-07-07-evening",
+    "headlines": [
+      "1. Mark Zuckerberg Tells Staff That AI Agents Haven’t Progressed as Quickly as He’d Hoped",
+      "2. Microsoft Lays Off Nearly 5,000 Employees Across Xbox, Commercial Sales",
+      "3. Amazon Will Stop Accepting New Customers for Mechanical Turk",
+      "4. Anthropic Is Discussing a New Custom Chip with Samsung",
+      "5. South Korea’s Hottest New Bachelors Are Chip Workers",
+      "6. Alibaba Reportedly Bans Employees from Using Claude Code",
+      "7. Midjourney Wants Hollywood Studios to Reveal the Details of Their AI Usage",
+      "8. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
+      "9. Station F Ramps Up as a Launchpad for Europe’s Hottest AI Startups",
+      "10. Meta Quietly Launches Vibe-Coded Gaming App Pocket"
+    ]
+  },
+  {
     "date": "2026-07-06",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1240,30 +1261,6 @@
       "8. Uber Caps Employee AI Spending After Blowing Through Budget in 4 Months",
       "9. Coralogix Raises $200M on Bet That Someone Needs to Watch the AI Agents",
       "10. Martin Scorsese Becomes the Latest — and Most Unlikely — Hollywood Voice for AI"
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-04",
-    "titleZh": "AI资讯早报 | 2026-06-04",
-    "title": "AI News Morning Brief | 2026-06-04",
-    "slug": "news-2026-06-04-morning",
-    "headlines": [
-      "Alphabet’s Record-Breaking $85B Raise for Google’s AI Business Is a Helluva Good Signal",
-      "Coralogix Raises $200M on Bet That Someone Needs to Watch the AI Agents",
-      "Cyera Eyes $12B Valuation at 80x ARR Multiple Despite Operating Losses",
-      "Uber Caps Employee AI Spending After Blowing Through Budget in 4 Months",
-      "Google’s Dreambeans: Your Life, Turned Into a Cartoon",
-      "Amazon Will Show AI Product Images When You Search for Some Reason",
-      "Meta’s AI Agent for WhatsApp Business Is Now Available Globally",
-      "Microsoft Launches Scout, an OpenClaw-Inspired Personal Assistant",
-      "New Microsoft Tool Lets Devs Spin Up AI Behavior Tests Using Text Descriptions",
-      "Publishers Will Be Able to Opt Out of AI Search, Thanks to New Regulation",
-      "Trump Signs Narrower Executive Order on AI Oversight After Industry Objections",
-      "Google Rolls Out Fake Call Detection to Protect Against AI Deepfake Impersonation Scams",
-      "Amazon Faces Class Action Lawsuit Over Ring Facial-Recognition Feature"
     ]
   }
 ]
