@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-08",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-08",
+    "titleZh": "AI资讯晚报 | 2026-07-08",
+    "title": "AI News Evening Brief | 2026-07-08",
+    "slug": "news-2026-07-08-evening",
+    "headlines": [
+      "1. The First American Autonomous Ground Vehicles Are Fighting in Ukraine",
+      "2. Microsoft Lays Off Nearly 5,000 Employees Across Xbox, Commercial Sales",
+      "3. Savi’s App Aims to Protect Consumers from Realistic AI Scams Like Kidnappers Demanding Ransom",
+      "4. US Investors Will Soon Get Access to SK Hynix, Another Memory Maker Riding the AI Boom",
+      "5. The ‘First’ AI-Run Ransomware Attack Still Needed a Human",
+      "6. Vercel CEO Guillermo Rauch on the Fight to Split Off Models from Agents",
+      "7. You Can Now Customize Siri’s Pace and Expressivity in the Latest iOS 27 Beta",
+      "8. Amazon Will Stop Accepting New Customers for Mechanical Turk",
+      "9. Reddit Is Using LLMs to Solve a Problem LLMs Largely Created",
+      "10. Station F Ramps Up as a Launchpad for Europe’s Hottest AI Startups"
+    ]
+  },
+  {
     "date": "2026-07-07",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1240,27 +1261,6 @@
       "8. Apple Approves Poke as the First AI Agent on its Messages for Business Platform",
       "9. Mira Murati Steps Back into the Spotlight, Carefully",
       "10. How Courts Are Coping with a Flood of AI-Generated Lawsuits"
-    ]
-  },
-  {
-    "date": "2026-06-05",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-05",
-    "titleZh": "AI资讯早报 | 2026-06-05",
-    "title": "AI News Morning Brief | 2026-06-05",
-    "slug": "news-2026-06-05-morning",
-    "headlines": [
-      "1. Alphabet’s Record-Breaking $85B Raise for Google’s AI Business Is a Helluva Good Signal",
-      "2. Ahead of Its IPO, Anthropic’s Daniela Amodei Shrugs Off Doubts About AI’s Returns",
-      "3. Apple Approves Poke as the First AI Agent on Its Messages for Business Platform",
-      "4. What to Expect from WWDC 2026: Siri’s Highly Anticipated Revamp and Apple Intelligence Updates",
-      "5. Meta Steals a Tactic from Tesla and Builds Data Centers in Tents",
-      "6. How Courts Are Coping with a Flood of AI-Generated Lawsuits",
-      "7. Airbnb’s Brian Chesky Plans to Launch a New AI Lab",
-      "8. Mira Murati Steps Back into the Spotlight, Carefully",
-      "9. How Virtual Power Plants Could Provide Energy for Data Centers",
-      "10. Meta Rolls Out a New AI Creator Assistant on Facebook"
     ]
   }
 ]
