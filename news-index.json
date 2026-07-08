@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-08",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-08",
+    "titleZh": "AI资讯早报 | 2026-07-08",
+    "title": "AI News Morning Brief | 2026-07-08",
+    "slug": "news-2026-07-08-morning",
+    "headlines": [
+      "Meta Launches Muse Image Generator Amidst User Privacy Backlash",
+      "Microsoft Doubles Down on In-House AI Models to Slash Costs",
+      "Anthropic’s Claude Cowork Expands to Mobile and Web, Escalating Agent Wars",
+      "Discord Admits AI Moderation Bug Wrongfully Banned Users Over Harmless Images",
+      "The First American Autonomous Ground Vehicles Are Fighting in Ukraine",
+      "The 'First' AI-Run Ransomware Attack Still Needed a Human",
+      "US Investors Will Soon Get Access to SK Hynix, Riding the AI Memory Boom",
+      "Your Family’s $300 Stake in OpenAI",
+      "Savi’s App Aims to Protect Consumers from Realistic AI Scams",
+      "Reddit Is Using LLMs to Solve a Problem LLMs Largely Created"
+    ]
+  },
+  {
+    "date": "2026-07-08",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-07-08",
@@ -1240,27 +1261,6 @@
       "Apple Approves Poke as the First AI Agent on Its Messages for Business Platform",
       "Airbnb's Brian Chesky Plans to Launch a New AI Lab",
       "The 'Together Tech' Wave Might Be the Most Intriguing Startup Bet of 2026"
-    ]
-  },
-  {
-    "date": "2026-06-06",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-06",
-    "titleZh": "AI资讯晚报 | 2026-06-06",
-    "title": "AI News Evening Brief | 2026-06-06",
-    "slug": "news-2026-06-06-evening",
-    "headlines": [
-      "1. The Token Bill Comes Due: Inside the Industry Scramble to Manage AI's Runaway Costs",
-      "2. Alphabet's Record-Breaking $85B Raise for Google's AI Business is a Helluva Good Signal",
-      "3. The Meta Hack Shows There's More to AI Security Than Mythos",
-      "4. Ahead of Its IPO, Anthropic's Daniela Amodei Shrugs Off Doubts About AI's Returns",
-      "5. Are AI Chatbots Making Us Lose Control of Our Brains?",
-      "6. Meta Steals a Tactic from Tesla and Builds Data Centers in Tents",
-      "7. AirTrunk Commits $30B to Build 5GW of AI Data Centers in India",
-      "8. Apple Approves Poke as the First AI Agent on its Messages for Business Platform",
-      "9. Mira Murati Steps Back into the Spotlight, Carefully",
-      "10. How Courts Are Coping with a Flood of AI-Generated Lawsuits"
     ]
   }
 ]
