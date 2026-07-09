@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-09",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-09",
+    "titleZh": "AI资讯早报 | 2026-07-09",
+    "title": "AI News Morning Brief | 2026-07-09",
+    "slug": "news-2026-07-09-morning",
+    "headlines": [
+      "1. AI Chip Maker SambaNova Raises $1B at $11B Valuation, 5 Months After Last Mega Round",
+      "2. Google's Deepfake Detector System Used to Debunk McConnell Hoax Pic",
+      "3. SpaceXAI Releases Grok 4.5, Which Elon Describes as an 'Opus-Class Model'",
+      "4. OpenAI Releases New Voice Models for More Natural Live Conversations",
+      "5. Prime Intellect Raises $130M Series A to Help Enterprises Build Their Own AI Agents",
+      "6. Why This CEO Thinks Video Games Make Better Training Data Than the Internet",
+      "7. Meta Wants Its AI Glasses to Seem Less Creepy. Its AI Strategy Says Otherwise.",
+      "8. Microsoft Joins AI Cost-Cutting Trend by Relying More on Its Own Models",
+      "9. Lovable Reportedly in Talks to Double Its Valuation to $13.2B",
+      "10. Meta Just Launched a New AI Generator, Muse Image, and Users Are Already Pushing Back Over Use of Their Photos"
+    ]
+  },
+  {
     "date": "2026-07-08",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1240,27 +1261,6 @@
       "8. Ahead of Its IPO, Anthropic’s Daniela Amodei Shrugs Off Doubts About AI’s Returns",
       "9. Meta Steals a Tactic from Tesla and Builds Data Centers in Tents",
       "10. Are AI Chatbots Making Us Lose Control of Our Brains?"
-    ]
-  },
-  {
-    "date": "2026-06-06",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-06",
-    "titleZh": "AI资讯早报 | 2026-06-06",
-    "title": "AI News Morning Brief | 2026-06-06",
-    "slug": "news-2026-06-06-morning",
-    "headlines": [
-      "Google Will Pay SpaceX $920M Per Month for Compute",
-      "The Token Bill Comes Due: Inside the Industry Scramble to Manage AI's Runaway Costs",
-      "AirTrunk Commits $30B to Build 5GW of AI Data Centers in India",
-      "Ahead of Its IPO, Anthropic's Daniela Amodei Shrugs Off Doubts About AI's Returns",
-      "The Meta Hack Shows There's More to AI Security Than Mythos",
-      "Are AI Chatbots Making Us Lose Control of Our Brains?",
-      "Meta Steals a Tactic from Tesla and Builds Data Centers in Tents",
-      "Apple Approves Poke as the First AI Agent on Its Messages for Business Platform",
-      "Airbnb's Brian Chesky Plans to Launch a New AI Lab",
-      "The 'Together Tech' Wave Might Be the Most Intriguing Startup Bet of 2026"
     ]
   }
 ]
