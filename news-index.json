@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-07-10",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-10",
+    "titleZh": "AI资讯晚报 | 2026-07-10",
+    "title": "AI News Evening Brief | 2026-07-10",
+    "slug": "news-2026-07-10-evening",
+    "headlines": [
+      "Anthropic, OpenAI, and SpaceX Are Bigger Than the Last 25 Years of Tech Exits",
+      "SpaceXAI Releases Grok 4.5, an 'Opus-Class Model'",
+      "Popular Open Source AI Developer Tool Ollama Raises $65M, Grows to Nearly 9M Users",
+      "Prime Intellect Raises $130M Series A to Help Enterprises Build Their Own AI Agents",
+      "Anthropic’s New Claude Feature is Quietly Selling You on AI",
+      "OpenAI Releases New Voice Models for More Natural Live Conversations",
+      "Google’s Deepfake Detector System Used to Debunk McConnell Hoax Pic",
+      "This Startup Thinks Robotics is About to Have Its ChatGPT Moment",
+      "Why This CEO Thinks Video Games Make Better Training Data Than the Internet",
+      "Meta Wants Its AI Glasses to Seem Less Creepy. Its AI Strategy Says Otherwise.",
+      "These AI Startups Are Growing Revenue at Faster and Faster Rates"
+    ]
+  },
+  {
     "date": "2026-07-09",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1240,27 +1262,6 @@
       "What to Expect from WWDC 2026: Siri’s Highly Anticipated Revamp and Apple Intelligence Updates",
       "Apple Approves Poke as the First AI Agent on Its Messages for Business Platform",
       "Mira Murati Steps Back into the Spotlight, Carefully"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-07",
-    "titleZh": "AI资讯早报 | 2026-06-07",
-    "title": "AI News Morning Brief | 2026-06-07",
-    "slug": "news-2026-06-07-morning",
-    "headlines": [
-      "1. Google Will Pay SpaceX $920M Per Month for Compute",
-      "2. The Token Bill Comes Due: Inside the Industry Scramble to Manage AI’s Runaway Costs",
-      "3. OpenAI Unveils Lockdown Mode to Protect Sensitive Data from Prompt Injection Attacks",
-      "4. The Meta Hack Shows There’s More to AI Security Than Mythos",
-      "5. AirTrunk Commits $30B to Build 5GW of AI Data Centers in India",
-      "6. What to Expect from WWDC 2026: Siri’s Highly Anticipated Revamp and Apple Intelligence Updates",
-      "7. The Trump Administration Might Take an Equity Stake in OpenAI",
-      "8. Ahead of Its IPO, Anthropic’s Daniela Amodei Shrugs Off Doubts About AI’s Returns",
-      "9. Meta Steals a Tactic from Tesla and Builds Data Centers in Tents",
-      "10. Are AI Chatbots Making Us Lose Control of Our Brains?"
     ]
   }
 ]
