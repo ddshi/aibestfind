@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-07-11",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-11",
+    "titleZh": "AI资讯晚报 | 2026-07-11",
+    "title": "AI News Evening Brief | 2026-07-11",
+    "slug": "news-2026-07-11-evening",
+    "headlines": [
+      "OpenAI Launches GPT-5.6, Names It the \"Preferred Model\" for Microsoft Copilot",
+      "OpenAI COO Fidji Simo Steps Down from No. 2 Role",
+      "Anthropic Discovers a Hidden \"Concept Space\" Inside Claude",
+      "AI Agent Startup Lets Its Own Agent Run a $100M Fundraise",
+      "New York Times Accuses OpenAI of Hiding Evidence in Copyright Trial",
+      "Google Mandates Disclosure for AI-Generated Ads",
+      "Meta Enters AI Coding Battle with Muse Spark 1.1",
+      "Meta's Custom AI Chips to Begin Production in September",
+      "OpenAI Shuts Down Atlas Browser, But AI Browser Ambitions Remain",
+      "Anthropic, OpenAI, and SpaceX Now Exceed Value of Last 25 Years of Tech Exits",
+      "Paris-Based AI Voice Startup Gradium Raises $100M Seed Round Backed by Nvidia",
+      "Government Safety Review: How Did OpenAI's Frontier Model Get Cleared for Release?"
+    ]
+  },
+  {
     "date": "2026-07-10",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1238,27 +1261,6 @@
       "8. Are AI Chatbots Making Us Lose Control of Our Brains?",
       "9. The Meta Hack Shows There’s More to AI Security than Mythos",
       "10. Mira Murati Steps Back into the Spotlight, Carefully"
-    ]
-  },
-  {
-    "date": "2026-06-08",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-08",
-    "titleZh": "AI资讯早报 | 2026-06-08",
-    "title": "AI News Morning Brief | 2026-06-08",
-    "slug": "news-2026-06-08-morning",
-    "headlines": [
-      "1. Is This the Dawn of the Tokenpocalypse?",
-      "2. Google Will Pay SpaceX $920M Per Month for Compute",
-      "3. OpenAI Unveils Lockdown Mode to Protect Sensitive Data from Prompt Injection Attacks",
-      "4. What to Expect from WWDC 2026: Siri's Highly Anticipated Revamp and Apple Intelligence Updates",
-      "5. The Trump Administration Might Take an Equity Stake in OpenAI",
-      "6. The Token Bill Comes Due: Inside the Industry Scramble to Manage AI's Runaway Costs",
-      "7. The Meta Hack Shows There's More to AI Security Than Mythos",
-      "8. Ahead of Its IPO, Anthropic's Daniela Amodei Shrugs Off Doubts About AI's Returns",
-      "9. Sriram Krishnan Is Leaving His Role as White House AI Advisor",
-      "10. AirTrunk Commits $30B to Build 5GW of AI Data Centers in India"
     ]
   }
 ]
