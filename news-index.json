@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-10",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-10",
+    "titleZh": "AI资讯早报 | 2026-07-10",
+    "title": "AI News Morning Brief | 2026-07-10",
+    "slug": "news-2026-07-10-morning",
+    "headlines": [
+      "1. OpenAI Launches GPT-5.6, Names It Preferred Model for Microsoft Copilot",
+      "2. Fidji Simo Steps Down as OpenAI’s No. 2",
+      "3. New York Times Accuses OpenAI of Hiding Evidence in Copyright Trial",
+      "4. AI Agent Startup Lets Its Agent Run a $100 Million Fundraise",
+      "5. Anthropic Discovers a Hidden Space Where Claude Puzzles Over Concepts",
+      "6. Meta Enters the AI Coding Battle with Muse Spark 1.1",
+      "7. Anthropic, OpenAI, and SpaceX Are Bigger Than the Last 25 Years of Tech Exits",
+      "8. Google Will Now Disclose Which Ads Are Made with AI",
+      "9. Meta’s New AI Chips Will Begin Production in September",
+      "10. Popular Open Source AI Tool Ollama Raises $65M, Grows to Nearly 9M Users"
+    ]
+  },
+  {
+    "date": "2026-07-10",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-07-10",
@@ -1238,30 +1259,6 @@
       "8. Ahead of Its IPO, Anthropic's Daniela Amodei Shrugs Off Doubts About AI's Returns",
       "9. Sriram Krishnan Is Leaving His Role as White House AI Advisor",
       "10. AirTrunk Commits $30B to Build 5GW of AI Data Centers in India"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-07",
-    "titleZh": "AI资讯晚报 | 2026-06-07",
-    "title": "AI News Evening Brief | 2026-06-07",
-    "slug": "news-2026-06-07-evening",
-    "headlines": [
-      "Google Will Pay SpaceX $920M Per Month for Compute",
-      "AirTrunk Commits $30B to Build 5GW of AI Data Centers in India",
-      "Meta Steals a Tactic from Tesla and Builds Data Centers in Tents",
-      "The Trump Administration Might Take an Equity Stake in OpenAI",
-      "Sriram Krishnan Is Leaving His Role as White House AI Advisor",
-      "Ahead of Its IPO, Anthropic’s Daniela Amodei Shrugs Off Doubts About AI’s Returns",
-      "The Meta Hack Shows There’s More to AI Security Than Mythos",
-      "OpenAI Unveils Lockdown Mode to Protect Sensitive Data from Prompt Injection Attacks",
-      "The Token Bill Comes Due: Inside the Industry Scramble to Manage AI’s Runaway Costs",
-      "Are AI Chatbots Making Us Lose Control of Our Brains?",
-      "What to Expect from WWDC 2026: Siri’s Highly Anticipated Revamp and Apple Intelligence Updates",
-      "Apple Approves Poke as the First AI Agent on Its Messages for Business Platform",
-      "Mira Murati Steps Back into the Spotlight, Carefully"
     ]
   }
 ]
