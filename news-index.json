@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-11",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-11",
+    "titleZh": "AI资讯早报 | 2026-07-11",
+    "title": "AI News Morning Brief | 2026-07-11",
+    "slug": "news-2026-07-11-morning",
+    "headlines": [
+      "OpenAI Launches GPT-5.6, Instantly Becomes Preferred Model for Microsoft Copilot",
+      "New York Times Alleges OpenAI Hid Evidence in Copyright Trial",
+      "Apple Sues OpenAI Over Alleged Trade Secret Theft",
+      "SK Hynix Raises $26.5B in Historic US IPO, Urged to Build New Fabs",
+      "An AI Agent Startup Let Its Agent Run Its $100M Fundraise",
+      "Meta Removes Controversial AI Feature on Instagram After Backlash",
+      "Anthropic Found a Hidden Space Where Claude Puzzles Over Concepts",
+      "Hugging Face’s CEO on Why Companies Are Done Renting Their AI",
+      "Google Will Now Disclose Which Ads Are Made with AI",
+      "Fidji Simo Steps Down from OpenAI’s No. 2 Role"
+    ]
+  },
+  {
+    "date": "2026-07-11",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-07-11",
@@ -1240,27 +1261,6 @@
       "8. Amazon Now Lets You Design Custom Merch Using AI",
       "9. Is This the Dawn of the Tokenpocalypse?",
       "10. Apple’s Image Playground Doesn’t Suck Anymore"
-    ]
-  },
-  {
-    "date": "2026-06-09",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-09",
-    "titleZh": "AI资讯晚报 | 2026-06-09",
-    "title": "AI News Evening Brief | 2026-06-09",
-    "slug": "news-2026-06-09-evening",
-    "headlines": [
-      "1. Google Will Pay SpaceX $920M Per Month for Compute",
-      "2. AirTrunk Commits $30B to Build 5GW of AI Data Centers in India",
-      "3. The Token Bill Comes Due: Inside the Industry Scramble to Manage AI’s Runaway Costs",
-      "4. OpenAI Unveils Lockdown Mode to Protect Sensitive Data from Prompt Injection Attacks",
-      "5. The Trump Administration Might Take an Equity Stake in OpenAI",
-      "6. Sriram Krishnan Is Leaving His Role as White House AI Advisor",
-      "7. OpenAI Is Still Working on That ‘Super App’",
-      "8. Are AI Chatbots Making Us Lose Control of Our Brains?",
-      "9. The Meta Hack Shows There’s More to AI Security than Mythos",
-      "10. Mira Murati Steps Back into the Spotlight, Carefully"
     ]
   }
 ]
