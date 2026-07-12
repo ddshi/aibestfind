@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-12",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-12",
+    "titleZh": "AI资讯早报 | 2026-07-12",
+    "title": "AI News Morning Brief | 2026-07-12",
+    "slug": "news-2026-07-12-morning",
+    "headlines": [
+      "1. Apple Sues OpenAI Over Alleged Trade Secret Theft",
+      "2. OpenAI Launches GPT-5.6, Names It the 'Preferred Model' for Microsoft Copilot",
+      "3. SK Hynix Raises $26.5B in Historic U.S. IPO, Urged to Build New Fabs",
+      "4. Anthropic Discovers a 'Hidden Space' Where Claude Puzzles Over Concepts",
+      "5. An AI Agent Startup Just Let Its Agent Run Its $100M Fundraise",
+      "6. New York Times Says OpenAI Hid Evidence in ChatGPT Copyright Trial",
+      "7. Meta Removes Controversial AI Feature on Instagram After Backlash",
+      "8. Hugging Face CEO: 'Companies Are Done Renting Their AI'",
+      "9. Fidji Simo Steps Down from OpenAI's No. 2 Role",
+      "10. Google Will Now Disclose Which Ads Are Made with AI"
+    ]
+  },
+  {
     "date": "2026-07-11",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1240,27 +1261,6 @@
       "8. As OpenAI Files for IPO, Sam Altman’s Eye-Scanning Company Is Doing Layoffs",
       "9. Five Things You Need to Know About AI",
       "10. How an E-Scooter Founder Raised $5 Million to Build Space Data Centers"
-    ]
-  },
-  {
-    "date": "2026-06-09",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-09",
-    "titleZh": "AI资讯早报 | 2026-06-09",
-    "title": "AI News Morning Brief | 2026-06-09",
-    "slug": "news-2026-06-09-morning",
-    "headlines": [
-      "1. OpenAI Files Confidentially for IPO, Following Anthropic",
-      "2. Apple’s Long-Awaited AI Siri Overhaul Is Finally Here",
-      "3. Apple’s WWDC AI Demos Looked More Real After $250M False Ad Settlement",
-      "4. Apple Bets Cheaper AI Will Woo Small Developers",
-      "5. Mercor’s Brendan Foody Calls Out Sequoia, Accusing It of ‘Dual-Pricing’ Valuation Tricks",
-      "6. As OpenAI Files for IPO, Sam Altman’s Eye-Scanning Company Is Doing Layoffs",
-      "7. Apple’s Slow-and-Steady AI Bet Is Starting to Look Pretty Smart",
-      "8. Amazon Now Lets You Design Custom Merch Using AI",
-      "9. Is This the Dawn of the Tokenpocalypse?",
-      "10. Apple’s Image Playground Doesn’t Suck Anymore"
     ]
   }
 ]
