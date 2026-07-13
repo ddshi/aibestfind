@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-14",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-14",
+    "titleZh": "AI资讯晚报 | 2026-07-14",
+    "title": "AI News Evening Brief | 2026-07-14",
+    "slug": "news-2026-07-14-evening",
+    "headlines": [
+      "OpenAI Launches GPT-5.6, Cementing a Fractious Alliance with Microsoft",
+      "Apple Sues OpenAI Over Alleged Trade Secret Theft",
+      "SK Hynix Raises $26.5B in Historic US IPO, Urged to Build New Fabs",
+      "Anthropic Localizes Claude Pricing for India, Its Biggest Market After the US",
+      "Fidji Simo Steps Down from OpenAI’s No. 2 Role",
+      "OpenAI Bets on Families as ChatGPT Goes Deeper into Households",
+      "Meta Removes Controversial AI Feature on Instagram After Backlash",
+      "Anthropic Found a Hidden Space Where Claude Puzzles Over Concepts",
+      "An AI Agent Startup Just Let Its Agent Run Its $100M Fundraise",
+      "Open Source AI Matters More Than Ever, According to Hugging Face’s Clem Delangue"
+    ]
+  },
+  {
     "date": "2026-07-13",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1235,32 +1256,6 @@
       "8. Decart’s New World Model Can Simulate Hours of Photorealistic Driving — With Some Caveats",
       "9. Warner Music Acquires AI Attribution Startup Sureel AI",
       "10. Anthropic’s Dario Amodei Has Just One Direct Report"
-    ]
-  },
-  {
-    "date": "2026-06-11",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-11",
-    "titleZh": "AI资讯晚报 | 2026-06-11",
-    "title": "AI News Evening Brief | 2026-06-11",
-    "slug": "news-2026-06-11-evening",
-    "headlines": [
-      "1. Google Just Fired a Warning Shot in the AI Subscription Price Wars",
-      "2. Cybersecurity Researchers Aren’t Happy About the Guardrails on Anthropic’s Fable",
-      "3. Datadog Veterans Launch AI Coding Startup Niteshift on a Bet Against Big AI Lock-in",
-      "4. Meta Signs First AI Data Center Deal in India with Reliance",
-      "5. Anthropic’s Fable 5 Can Make Weirdly Fun Video Games With the Click of a Button",
-      "6. Decart’s New World Model Can Simulate Hours of Photorealistic Driving — With Some Caveats",
-      "7. Warner Music Acquires AI Attribution Startup Sureel AI",
-      "8. Jedify Raises $24M to Help Companies Arm AI Agents With Context on Their Business",
-      "9. Lovable Says It Has Hit $500M in Annualized Revenue, With 1 Million New Projects a Week",
-      "10. How Memory Tools Can Make AI Models Worse",
-      "Sandstone Raises $30M to Bring AI to In-House Legal Teams",
-      "Can Tech Companies Learn to Love Cheaper AI Models?",
-      "WWDC 2026: Everything Announced on Siri AI, iOS 27, Apple Intelligence, and More",
-      "It’s Not FAANG Anymore. It’s MANGOS.",
-      "Hey, Siri, Here’s What I Actually Want From AI"
     ]
   }
 ]
