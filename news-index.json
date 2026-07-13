@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-13",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-13",
+    "titleZh": "AI资讯早报 | 2026-07-13",
+    "title": "AI News Morning Brief | 2026-07-13",
+    "slug": "news-2026-07-13-morning",
+    "headlines": [
+      "OpenAI Launches GPT-5.6, Its New Family of Models",
+      "Apple Sues OpenAI Over Alleged Trade Secret Theft",
+      "SK Hynix Raises $26.5B in Record US IPO, Urged to Build New Fabs",
+      "OpenAI Bets on Families as ChatGPT Goes Deeper Into Households",
+      "Meta Removes Controversial AI Feature on Instagram After Backlash",
+      "Anthropic Found a Hidden Space Where Claude Puzzles Over Concepts",
+      "Hugging Face's CEO on Why Companies Are Done Renting Their AI",
+      "Fidji Simo Steps Down From OpenAI's No. 2 Role",
+      "New York Times Says OpenAI Hid Evidence in ChatGPT Copyright Trial",
+      "An AI Agent Startup Just Let Its Agent Run Its $100M Fundraise"
+    ]
+  },
+  {
     "date": "2026-07-12",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1240,27 +1261,6 @@
       "WWDC 2026: Everything Announced on Siri AI, iOS 27, Apple Intelligence, and More",
       "It’s Not FAANG Anymore. It’s MANGOS.",
       "Hey, Siri, Here’s What I Actually Want From AI"
-    ]
-  },
-  {
-    "date": "2026-06-10",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-10",
-    "titleZh": "AI资讯早报 | 2026-06-10",
-    "title": "AI News Morning Brief | 2026-06-10",
-    "slug": "news-2026-06-10-morning",
-    "headlines": [
-      "1. Apple’s WWDC 2026: The Pragmatic AI Giant Finally Shows Its Hand",
-      "2. OpenAI and Anthropic File Confidentially for IPOs — The AI Gold Rush Goes Public",
-      "3. Anthropic’s Claude Fable 5: Making Weirdly Fun Video Games with a Click",
-      "4. Google Fires a Warning Shot in the AI Subscription Price Wars",
-      "5. It’s Not FAANG Anymore. It’s MANGOS.",
-      "6. Can Tech Companies Learn to Love Cheaper AI Models?",
-      "7. Lovable Hits $500M ARR: The AI App Builder That Can’t Be Ignored",
-      "8. Sandstone Raises $30M to Bring AI to In-House Legal Teams",
-      "9. Learning to Lead in a Hybrid Human-AI Enterprise",
-      "10. The New Tech Power Broker: Justin Ernest’s $500M AI Bet"
     ]
   }
 ]
