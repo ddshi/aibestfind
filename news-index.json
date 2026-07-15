@@ -1,6 +1,26 @@
 [
   {
     "date": "2026-07-15",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-15",
+    "titleZh": "AI资讯晚报 | 2026-07-15",
+    "title": "AI News Evening Brief | 2026-07-15",
+    "slug": "news-2026-07-15-evening",
+    "headlines": [
+      "Anthropic, Blackstone Bet the Next Trillion-Dollar AI Business Is Implementation, Not Just Models",
+      "Indian AI Coding Startup Emergent Becomes a Unicorn with $130M Series C",
+      "Vint Cerf Is Working on a Plan to Unleash AI Agents on the Open Internet",
+      "New York State Halts Construction of All New Data Centers",
+      "OpenAI&rsquo;s New Flagship Model Deletes Files on Its Own, People Keep Warning",
+      "DeepMind CEO Calls for an Independent Standards Body to Regulate Frontier AI",
+      "OpenAI&rsquo;s First Hardware Device Is Reportedly a Screenless Speaker That Can Move",
+      "Apple Opens Its New Siri AI to Everyone with the iOS 27 Public Beta",
+      "Meta&rsquo;s Adam Mosseri Says AI Token Budgets Could Soon Be Capped Per Engineer"
+    ]
+  },
+  {
+    "date": "2026-07-15",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-07-15",
@@ -1235,27 +1255,6 @@
       "8. Cybersecurity Researchers Unhappy About Guardrails on Anthropic's Fable",
       "9. 'AI-Pilled' Firms Spend $7,500 Per Employee Each Month on AI",
       "10. DoorDash Launches AI Chatbot for Ordering with Prompts and Photos"
-    ]
-  },
-  {
-    "date": "2026-06-12",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-12",
-    "titleZh": "AI资讯晚报 | 2026-06-12",
-    "title": "AI News Evening Brief | 2026-06-12",
-    "slug": "news-2026-06-12-evening",
-    "headlines": [
-      "1. xAI Fired an Engineer Who Raised Alarms About Grok Safety, New Lawsuit Claims",
-      "2. Google DeepMind Is Worried About What Happens When Millions of Agents Start to Interact",
-      "3. Fresh Off Bond Sale, Amazon Borrows $17.5B from Banks as AI Spending Continues",
-      "4. Cybersecurity Researchers Aren’t Happy About the Guardrails on Anthropic’s Fable",
-      "5. Deezer’s New Tool Can Identify AI Music from Spotify, Apple Music, and Others",
-      "6. DoorDash’s New AI Chatbot Lets You Order with Prompts and Photos",
-      "7. ‘AI-Pilled’ Firms Spend $7,500 Per Employee Each Month on AI",
-      "8. Datadog Veterans Launch AI Coding Startup Niteshift on a Bet Against Big AI Lock-in",
-      "9. Opendoor’s India Exit Is Fueling a Bigger Conversation About AI and Outsourcing",
-      "10. Decart’s New World Model Can Simulate Hours of Photorealistic Driving — With Some Caveats"
     ]
   }
 ]
