@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-15",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-15",
+    "titleZh": "AI资讯早报 | 2026-07-15",
+    "title": "AI News Morning Brief | 2026-07-15",
+    "slug": "news-2026-07-15-morning",
+    "headlines": [
+      "1. OpenAI’s New Flagship Model Deletes Files on Its Own",
+      "2. DeepMind CEO Calls for an Independent Standards Body to Regulate Frontier AI",
+      "3. OpenAI’s First Hardware Device Is Reportedly a Screenless Speaker That Can Move",
+      "4. New York State Halts Construction of All New Data Centers",
+      "5. OpenAI Pushes Back on Apple Trade Secret Lawsuit",
+      "6. Apple Opens Its New Siri AI to Everyone With the iOS 27 Public Beta",
+      "7. OpenAI Researcher Miles Wang in Talks to Launch AI Drug Discovery Startup Valued at $2B",
+      "8. Google Faces Another AI Training Lawsuit from Major Publishers",
+      "9. Meta’s Adam Mosseri Says AI Token Budgets Could Soon Be Capped Per Engineer",
+      "10. The Founder of Hinge Raised $18M to Build a New AI Dating Service, Overtone"
+    ]
+  },
+  {
     "date": "2026-07-14",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1235,27 +1256,6 @@
       "8. Datadog Veterans Launch AI Coding Startup Niteshift on a Bet Against Big AI Lock-in",
       "9. Opendoor’s India Exit Is Fueling a Bigger Conversation About AI and Outsourcing",
       "10. Decart’s New World Model Can Simulate Hours of Photorealistic Driving — With Some Caveats"
-    ]
-  },
-  {
-    "date": "2026-06-11",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-11",
-    "titleZh": "AI资讯早报 | 2026-06-11",
-    "title": "AI News Morning Brief | 2026-06-11",
-    "slug": "news-2026-06-11-morning",
-    "headlines": [
-      "1. xAI Fired an Engineer Who Raised Alarms About Grok Safety, New Lawsuit Claims",
-      "2. Fresh Off Bond Sale, Amazon Borrows $17.5B from Banks as AI Spending Continues",
-      "3. Cybersecurity Researchers Aren’t Happy About the Guardrails on Anthropic’s Fable",
-      "4. ‘AI-Pilled’ Firms Spend $7,500 Per Employee Each Month on AI",
-      "5. Datadog Veterans Launch AI Coding Startup Niteshift on a Bet Against Big AI Lock-in",
-      "6. Google Just Fired a Warning Shot in the AI Subscription Price Wars",
-      "7. Meta Signs First AI Data Center Deal in India with Reliance",
-      "8. Decart’s New World Model Can Simulate Hours of Photorealistic Driving — With Some Caveats",
-      "9. Warner Music Acquires AI Attribution Startup Sureel AI",
-      "10. Anthropic’s Dario Amodei Has Just One Direct Report"
     ]
   }
 ]
