@@ -1,6 +1,29 @@
 [
   {
     "date": "2026-07-16",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-16",
+    "titleZh": "AI资讯晚报 | 2026-07-16",
+    "title": "AI News Evening Brief | 2026-07-16",
+    "slug": "news-2026-07-16-evening",
+    "headlines": [
+      "1. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "2. Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "3. Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "4. Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "5. How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "6. Moonshot's upcoming Kimi 3 is expected to close the gap with Anthropic's Opus 4.8",
+      "7. Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "8. Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "9. Hack suggests AI music generator Suno scraped YouTube for training data",
+      "10. Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "11. Why AMI Labs' Alexandre LeBrun won't call his AI 'AGI' or 'superintelligence'",
+      "12. Microsoft patches record number of security vulnerabilities, citing its use of AI"
+    ]
+  },
+  {
+    "date": "2026-07-16",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-07-16",
@@ -1233,28 +1256,6 @@
       "8. Deezer’s New Tool Can Identify AI Music from Spotify, Apple Music, and Others",
       "9. DoorDash’s New AI Chatbot Lets You Order with Prompts and Photos",
       "10. Andrew Yang Thinks the Next Big Startup Opportunity Is Lowering the Cost of Living"
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-13",
-    "titleZh": "AI资讯晚报 | 2026-06-13",
-    "title": "AI News Evening Brief | 2026-06-13",
-    "slug": "news-2026-06-13-evening",
-    "headlines": [
-      "SpaceX Officially Prices Shares at $135 in the Largest IPO Ever",
-      "SpaceX SPV Investors Won't Know Their True Holdings Until Post-IPO Lock-ups Lift",
-      "It's Hot IPO Summer, and the MANGOS Are Ripe",
-      "Jeff Bezos's Prometheus Raises $12B to Build an 'Artificial General Engineer' for the Physical World",
-      "Theker Just Raised $85M to Build the Factory Robot That Doesn't Specialize in Anything",
-      "Google DeepMind Is Worried About What Happens When Millions of Agents Start to Interact",
-      "Cheaper, Faster, and Culturally Aware, Avataar's Video AI Is Built for India's Scale",
-      "Deezer's New Tool Can Identify AI Music from Spotify, Apple Music, and Others",
-      "DoorDash's New AI Chatbot Lets You Order with Prompts and Photos",
-      "Why 'Reprogramming' Is the Buzziest Approach to Reversing Aging Right Now",
-      "Inside Soccer's Data Renaissance"
     ]
   }
 ]
