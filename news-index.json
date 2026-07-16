@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-16",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-16",
+    "titleZh": "AI资讯早报 | 2026-07-16",
+    "title": "AI News Morning Brief | 2026-07-16",
+    "slug": "news-2026-07-16-morning",
+    "headlines": [
+      "1. Microsoft Reportedly Trains Salespeople to Talk Down OpenAI and Anthropic",
+      "2. Anthropic &amp; Blackstone Bet the Next Trillion-Dollar AI Business is Implementation, Not Just Models",
+      "3. OpenAI's GPT-Red: An LLM Super-Hacker Built to Make Models Safer",
+      "4. Apple Intelligence Approved for Launch in China with Alibaba's Qwen AI",
+      "5. Vint Cerf is Working on a Plan to Unleash AI Agents on the Open Internet",
+      "6. Indian AI Coding Startup Emergent Becomes a Unicorn with $130M Series C",
+      "7. OpenAI Releases a $230 Keyboard for Codex Amid Hardware Legal Battle",
+      "8. Hack Suggests AI Music Generator Suno Scraped YouTube for Training Data",
+      "9. Microsoft Patches Record Number of Security Vulnerabilities, Citing AI",
+      "10. Thinking Machines Amps Up Its Bet Against One-Size-Fits-All AI with First Open Model, Inkling"
+    ]
+  },
+  {
     "date": "2026-07-15",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1234,27 +1255,6 @@
       "DoorDash's New AI Chatbot Lets You Order with Prompts and Photos",
       "Why 'Reprogramming' Is the Buzziest Approach to Reversing Aging Right Now",
       "Inside Soccer's Data Renaissance"
-    ]
-  },
-  {
-    "date": "2026-06-12",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-12",
-    "titleZh": "AI资讯早报 | 2026-06-12",
-    "title": "AI News Morning Brief | 2026-06-12",
-    "slug": "news-2026-06-12-morning",
-    "headlines": [
-      "1. Jeff Bezos's Prometheus Raises $12B to Build an 'Artificial General Engineer'",
-      "2. Google DeepMind Warns of Risks When Millions of AI Agents Interact",
-      "3. xAI Fired Engineer Who Raised Alarms About Grok Safety, Lawsuit Claims",
-      "4. Avataar's Video AI: Cheaper, Faster, and Culturally Aware for India's Scale",
-      "5. Theker Raises $85M to Build the 'Generalist' Factory Robot",
-      "6. Amazon Borrows $17.5B from Banks as AI Spending Continues Unabated",
-      "7. Deezer Launches Tool to Identify AI-Generated Music on Spotify and Apple Music",
-      "8. Cybersecurity Researchers Unhappy About Guardrails on Anthropic's Fable",
-      "9. 'AI-Pilled' Firms Spend $7,500 Per Employee Each Month on AI",
-      "10. DoorDash Launches AI Chatbot for Ordering with Prompts and Photos"
     ]
   }
 ]
