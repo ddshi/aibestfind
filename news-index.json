@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-07-17",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-17",
+    "titleZh": "AI资讯早报 | 2026-07-17",
+    "title": "AI News Morning Brief | 2026-07-17",
+    "slug": "news-2026-07-17-morning",
+    "headlines": [
+      "Google Vids Now Lets You Star in Your Own AI Videos",
+      "Microsoft Is Reportedly Training Salespeople to Talk Down OpenAI and Anthropic",
+      "Meet GPT-Red: An LLM Super-Hacker OpenAI Built to Make Its Models Safer",
+      "Apple Intelligence Approved for Launch in China with Alibaba and Baidu",
+      "How a Former DeepMind Researcher Raised at a $300M Pre-Seed Valuation Before Launching a Product",
+      "Roblox Launches an AI-Powered Game-Creation Feature in Its Mobile App",
+      "Google's AI Mode Now Lets You Link and Interact with Select Apps",
+      "Thinking Machines Amps Up Its Bet Against One-Size-Fits-All AI with Its First Open Model, Inkling",
+      "Amid Hardware Legal Battle, OpenAI Releases a $230 Keyboard for Codex",
+      "Moonshot's Upcoming Kimi 3 Is Expected to Close the Gap with Anthropic's Opus 4.8",
+      "Why AMI Labs' Alexandre LeBrun Won't Call His AI 'AGI' or 'Superintelligence'",
+      "Applied Computing Wants to Give Oil and Gas Operators an AI Model for the Entire Plant"
+    ]
+  },
+  {
     "date": "2026-07-16",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1236,26 +1259,6 @@
       "8. Mistral Rumored to Be Raising €3B at €20B Valuation",
       "9. KPMG Pulls Report on AI Usage Due to Apparent Hallucinations",
       "10. Theker Raises $85M to Build the Factory Robot That Doesn't Specialize in Anything"
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-13",
-    "titleZh": "AI资讯早报 | 2026-06-13",
-    "title": "AI News Morning Brief | 2026-06-13",
-    "slug": "news-2026-06-13-morning",
-    "headlines": [
-      "1. Anthropic’s Safety Warnings Backfire — Government Pulls the Plug on Most Powerful AI",
-      "2. SpaceX Officially Prices Shares at $135 in the Largest IPO Ever",
-      "4. Meta’s Months-Old AI Unit Is a ‘Soul-Crushing Gulag,’ Say Engineers Stuck Inside It",
-      "5. Chinese Cybercrime Operation That Used AI to Scam ‘Hundreds of Thousands of Victims’ Sued by Google",
-      "6. Mistral Is Rumored to Be Raising €3B at €20B Valuation",
-      "7. Theker Just Raised $85M to Build the Factory Robot That Doesn’t Specialize in Anything",
-      "8. Deezer’s New Tool Can Identify AI Music from Spotify, Apple Music, and Others",
-      "9. DoorDash’s New AI Chatbot Lets You Order with Prompts and Photos",
-      "10. Andrew Yang Thinks the Next Big Startup Opportunity Is Lowering the Cost of Living"
     ]
   }
 ]
