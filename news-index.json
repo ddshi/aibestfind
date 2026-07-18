@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-18",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-18",
+    "titleZh": "AI资讯早报 | 2026-07-18",
+    "title": "AI News Morning Brief | 2026-07-18",
+    "slug": "news-2026-07-18-morning",
+    "headlines": [
+      "1. Databricks Hits $188B Valuation, Extending Its Run as AI’s Favorite Second Act",
+      "2. Apple’s Lawsuit Could Disrupt OpenAI’s IPO Plans",
+      "3. Why the First GPU Financiers Are Turning to Inference Chips in a $400 Million Deal",
+      "4. AI-Driven Memory Crunch Jolts India’s Smartphone Market",
+      "5. Patreon Stops Asking AI Bots Not to Scrape — and Starts Blocking Them",
+      "6. Vertu Wants Executives to Pay $6,880 for an AI Agent — Here’s How It Actually Performs",
+      "7. Agility Robotics Plants Its Flag in Tesla’s Backyard",
+      "8. Google Vids Now Lets You Star in Your Own AI Videos",
+      "9. Roblox Launches an AI-Powered Game-Creation Feature in Its Mobile App",
+      "10. Neil Rimer Thinks the AI Money Is Coming Back Out"
+    ]
+  },
+  {
     "date": "2026-07-17",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1238,27 +1259,6 @@
       "Meta’s Months-Old AI Unit Is a Soul-Crushing Gulag, Say the Engineers Stuck Inside It",
       "KPMG Pulls Report on AI Usage Due to Apparent Hallucinations",
       "Chinese Cybercrime Operation That Used AI to Scam ‘Hundreds of Thousands of Victims’ Sued by Google"
-    ]
-  },
-  {
-    "date": "2026-06-14",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-14",
-    "titleZh": "AI资讯晚报 | 2026-06-14",
-    "title": "AI News Evening Brief | 2026-06-14",
-    "slug": "news-2026-06-14-evening",
-    "headlines": [
-      "1. Anthropic's Safety Warnings Backfire: Government Pulls the Plug on Its Most Powerful AI",
-      "2. Amazon CEO Reportedly Raised Anthropic Model Concerns Before Crackdown",
-      "3. India Debates Its AI Future as Anthropic Suspends Access",
-      "4. Meta Reportedly Moves to Unwind $2B Manus Deal After Beijing's Demand",
-      "5. OpenAI Faces Investigation from State Attorneys General",
-      "6. KPMG Pulls Report on AI Usage Due to Apparent Hallucinations",
-      "7. Jeff Bezos's Prometheus Raises $12B to Build an 'Artificial General Engineer'",
-      "8. Meta's AI Unit Described as a 'Soul-Crushing Gulag' by Engineers",
-      "9. Mistral is Rumored to be Raising €3B at a €20B Valuation",
-      "10. Google Sues Chinese Cybercrime Operation Using AI to Scam Millions"
     ]
   }
 ]
