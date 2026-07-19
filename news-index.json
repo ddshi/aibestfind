@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-19",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-19",
+    "titleZh": "AI资讯晚报 | 2026-07-19",
+    "title": "AI News Evening Brief | 2026-07-19",
+    "slug": "news-2026-07-19-evening",
+    "headlines": [
+      "1. Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "2. Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "3. How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "4. Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "5. AI-driven memory crunch jolts India’s smartphone market",
+      "6. Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "7. Agility Robotics plants its flag in Tesla’s backyard",
+      "8. Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "9. Neil Rimer thinks the AI money is coming back out",
+      "10. The Zoom hack that says, ‘Don’t record me’"
+    ]
+  },
+  {
+    "date": "2026-07-19",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-07-19",
@@ -1238,27 +1259,6 @@
       "This Man with ALS Is “the First Power User” of a Brain Implant That Lets Him Speak",
       "Malaysia’s AI Agent-Powered Messaging App Respond.io Raises $62.5M, Eyes Acquisitions",
       "Probably Raises $9M to Build a More Reliable Kind of AI"
-    ]
-  },
-  {
-    "date": "2026-06-16",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-16",
-    "titleZh": "AI资讯早报 | 2026-06-16",
-    "title": "AI News Morning Brief | 2026-06-16",
-    "slug": "news-2026-06-16-morning",
-    "headlines": [
-      "1. Cybersecurity Vets Protest ‘Dangerous’ U.S. Government Ban on Anthropic’s Most Powerful Models",
-      "2. Salesforce Acquires AI Customer Service Platform Fin for $3.6B",
-      "3. Meta’s New ‘AI Mode’ on Facebook Pulls from Public Info Across Its Platforms",
-      "4. This Man with ALS Is ‘The First Power User’ of a Brain Implant That Lets Him Speak",
-      "5. Sarvam Becomes India’s Newest AI Unicorn with $234 Million Funding Round Led by HCLTech",
-      "6. A Satellite Just Learned to Find Things on Its Own — Here’s What That Means",
-      "7. The AI Layoff Wave Is Becoming a Powder Keg",
-      "8. As AI Agents Become Employees, NewCore Emerges with $66M to Give Them Identities",
-      "9. Why Do South Koreans Love AI So Much?",
-      "10. KPMG Pulls Report on AI Usage Due to Apparent Hallucinations"
     ]
   }
 ]
