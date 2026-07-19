@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-19",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-19",
+    "titleZh": "AI资讯早报 | 2026-07-19",
+    "title": "AI News Morning Brief | 2026-07-19",
+    "slug": "news-2026-07-19-morning",
+    "headlines": [
+      "1. Databricks Hits $188B Valuation, Extending Its Run as AI’s Favorite Second Act",
+      "2. How Apple’s Big Lawsuit Could Disrupt OpenAI’s IPO Plans",
+      "3. Why the First GPU Financiers Are Turning to Inference Chips in a $400 Million Deal",
+      "4. Patreon Stops Asking AI Bots Not to Scrape — and Starts Blocking Them",
+      "5. AI-Driven Memory Crunch Jolts India’s Smartphone Market",
+      "6. Vertu Wants Executives to Pay $6,880 for an AI Agent — Here’s How It Actually Performs",
+      "7. Agility Robotics Plants Its Flag in Tesla’s Backyard",
+      "8. The Zoom Hack That Says, ‘Don’t Record Me’",
+      "9. Roblox Launches an AI-Powered Game-Creation Feature in Its Mobile App",
+      "10. Neil Rimer Thinks the AI Money Is Coming Back Out"
+    ]
+  },
+  {
     "date": "2026-07-18",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1238,27 +1259,6 @@
       "8. As AI Agents Become Employees, NewCore Emerges with $66M to Give Them Identities",
       "9. Why Do South Koreans Love AI So Much?",
       "10. KPMG Pulls Report on AI Usage Due to Apparent Hallucinations"
-    ]
-  },
-  {
-    "date": "2026-06-16",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-16",
-    "titleZh": "AI资讯晚报 | 2026-06-16",
-    "title": "AI News Evening Brief | 2026-06-16",
-    "slug": "news-2026-06-16-evening",
-    "headlines": [
-      "1. Cybersecurity Vets Protest 'Dangerous' US Government Ban on Anthropic's Most Powerful Models",
-      "2. Anthropic's Safety Warnings May Have Just Backfired — The Government Has Pulled the Plug on Its Most Powerful AI",
-      "3. OpenAI Faces Investigation from State Attorneys General",
-      "4. This Man with ALS Is 'The First Power User' of a Brain Implant That Lets Him Speak",
-      "5. The AI Layoff Wave Is Becoming a Powder Keg",
-      "6. Salesforce Acquires AI Customer Service Platform Fin for $3.6 Billion",
-      "7. Sarvam Becomes India's Newest AI Unicorn with $234 Million Funding Round Led by HCLTech",
-      "8. As AI Agents Become Employees, NewCore Emerges with $66M to Give Them Identities",
-      "9. As AI Companies Race to Go Public, Who Else Is Along for the Ride?",
-      "10. Meta Reportedly Moves to Unwind $2B Manus Deal After Beijing's Demand"
     ]
   }
 ]
