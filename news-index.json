@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-21",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-21",
+    "titleZh": "AI资讯早报 | 2026-07-21",
+    "title": "AI News Morning Brief | 2026-07-21",
+    "slug": "news-2026-07-21-morning",
+    "headlines": [
+      "1. Anthropic’s Landmark $1.5B Copyright Settlement Is Approved",
+      "2. Trump’s Latest AI Czar Has Already Resigned",
+      "3. Google Is Working on a New AI Chip Designed to Make Gemini More Efficient",
+      "4. AI’s Most Important Protocol Is Getting a Little Bit Easier to Use",
+      "5. OpenAI Is Scared of Open-Weight Models. Should the US Be?",
+      "6. China’s AI Models Have Trump’s AI World at War with Itself",
+      "7. AI Is More Likely Than Humans to Form Biases When Hiring",
+      "8. YouTube Clarifies Policies Around AI Slop and Upsetting Videos",
+      "9. Adobe Camera App’s New Feature Will Critique Your Photos Using AI",
+      "10. Databricks Hits $188B Valuation, Extending Its Run as AI’s Favorite Second Act"
+    ]
+  },
+  {
     "date": "2026-07-20",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1238,27 +1259,6 @@
       "8. Collecting Robot Training Data Is Dirty, Unglamorous Work. Some AI Labs Are Already Paying XDOF to Do It.",
       "9. Pinterest Launches an Experimental AI Shopping App Called ‘Ask Pinterest’",
       "10. Canadian Pension Giant Joins Race to Fund India’s AI-Fueled Data Center Boom"
-    ]
-  },
-  {
-    "date": "2026-06-18",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-18",
-    "titleZh": "AI资讯晚报 | 2026-06-18",
-    "title": "AI News Evening Brief | 2026-06-18",
-    "slug": "news-2026-06-18-evening",
-    "headlines": [
-      "Google Bets on Gemini to Reinvent the Smart Home Speaker",
-      "Sixty Percent of US Consumers Say 'AI' in Brand Messaging is a Turnoff",
-      "Collecting Robot Training Data is Dirty, Unglamorous Work. Some AI Labs Are Already Paying XDOF to Do It.",
-      "Pramaana Labs Raises $27M Seed Round from Khosla Ventures to Bring Formal Verification to AI",
-      "Canadian Pension Giant Joins Race to Fund India's AI-Fueled Data Center Boom",
-      "DeepL Acquires Mixhalo for Live-Event Audio Streaming and Translation",
-      "Pinterest Launches an Experimental AI Shopping App Called 'Ask Pinterest'",
-      "Anthropic's Latest Feud with the Trump Admin May Actually Help It, Sales Data Suggests",
-      "Plaud Says Its Software Business Topped $100M in ARR After Shipping Over 2M AI Notetakers",
-      "Probably Raises $9M to Build a More Reliable Kind of AI"
     ]
   }
 ]
