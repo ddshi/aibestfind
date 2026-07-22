@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-22",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-22",
+    "titleZh": "AI资讯早报 | 2026-07-22",
+    "title": "AI News Morning Brief | 2026-07-22",
+    "slug": "news-2026-07-22-morning",
+    "headlines": [
+      "1. Anthropic’s Landmark $1.5B Copyright Settlement is Approved",
+      "2. US Threatens Sanctions Against Chinese AI Models Over IP Theft",
+      "3. Data Centers Expected to Use 4x More Electricity by 2035",
+      "4. The Anthropic-Physical Intelligence Rumor Roiling AI Twitter",
+      "5. Google Releases Three New Gemini Models — But No 3.5 Pro",
+      "6. OpenAI Says Hugging Face Was Breached by Its Pre-release Models",
+      "7. Music Streamer Deezer Says More Than 50% of Daily Uploads are AI-Generated",
+      "8. Jack Dorsey is Taking on Slack with Buzz, a Group Chat Platform for Teams and Their AI Agents",
+      "9. Meta is Testing an AI Bedtime Story App for People with No Imagination",
+      "10. Gritt Exits Stealth with $32 Million for Robots to Build Solar Plants"
+    ]
+  },
+  {
     "date": "2026-07-21",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1238,27 +1259,6 @@
       "The smartphone era created an attention crisis — slow tech is fixing it",
       "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
       "World leaders want American AI. They just don’t want America to be able to turn it off."
-    ]
-  },
-  {
-    "date": "2026-06-19",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-19",
-    "titleZh": "AI资讯晚报 | 2026-06-19",
-    "title": "AI News Evening Brief | 2026-06-19",
-    "slug": "news-2026-06-19-evening",
-    "headlines": [
-      "1. Only 16% of Americans Think AI Will Have a Positive Impact on Society",
-      "2. World Leaders Want American AI. They Just Don't Want America to Be Able to Turn It Off.",
-      "3. World Model Maker Odyssey Nabs $1.45B Valuation Backed by Amazon",
-      "4. NEA's Tiffany Luck Says Enterprises Are Still Figuring Out Their AI ROI",
-      "5. After Unveiling Ridiculously Expensive AR Glasses, Snap's Stock Takes a Dive",
-      "6. General Intuition in Talks to Raise $300M at Around $2B Valuation",
-      "7. Collecting Robot Training Data Is Dirty, Unglamorous Work. Some AI Labs Are Already Paying XDOF to Do It.",
-      "8. A Tech Worker-Backed PAC Is Bringing a $5M Knife to Big Tech's $100M Gunfight",
-      "9. Google Bets on Gemini to Reinvent the Smart Home Speaker",
-      "10. Anthropic Becomes First AI Startup to Join the Frontier Carbon Removal Coalition"
     ]
   }
 ]
