@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-22",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-22",
+    "titleZh": "AI资讯晚报 | 2026-07-22",
+    "title": "AI News Evening Brief | 2026-07-22",
+    "slug": "news-2026-07-22-evening",
+    "headlines": [
+      "1. Anthropic’s Landmark $1.5B Copyright Settlement Is Approved",
+      "2. OpenAI Says Hugging Face Was Breached by Its Pre-release Models",
+      "3. US Threatens Sanctions Against Chinese AI Models Over IP Theft",
+      "4. Glow Emerges from Stealth at $1.2B Valuation to Challenge Endpoint Security in the AI Era",
+      "5. Jack Dorsey Is Taking on Slack with Buzz, a Group Chat Platform for Teams and Their AI Agents",
+      "6. Data Centers Expected to Use 4x More Electricity by 2035",
+      "7. Gritt Exits Stealth with $32 Million for Robots to Build Solar Plants — Then, Everything Else",
+      "8. Google Releases Three New Gemini Models — But No 3.5 Pro",
+      "9. Synthesia’s AI Training Platform Is Moving Beyond Videos into Live Coaching",
+      "10. Shape-Shifting Mirrors on NASA’s New Space Telescope Could Unveil Jupiters Like Our Own"
+    ]
+  },
+  {
+    "date": "2026-07-22",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-07-22",
@@ -1238,27 +1259,6 @@
       "8. OpenAI Is Bringing on Some Big Guns in the Lead-Up to Its IPO",
       "9. Snap Spins Off AI Video Team into New Company, Dotmo, Due to Costs",
       "10. The US Says ASML’s Top Chip Tool May Be in China. ASML Says It Isn’t"
-    ]
-  },
-  {
-    "date": "2026-06-19",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-19",
-    "titleZh": "AI资讯早报 | 2026-06-19",
-    "title": "AI News Morning Brief | 2026-06-19",
-    "slug": "news-2026-06-19-morning",
-    "headlines": [
-      "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "AI data centers just got a government-mandated fast lane to the grid",
-      "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "Almost half of US singles feel negatively about AI in dating, Match says",
-      "The smartphone era created an attention crisis — slow tech is fixing it",
-      "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "World leaders want American AI. They just don’t want America to be able to turn it off."
     ]
   }
 ]
