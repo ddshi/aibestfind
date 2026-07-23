@@ -1,6 +1,26 @@
 [
   {
     "date": "2026-07-23",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-23",
+    "titleZh": "AI资讯晚报 | 2026-07-23",
+    "title": "AI News Evening Brief | 2026-07-23",
+    "slug": "news-2026-07-23-evening",
+    "headlines": [
+      "Etched Hits $10.3B Valuation, Defying AI Chip Skeptics",
+      "OpenAI's Spending Spree Balloons to $750B",
+      "Treasury Threatens Sanctions Over Alleged Model Distillation",
+      "Google’s Gemini Nears Billion-User Milestone",
+      "Nvidia is Sending GPUs to the Moon",
+      "Travis Kalanick’s Robotics Company Raises $1.7B",
+      "How AI Helps Scientists Design the Next Generation of Medicines",
+      "Experts Say Exploiting Anthropic’s Fable Isn’t How Kimi K3 Got So Good",
+      "Google Justifies Its Massive AI Spending with a Booming Cloud Business"
+    ]
+  },
+  {
+    "date": "2026-07-23",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-07-23",
@@ -1235,30 +1255,6 @@
       "3. The Infrastructure Arms Race: Breaking the Bottleneck",
       "4. The Human Cost: Skepticism and Skepticism",
       "5. Corporate Maneuvers: Spinoffs, IPOs, and Ambition"
-    ]
-  },
-  {
-    "date": "2026-06-20",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-20",
-    "titleZh": "AI资讯早报 | 2026-06-20",
-    "title": "AI News Morning Brief | 2026-06-20",
-    "slug": "news-2026-06-20-morning",
-    "headlines": [
-      "Is the US Government's Anthropic Ban Accidentally Helping the Brand?",
-      "The US Banned Anthropic's Fable 5 Release, But the Numbers Don't Seem to Care",
-      "The US Says ASML's Top Chip Tool May Be in China, But How?",
-      "AI Data Centers Just Got a Government-Mandated Fast Lane to the Grid",
-      "Amazon Hopes to Challenge Nvidia More Directly by Selling Its AI Chips",
-      "AI Inference Startup Baseten Reportedly Raising $1.5B Months After Its Last Mega-Round",
-      "A Startup Claims It Broke Through a Bottleneck That's Holding Back LLMs",
-      "OpenAI Is Bringing on Some Big Guns in the Lead-Up to Its IPO",
-      "Snap Spins Off AI Video Team into New Company, Dotmo, Due to Costs",
-      "Elastic Agrees to Buy CRV-Backed Deductive AI for Up to $85M",
-      "Brain-Computer Interface Trials Are Taking Off",
-      "Billionaire Ambani Wants AI in Every Call, App, and Home",
-      "Almost Half of US Singles Feel Negatively About AI in Dating, Match Says"
     ]
   }
 ]
