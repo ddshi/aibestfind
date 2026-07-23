@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-23",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-23",
+    "titleZh": "AI资讯早报 | 2026-07-23",
+    "title": "AI News Morning Brief | 2026-07-23",
+    "slug": "news-2026-07-23-morning",
+    "headlines": [
+      "1. OpenAI’s AI Spending Spree Has Ballooned to $750B",
+      "2. Treasury Threatens Sanctions After White House Claims Moonshot Distilled Anthropic’s Fable",
+      "3. How OpenAI’s Human Mistake Led to the AI-Powered Hack on Hugging Face",
+      "4. Travis Kalanick’s Robotics Company Raises $1.7B, Led by a16z",
+      "5. Google Justifies Its Massive AI Spending with a Booming Cloud Business",
+      "6. Monday.com Lays Off Hundreds to Focus on AI",
+      "7. Glow Emerges from Stealth at $1.2B Valuation to Challenge Endpoint Security in the AI Era",
+      "8. Arcee, a US Open Source AI Lab, Says Chinese Models Are Not Inherently Dangerous",
+      "9. Substack’s New Tool Tells You Who’s Been Writing Their Newsletters with AI",
+      "10. Synthesia’s AI Training Platform Is Moving Beyond Videos into Live Coaching"
+    ]
+  },
+  {
     "date": "2026-07-22",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1238,27 +1259,6 @@
       "Brain-Computer Interface Trials Are Taking Off",
       "Billionaire Ambani Wants AI in Every Call, App, and Home",
       "Almost Half of US Singles Feel Negatively About AI in Dating, Match Says"
-    ]
-  },
-  {
-    "date": "2026-06-20",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-20",
-    "titleZh": "AI资讯晚报 | 2026-06-20",
-    "title": "AI News Evening Brief | 2026-06-20",
-    "slug": "news-2026-06-20-evening",
-    "headlines": [
-      "1. The US Banned Anthropic’s Fable 5 — But the Numbers Don’t Seem to Care",
-      "2. Billionaire Ambani Wants AI in Every Call, App, and Home",
-      "3. A Startup Claims It Broke Through a Bottleneck That’s Holding Back LLMs",
-      "4. Amazon Hopes to Challenge Nvidia More Directly by Selling Its AI Chips",
-      "5. AI Inference Startup Baseten Reportedly Raising $1.5B Months After Its Last Mega-Round",
-      "6. AI Data Centers Just Got a Government-Mandated Fast Lane to the Grid",
-      "7. Brain-Computer Interface Trials Are Taking Off",
-      "8. OpenAI Is Bringing on Some Big Guns in the Lead-Up to Its IPO",
-      "9. Snap Spins Off AI Video Team into New Company, Dotmo, Due to Costs",
-      "10. The US Says ASML’s Top Chip Tool May Be in China. ASML Says It Isn’t"
     ]
   }
 ]
