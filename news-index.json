@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-24",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-24",
+    "titleZh": "AI资讯晚报 | 2026-07-24",
+    "title": "AI News Evening Brief | 2026-07-24",
+    "slug": "news-2026-07-24-evening",
+    "headlines": [
+      "1. AMD Takes on Nvidia with Its Helios AI Rack-Scale System",
+      "2. AI Chip Startup Etched Defies Skeptics, Hits $10.3B Valuation",
+      "3. OpenAI’s New Voice Mode Makes It to the ChatGPT Desktop App",
+      "4. Anthropic Updates Claude Voice Mode with More Capable Models",
+      "5. How AI Guardrails Are Impeding the Work of Offensive Cybersecurity Researchers",
+      "6. Google’s Gemini Nears Billion-User Milestone",
+      "7. Nvidia Is Sending GPUs to the Moon",
+      "8. AegisAI Lands $36M to Stop AI-Driven Spear Phishing",
+      "9. Midjourney Acquired the Astrology App Co-Star",
+      "10. Runway Launches AI Model Router as Generative Media Gets Crowded"
+    ]
+  },
+  {
+    "date": "2026-07-24",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-07-24",
@@ -1239,27 +1260,6 @@
       "Brain-Computer Interface Trials Are Taking Off",
       "Billionaire Ambani Wants AI in Every Call, App, and Home",
       "In the Weights: Your New AI-Centric Vanity Search"
-    ]
-  },
-  {
-    "date": "2026-06-21",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-21",
-    "titleZh": "AI资讯晚报 | 2026-06-21",
-    "title": "AI News Evening Brief | 2026-06-21",
-    "slug": "news-2026-06-21-evening",
-    "headlines": [
-      "1. The Anthropic Ban: A Geopolitical Earthquake",
-      "2. Talent War: Nobel Laureate Jumps Ship to Anthropic",
-      "3. The Economics of Inference: Baseten’s Billion-Dollar Bet",
-      "4. The Bottleneck Breakthrough: A Startup Claims a New Path",
-      "5. iOS 27: AI Gets Practical on Your iPhone",
-      "6. The IPO Prep: OpenAI Gears Up for the Big Dance",
-      "7. The Humanist Warning: \"Chatbots Are Not Your Friends\"",
-      "8. The Unlikely Entrant: Allbirds and the AI Sneaker",
-      "9. The Infrastructure Wars: Elastic Acquires Deductive AI",
-      "10. The BCI Frontier: Trials Take Off"
     ]
   }
 ]
