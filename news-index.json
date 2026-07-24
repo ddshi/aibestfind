@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-24",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-24",
+    "titleZh": "AI资讯早报 | 2026-07-24",
+    "title": "AI News Morning Brief | 2026-07-24",
+    "slug": "news-2026-07-24-morning",
+    "headlines": [
+      "1. AMD Takes on Nvidia with Its Helios AI Rack-Scale System",
+      "2. AI Chip Startup Etched Defies Skeptics, Hits $10.3B Valuation",
+      "3. Treasury Threatens Sanctions After White House Claims Moonshot Distilled Anthropic’s Fable",
+      "4. OpenAI Makes ChatGPT Health Available to All US Users",
+      "5. AegisAI, Founded by Former Google Security Execs, Lands $36M to Stop AI-Driven Spear Phishing",
+      "6. How OpenAI’s Human Mistake Led to the AI-Powered Hack on Hugging Face",
+      "7. Google Justifies Its Massive AI Spending with a Booming Cloud Business",
+      "8. Runway Launches AI Model Router as Generative Media Gets Crowded",
+      "9. Anthropic Updates Claude Voice Mode with More Capable Models",
+      "10. Nvidia Is Sending GPUs to the Moon"
+    ]
+  },
+  {
     "date": "2026-07-23",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1239,22 +1260,6 @@
       "8. The Unlikely Entrant: Allbirds and the AI Sneaker",
       "9. The Infrastructure Wars: Elastic Acquires Deductive AI",
       "10. The BCI Frontier: Trials Take Off"
-    ]
-  },
-  {
-    "date": "2026-06-21",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-21",
-    "titleZh": "AI资讯早报 | 2026-06-21",
-    "title": "AI News Morning Brief | 2026-06-21",
-    "slug": "news-2026-06-21-morning",
-    "headlines": [
-      "1. The Anthropic Ban: A Geopolitical Earthquake",
-      "2. The Talent Shuffle: A Nobel Laureate Defects",
-      "3. The Infrastructure Arms Race: Breaking the Bottleneck",
-      "4. The Human Cost: Skepticism and Skepticism",
-      "5. Corporate Maneuvers: Spinoffs, IPOs, and Ambition"
     ]
   }
 ]
