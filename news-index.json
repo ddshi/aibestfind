@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-26",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-26",
+    "titleZh": "AI资讯晚报 | 2026-07-26",
+    "title": "AI News Evening Brief | 2026-07-26",
+    "slug": "news-2026-07-26-evening",
+    "headlines": [
+      "1. Anthropic Launches Opus 5",
+      "2. The AI Data Center Power Grid Problem",
+      "3. Librarians Host 'Avoiding AI' Workshops",
+      "4. Monday.com Blames AI for Layoffs — The Running List Grows",
+      "5. Prentis AI Lab Co-Founded by Reid Hoffman and Mark Pincus in Talks to Raise $100M",
+      "6. Why Cognition Acquired Poke: AI Personality Is Becoming a Competitive Advantage",
+      "7. Midjourney Acquires the Astrology App Co-Star",
+      "8. US Weighs Response to Chinese AI; Industry Urges Against Broad Open-Weight Restrictions",
+      "9. AMD Takes on Nvidia with Its Helios AI Rack-Scale System",
+      "10. OpenAI's New Voice Mode Reaches ChatGPT Desktop App"
+    ]
+  },
+  {
     "date": "2026-07-24",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1237,29 +1258,6 @@
       "A Startup Claims to Have Broken a Key LLM Bottleneck",
       "Reliance's Ambani Wants AI in Every Call, App, and Home",
       "Brain-Computer Interface Trials Are Taking Off"
-    ]
-  },
-  {
-    "date": "2026-06-22",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-22",
-    "titleZh": "AI资讯早报 | 2026-06-22",
-    "title": "AI News Morning Brief | 2026-06-22",
-    "slug": "news-2026-06-22-morning",
-    "headlines": [
-      "Nobel Laureate John Jumper Leaves DeepMind for Rival Anthropic",
-      "US Government’s Anthropic Ban: An Accidental Brand Boost?",
-      "AI Inference Startup Baseten Reportedly Raising $1.5B Months After Last Mega-Round",
-      "A Startup Claims It Broke Through a Bottleneck That’s Holding Back LLMs",
-      "Beyond Siri: Practical AI Features Coming to iPhone in iOS 27",
-      "Signal’s Meredith Whittaker: AI Chatbots ‘Are Not Your Friends’",
-      "OpenAI Brings on Big Guns in Lead-Up to IPO",
-      "Snap Spins Off AI Video Team Into New Company, Dotmo, Due to Costs",
-      "Elastic Agrees to Buy CRV-Backed Deductive AI for Up to $85M",
-      "Brain-Computer Interface Trials Are Taking Off",
-      "Billionaire Ambani Wants AI in Every Call, App, and Home",
-      "In the Weights: Your New AI-Centric Vanity Search"
     ]
   }
 ]
