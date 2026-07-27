@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-28",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-28",
+    "titleZh": "AI资讯晚报 | 2026-07-28",
+    "title": "AI News Evening Brief | 2026-07-28",
+    "slug": "news-2026-07-28-evening",
+    "headlines": [
+      "1. Google's AI Search Is Rapidly Becoming the Default, New Data Shows",
+      "2. Ilya Sutskever's Safe Superintelligence Partners with Nvidia to Scale Its AI Research",
+      "3. Hugging Face CEO Calls for 'Radical Transparency' After 'Unprecedented' OpenAI Hack",
+      "4. Enigma Raises $70M to Make Controlling a Robot as Easy as Adjusting the Volume",
+      "5. Monday.com Is the Latest Tech Company to Blame AI for Layoffs — Here Are 20 Others",
+      "6. Making Sense of the Panic Over Chinese AI",
+      "7. The Path to Artificial Superintelligence",
+      "8. One Fallen Power Line Exposed a Growing AI Data Center Problem — Here's How to Fix It",
+      "9. Librarians Are Hosting Viral 'Avoiding AI' Workshops for People Who Are Fed Up with Big Tech",
+      "10. Why Cognition Bought Poke: AI Personality Is Becoming a Competitive Advantage"
+    ]
+  },
+  {
     "date": "2026-07-27",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1238,27 +1259,6 @@
       "8. SpaceX’s Compute Deal: A New Alliance with Open Source AI",
       "9. The AI World is Getting ‘Loopy’",
       "10. Signal’s Meredith Whittaker: ‘AI Chatbots Are Not Your Friends’"
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-23",
-    "titleZh": "AI资讯早报 | 2026-06-23",
-    "title": "AI News Morning Brief | 2026-06-23",
-    "slug": "news-2026-06-23-morning",
-    "headlines": [
-      "1. Nobel Laureate John Jumper Leaves DeepMind for Rival Anthropic",
-      "2. The US Government’s Anthropic Ban: A PR Windfall?",
-      "3. AI Chipmaker Groq Confirms $650M Raise, Re-Staffs After Nvidia Deal",
-      "4. Google DeepMind Bets $75M on AI’s Future in Hollywood with A24 Deal",
-      "5. OpenAI Launches New Initiative to Help Find and Patch Open Source Bugs",
-      "6. Nvidia Wants to Cut Data Center Water Use, But That’s Not the Same as Fixing AI’s Water Problem",
-      "7. SpaceX Inks Compute Deal with Reflection AI, an Open Source AI Lab",
-      "8. The Running List: Major Tech Layoffs in 2026 Where Employers Cited AI",
-      "9. The AI World is Getting ‘Loopy’",
-      "10. Beyond Siri: Here Are the Practical AI Features Coming to Your iPhone in iOS 27"
     ]
   }
 ]
