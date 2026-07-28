@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-28",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-28",
+    "titleZh": "AI资讯早报 | 2026-07-28",
+    "title": "AI News Morning Brief | 2026-07-28",
+    "slug": "news-2026-07-28-morning",
+    "headlines": [
+      "1. The Hugging Face Breach: An Unprecedented Wake-Up Call for AI Security",
+      "2. Anthropic’s Dario Amodei: Not Anti-Open, But Anti-Chinese AI",
+      "3. Satya Nadella: Betting on One AI is a Losing Strategy",
+      "4. Google’s AI Search is Becoming the Default",
+      "5. Ilya Sutskever’s Safe Superintelligence Partners with Nvidia",
+      "6. PSA: Your Claude Shared Chats May Have Leaked to Google",
+      "7. Enigma Raises $71M to Democratize Robot Control",
+      "8. Meta AI Comes to Threads DMs",
+      "9. Cursor Pushes Into India Ahead of SpaceX Acquisition",
+      "10. Building the Enterprise Environment for Agentic AI"
+    ]
+  },
+  {
+    "date": "2026-07-28",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-07-28",
@@ -1238,27 +1259,6 @@
       "8. Fika Jobs Raises $4M to Build a Video-First Hiring Platform Where AI Agents Interview Candidates",
       "9. The Running List: Major Tech Layoffs in 2026 Where Employers Cited AI",
       "10. The AI World Is Getting ‘Loopy’"
-    ]
-  },
-  {
-    "date": "2026-06-24",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-24",
-    "titleZh": "AI资讯晚报 | 2026-06-24",
-    "title": "AI News Evening Brief | 2026-06-24",
-    "slug": "news-2026-06-24-evening",
-    "headlines": [
-      "1. Anthropic Under Fire: The Government Feud Escalates",
-      "2. Groq’s $650M Resurrection: The Chip War Intensifies",
-      "3. The $400 Million Machine: ASML’s Next-Gen Chipmaking Marvel",
-      "4. AI vs. The Environment: Nvidia’s Water Problem and a Novel Solution",
-      "5. Google DeepMind’s $75M Hollywood Bet: An A24 Deal",
-      "6. OpenAI’s Open Source Gambit: Patching Bugs for the Public Good",
-      "7. The AI Layoff Tracker: 2026’s Bleakest Running List",
-      "8. SpaceX’s Compute Deal: A New Alliance with Open Source AI",
-      "9. The AI World is Getting ‘Loopy’",
-      "10. Signal’s Meredith Whittaker: ‘AI Chatbots Are Not Your Friends’"
     ]
   }
 ]
