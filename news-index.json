@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-29",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief | 2026-07-29",
+    "titleZh": "AI资讯晚报 | 2026-07-29",
+    "title": "AI News Evening Brief | 2026-07-29",
+    "slug": "news-2026-07-29-evening",
+    "headlines": [
+      "1. Recursive Superintelligence Signs $410 Million Compute Deal with Amazon",
+      "2. OpenAI's Hugging Face Breach Reignites Alignment and Control Debate",
+      "3. Data Centers May Face Temporary Power Cuts to Prevent Blackouts on Largest US Grid",
+      "4. Satya Nadella Says Companies That Trust One AI for Everything May Not Survive",
+      "5. Anthropic's Dario Amodei Responds: Doesn't Oppose Open-Weight Models, but Fears Chinese AI",
+      "6. Ilya Sutskever's Safe Superintelligence Partners with Nvidia to Scale Its AI Research",
+      "7. PSA: Your Claude Shared Chats and Artifacts May Have Ended Up on Google",
+      "8. Microsoft Launches Its First Cybersecurity Model, Plus a New Agentic Cybersecurity System",
+      "9. Google's AI Search Is Rapidly Becoming the Default, New Data Shows",
+      "10. Fish Audio Raises $52M Seed to Build AI Voice Models for Creators and Enterprises"
+    ]
+  },
+  {
     "date": "2026-07-28",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1238,27 +1259,6 @@
       "The Emergence of the Web Data Infrastructure Layer for AI",
       "Fika Jobs Raises $4M to Build a Video-First Hiring Platform Where AI Agents Interview Candidates",
       "Europe’s Extreme Heat Is Shutting Down Power Plants"
-    ]
-  },
-  {
-    "date": "2026-06-24",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-24",
-    "titleZh": "AI资讯早报 | 2026-06-24",
-    "title": "AI News Morning Brief | 2026-06-24",
-    "slug": "news-2026-06-24-morning",
-    "headlines": [
-      "1. Google DeepMind Bets $75M on AI’s Future in Hollywood with A24 Deal",
-      "2. Anthropic’s Claude Is Learning Your Company, One Slack Message at a Time",
-      "3. AI Chipmaker Groq Confirms $650M Raise, Re-staffs After Nvidia’s $20B Not-Acqui-Hire Deal",
-      "4. India’s MoEngage Bets That the Future of Marketing Is Millions of AI Agents",
-      "5. Ultrasound Imaging Turns a Robot Hand into a Skillful Mimic",
-      "6. Nvidia Wants to Cut Data Center Water Use, But That’s Not the Same as Fixing AI’s Water Problem",
-      "7. OpenAI Launches New Initiative to Help Find and Patch Open Source Bugs",
-      "8. Fika Jobs Raises $4M to Build a Video-First Hiring Platform Where AI Agents Interview Candidates",
-      "9. The Running List: Major Tech Layoffs in 2026 Where Employers Cited AI",
-      "10. The AI World Is Getting ‘Loopy’"
     ]
   }
 ]
