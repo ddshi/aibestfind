@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-07-29",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-29",
+    "titleZh": "AI资讯早报 | 2026-07-29",
+    "title": "AI News Morning Brief | 2026-07-29",
+    "slug": "news-2026-07-29-morning",
+    "headlines": [
+      "1. OpenAI's Hugging Face Breach: A Predictable Crisis",
+      "2. Sam Altman Signals Deceleration",
+      "3. Cyera Acquires Oasis Security for $1B to Protect AI Agents",
+      "4. Microsoft Launches First Cybersecurity Model and Agentic System",
+      "5. Data Centers Face Emergency Power Cuts on US Grid",
+      "6. Recursive Superintelligence Signs $410M Compute Deal with Amazon",
+      "7. Anthropic's Dario Amodei: Not Anti-Open, but Afraid of Chinese AI",
+      "8. Satya Nadella: Single-AI Dependency is a Survival Risk",
+      "9. Google's AI Search is Rapidly Becoming Default",
+      "10. Fish Audio Raises $52M Seed for AI Voice Models"
+    ]
+  },
+  {
+    "date": "2026-07-29",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief | 2026-07-29",
@@ -1238,27 +1259,6 @@
       "8. Agility Robotics Plans to Go Public Via SPAC in a $2.5B Deal",
       "9. Facebook Rolls Out an AI Companion App for Creators",
       "10. India’s MoEngage Bets That the Future of Marketing Is Millions of AI Agents"
-    ]
-  },
-  {
-    "date": "2026-06-25",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-25",
-    "titleZh": "AI资讯晚报 | 2026-06-25",
-    "title": "AI News Evening Brief | 2026-06-25",
-    "slug": "news-2026-06-25-evening",
-    "headlines": [
-      "OpenAI Unveils Its First Custom Chip, Built by Broadcom",
-      "Stripe, Anthropic and OpenAI Are Backing an Effort to Stop Respiratory Infections",
-      "AI Chipmaker Groq Confirms $650M Raise, Re-Staffs After Nvidia’s $20B Not-Acqui-Hire Deal",
-      "The Running List: Major Tech Layoffs in 2026 Where Employers Cited AI",
-      "Anthropic’s Claude Tag Is Learning Your Company, One Slack Message at a Time",
-      "India’s MoEngage Bets That the Future of Marketing Is Millions of AI Agents",
-      "OpenAI Launches New Initiative to Help Find and Patch Open Source Bugs",
-      "The Emergence of the Web Data Infrastructure Layer for AI",
-      "Fika Jobs Raises $4M to Build a Video-First Hiring Platform Where AI Agents Interview Candidates",
-      "Europe’s Extreme Heat Is Shutting Down Power Plants"
     ]
   }
 ]
