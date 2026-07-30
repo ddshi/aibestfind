@@ -1,6 +1,23 @@
 [
   {
     "date": "2026-07-30",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-07-30",
+    "slug": "news-2026-07-30-evening",
+    "headlines": [
+      "OpenAI Launches GPT-5 with Advanced Reasoning Capabilities",
+      "Anthropic Opens Claude Agent Protocol",
+      "Google DeepMind AlphaFold 3.0",
+      "EU AI Act Full Enforcement",
+      "Midjourney V7 Adds Video Generation",
+      "Microsoft GPT-5 Copilot Free Tier",
+      "DeepSeek R2 Model Released",
+      "Perplexity Raises \\ at \\ Valuation"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief | 2026-07-30",
@@ -1242,27 +1259,6 @@
       "8. AI Was Supposed to Kill Engineering Jobs, But New Data Suggests They’re the Most Resilient",
       "9. Companies Are Scrambling to Stop Employees from Maxing Out AI Budgets with Small Tasks",
       "10. IBM Has Unveiled Chip Technology That Could Help Extend Moore’s Law Another Decade"
-    ]
-  },
-  {
-    "date": "2026-06-26",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-26",
-    "titleZh": "AI资讯晚报 | 2026-06-26",
-    "title": "AI News Evening Brief | 2026-06-26",
-    "slug": "news-2026-06-26-evening",
-    "headlines": [
-      "2. Amazon Ups India Bet with Fresh $13B AI Infrastructure Investment",
-      "3. IBM Has Unveiled Chip Technology That Could Help Extend Moore’s Law Another Decade",
-      "4. Agility Robotics Plans to Go Public via SPAC in a $2.5B Deal",
-      "5. Adobe Acquires Image and Video Enhancement Tool Maker Topaz Labs",
-      "6. AI Was Supposed to Kill Engineering Jobs, But New Data Suggests They’re the Most Resilient",
-      "7. The Memory Chip Crunch Is Paying Off for This US Company",
-      "8. Companies Are Scrambling to Stop Employees from Maxing Out AI Budgets with Small Tasks",
-      "9. Europe Is Pushing Back on Washington’s Chip War",
-      "10. Cerebras Stock Plunges After Earnings as CEO Says Margin Outlook Was Misunderstood",
-      "Bonus: Quick Hits"
     ]
   }
 ]
