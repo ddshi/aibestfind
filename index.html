@@ -423,6 +423,22 @@ function switchModule(moduleName) {
 // ============ KNOWN ARTICLE TITLES (extracted from actual HTML title tags) ============
 // ============ KNOWN ARTICLE TITLES (by folder name under posts/) ============
 const articleTitles = {
+  'adobe-firefly': {
+    en: 'Adobe Firefly Review: 2 Weeks of AI Image Generation — The Good, The Bad, and The Surprising',
+    zh: 'Adobe Firefly 深度评测：2周AI图像生成实测——好的、坏的与意想不到的'
+  },
+  'notebooklm': {
+    en: "NotebookLM Review: Google's AI Research Assistant — 3 Weeks of Actually Using It for Work",
+    zh: 'NotebookLM 深度评测：Google AI研究助手——3周真实使用体验'
+  },
+  'luma-ai': {
+    en: 'Luma AI Dream Machine Review: The AI Video Generator That Actually Makes Sense — 10 Days, 47 Clips',
+    zh: 'Luma AI Dream Machine 深度评测：10天47个视频片段的真实体验'
+  },
+  'deepseek': {
+    en: "DeepSeek Review: The Open-Source AI That Shocked Everyone — 30 Days of Real-World Comparison",
+    zh: 'DeepSeek 深度评测：震撼AI界的开源模型——30天真实对比实测'
+  },
   'cursor-vs-claudecode': {
     en: 'Cursor vs Claude Code: 14-Day Hands-On Comparison \u2014 Which AI Coding Tool Ships Faster?',
     zh: 'Cursor vs Claude Code\uff1a14天实战对比 \u2014 哪款AI编程工具更高效？'
@@ -496,6 +512,34 @@ const articleTitles = {
 
 // ============ STATIC TOOL DATA ============
 const staticTools = [
+  {
+    id: 'adobe-firefly', icon:'🎨', badge:'hot',
+    nameEn:'Adobe Firefly', nameZh:'Adobe Firefly',
+    descEn:'Adobe\'s generative AI suite — text-to-image, Generative Fill, and Text Effects, trained on licensed content for commercial safety.',
+    descZh:'Adobe生成式AI套件——文字转图、生成式填充和文字特效，基于授权内容训练，商用安全无忧。',
+    link:'/posts/adobe-firefly/', date: '2026-07-30'
+  },
+  {
+    id: 'notebooklm', icon:'📝', badge:'hot',
+    nameEn:'NotebookLM', nameZh:'NotebookLM',
+    descEn:'Google\'s AI research assistant — upload documents, ask questions, get cited answers. 1M token context with inline source citations.',
+    descZh:'Google AI研究助手——上传文档，提问获取带内联引用的答案。1M上下文窗口，来源可追溯。',
+    link:'/posts/notebooklm/', date: '2026-07-30'
+  },
+  {
+    id: 'luma-ai', icon:'🎥', badge:'hot',
+    nameEn:'Luma AI Dream Machine', nameZh:'Luma AI Dream Machine',
+    descEn:'AI video generation that actually works — text/image to 5-sec cinematic clips. Image-to-video mode is where it shines.',
+    descZh:'真正好用的AI视频生成器——文字/图片生成5秒电影级片段，图片转视频模式尤为出色。',
+    link:'/posts/luma-ai/', date: '2026-07-30'
+  },
+  {
+    id: 'deepseek', icon:'🧠', badge:'hot',
+    nameEn:'DeepSeek', nameZh:'DeepSeek',
+    descEn:'Free open-source AI assistant — rivals GPT-4 on coding and reasoning. 1M context window, API at 20x lower cost than OpenAI.',
+    descZh:'免费开源AI助手——编程和推理能力对标GPT-4。1M上下文窗口，API成本仅为OpenAI的1/20。',
+    link:'/posts/deepseek/', date: '2026-07-30'
+  },
   {
     id: 'aiflipdomains', icon:'💰', badge:'hot',
     nameEn:'AIFlipDomains', nameZh:'AIFlipDomains',

@@ -21,7 +21,15 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://aibestfind.com/posts/notebooklm/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://aibestfind.com/posts/midjourney/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aibestfind.com/posts/luma-ai/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -42,6 +50,10 @@
   </url>
   <url>
     <loc>https://aibestfind.com/posts/devin/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aibestfind.com/posts/deepseek/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -66,6 +78,10 @@
   </url>
   <url>
     <loc>https://aibestfind.com/posts/agenticagency/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aibestfind.com/posts/adobe-firefly/</loc>
     <priority>0.6</priority>
   </url>
   <url>
