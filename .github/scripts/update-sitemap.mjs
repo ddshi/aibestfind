@@ -49,7 +49,7 @@ function generateSitemap(posts) {
   let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
   xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
   xml += '  <url>\n';
-  xml += '    <loc>https://aibestfind.com/</loc>\n';
+  xml += '    <loc>https://www.aibestfind.com/</loc>\n';
   xml += '    <priority>1.0</priority>\n';
   xml += '  </url>';
 
@@ -58,8 +58,8 @@ function generateSitemap(posts) {
     // posts 使用子目录结构: /posts/slug/  (web server 会解析到 /posts/slug/index.html)
     // news 使用平铺文件: /news/slug.html
     const loc = prefix === 'posts'
-      ? 'https://aibestfind.com/' + prefix + '/' + p.slug + '/'
-      : 'https://aibestfind.com/' + prefix + '/' + p.slug + '.html';
+      ? 'https://www.aibestfind.com/' + prefix + '/' + p.slug + '/'
+      : 'https://www.aibestfind.com/' + prefix + '/' + p.slug + '.html';
     xml += '\n  <url>\n';
     xml += '    <loc>' + loc + '</loc>\n';
     if (p.date) {
