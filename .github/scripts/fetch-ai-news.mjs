@@ -370,7 +370,7 @@ async function generateArticle(newsItems, slot) {
   <hr class="divider">
 ${bodyHtml}
   <div class="news-cta">
-    <a href="/#tools">想找性价比最高的AI工具？查看我们的实时对比榜单 →</a>
+    <a href="/#tools">Looking for the best AI tools? Compare real-time ratings →</a>
   </div>
   <div class="footer">
     <p>AI Best Find Daily Digest — Curated key insights from global AI news.</p>
