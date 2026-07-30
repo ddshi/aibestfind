@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-07-30",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief | 2026-07-30",
+    "titleZh": "AI资讯早报 | 2026-07-30",
+    "title": "AI News Morning Brief | 2026-07-30",
+    "slug": "news-2026-07-30-morning",
+    "headlines": [
+      "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "The Hugging Face AI break-in explained",
+      "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "Sam Altman is ready to decelerate",
+      "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "As AI content floods the internet, Pangram raises $9M to detect it",
+      "Bot-detection startup Spur nabs $200M from Insight",
+      "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI"
+    ]
+  },
+  {
     "date": "2026-07-29",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1238,27 +1263,6 @@
       "9. Europe Is Pushing Back on Washington’s Chip War",
       "10. Cerebras Stock Plunges After Earnings as CEO Says Margin Outlook Was Misunderstood",
       "Bonus: Quick Hits"
-    ]
-  },
-  {
-    "date": "2026-06-25",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-25",
-    "titleZh": "AI资讯早报 | 2026-06-25",
-    "title": "AI News Morning Brief | 2026-06-25",
-    "slug": "news-2026-06-25-morning",
-    "headlines": [
-      "1. OpenAI Unveils Its First Custom Chip, Built by Broadcom",
-      "2. Europe Is Pushing Back on Washington’s Chip War",
-      "3. AI Was Supposed to Kill Engineering Jobs, But New Data Suggests They’re the Most Resilient",
-      "4. AI Researchers Continue to Leave Google for Its Rivals",
-      "5. Companies Are Scrambling to Stop Employees from Maxing Out AI Budgets With Small Tasks",
-      "6. The Memory Chip Crunch Is Paying Off for This US Company",
-      "7. Cerebras Stock Plunges After Earnings as CEO Says Margin Outlook Was Misunderstood",
-      "8. Agility Robotics Plans to Go Public Via SPAC in a $2.5B Deal",
-      "9. Facebook Rolls Out an AI Companion App for Creators",
-      "10. India’s MoEngage Bets That the Future of Marketing Is Millions of AI Agents"
     ]
   }
 ]
