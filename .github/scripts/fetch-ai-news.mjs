@@ -256,7 +256,7 @@ async function generateArticle(newsItems, slot) {
   const time = getBeijingTime();
   const slotLabel = slot === 'morning' ? '早报' : '晚报';
   const slotLabelEn = slot === 'morning' ? 'Morning Brief' : 'Evening Brief';
-  const titleEn = `AI News ${slotLabelEn} | ${time.dateStr}`;
+  const titleEn = `AI News ${slotLabelEn}: Latest AI Updates & New Tools in ${time.year} | ${time.dateStr}`;
   const titleZh = `AI资讯${slotLabel} | ${time.dateStr}`;
   const articleTitle = titleEn;
   const slug = `news-${time.dateStr}-${slot}`;
@@ -280,7 +280,9 @@ async function generateArticle(newsItems, slot) {
     `4. Output pure HTML using these tags: <h2> for section headers, <h3> for each story title, <p> for body, <ul>/<li> for bullet points\n` +
     `5. Preserve the original source link at the end of each story\n` +
     `6. Tone: professional, editorial, highly readable — write like The Verge or TechCrunch\n` +
-    `7. Total length: 1500-2000 words\n\n` +
+    `7. Total length: 1500-2000 words\n` +
+    `8. CRITICAL: The very last element of the article body MUST be this exact HTML line (do not modify, translate, or omit):\n` +
+    `   <div class="news-cta"><a href="/#tools">想找性价比最高的AI工具？查看我们的实时对比榜单 →</a></div>\n\n` +
     `Today's AI news feed:\n\n` + newsText;
 
   console.log(`Calling DeepSeek API for ${slotLabel}...`);
@@ -349,7 +351,10 @@ async function generateArticle(newsItems, slot) {
     .source-link:hover{background:#f3f4f6;border-color:#6366f1;color:#6366f1}
     .news-card{background:#fff;border:1px solid #e5e7eb;border-radius:14px;padding:24px;margin:20px 0;transition:.2s;box-shadow:0 1px 3px rgba(0,0,0,.04)}
     .news-card:hover{border-color:rgba(99,102,241,.2);box-shadow:0 4px 20px rgba(0,0,0,.06)}
-    .footer{margin-top:48px;padding-top:24px;border-top:1px solid #e5e7eb;color:#9ca3af;font-size:.85em;text-align:center}
+    .news-cta{background:linear-gradient(135deg,rgba(99,102,241,.08),rgba(139,92,246,.04));border:2px solid rgba(99,102,241,.25);border-radius:14px;padding:20px 24px;margin:40px 0 24px;text-align:center}
+    .news-cta a{color:#4f46e5;font-size:1.05em;font-weight:700;text-decoration:none;transition:.2s}
+    .news-cta a:hover{color:#6366f1;text-decoration:underline}
+    .footer{margin-top:24px;padding-top:24px;border-top:1px solid #e5e7eb;color:#9ca3af;font-size:.85em;text-align:center}
     .footer a{color:#6366f1;text-decoration:none}
     .footer a:hover{text-decoration:underline}
     @media(max-width:600px){body{padding:20px 16px}h1{font-size:1.4em}.news-card{padding:18px}}
@@ -364,6 +369,9 @@ async function generateArticle(newsItems, slot) {
   <h1>${titleEn}</h1>
   <hr class="divider">
 ${bodyHtml}
+  <div class="news-cta">
+    <a href="/#tools">想找性价比最高的AI工具？查看我们的实时对比榜单 →</a>
+  </div>
   <div class="footer">
     <p>AI Best Find Daily Digest — Curated key insights from global AI news.</p>
     <p style="margin-top:8px"><a href="/">Back to Home</a> · <a href="/sitemap.xml">Sitemap</a></p>
