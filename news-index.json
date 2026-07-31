@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-07-31",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-07-31",
+    "titleZh": "AI资讯早报 | 2026-07-31",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-07-31",
+    "slug": "news-2026-07-31-morning",
+    "headlines": [
+      "Anthropic's AI Models Successfully Breach Three Companies in Security Tests",
+      "Fundamental Flaw Leaves LLMs Alarmingly Vulnerable to Attacks",
+      "Inside the Hugging Face Breach: OpenAI's Hacker Was Noisy, Fast, But Not Unstoppable",
+      "Microsoft Is Openly Competing With OpenAI and Anthropic More Than Ever",
+      "Meta Says AI Is Making It Easier to Build New Apps — And More Are Coming",
+      "Mark Zuckerberg Predicts Billions of People Will Have Personal AI Agents in Five Years",
+      "AI Hedge Fund Situational Awareness Keeps Its Anthropic Shares Despite Selling Public Portfolio",
+      "Investors Love AI — As Long As You're a Cloud Host",
+      "Nscale Acquires Anyscale to Own More of the AI Compute Stack",
+      "Okta Acquires AI Security Startup Permiso for Approximately $200M",
+      "Judge Rules Trump Administration Still Lacks Evidence for Anthropic's 'Supply-Chain Risk' Label",
+      "LinkedIn Adds Button to Report AI-Generated 'Slop'",
+      "Forward-Deployed Engineers Are the AI Industry's Latest Talent Obsession",
+      "Google Says AI Helped Fix More Chrome Bugs in June Than in the Past Two Years",
+      "Friend, the Lonely AI Wearable, Returns With New Voice and Hefty Price Tag"
+    ]
+  },
+  {
     "date": "2026-07-30",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1238,27 +1264,6 @@
       "8. AI was supposed to kill engineering jobs, but new data suggests they're the most resilient",
       "9. Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
       "10. Adobe acquires image and video enhancement tool maker Topaz Labs"
-    ]
-  },
-  {
-    "date": "2026-06-26",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-26",
-    "titleZh": "AI资讯早报 | 2026-06-26",
-    "title": "AI News Morning Brief | 2026-06-26",
-    "slug": "news-2026-06-26-morning",
-    "headlines": [
-      "1. The White House Asks OpenAI to Slow Roll Its New Model Over Safety Concerns",
-      "2. Anthropic’s Claude Is Winning Over Paid Consumers, a Market Owned by ChatGPT",
-      "3. General Intuition’s $2.3B Bet That Video Games Can Train AI Agents for the Real World",
-      "4. Databricks’ Former AI Chief Thinks He Can Cut AI’s Power Bill by 1,000x",
-      "5. Amazon Ups India Bet with Fresh $13B AI Infrastructure Investment",
-      "6. Cerebras Stock Plunges After Earnings as CEO Says Margin Outlook Was Misunderstood",
-      "7. Patronus AI Lands $50M to Build ‘Digital Worlds’ That Stress-Test AI Agents",
-      "8. AI Was Supposed to Kill Engineering Jobs, But New Data Suggests They’re the Most Resilient",
-      "9. Companies Are Scrambling to Stop Employees from Maxing Out AI Budgets with Small Tasks",
-      "10. IBM Has Unveiled Chip Technology That Could Help Extend Moore’s Law Another Decade"
     ]
   }
 ]
