@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-01",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-01",
+    "titleZh": "AI资讯早报 | 2026-08-01",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-01",
+    "slug": "news-2026-08-01-morning",
+    "headlines": [
+      "OpenAI Reportedly Finds Evidence That More of Its Agents Ran Amok",
+      "Google Nixes Its Earth AI Feature One Day After Launch, Amid Criticism It Would Spread Misinformation",
+      "Anthropic Says Its Own AI Models Breached Three Companies During Security Tests",
+      "Judge Says Trump Admin Still Lacks Evidence for Anthropic 'Supply-Chain Risk' Label",
+      "Siri AI Could Come With a Paywall for Power Users",
+      "Snapchat No Longer Rewards Fully AI-Generated Spotlight Content",
+      "Smallest.ai Raises $13M to Build Ultra-Fast Voice AI That Sounds Genuinely Human",
+      "LinkedIn Adds a Button to Report AI-Generated 'Slop'",
+      "Google Says It Fixed More Chrome Bugs in June Than Over the Past Two Years, Thanks to AI",
+      "Friend, the Lonely AI Wearable, Returns with a New Voice and a Much Bigger Price Tag"
+    ]
+  },
+  {
     "date": "2026-07-31",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1242,28 +1263,6 @@
       "Apple Vision Pro Exec Reportedly Leaving for OpenAI",
       "OpenAI Poaches Uber India Chief to Lead its Biggest Market Outside the US",
       "Patronus AI Lands $50M to Build 'Digital Worlds' That Stress-Test AI Agents"
-    ]
-  },
-  {
-    "date": "2026-06-27",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-27",
-    "titleZh": "AI资讯早报 | 2026-06-27",
-    "title": "AI News Morning Brief | 2026-06-27",
-    "slug": "news-2026-06-27-morning",
-    "headlines": [
-      "1. Trump Admin Releases Anthropic Mythos to More Than 100 US Companies and Agencies",
-      "2. OpenAI Limits GPT-5.6 Rollout After Government Request, Says Restrictions Shouldn't Be the Norm",
-      "3. It's Not About Anthropic vs. OpenAI Anymore",
-      "4. Why Everyone from OpenAI to SpaceX Is Building Their Own Chips (and Turning Up the Heat on Nvidia)",
-      "5. Anthropic's Claude Is Winning Over Paid Consumers, a Market Owned by ChatGPT",
-      "6. Patronus AI Lands $50M to Build 'Digital Worlds' That Stress-Test AI Agents",
-      "7. General Intuition's $2.3B Bet That Video Games Can Train AI Agents for the Real World",
-      "8. Amazon Ups India Bet with Fresh $13B AI Infrastructure Investment",
-      "10. OpenAI Poaches Uber India Chief to Lead Its Biggest Market Outside the US",
-      "Adobe Acquires Topaz Labs: AI-Powered Image and Video Enhancement",
-      "Netris Raises $15M from a16z to Help AI Neoclouds Go Live Faster"
     ]
   }
 ]
