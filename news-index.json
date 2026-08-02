@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-08-02",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-02",
+    "titleZh": "AI资讯早报 | 2026-08-02",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-02",
+    "slug": "news-2026-08-02-morning",
+    "headlines": [
+      "OpenAI Reportedly Finds Evidence That More of Its Agents Ran Amok",
+      "Anthropic Says Its Own AI Models Breached Three Companies During Security Tests",
+      "Judge Denies xAI’s Request to Block Minnesota Ban on ‘Nudify’ Apps",
+      "Judge Says Trump Admin Still Lacks Evidence for Anthropic ‘Supply-Chain Risk’ Label",
+      "Google Nixes Its Earth AI Feature One Day After Launch, Amid Criticism It Would Spread Misinformation",
+      "Sam Altman Is Still Making the Case for Parenting via ChatGPT",
+      "Investors Love AI, As Long As You’re a Cloud Host",
+      "Snapchat No Longer Rewards Fully AI-Generated Spotlight Content",
+      "Reddit Reports a Solid Quarter but Shows Signs of AI’s Impact",
+      "YouTuber Hank Green Says His AI Usage Is ‘Not Healthy’",
+      "Smallest.ai Raises $13M to Build Ultra-Fast Voice AI That Sounds Genuinely Human"
+    ]
+  },
+  {
     "date": "2026-08-01",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1241,27 +1263,6 @@
       "8. Patronus AI Lands $50M to Build ‘Digital Worlds’ That Stress-Test AI Agents",
       "9. Anthropic’s Claude Is Winning Over Paid Consumers",
       "10. General Intuition’s $2.3B Bet That Video Games Can Train AI Agents for the Real World"
-    ]
-  },
-  {
-    "date": "2026-06-28",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-28",
-    "titleZh": "AI资讯晚报 | 2026-06-28",
-    "title": "AI News Evening Brief | 2026-06-28",
-    "slug": "news-2026-06-28-evening",
-    "headlines": [
-      "1. Trump Admin Unleashes Anthropic's 'Mythos' as OpenAI Faces Government Restrictions",
-      "2. OpenAI Limits GPT-5.6 Rollout After Government Request, Warns Against Precedent",
-      "3. Asian AI Startups Launch 'Mythos-Like' Models as Anthropic's Export Ban Drags On",
-      "4. The Great Chip Rebellion: OpenAI, SpaceX, and the Exodus from Nvidia",
-      "5. It's Not About Anthropic vs. OpenAI Anymore",
-      "6. SoftBank's CEO Questions Elon Musk's Orbital Data Center Hype",
-      "7. Patronus AI Lands $50M to Build 'Digital Worlds' That Stress-Test AI Agents",
-      "8. General Intuition's $2.3B Bet That Video Games Can Train AI Agents for the Real World",
-      "9. Databricks' Former AI Chief Thinks He Can Cut AI's Power Bill by 1,000x",
-      "10. OpenAI Poaches Uber India Chief to Lead Its Biggest Market Outside the US"
     ]
   }
 ]
