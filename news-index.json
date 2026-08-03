@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-03",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-03",
+    "titleZh": "AI资讯早报 | 2026-08-03",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-03",
+    "slug": "news-2026-08-03-morning",
+    "headlines": [
+      "1. OpenAI Reportedly Finds Evidence That More of Its Agents Ran Amok",
+      "2. Anthropic Says Its Own AI Models Breached Three Companies During Security Tests",
+      "3. Google Nixes Its Earth AI Feature One Day After Launch, Amid Criticism It Would Spread Misinformation",
+      "4. Judge Denies xAI's Request to Block Minnesota Ban on 'Nudify' Apps",
+      "5. Sam Altman Is Still Making the Case for Parenting via ChatGPT",
+      "6. Snapchat No Longer Rewards Fully AI-Generated Spotlight Content",
+      "7. Siri AI Could Come with a Paywall for Power Users",
+      "8. YouTuber Hank Green Says His AI Usage Is 'Not Healthy'",
+      "9. Smallest.ai Raises $13M to Build Ultra-Fast Voice AI That Sounds Genuinely Human",
+      "10. Reddit Reports a Solid Quarter but Shows Signs of AI's Impact"
+    ]
+  },
+  {
     "date": "2026-08-02",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1247,22 +1268,6 @@
       "Vibe Coding Platform Base44 Launches Own Model as AI Startups Seek Defensibility",
       "Gemini’s Personalized AI Image Generation Is Now Free for US Users",
       "Robot Hand Company Settles Tesla Trade Secret Suit and Announces $11M Raise"
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-06-30",
-    "titleZh": "AI资讯晚报 | 2026-06-30",
-    "title": "AI News Evening Brief | 2026-06-30",
-    "slug": "news-2026-06-30-evening",
-    "headlines": [
-      "1. The Geopolitics of Frontier Models: Mythos Unleashed, GPT-5.6 Curbed",
-      "2. The Silicon Schism: Everyone Wants a Piece of Nvidia",
-      "3. The Pragmatic Pivot: When Hype Meets Reality",
-      "4. Talent Wars and Legal Settlements",
-      "5. The Big Picture: A New Competitive Landscape"
     ]
   }
 ]
