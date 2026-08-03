@@ -281,8 +281,6 @@ async function generateArticle(newsItems, slot) {
     `5. Preserve the original source link at the end of each story\n` +
     `6. Tone: professional, editorial, highly readable — write like The Verge or TechCrunch\n` +
     `7. Total length: 1500-2000 words\n` +
-    `8. CRITICAL: The very last element of the article body MUST be this exact HTML line (do not modify, translate, or omit):\n` +
-    `   <div class="news-cta"><a href="/#tools">想找性价比最高的AI工具？查看我们的实时对比榜单 →</a></div>\n\n` +
     `Today's AI news feed:\n\n` + newsText;
 
   console.log(`Calling DeepSeek API for ${slotLabel}...`);
