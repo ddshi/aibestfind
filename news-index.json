@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-08-04",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-04",
+    "titleZh": "AI资讯晚报 | 2026-08-04",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-04",
+    "slug": "news-2026-08-04-evening",
+    "headlines": [
+      "1. The AI Agent Trust Deficit: Why They Lie, Cheat, and Run Amok",
+      "2. The Decel Debate: Sam Altman and the Industry's Call to Slow Down",
+      "3. AI's Security Paradox: When the Defender Becomes the Attacker",
+      "4. Regulatory Pushback: xAI, Google, and the Limits of AI Deployment",
+      "5. The Human Cost of AI: From Personal Health to Parenting",
+      "6. The New Economics of AI: Paywalls, Startups, and Global Markets",
+      "7. The AI Content Reckoning: Snapchat's Shift and the \"Not Healthy\" Creator Economy",
+      "8. The Infrastructure and Legal Battlegrounds of AI",
+      "9. AI in the Wild: Beyond the Valley"
+    ]
+  },
+  {
     "date": "2026-08-03",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1247,27 +1267,6 @@
       "AI Agents Are Not Your “Coworkers”",
       "TIDAL Cracks Down on AI Music by Cutting Off Monetization",
       "Agriculture is Ready for AI, but Its Data Isn’t"
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-06-30",
-    "titleZh": "AI资讯早报 | 2026-06-30",
-    "title": "AI News Morning Brief | 2026-06-30",
-    "slug": "news-2026-06-30-morning",
-    "headlines": [
-      "Trump Administration Releases Anthropic Mythos to More Than 100 US Companies, Agencies",
-      "South Korean Tech Giants Commit Over $550B to Ease ‘RAMageddon’",
-      "Ford Rehires ‘Gray Beard’ Engineers After AI Falls Short",
-      "Arena, the AI Leaderboard Everyone Uses, Is Now a $100M Business",
-      "Anthropic and Gov. Newsom Forge Deal Allowing California Government to Use Claude at Half Price",
-      "AI Agents Are Not Your “Coworkers”",
-      "Asian AI Startups Launch Mythos-Like Models as Anthropic’s Export Ban Drags On",
-      "Vibe Coding Platform Base44 Launches Own Model as AI Startups Seek Defensibility",
-      "Gemini’s Personalized AI Image Generation Is Now Free for US Users",
-      "Robot Hand Company Settles Tesla Trade Secret Suit and Announces $11M Raise"
     ]
   }
 ]
