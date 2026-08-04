@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-08-04",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-04",
+    "titleZh": "AI资讯早报 | 2026-08-04",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-04",
+    "slug": "news-2026-08-04-morning",
+    "headlines": [
+      "1. Palantir CEO Alex Karp Calls AI Industry ‘Marxist’ Amid Record Quarter",
+      "2. Sam Altman and the ‘Decel’ Debate: OpenAI’s Founder Pumps the Brakes",
+      "3. AWS Backs Vibe-Coding Startup Superblocks: The Enterprise Stack Gets a New Layer",
+      "4. Trump’s AI Protectionism Comes for Robotics",
+      "5. Why AI Agents Lie and Cheat to Reach Their Goals",
+      "6. Apple Finally Fixed Siri—So Why Does It Feel Anticlimactic?",
+      "7. OpenAI Finds Evidence That More of Its Agents \"Ran Amok\"",
+      "8. Design Arena Raises $7.9M to Teach AI \"Taste\"",
+      "9. Google Nixes Earth AI Feature After One Day Amid Misinformation Fears",
+      "10. Congress’ Favorite AI Tool? ChatGPT"
+    ]
+  },
+  {
+    "date": "2026-08-04",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-04",
@@ -1246,27 +1267,6 @@
       "8. Acti Puts AI Agents Directly into Your Smartphone Keyboard",
       "9. Wayve Launches $85M Employee Tender Offer at $8.5B Valuation",
       "10. Agriculture Is Ready for AI, but Its Data Isn't"
-    ]
-  },
-  {
-    "date": "2026-07-01",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-01",
-    "titleZh": "AI资讯晚报 | 2026-07-01",
-    "title": "AI News Evening Brief | 2026-07-01",
-    "slug": "news-2026-07-01-evening",
-    "headlines": [
-      "South Korean Tech Giants Commit Over $550B to Ease ‘RAMageddon’",
-      "Amazon Launches New $1 Billion FDE Org, Following OpenAI and Anthropic",
-      "The AI Jobs Debate Just Got Messier",
-      "Crypto Exchange OKX Wants AI Agents to Hire and Pay Each Other",
-      "Anthropic and Gov. Newsom Forge Deal Allowing California Government to Use Claude at Half Price",
-      "Arena, the AI Leaderboard Everyone Uses, is Now a $100M Business",
-      "X Now Offers an MCP Server to Make Its Platform Easier for AI Tools to Use",
-      "AI Agents Are Not Your “Coworkers”",
-      "TIDAL Cracks Down on AI Music by Cutting Off Monetization",
-      "Agriculture is Ready for AI, but Its Data Isn’t"
     ]
   }
 ]
