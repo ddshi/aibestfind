@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-08-05",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-05",
+    "titleZh": "AI资讯晚报 | 2026-08-05",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-05",
+    "slug": "news-2026-08-05-evening",
+    "headlines": [
+      "Texas Halts New Data Centers as Governor Calls for Audits",
+      "Is the Future of Data Centers Portable? Runware Builds a Pod to Find Out",
+      "Trump’s AI Protectionism Has Come for Robotics",
+      "Apple Says More Ex-Employees May Have Taken Confidential Data to OpenAI",
+      "Elon Musk Spends Half His Time Talking Robots and AI on Tesla Earnings Calls",
+      "EON Wants to Move the Data Superhighway from Ocean Fiber to Space Lasers",
+      "After Killer Quarter, Palantir CEO Alex Karp Calls AI Industry ‘Marxist’",
+      "Here’s Why AI Agents Lie and Cheat to Reach Their Goals",
+      "Sam Altman and AI’s Decel Debate",
+      "Congress’ Favorite AI Tool? ChatGPT",
+      "Apple Finally Fixed Siri. So Why Does It Feel Anticlimactic?",
+      "Spotify Expands AI Remix and Covers Project with Merlin Partnership",
+      "Influencers Draw Backlash for Attending OpenAI’s First Luxury Trip",
+      "Design Arena Creators Raise $7.9 Million to Bring Taste to AI Models"
+    ]
+  },
+  {
     "date": "2026-08-04",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1246,27 +1271,6 @@
       "8. Wayve Launches $85M Employee Tender Offer at $8.5B Valuation",
       "9. Google Unveils Nano Banana 2 Lite: Faster, Cheaper Image Generation",
       "10. Startup Takes on LLM 'Groupthink' with Diversity-Focused Training"
-    ]
-  },
-  {
-    "date": "2026-07-01",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-01",
-    "titleZh": "AI资讯早报 | 2026-07-01",
-    "title": "AI News Morning Brief | 2026-07-01",
-    "slug": "news-2026-07-01-morning",
-    "headlines": [
-      "1. Anthropic Launches Claude Science, a Workflow-First Flagship",
-      "2. Trump Administration Drops Restrictions on Anthropic’s Mythos and Fable Models",
-      "3. Amazon Launches a $1 Billion \"FDE\" Org, Following OpenAI and Anthropic",
-      "4. Nvidia Competitor Etched Hits $5B Valuation, $1B in Sales for AI Chip",
-      "5. Anthropic Launches Claude Sonnet 5 as a Cheaper Way to Run Agents",
-      "6. Google Introduces a Faster, Cheaper Image Generator with Nano Banana 2 Lite",
-      "7. The DeepMind Trio Who Built a Poker AI Are Now Making Money for Quant Hedge Funds",
-      "8. Acti Puts AI Agents Directly into Your Smartphone Keyboard",
-      "9. Wayve Launches $85M Employee Tender Offer at $8.5B Valuation",
-      "10. Agriculture Is Ready for AI, but Its Data Isn't"
     ]
   }
 ]
