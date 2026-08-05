@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-08-05",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-05",
+    "titleZh": "AI资讯早报 | 2026-08-05",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-05",
+    "slug": "news-2026-08-05-morning",
+    "headlines": [
+      "Anthropic Signs $10B Deal with AI Cloud Startup Volta",
+      "Texas Halts New Data Centers as Governor Calls for Audits",
+      "Open-Weight AI Models Are Catching Up to the Frontier. The Safety Gap Remains.",
+      "Apple Says More Ex-Employees May Have Taken Confidential Data to OpenAI",
+      "Nvidia Doesn’t Mess Around: A Week After Open AI Industry Group Formed, It’s Already Showing Progress",
+      "EON Wants to Move the Data Superhighway from Ocean Fiber to Space Lasers",
+      "Elon Musk Spends Half His Time Talking Robots and AI on Tesla Earnings Calls",
+      "Spotify Expands AI Remix and Covers Project with Merlin Partnership",
+      "Is the Future of Data Centers Portable? Runware Builds a Pod to Find Out",
+      "Trump’s AI Protectionism Has Come for Robotics"
+    ]
+  },
+  {
+    "date": "2026-08-05",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-05",
@@ -1250,27 +1271,6 @@
       "8. Meta, Like SpaceX, Looks to Turn Excess AI Compute into Cash",
       "9. The DeepMind Trio Who Built a Poker AI Are Now Making Money for Quant Hedge Funds",
       "10. Indian Tech Tycoon Bets $30M of His Own Money to Build an AI Alternative to Microsoft Office"
-    ]
-  },
-  {
-    "date": "2026-07-02",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-02",
-    "titleZh": "AI资讯晚报 | 2026-07-02",
-    "title": "AI News Evening Brief | 2026-07-02",
-    "slug": "news-2026-07-02-evening",
-    "headlines": [
-      "1. Anthropic Launches Claude Science: A Workflow-First Bet on Scientific Research",
-      "2. Etched Hits $5B Valuation, Challenging Nvidia's AI Chip Dominance",
-      "3. Venice AI Becomes Unicorn with $65M Series A for Privacy-First Platform",
-      "4. Trump Administration Drops Restrictions on Anthropic's Mythos and Fable Models",
-      "5. Google Launches Gemini Spark on Mac, Expanding Its Agentic Assistant Reach",
-      "6. Meta Looks to Monetize Excess AI Compute, Following SpaceX's Playbook",
-      "7. Anthropic Launches Claude Sonnet 5: A Cheaper, Agent-Optimized Model",
-      "8. Wayve Launches $85M Employee Tender Offer at $8.5B Valuation",
-      "9. Google Unveils Nano Banana 2 Lite: Faster, Cheaper Image Generation",
-      "10. Startup Takes on LLM 'Groupthink' with Diversity-Focused Training"
     ]
   }
 ]
