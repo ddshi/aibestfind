@@ -1,6 +1,32 @@
 [
   {
     "date": "2026-08-07",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-07",
+    "titleZh": "AI资讯晚报 | 2026-08-07",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-07",
+    "slug": "news-2026-08-07-evening",
+    "headlines": [
+      "1. Jeff Dean and Top AI Researchers Leave Google to Launch New Startup",
+      "2. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
+      "3. ChatGPT Brings Unlimited Text Chats to Free Users",
+      "4. OpenAI's New AI Smart Speaker to Sell for $300-$400",
+      "5. Google Maps Adds Agentic Features for Food Ordering and Hotel Bookings",
+      "6. OpenAI Says Apple's Security Practices Undermine Its Trade Secrets Case",
+      "7. Meta Launches Muse Code, an AI Agent for Large Code Bases",
+      "8. Mirendil Inks $100M+ Google Cloud Deal to Scale Self-Improving AI",
+      "9. Amid Legal Battles, Suno Says It Will Start Watermarking Songs",
+      "10. Ex-Spotify Employees Raise $10M to Bring AI Recommendations to E-commerce",
+      "Shopify Says AI Search Is Driving More Traffic and Sales, Not Replacing Google",
+      "Gen Z Dating Apps Like Ditto Ditch Swiping for AI Matchmaking",
+      "Airbnb Says AI Is Helping It Ship Features Faster",
+      "Naïve Raises $28.5M to Automate Company Setup and Operations",
+      "Omilia Raises $67M to Scale Its Customer Support Platform"
+    ]
+  },
+  {
+    "date": "2026-08-07",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-07",
@@ -1250,27 +1276,6 @@
       "8. Indian Tech Tycoon Bets $30M of His Own Money to Build AI Alternative to Microsoft Office",
       "9. Teaching AI to Run with the Turbines",
       "10. Jersey Mike's IPO Illustrates How Bad the AI Hype Has Become"
-    ]
-  },
-  {
-    "date": "2026-07-03",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-03",
-    "titleZh": "AI资讯早报 | 2026-07-03",
-    "title": "AI News Morning Brief | 2026-07-03",
-    "slug": "news-2026-07-03-morning",
-    "headlines": [
-      "1. Microsoft Launches Its Own AI Deployment Company with $2.5 Billion Commitment",
-      "2. Anthropic is Discussing a New Custom Chip with Samsung",
-      "3. Mark Zuckerberg Tells Staff That AI Agents Haven’t Progressed as Quickly as He’d Hoped",
-      "4. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
-      "5. Cloudflare’s New Policy Pushes AI Companies to Pay for Publishers’ Content",
-      "6. Venice AI Becomes a Unicorn with $65M Series A as Its Privacy-First AI Platform Takes Off",
-      "7. LLMs Are Stuck in a Groupthink Rut. This Startup Is Trying to Get Them Out.",
-      "8. SpaceX Has an AI Device Prototype, and It Sure Sounds Phone-ish",
-      "9. Gemini Spark, Google’s Agentic Assistant, Is Now Available on Mac",
-      "10. Meta Quietly Launches Vibe-Coded Gaming App Pocket"
     ]
   }
 ]

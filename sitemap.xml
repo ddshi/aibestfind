@@ -53,12 +53,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.aibestfind.com/posts/midjourney/</loc>
+    <loc>https://www.aibestfind.com/posts/midjourney-vs-stable-diffusion/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.aibestfind.com/posts/midjourney-vs-stable-diffusion/</loc>
-    <priority>0.7</priority>
+    <loc>https://www.aibestfind.com/posts/midjourney/</loc>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.aibestfind.com/posts/luma-ai/</loc>
@@ -165,12 +165,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.aibestfind.com/posts/chatgpt/</loc>
+    <loc>https://www.aibestfind.com/posts/chatgpt-vs-gemini/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.aibestfind.com/posts/chatgpt-vs-gemini/</loc>
-    <priority>0.7</priority>
+    <loc>https://www.aibestfind.com/posts/chatgpt/</loc>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.aibestfind.com/posts/bolt-new/</loc>
@@ -190,6 +190,11 @@
   </url>
   <url>
     <loc>https://www.aibestfind.com/news/news-2026-08-07-morning.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.aibestfind.com/news/news-2026-08-07-evening.html</loc>
     <lastmod>2026-08-07</lastmod>
     <priority>0.6</priority>
   </url>
