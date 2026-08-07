@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-07",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-07",
+    "titleZh": "AI资讯早报 | 2026-08-07",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-07",
+    "slug": "news-2026-08-07-morning",
+    "headlines": [
+      "OpenAI’s New AI Smart Speaker Will Reportedly Sell for Between $300 and $400",
+      "Jeff Dean and Other Top AI Researchers Are Leaving Google to Launch Their Own Startup",
+      "ChatGPT Brings Unlimited Text Chats to Free Users",
+      "Google Maps Adds Agentic Features, Including Food Ordering and Hotel Bookings",
+      "OpenAI Says Apple’s Own Security Practices Undermine Its Trade Secrets Case",
+      "Amid Legal Battles, Suno Says It Will Start Watermarking Songs",
+      "Anthropic Is Hiring an AI Chip Design Team",
+      "Ex-Spotify Employees Raise $10M to Bring the AI Behind Its Recommendations to E-commerce",
+      "Gen Z Dating Apps Like Ditto Ditch Swiping in Favor of AI Matchmaking",
+      "Meta Launches Muse Code, an AI Agent for Large Code Bases"
+    ]
+  },
+  {
     "date": "2026-08-06",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1250,27 +1271,6 @@
       "8. SpaceX Has an AI Device Prototype, and It Sure Sounds Phone-ish",
       "9. Gemini Spark, Google’s Agentic Assistant, Is Now Available on Mac",
       "10. Meta Quietly Launches Vibe-Coded Gaming App Pocket"
-    ]
-  },
-  {
-    "date": "2026-07-03",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-03",
-    "titleZh": "AI资讯晚报 | 2026-07-03",
-    "title": "AI News Evening Brief | 2026-07-03",
-    "slug": "news-2026-07-03-evening",
-    "headlines": [
-      "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "Wayve launches $85M employee tender offer at $8.5B valuation"
     ]
   }
 ]
