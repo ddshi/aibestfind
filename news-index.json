@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-08-08",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-08",
+    "titleZh": "AI资讯晚报 | 2026-08-08",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-08",
+    "slug": "news-2026-08-08-evening",
+    "headlines": [
+      "1. OpenAI Slows Astra Model Development Over Security Concerns",
+      "2. Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
+      "3. OpenAI's New AI Smart Speaker to Sell for $300-$400",
+      "4. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
+      "5. ChatGPT Brings Unlimited Text Chats to Free Users",
+      "6. Google Maps Adds Agentic Features, Including Food Ordering and Hotel Bookings",
+      "7. The First Virus Created by AI: A New Era of Cyber Threats",
+      "8. OpenAI Says Apple's Own Security Practices Undermine Its Trade Secrets Case",
+      "9. Amid Legal Battles, Suno Says It Will Start Watermarking Songs",
+      "10. Mirendil Inks $100M+ Google Cloud Deal to Scale Self-Improving AI"
+    ]
+  },
+  {
+    "date": "2026-08-08",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-08",
@@ -1264,27 +1285,6 @@
       "8. Jersey Mike’s IPO Illustrates How Bad the AI Hype Has Become",
       "9. Meta Quietly Launches Vibe-Coded Gaming App Pocket",
       "10. The Browser Wars Aren’t About Search Anymore — Here Are the Best Alternatives to Chrome and Safari"
-    ]
-  },
-  {
-    "date": "2026-07-04",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-04",
-    "titleZh": "AI资讯晚报 | 2026-07-04",
-    "title": "AI News Evening Brief | 2026-07-04",
-    "slug": "news-2026-07-04-evening",
-    "headlines": [
-      "1. Mark Zuckerberg Tells Staff That AI Agents Haven't Progressed as Quickly as He'd Hoped",
-      "2. Microsoft Launches Its Own AI Deployment Company with $2.5 Billion Commitment",
-      "3. Anthropic Is Discussing a New Custom Chip with Samsung",
-      "4. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
-      "5. Cloudflare's New Policy Pushes AI Companies to Pay for Publishers' Content",
-      "6. Jersey Mike's IPO Illustrates How Bad the AI Hype Has Become",
-      "7. A Device That Revives Eyeballs from Dead Donors Could Make Eye Transplants Possible",
-      "8. Meta Quietly Launches Vibe-Coded Gaming App Pocket",
-      "9. Indian Tech Tycoon Bets $30M of His Own Money to Build AI Alternative to Microsoft Office",
-      "10. Teaching AI to Run with the Turbines"
     ]
   }
 ]
