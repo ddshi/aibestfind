@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-08-08",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-08",
+    "titleZh": "AI资讯早报 | 2026-08-08",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-08",
+    "slug": "news-2026-08-08-morning",
+    "headlines": [
+      "1. OpenAI Slows Astra Model Development Over Security Concerns",
+      "2. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
+      "3. Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
+      "4. OpenAI's New AI Smart Speaker to Sell for $300–$400",
+      "5. OpenAI Says Apple's Security Practices Undermine Its Trade Secrets Case",
+      "6. Google Maps Adds Agentic Features: Food Ordering and Hotel Bookings",
+      "7. Suno Says It Will Start Watermarking Songs Amid Legal Battles",
+      "8. Meta Launches Muse Code, an AI Agent for Large Code Bases",
+      "9. Airbnb Says AI Is Helping It Ship Features Faster",
+      "10. ChatGPT Brings Unlimited Text Chats to Free Users",
+      "11. Mirendil Inks $100M+ Google Cloud Deal to Scale Self-Improving AI",
+      "12. Naïve Raises $28.5M to Automate Company Setup and Operations",
+      "13. Ex-Spotify Employees Raise $10M to Bring Recommender AI to E-Commerce",
+      "14. Rippling Builds Employee AI ROI Tool After \"Blewing Millions\" on AI",
+      "15. Jill Lepore on the 'Artificial State' and Silicon Valley's Sci-Fi Blindspot",
+      "16. Gen Z Dating Apps Like Ditto Ditch Swiping for AI Matchmaking",
+      "17. Omilia Raises $67M to Scale Customer Support Platform",
+      "18. How Censorship Conspiracy Theories Moved from Fringe to Trump Policy",
+      "19. The First Virus Created by AI: A New Security Frontier"
+    ]
+  },
+  {
     "date": "2026-08-07",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1255,27 +1285,6 @@
       "8. Meta Quietly Launches Vibe-Coded Gaming App Pocket",
       "9. Indian Tech Tycoon Bets $30M of His Own Money to Build AI Alternative to Microsoft Office",
       "10. Teaching AI to Run with the Turbines"
-    ]
-  },
-  {
-    "date": "2026-07-04",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-04",
-    "titleZh": "AI资讯早报 | 2026-07-04",
-    "title": "AI News Morning Brief | 2026-07-04",
-    "slug": "news-2026-07-04-morning",
-    "headlines": [
-      "1. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
-      "2. Mark Zuckerberg Tells Staff That AI Agents Haven't Progressed as Quickly as He'd Hoped",
-      "3. Microsoft Launches Its Own AI Deployment Company with $2.5 Billion Commitment",
-      "4. Anthropic Is Discussing a New Custom Chip with Samsung",
-      "5. Cloudflare's New Policy Pushes AI Companies to Pay for Publishers' Content",
-      "6. A Device That Revives Eyeballs from Dead Donors Could Make Eye Transplants Possible",
-      "7. Meta Quietly Launches Vibe-Coded Gaming App Pocket",
-      "8. Indian Tech Tycoon Bets $30M of His Own Money to Build AI Alternative to Microsoft Office",
-      "9. Teaching AI to Run with the Turbines",
-      "10. Jersey Mike's IPO Illustrates How Bad the AI Hype Has Become"
     ]
   }
 ]
