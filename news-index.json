@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-09",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-09",
+    "titleZh": "AI资讯早报 | 2026-08-09",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-09",
+    "slug": "news-2026-08-09-morning",
+    "headlines": [
+      "1. Planned Amazon Data Center Could Become the Biggest Climate Polluter in the U.S.",
+      "2. OpenAI Says It Slowed Astra Model Development Over Security Concerns",
+      "3. OpenAI Acquires Presentation Startup NextSlide",
+      "4. Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
+      "5. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
+      "6. After Rippling Blew Millions on AI in Months, It Built an Employee ROI Tool",
+      "7. OpenAI's New AI Smart Speaker Will Reportedly Sell for Between $300 and $400",
+      "8. Google Maps Adds Agentic Features, Including Food Ordering and Hotel Bookings",
+      "9. Amid Legal Battles, Suno Says It Will Start Watermarking Songs",
+      "10. Exclusive: Mirendil Inks $100M+ Google Cloud Deal to Scale Self-Improving AI"
+    ]
+  },
+  {
     "date": "2026-08-08",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1264,27 +1285,6 @@
       "8. New Google Commercial Imagines a Declaration of Independence Written with Help from AI",
       "9. Jersey Mike's IPO Illustrates How Bad the AI Hype Has Become",
       "10. What Is Mistral AI? Everything to Know About the OpenAI Competitor"
-    ]
-  },
-  {
-    "date": "2026-07-05",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-05",
-    "titleZh": "AI资讯早报 | 2026-07-05",
-    "title": "AI News Morning Brief | 2026-07-05",
-    "slug": "news-2026-07-05-morning",
-    "headlines": [
-      "1. Microsoft Launches Its Own AI Deployment Company with $2.5 Billion Commitment",
-      "2. Anthropic Is Discussing a New Custom Chip with Samsung",
-      "3. Mark Zuckerberg Tells Staff That AI Agents Haven’t Progressed as Quickly as He’d Hoped",
-      "4. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
-      "5. Midjourney Wants Hollywood Studios to Reveal the Details of Their AI Usage",
-      "6. Alibaba Reportedly Bans Employees from Using Claude Code",
-      "7. A Device That Revives Eyeballs from Dead Donors Could Make Eye Transplants Possible",
-      "8. Jersey Mike’s IPO Illustrates How Bad the AI Hype Has Become",
-      "9. Meta Quietly Launches Vibe-Coded Gaming App Pocket",
-      "10. The Browser Wars Aren’t About Search Anymore — Here Are the Best Alternatives to Chrome and Safari"
     ]
   }
 ]
