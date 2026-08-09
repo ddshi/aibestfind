@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-08-09",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-09",
+    "titleZh": "AI资讯晚报 | 2026-08-09",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-09",
+    "slug": "news-2026-08-09-evening",
+    "headlines": [
+      "1. Planned Amazon Data Center Could Become the Biggest Climate Polluter in the U.S.",
+      "2. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
+      "3. OpenAI Says It Slowed Astra Model Development Over Security Concerns",
+      "4. Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
+      "5. OpenAI Acquires Presentation Startup NextSlide",
+      "6. OpenAI’s New AI Smart Speaker Will Reportedly Sell for Between $300 and $400",
+      "7. Google Maps Adds Agentic Features, Including Food Ordering and Hotel Bookings",
+      "8. ChatGPT Brings Unlimited Text Chats to Free Users",
+      "9. After Rippling Blew Millions on AI in Months, It Built an Employee ROI Tool",
+      "10. Amid Legal Battles, Suno Says It Will Start Watermarking Songs"
+    ]
+  },
+  {
+    "date": "2026-08-09",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-09",
@@ -1264,27 +1285,6 @@
       "8. New Google Commercial Imagines a Declaration of Independence Written with Help from AI",
       "9. A Device That Revives Eyeballs from Dead Donors Could Make Eye Transplants Possible",
       "10. Jersey Mike’s IPO Illustrates How Bad the AI Hype Has Become"
-    ]
-  },
-  {
-    "date": "2026-07-05",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-05",
-    "titleZh": "AI资讯晚报 | 2026-07-05",
-    "title": "AI News Evening Brief | 2026-07-05",
-    "slug": "news-2026-07-05-evening",
-    "headlines": [
-      "1. Mark Zuckerberg Tells Staff That AI Agents Haven't Progressed as Quickly as He'd Hoped",
-      "2. Microsoft Launches Its Own AI Deployment Company with $2.5 Billion Commitment",
-      "3. Anthropic Is Discussing a New Custom Chip with Samsung",
-      "4. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
-      "5. Alibaba Reportedly Bans Employees from Using Claude Code",
-      "6. Midjourney Wants Hollywood Studios to Reveal the Details of Their AI Usage",
-      "7. Meta Quietly Launches Vibe-Coded Gaming App Pocket",
-      "8. New Google Commercial Imagines a Declaration of Independence Written with Help from AI",
-      "9. Jersey Mike's IPO Illustrates How Bad the AI Hype Has Become",
-      "10. What Is Mistral AI? Everything to Know About the OpenAI Competitor"
     ]
   }
 ]
