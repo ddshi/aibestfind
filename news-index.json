@@ -1,6 +1,32 @@
 [
   {
     "date": "2026-08-10",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-10",
+    "titleZh": "AI资讯晚报 | 2026-08-10",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-10",
+    "slug": "news-2026-08-10-evening",
+    "headlines": [
+      "Anthropic Turns Claude Code's Auto Mode On by Default",
+      "AI for Science Needs Reasoning, Not Just Data",
+      "These Startups Are Chasing the Next Big Thing in LLMs",
+      "Embattled Hedge Fund Invests $400M in Chip Startup Source Foundry",
+      "OpenAI Acquires Presentation Startup NextSlide",
+      "Planned Amazon Data Center Could Become the Biggest Climate Polluter in the U.S.",
+      "The AI Safety Test Is Becoming a Safety Risk",
+      "Discovered Materials Is Playing AI Whack-a-Mole to Hunt Cooler Chips",
+      "Historian Jill Lepore Says Silicon Valley Misreads Science Fiction and Undermines Democracy",
+      "OpenAI Says It Slowed Astra Model Development Over Security Concerns",
+      "Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
+      "Airbnb Says AI Is Helping It Ship Features Faster as It Tests a New Search Function",
+      "New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
+      "OpenAI's New AI Smart Speaker Will Reportedly Sell for Between $300 and $400",
+      "ChatGPT Brings Unlimited Text Chats to Free Users"
+    ]
+  },
+  {
+    "date": "2026-08-10",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-10",
@@ -1264,27 +1290,6 @@
       "Station F Ramps Up as a Launchpad for Europe's Hottest AI Startups",
       "You Can Now Customize Siri's Pace and Expressivity in the Latest iOS 27 Beta",
       "South Korea's Hottest New Bachelors Are Chip Workers"
-    ]
-  },
-  {
-    "date": "2026-07-07",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-07",
-    "titleZh": "AI资讯晚报 | 2026-07-07",
-    "title": "AI News Evening Brief | 2026-07-07",
-    "slug": "news-2026-07-07-evening",
-    "headlines": [
-      "1. Mark Zuckerberg Tells Staff That AI Agents Haven’t Progressed as Quickly as He’d Hoped",
-      "2. Microsoft Lays Off Nearly 5,000 Employees Across Xbox, Commercial Sales",
-      "3. Amazon Will Stop Accepting New Customers for Mechanical Turk",
-      "4. Anthropic Is Discussing a New Custom Chip with Samsung",
-      "5. South Korea’s Hottest New Bachelors Are Chip Workers",
-      "6. Alibaba Reportedly Bans Employees from Using Claude Code",
-      "7. Midjourney Wants Hollywood Studios to Reveal the Details of Their AI Usage",
-      "8. OpenAI Proposed Donating 5% of Its Equity to a US Sovereign Wealth Fund",
-      "9. Station F Ramps Up as a Launchpad for Europe’s Hottest AI Startups",
-      "10. Meta Quietly Launches Vibe-Coded Gaming App Pocket"
     ]
   }
 ]
