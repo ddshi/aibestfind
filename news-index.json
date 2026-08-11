@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026-08-11",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-11",
+    "titleZh": "AI资讯早报 | 2026-08-11",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-11",
+    "slug": "news-2026-08-11-morning",
+    "headlines": [
+      "1. OpenAI Reportedly Completed a $7 Billion Employee Tender Offer",
+      "2. As AI-Led Attacks Multiply, OpenAI Launches a New Cyber Model",
+      "3. Tech Industry Is Buzzing After a Claude Agent Hacked Into a Gym",
+      "4. Meta’s New Glimmer AI Model Offers a Hint at Zuckerberg’s Personal Intelligence Vision",
+      "5. AI Professors Are Negotiating the New Realities of Academic Research",
+      "6. Embattled Hedge Fund Situational Awareness Invests $400M in Chip Startup Source Foundry",
+      "7. Anthropic Is Turning Claude Code’s Auto Mode On by Default",
+      "8. OpenAI Says It Slowed Astra Model Development Over Security Concerns",
+      "9. Planned Amazon Data Center Could Become the Biggest Climate Polluter in the US",
+      "10. The AI Safety Test Is Becoming a Safety Risk",
+      "OpenAI Acquires Presentation Startup NextSlide",
+      "Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
+      "Discovered Materials Is Playing AI Whack-a-Mole to Hunt Cooler Chips",
+      "AI for Science Needs Reasoning, Not Just Data",
+      "These Startups Are Chasing the Next Big Thing in LLMs",
+      "Airbnb Says AI Is Helping It Ship Features Faster as It Tests a New Search Function",
+      "The AI Safety Test Is Becoming a Safety Risk",
+      "Mark Zuckerberg’s AI Manifesto Is Exactly Why People Don’t Like AI",
+      "Historian Jill Lepore Says Silicon Valley Misreads Science Fiction and Undermines Democracy",
+      "After Rippling Blew Millions on AI in Months, It Built an Employee ROI Tool",
+      "These Startups Are Chasing the Next Big Thing in LLMs",
+      "OpenAI Acquires Presentation Startup NextSlide"
+    ]
+  },
+  {
     "date": "2026-08-10",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1269,27 +1302,6 @@
       "8. Amazon Will Stop Accepting New Customers for Mechanical Turk",
       "9. Reddit Is Using LLMs to Solve a Problem LLMs Largely Created",
       "10. Station F Ramps Up as a Launchpad for Europe’s Hottest AI Startups"
-    ]
-  },
-  {
-    "date": "2026-07-07",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-07",
-    "titleZh": "AI资讯早报 | 2026-07-07",
-    "title": "AI News Morning Brief | 2026-07-07",
-    "slug": "news-2026-07-07-morning",
-    "headlines": [
-      "The 'First' AI-Run Ransomware Attack Still Needed a Human",
-      "US Investors Will Soon Get Access to SK Hynix, Another Memory Maker Riding the AI Boom",
-      "Microsoft Lays Off Nearly 5,000 Employees Across Xbox, Commercial Sales",
-      "If You Use Google, You're Training Its AI. Here's How to Opt Out.",
-      "Reddit Is Using LLMs to Solve a Problem LLMs Largely Created",
-      "Vercel CEO Guillermo Rauch on the Fight to Split Off Models from Agents",
-      "Amazon Will Stop Accepting New Customers for Mechanical Turk",
-      "Station F Ramps Up as a Launchpad for Europe's Hottest AI Startups",
-      "You Can Now Customize Siri's Pace and Expressivity in the Latest iOS 27 Beta",
-      "South Korea's Hottest New Bachelors Are Chip Workers"
     ]
   }
 ]
