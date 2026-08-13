@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-08-13",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-13",
+    "titleZh": "AI资讯晚报 | 2026-08-13",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-13",
+    "slug": "news-2026-08-13-evening",
+    "headlines": [
+      "1. Apple in Talks to Pay Publishers for Siri News Content",
+      "2. Cognition AI in Talks to Raise at a Staggering $40 Billion Valuation",
+      "3. Amazon to Train AI on Twitch Streamers' Content by Default",
+      "4. Flock Tightens Rules Amid Surveillance Backlash",
+      "5. AI Safety Pioneers Make the Case for Openness",
+      "6. Anthropic's New Watermarks Anger Claude Users",
+      "7. Lovable Confirms $13.3 Billion Valuation and Raises $400 Million",
+      "8. OpenAI-Backed Thrive Holdings Raises $2 Billion for Enterprise AI",
+      "9. Everything Announced at Made by Google '26: Pixel 11 and Gemini Features",
+      "10. How Kids Feel About AI, In Their Own Words"
+    ]
+  },
+  {
+    "date": "2026-08-13",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-13",
@@ -1285,27 +1306,6 @@
       "Anthropic, OpenAI, and SpaceX Now Exceed Value of Last 25 Years of Tech Exits",
       "Paris-Based AI Voice Startup Gradium Raises $100M Seed Round Backed by Nvidia",
       "Government Safety Review: How Did OpenAI's Frontier Model Get Cleared for Release?"
-    ]
-  },
-  {
-    "date": "2026-07-10",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-10",
-    "titleZh": "AI资讯早报 | 2026-07-10",
-    "title": "AI News Morning Brief | 2026-07-10",
-    "slug": "news-2026-07-10-morning",
-    "headlines": [
-      "1. OpenAI Launches GPT-5.6, Names It Preferred Model for Microsoft Copilot",
-      "2. Fidji Simo Steps Down as OpenAI’s No. 2",
-      "3. New York Times Accuses OpenAI of Hiding Evidence in Copyright Trial",
-      "4. AI Agent Startup Lets Its Agent Run a $100 Million Fundraise",
-      "5. Anthropic Discovers a Hidden Space Where Claude Puzzles Over Concepts",
-      "6. Meta Enters the AI Coding Battle with Muse Spark 1.1",
-      "7. Anthropic, OpenAI, and SpaceX Are Bigger Than the Last 25 Years of Tech Exits",
-      "8. Google Will Now Disclose Which Ads Are Made with AI",
-      "9. Meta’s New AI Chips Will Begin Production in September",
-      "10. Popular Open Source AI Tool Ollama Raises $65M, Grows to Nearly 9M Users"
     ]
   }
 ]
