@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-08-13",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-13",
+    "titleZh": "AI资讯早报 | 2026-08-13",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-13",
+    "slug": "news-2026-08-13-morning",
+    "headlines": [
+      "AI Coding Startup Cognition Reportedly in Talks to Raise at $40B Valuation",
+      "Lovable Confirms New $13.3B Valuation, Raises Another $400M",
+      "AI Code-Testing Startup Blacksmith’s Valuation Jumps Almost 10x in Less Than a Year",
+      "OpenAI-Backed Thrive Holdings Raises $2B to Bring AI to the Enterprise",
+      "Google’s Gemini App Surges to 1 Billion Users",
+      "OpenAI Launches ChatGPT Desktop App for Linux",
+      "Everything Announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and Tons of Gemini Features",
+      "Some Claude Users Are Mad That Anthropic’s New Watermarks Will Catch Them Using It at Their Jobs, Classes",
+      "Amazon Will Train on Twitch Streamers’ Content by Default, Unless They Opt Out",
+      "As AI Safety Concerns Mount, Three Pioneers Make the Case for Staying Open",
+      "Scientists Just Created Female Clones of Male Mice",
+      "Scaling AI Agents with Trustworthy Data"
+    ]
+  },
+  {
     "date": "2026-08-12",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1283,28 +1306,6 @@
       "8. Google Will Now Disclose Which Ads Are Made with AI",
       "9. Meta’s New AI Chips Will Begin Production in September",
       "10. Popular Open Source AI Tool Ollama Raises $65M, Grows to Nearly 9M Users"
-    ]
-  },
-  {
-    "date": "2026-07-10",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-10",
-    "titleZh": "AI资讯晚报 | 2026-07-10",
-    "title": "AI News Evening Brief | 2026-07-10",
-    "slug": "news-2026-07-10-evening",
-    "headlines": [
-      "Anthropic, OpenAI, and SpaceX Are Bigger Than the Last 25 Years of Tech Exits",
-      "SpaceXAI Releases Grok 4.5, an 'Opus-Class Model'",
-      "Popular Open Source AI Developer Tool Ollama Raises $65M, Grows to Nearly 9M Users",
-      "Prime Intellect Raises $130M Series A to Help Enterprises Build Their Own AI Agents",
-      "Anthropic’s New Claude Feature is Quietly Selling You on AI",
-      "OpenAI Releases New Voice Models for More Natural Live Conversations",
-      "Google’s Deepfake Detector System Used to Debunk McConnell Hoax Pic",
-      "This Startup Thinks Robotics is About to Have Its ChatGPT Moment",
-      "Why This CEO Thinks Video Games Make Better Training Data Than the Internet",
-      "Meta Wants Its AI Glasses to Seem Less Creepy. Its AI Strategy Says Otherwise.",
-      "These AI Startups Are Growing Revenue at Faster and Faster Rates"
     ]
   }
 ]
