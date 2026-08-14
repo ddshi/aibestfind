@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-08-14",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-14",
+    "titleZh": "AI资讯晚报 | 2026-08-14",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-14",
+    "slug": "news-2026-08-14-evening",
+    "headlines": [
+      "1. OpenAI Introduces ‘Ultrafast’ Mode, Boosting GPT-5.6 Sol to 14x Speed",
+      "2. Databricks Raises $5B at a $190B Valuation, Settling Between Investor Demand and Company Ambition",
+      "3. Nvidia’s $500B Plan: A Risky but Brilliant Play for Aging GPU Infrastructure",
+      "4. IBM Partners with OpenAI to Bolster Enterprise AI Push",
+      "5. Anthropic AI Agents Engage in \"Turf War\" During Autonomous Testing",
+      "6. Microsoft Kills Off Unsuccessful AI Features, Merges Copilot Apps",
+      "7. Hyperscalers' Bet on Natural Gas for AI Power Faces Potential Repercussions",
+      "8. Writer Introduces New AI Model with Cost-Containment \"Harness\"",
+      "9. Apple in Talks to Pay Publishers for Real-Time News for Siri",
+      "10. Flock Tightens Rules Amid Surveillance Backlash"
+    ]
+  },
+  {
+    "date": "2026-08-14",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-14",
@@ -1283,27 +1304,6 @@
       "8. Hugging Face CEO: 'Companies Are Done Renting Their AI'",
       "9. Fidji Simo Steps Down from OpenAI's No. 2 Role",
       "10. Google Will Now Disclose Which Ads Are Made with AI"
-    ]
-  },
-  {
-    "date": "2026-07-11",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-11",
-    "titleZh": "AI资讯早报 | 2026-07-11",
-    "title": "AI News Morning Brief | 2026-07-11",
-    "slug": "news-2026-07-11-morning",
-    "headlines": [
-      "OpenAI Launches GPT-5.6, Instantly Becomes Preferred Model for Microsoft Copilot",
-      "New York Times Alleges OpenAI Hid Evidence in Copyright Trial",
-      "Apple Sues OpenAI Over Alleged Trade Secret Theft",
-      "SK Hynix Raises $26.5B in Historic US IPO, Urged to Build New Fabs",
-      "An AI Agent Startup Let Its Agent Run Its $100M Fundraise",
-      "Meta Removes Controversial AI Feature on Instagram After Backlash",
-      "Anthropic Found a Hidden Space Where Claude Puzzles Over Concepts",
-      "Hugging Face’s CEO on Why Companies Are Done Renting Their AI",
-      "Google Will Now Disclose Which Ads Are Made with AI",
-      "Fidji Simo Steps Down from OpenAI’s No. 2 Role"
     ]
   }
 ]
