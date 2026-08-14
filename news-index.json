@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-14",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-14",
+    "titleZh": "AI资讯早报 | 2026-08-14",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-14",
+    "slug": "news-2026-08-14-morning",
+    "headlines": [
+      "1. OpenAI Introduces 'Ultrafast' Mode, Delivering 14x Speed Boost to GPT-5.6 Sol",
+      "2. Databricks' $5B Raise at $190B Valuation Highlights Insatiable AI Demand",
+      "3. Nvidia's $500B Plan: A Bold Bet on GPU Longevity and Infrastructure",
+      "4. IBM and OpenAI Forge Enterprise Partnership to Challenge Cloud Rivals",
+      "5. Anthropic's AI Agents Spark 'Turf War' When Given the Same Task",
+      "6. Microsoft Streamlines Copilot, Killing Off Unsuccessful AI Features",
+      "7. OpenAI Hires New CRO Amid Executive Shake-Up",
+      "8. Apple in Talks to License News Content for Siri's AI Overhaul",
+      "9. Amazon to Train AI on Twitch Streamers' Content by Default",
+      "10. Anthropic's Watermarking Feature Sparks User Backlash"
+    ]
+  },
+  {
     "date": "2026-08-13",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1283,29 +1304,6 @@
       "Hugging Face’s CEO on Why Companies Are Done Renting Their AI",
       "Google Will Now Disclose Which Ads Are Made with AI",
       "Fidji Simo Steps Down from OpenAI’s No. 2 Role"
-    ]
-  },
-  {
-    "date": "2026-07-11",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-11",
-    "titleZh": "AI资讯晚报 | 2026-07-11",
-    "title": "AI News Evening Brief | 2026-07-11",
-    "slug": "news-2026-07-11-evening",
-    "headlines": [
-      "OpenAI Launches GPT-5.6, Names It the \"Preferred Model\" for Microsoft Copilot",
-      "OpenAI COO Fidji Simo Steps Down from No. 2 Role",
-      "Anthropic Discovers a Hidden \"Concept Space\" Inside Claude",
-      "AI Agent Startup Lets Its Own Agent Run a $100M Fundraise",
-      "New York Times Accuses OpenAI of Hiding Evidence in Copyright Trial",
-      "Google Mandates Disclosure for AI-Generated Ads",
-      "Meta Enters AI Coding Battle with Muse Spark 1.1",
-      "Meta's Custom AI Chips to Begin Production in September",
-      "OpenAI Shuts Down Atlas Browser, But AI Browser Ambitions Remain",
-      "Anthropic, OpenAI, and SpaceX Now Exceed Value of Last 25 Years of Tech Exits",
-      "Paris-Based AI Voice Startup Gradium Raises $100M Seed Round Backed by Nvidia",
-      "Government Safety Review: How Did OpenAI's Frontier Model Get Cleared for Release?"
     ]
   }
 ]
