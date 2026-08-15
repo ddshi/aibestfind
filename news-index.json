@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-08-15",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-15",
+    "titleZh": "AI资讯晚报 | 2026-08-15",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-15",
+    "slug": "news-2026-08-15-evening",
+    "headlines": [
+      "1. OpenAI Introduces 'Ultrafast' Mode, Making GPT-5.6 Sol Work at 14x the Speed",
+      "2. Nvidia's New $500B Plan Is Risky but Brilliant, Especially for Aging GPUs",
+      "3. Databricks Wanted to Raise $1B, Investors Wanted $15B. It Settled on $5B at a $190B Valuation.",
+      "4. IBM Partners with OpenAI to Bolster Enterprise AI Push",
+      "5. Microsoft Kills Off Unsuccessful AI Features While Merging Its Separate Copilot Apps",
+      "6. Anthropic Set AI Agents Loose on the Same Task. They Started a Turf War.",
+      "7. Google Will Now Allow Users to Remove Visible Watermark from Its AI Generations",
+      "8. Hyperscalers Might Regret Embracing Natural Gas If New Forecast Proves Correct",
+      "9. Writer Introduces New AI Model and Upgraded Harness to Contain Token Costs",
+      "10. Apple in Talks to Pay Publishers to Provide Siri with Current News"
+    ]
+  },
+  {
+    "date": "2026-08-15",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-15",
@@ -1286,27 +1307,6 @@
       "Fidji Simo Steps Down From OpenAI's No. 2 Role",
       "New York Times Says OpenAI Hid Evidence in ChatGPT Copyright Trial",
       "An AI Agent Startup Just Let Its Agent Run Its $100M Fundraise"
-    ]
-  },
-  {
-    "date": "2026-07-12",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-12",
-    "titleZh": "AI资讯晚报 | 2026-07-12",
-    "title": "AI News Evening Brief | 2026-07-12",
-    "slug": "news-2026-07-12-evening",
-    "headlines": [
-      "1. Apple Sues OpenAI Over Alleged Trade Secret Theft",
-      "2. OpenAI Launches GPT-5.6, Named ‘Preferred Model’ for Microsoft Copilot",
-      "3. SK Hynix Raises $26.5B in Biggest Foreign IPO in U.S. History",
-      "4. Fidji Simo Steps Down From OpenAI’s No. 2 Role",
-      "5. AI Agent Startup Lets Its Agent Run a $100M Fundraise",
-      "6. Anthropic Finds a Hidden Space Where Claude ‘Puzzles Over Concepts’",
-      "7. Meta Removes Controversial AI Feature on Instagram After Backlash",
-      "8. Google Will Now Disclose Which Ads Are Made With AI",
-      "9. New York Times Says OpenAI Hid Evidence in ChatGPT Copyright Trial",
-      "10. OpenAI Bets on Families as ChatGPT Goes Deeper Into Households"
     ]
   }
 ]
