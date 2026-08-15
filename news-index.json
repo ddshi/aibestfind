@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-08-15",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-15",
+    "titleZh": "AI资讯早报 | 2026-08-15",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-15",
+    "slug": "news-2026-08-15-morning",
+    "headlines": [
+      "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "IBM partners with OpenAI to bolster enterprise AI push",
+      "Apple in talks to pay publishers to provide Siri with current news: report",
+      "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "Writer introduces new AI model and upgraded harness to contain token costs",
+      "Kog is going deeper to squeeze more inference out of GPUs",
+      "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "Google will now allow users to remove visible watermark from its AI generations",
+      "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "OpenAI hires new CRO as executive shake-up continues"
+    ]
+  },
+  {
     "date": "2026-08-14",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1283,27 +1307,6 @@
       "8. Google Will Now Disclose Which Ads Are Made With AI",
       "9. New York Times Says OpenAI Hid Evidence in ChatGPT Copyright Trial",
       "10. OpenAI Bets on Families as ChatGPT Goes Deeper Into Households"
-    ]
-  },
-  {
-    "date": "2026-07-12",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-12",
-    "titleZh": "AI资讯早报 | 2026-07-12",
-    "title": "AI News Morning Brief | 2026-07-12",
-    "slug": "news-2026-07-12-morning",
-    "headlines": [
-      "1. Apple Sues OpenAI Over Alleged Trade Secret Theft",
-      "2. OpenAI Launches GPT-5.6, Names It the 'Preferred Model' for Microsoft Copilot",
-      "3. SK Hynix Raises $26.5B in Historic U.S. IPO, Urged to Build New Fabs",
-      "4. Anthropic Discovers a 'Hidden Space' Where Claude Puzzles Over Concepts",
-      "5. An AI Agent Startup Just Let Its Agent Run Its $100M Fundraise",
-      "6. New York Times Says OpenAI Hid Evidence in ChatGPT Copyright Trial",
-      "7. Meta Removes Controversial AI Feature on Instagram After Backlash",
-      "8. Hugging Face CEO: 'Companies Are Done Renting Their AI'",
-      "9. Fidji Simo Steps Down from OpenAI's No. 2 Role",
-      "10. Google Will Now Disclose Which Ads Are Made with AI"
     ]
   }
 ]
