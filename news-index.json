@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-08-16",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-16",
+    "titleZh": "AI资讯晚报 | 2026-08-16",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-16",
+    "slug": "news-2026-08-16-evening",
+    "headlines": [
+      "OpenAI Introduces 'Ultrafast' Mode, Making GPT-5.6 Sol Run at 14x Speed",
+      "Databricks Settles on $5B Raise at a $190B Valuation",
+      "Anthropic Shares Details on Claude's New Watermarking System",
+      "IBM Partners with OpenAI to Bolster Enterprise AI Push",
+      "Google Now Allows Users to Remove Visible Watermark from AI Generations",
+      "Anthropic Set AI Agents Loose on the Same Task. They Started a Turf War.",
+      "SpaceX Officially Closes Its Cursor Acquisition",
+      "Woman Claims Her Stepfather Used Grok to Transform Childhood Photo into Explicit Imagery",
+      "Hyperscalers Might Regret Embracing Natural Gas if New Forecast Proves Correct",
+      "Writer Introduces New AI Model and Upgraded Harness to Contain Token Costs"
+    ]
+  },
+  {
+    "date": "2026-08-16",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-16",
@@ -1284,27 +1305,6 @@
       "8. Google Faces Another AI Training Lawsuit from Major Publishers",
       "9. Meta’s Adam Mosseri Says AI Token Budgets Could Soon Be Capped Per Engineer",
       "10. The Founder of Hinge Raised $18M to Build a New AI Dating Service, Overtone"
-    ]
-  },
-  {
-    "date": "2026-07-14",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-14",
-    "titleZh": "AI资讯晚报 | 2026-07-14",
-    "title": "AI News Evening Brief | 2026-07-14",
-    "slug": "news-2026-07-14-evening",
-    "headlines": [
-      "OpenAI Launches GPT-5.6, Cementing a Fractious Alliance with Microsoft",
-      "Apple Sues OpenAI Over Alleged Trade Secret Theft",
-      "SK Hynix Raises $26.5B in Historic US IPO, Urged to Build New Fabs",
-      "Anthropic Localizes Claude Pricing for India, Its Biggest Market After the US",
-      "Fidji Simo Steps Down from OpenAI’s No. 2 Role",
-      "OpenAI Bets on Families as ChatGPT Goes Deeper into Households",
-      "Meta Removes Controversial AI Feature on Instagram After Backlash",
-      "Anthropic Found a Hidden Space Where Claude Puzzles Over Concepts",
-      "An AI Agent Startup Just Let Its Agent Run Its $100M Fundraise",
-      "Open Source AI Matters More Than Ever, According to Hugging Face’s Clem Delangue"
     ]
   }
 ]
