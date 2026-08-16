@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-16",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-16",
+    "titleZh": "AI资讯早报 | 2026-08-16",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-16",
+    "slug": "news-2026-08-16-morning",
+    "headlines": [
+      "1. The Dark Side of Generative AI: A Case of Image Abuse",
+      "2. OpenAI's 'Ultrafast' Mode and Executive Shuffle",
+      "3. The Watermarking Wars: Anthropic vs. Google",
+      "4. The Business of AI: Databricks' Mega-Round and IBM's OpenAI Partnership",
+      "5. When AI Agents Fight: Anthropic's 'Turf War' Experiment",
+      "6. The Geopolitics and Ethics of AI: Censorship and Cloning",
+      "7. The Infrastructure Race: GPUs, Natural Gas, and Cost Efficiency",
+      "8. Market Movers: SpaceX-Cursor and Writer's Cost-Cutting Model"
+    ]
+  },
+  {
     "date": "2026-08-15",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1286,27 +1305,6 @@
       "Anthropic Found a Hidden Space Where Claude Puzzles Over Concepts",
       "An AI Agent Startup Just Let Its Agent Run Its $100M Fundraise",
       "Open Source AI Matters More Than Ever, According to Hugging Face’s Clem Delangue"
-    ]
-  },
-  {
-    "date": "2026-07-13",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-13",
-    "titleZh": "AI资讯早报 | 2026-07-13",
-    "title": "AI News Morning Brief | 2026-07-13",
-    "slug": "news-2026-07-13-morning",
-    "headlines": [
-      "OpenAI Launches GPT-5.6, Its New Family of Models",
-      "Apple Sues OpenAI Over Alleged Trade Secret Theft",
-      "SK Hynix Raises $26.5B in Record US IPO, Urged to Build New Fabs",
-      "OpenAI Bets on Families as ChatGPT Goes Deeper Into Households",
-      "Meta Removes Controversial AI Feature on Instagram After Backlash",
-      "Anthropic Found a Hidden Space Where Claude Puzzles Over Concepts",
-      "Hugging Face's CEO on Why Companies Are Done Renting Their AI",
-      "Fidji Simo Steps Down From OpenAI's No. 2 Role",
-      "New York Times Says OpenAI Hid Evidence in ChatGPT Copyright Trial",
-      "An AI Agent Startup Just Let Its Agent Run Its $100M Fundraise"
     ]
   }
 ]
