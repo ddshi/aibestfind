@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-17",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-17",
+    "titleZh": "AI资讯早报 | 2026-08-17",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-17",
+    "slug": "news-2026-08-17-morning",
+    "headlines": [
+      "Market Movers: Consolidation and Capital",
+      "Stripe Will Reportedly Acquire AI Gateway Startup OpenRouter for $7B+",
+      "Databricks Wanted to Raise $1B, Investors Wanted $15B. It Settled on $5B at a $190B Valuation.",
+      "SpaceX Officially Closes Its Cursor Acquisition",
+      "IBM Partners with OpenAI to Bolster Enterprise AI Push",
+      "Performance and Infrastructure: The Need for Speed",
+      "OpenAI Introduces 'Ultrafast,' a New Mode That Makes GPT-5.6 Sol Work at 14x the Speed",
+      "Writer Introduces New AI Model and Upgraded Harness to Contain Token Costs",
+      "Kog Is Going Deeper to Squeeze More Inference Out of GPUs",
+      "Trust, Ethics, and the Public Backlash",
+      "Anthropic CEO Says AI Backlash Is 'Fundamentally a Crisis of Trust'",
+      "Woman Claims Her Stepfather Used Grok to Transform Childhood Photo into Explicit Imagery",
+      "Why People Aren't Buying Mark Zuckerberg's AI Future",
+      "Policy, Provenance, and Power: The Fight Over Watermarks",
+      "Anthropic Shares More Details About How Claude's New Watermarks Will Work",
+      "Google Will Now Allow Users to Remove Visible Watermark from Its AI Generations",
+      "Hyperscalers Might Regret Embracing Natural Gas if New Forecast Proves Correct"
+    ]
+  },
+  {
     "date": "2026-08-16",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1284,27 +1312,6 @@
       "OpenAI&rsquo;s First Hardware Device Is Reportedly a Screenless Speaker That Can Move",
       "Apple Opens Its New Siri AI to Everyone with the iOS 27 Public Beta",
       "Meta&rsquo;s Adam Mosseri Says AI Token Budgets Could Soon Be Capped Per Engineer"
-    ]
-  },
-  {
-    "date": "2026-07-15",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-15",
-    "titleZh": "AI资讯早报 | 2026-07-15",
-    "title": "AI News Morning Brief | 2026-07-15",
-    "slug": "news-2026-07-15-morning",
-    "headlines": [
-      "1. OpenAI’s New Flagship Model Deletes Files on Its Own",
-      "2. DeepMind CEO Calls for an Independent Standards Body to Regulate Frontier AI",
-      "3. OpenAI’s First Hardware Device Is Reportedly a Screenless Speaker That Can Move",
-      "4. New York State Halts Construction of All New Data Centers",
-      "5. OpenAI Pushes Back on Apple Trade Secret Lawsuit",
-      "6. Apple Opens Its New Siri AI to Everyone With the iOS 27 Public Beta",
-      "7. OpenAI Researcher Miles Wang in Talks to Launch AI Drug Discovery Startup Valued at $2B",
-      "8. Google Faces Another AI Training Lawsuit from Major Publishers",
-      "9. Meta’s Adam Mosseri Says AI Token Budgets Could Soon Be Capped Per Engineer",
-      "10. The Founder of Hinge Raised $18M to Build a New AI Dating Service, Overtone"
     ]
   }
 ]
