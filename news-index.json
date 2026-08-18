@@ -1,6 +1,29 @@
 [
   {
     "date": "2026-08-18",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-18",
+    "titleZh": "AI资讯晚报 | 2026-08-18",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-18",
+    "slug": "news-2026-08-18-evening",
+    "headlines": [
+      "1. Anthropic’s Annualized Revenue Surges to $65B",
+      "2. Stripe Will Reportedly Acquire AI Gateway Startup OpenRouter for $7B+",
+      "3. Nvidia Investing $1.5B in SoftBank Data Center Developer Behind OpenAI Project",
+      "4. OpenAI Launches a Safer ChatGPT for Teens — Years After Teens Started Using It",
+      "5. Anthropic CEO Says AI Backlash Is ‘Fundamentally a Crisis of Trust’",
+      "6. We Still Don’t Know How People Are Really Using AI",
+      "7. Amazon, Which Started Off Selling Books, Is Destroying Rare Texts to Train AI",
+      "8. AI’s Recursive Self-Improvement Might Not Come So Quickly After All",
+      "9. Groq Raises $350M to Fuel Its Pivot from AI Chips to Neocloud",
+      "10. Why People Aren’t Buying Mark Zuckerberg’s AI Future",
+      "11. What Happens When a Kid’s Robot Best Friend Dies?",
+      "12. Perplexity’s Free AI Offer Left It with Millions More Users in India"
+    ]
+  },
+  {
+    "date": "2026-08-18",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-18",
@@ -1292,29 +1315,6 @@
       "Moonshot's Upcoming Kimi 3 Is Expected to Close the Gap with Anthropic's Opus 4.8",
       "Why AMI Labs' Alexandre LeBrun Won't Call His AI 'AGI' or 'Superintelligence'",
       "Applied Computing Wants to Give Oil and Gas Operators an AI Model for the Entire Plant"
-    ]
-  },
-  {
-    "date": "2026-07-16",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-16",
-    "titleZh": "AI资讯晚报 | 2026-07-16",
-    "title": "AI News Evening Brief | 2026-07-16",
-    "slug": "news-2026-07-16-evening",
-    "headlines": [
-      "1. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "2. Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "3. Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "4. Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "5. How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "6. Moonshot's upcoming Kimi 3 is expected to close the gap with Anthropic's Opus 4.8",
-      "7. Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "8. Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "9. Hack suggests AI music generator Suno scraped YouTube for training data",
-      "10. Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "11. Why AMI Labs' Alexandre LeBrun won't call his AI 'AGI' or 'superintelligence'",
-      "12. Microsoft patches record number of security vulnerabilities, citing its use of AI"
     ]
   }
 ]
