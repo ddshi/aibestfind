@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-18",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-18",
+    "titleZh": "AI资讯早报 | 2026-08-18",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-18",
+    "slug": "news-2026-08-18-morning",
+    "headlines": [
+      "1. Anthropic’s Annualized Revenue Surges to $65B",
+      "2. Stripe Will Reportedly Acquire AI Gateway Startup OpenRouter for $7B+",
+      "3. Amazon, Which Started Off Selling Books, Is Destroying Rare Texts to Train AI",
+      "4. Nvidia Investing $1.5B in SoftBank Data Center Developer Behind OpenAI Project",
+      "5. Anthropic CEO Says AI Backlash Is ‘Fundamentally a Crisis of Trust’",
+      "6. Groq Raises $350M to Fuel Its Pivot from AI Chips to Neocloud",
+      "7. Woman Claims Her Stepfather Used Grok to Transform Childhood Photo into Explicit Imagery",
+      "8. AI Automation Startup Relay Shuts Down, Staff Joins Google’s Chrome Team",
+      "9. Wispr Raises $280M at $2B Valuation as It Looks Beyond Dictation",
+      "10. What Happens When a Kid’s Robot Best Friend Dies?"
+    ]
+  },
+  {
     "date": "2026-08-17",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1294,27 +1315,6 @@
       "10. Applied Computing wants to give oil and gas operators an AI model for the entire plant",
       "11. Why AMI Labs' Alexandre LeBrun won't call his AI 'AGI' or 'superintelligence'",
       "12. Microsoft patches record number of security vulnerabilities, citing its use of AI"
-    ]
-  },
-  {
-    "date": "2026-07-16",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-16",
-    "titleZh": "AI资讯早报 | 2026-07-16",
-    "title": "AI News Morning Brief | 2026-07-16",
-    "slug": "news-2026-07-16-morning",
-    "headlines": [
-      "1. Microsoft Reportedly Trains Salespeople to Talk Down OpenAI and Anthropic",
-      "2. Anthropic &amp; Blackstone Bet the Next Trillion-Dollar AI Business is Implementation, Not Just Models",
-      "3. OpenAI's GPT-Red: An LLM Super-Hacker Built to Make Models Safer",
-      "4. Apple Intelligence Approved for Launch in China with Alibaba's Qwen AI",
-      "5. Vint Cerf is Working on a Plan to Unleash AI Agents on the Open Internet",
-      "6. Indian AI Coding Startup Emergent Becomes a Unicorn with $130M Series C",
-      "7. OpenAI Releases a $230 Keyboard for Codex Amid Hardware Legal Battle",
-      "8. Hack Suggests AI Music Generator Suno Scraped YouTube for Training Data",
-      "9. Microsoft Patches Record Number of Security Vulnerabilities, Citing AI",
-      "10. Thinking Machines Amps Up Its Bet Against One-Size-Fits-All AI with First Open Model, Inkling"
     ]
   }
 ]
