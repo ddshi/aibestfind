@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-19",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-19",
+    "titleZh": "AI资讯早报 | 2026-08-19",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-19",
+    "slug": "news-2026-08-19-morning",
+    "headlines": [
+      "1. Anthropic's Annualized Revenue Surges to $65B",
+      "2. OpenAI Institutes New Safeguards After Hugging Face Breach",
+      "3. Nvidia Investing $1.5B in SoftBank Data Center Developer Behind OpenAI Project",
+      "4. Etched's Valuation Doubles to $21B in a Month",
+      "5. Cursor Capitalizes on GitHub Frustration, Launches Rival Hosting Platform",
+      "6. Groq Raises $350M to Fuel Its Pivot from AI Chips to Neocloud",
+      "7. Amazon, Which Started Off Selling Books, Is Destroying Rare Texts to Train AI",
+      "8. Perplexity's Free AI Offer Left It with Millions More Users in India",
+      "9. We Still Don't Know How People Are Really Using AI",
+      "10. AI's Recursive Self-Improvement Might Not Come So Quickly After All"
+    ]
+  },
+  {
     "date": "2026-08-18",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1292,29 +1313,6 @@
       "8. Google Vids now lets you star in your own AI videos",
       "9. Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
       "10. Applied Computing wants to give oil and gas operators an AI model for the entire plant"
-    ]
-  },
-  {
-    "date": "2026-07-17",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-17",
-    "titleZh": "AI资讯早报 | 2026-07-17",
-    "title": "AI News Morning Brief | 2026-07-17",
-    "slug": "news-2026-07-17-morning",
-    "headlines": [
-      "Google Vids Now Lets You Star in Your Own AI Videos",
-      "Microsoft Is Reportedly Training Salespeople to Talk Down OpenAI and Anthropic",
-      "Meet GPT-Red: An LLM Super-Hacker OpenAI Built to Make Its Models Safer",
-      "Apple Intelligence Approved for Launch in China with Alibaba and Baidu",
-      "How a Former DeepMind Researcher Raised at a $300M Pre-Seed Valuation Before Launching a Product",
-      "Roblox Launches an AI-Powered Game-Creation Feature in Its Mobile App",
-      "Google's AI Mode Now Lets You Link and Interact with Select Apps",
-      "Thinking Machines Amps Up Its Bet Against One-Size-Fits-All AI with Its First Open Model, Inkling",
-      "Amid Hardware Legal Battle, OpenAI Releases a $230 Keyboard for Codex",
-      "Moonshot's Upcoming Kimi 3 Is Expected to Close the Gap with Anthropic's Opus 4.8",
-      "Why AMI Labs' Alexandre LeBrun Won't Call His AI 'AGI' or 'Superintelligence'",
-      "Applied Computing Wants to Give Oil and Gas Operators an AI Model for the Entire Plant"
     ]
   }
 ]
