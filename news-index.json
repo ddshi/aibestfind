@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-08-19",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-19",
+    "titleZh": "AI资讯晚报 | 2026-08-19",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-19",
+    "slug": "news-2026-08-19-evening",
+    "headlines": [
+      "1. Anthropic’s Annualized Revenue Surges to $65B",
+      "2. OpenAI Institutes New Safeguards After Hugging Face Breach",
+      "3. Etched’s Valuation Doubles to $21B in a Month",
+      "4. AI Isn’t Close to Curing Cancer. This Startup Says It Knows What It Will Take.",
+      "5. Cursor Capitalizes on GitHub Frustration, Launches Rival Hosting Platform",
+      "6. AI’s Recursive Self-Improvement Might Not Come So Quickly After All",
+      "7. OpenAI Launches a Safer ChatGPT for Teens — Years After Teens Started Using It",
+      "8. Amazon, Which Started Off Selling Books, Is Destroying Rare Texts to Train AI",
+      "9. Perplexity’s Free AI Offer Left It with Millions More Users in India",
+      "10. Relativity Networks Raises $22 Million to Bring a Faster Kind of Fiber to Data Centers"
+    ]
+  },
+  {
+    "date": "2026-08-19",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-19",
@@ -1292,27 +1313,6 @@
       "8. Google Vids Now Lets You Star in Your Own AI Videos",
       "9. Roblox Launches an AI-Powered Game-Creation Feature in Its Mobile App",
       "10. Neil Rimer Thinks the AI Money Is Coming Back Out"
-    ]
-  },
-  {
-    "date": "2026-07-17",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-17",
-    "titleZh": "AI资讯晚报 | 2026-07-17",
-    "title": "AI News Evening Brief | 2026-07-17",
-    "slug": "news-2026-07-17-evening",
-    "headlines": [
-      "1. Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "2. Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "3. Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "4. Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "5. How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "6. The risk of weather data sabotage is rising",
-      "7. Roblox launches an AI-powered game-creation feature in its mobile app",
-      "8. Google Vids now lets you star in your own AI videos",
-      "9. Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "10. Applied Computing wants to give oil and gas operators an AI model for the entire plant"
     ]
   }
 ]
