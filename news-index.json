@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-08-20",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-20",
+    "titleZh": "AI资讯早报 | 2026-08-20",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-20",
+    "slug": "news-2026-08-20-morning",
+    "headlines": [
+      "1. AI Was Supposed to Win People Over by Now — It Hasn't",
+      "2. OpenAI Seeks to One-Up Anthropic with New Customer Privacy Protections",
+      "3. Google Packs Search and Gemini with New AI Study Tools",
+      "4. Etched's Valuation Doubles to $21B in a Month",
+      "5. Amazon Makes Its AI-Powered Alexa+ Free on Fire TV, No Prime Required",
+      "6. OpenAI Institutes New Safeguards After Hugging Face Breach",
+      "7. TerraPower's Nuclear Reactor Has a Secret Weapon for Powering AI Data Centers",
+      "8. Meet the Startup Helping Wall Street Put a Price on AI Compute",
+      "9. Researchers Say OpenAI Revoked Their Access to Limited Cyber Program",
+      "10. Cursor Capitalizes on GitHub Frustration, Launches Rival Hosting Platform",
+      "Stripe Didn't Really Buy OpenRouter Because of the 'Singularity'",
+      "AI Isn't Close to Curing Cancer. This Startup Says It Knows What It Will Take.",
+      "Relativity Networks Raises $22 Million to Bring a Faster Kind of Fiber to Data Centers",
+      "OpenAI Launches a Safer ChatGPT for Teens — Years After Teens Started Using It"
+    ]
+  },
+  {
     "date": "2026-08-19",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1292,27 +1317,6 @@
       "8. Google Vids Now Lets You Star in Your Own AI Videos",
       "9. Neil Rimer Thinks the AI Money Is Coming Back Out",
       "10. Roblox Launches an AI-Powered Game-Creation Feature in Its Mobile App"
-    ]
-  },
-  {
-    "date": "2026-07-18",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-18",
-    "titleZh": "AI资讯早报 | 2026-07-18",
-    "title": "AI News Morning Brief | 2026-07-18",
-    "slug": "news-2026-07-18-morning",
-    "headlines": [
-      "1. Databricks Hits $188B Valuation, Extending Its Run as AI’s Favorite Second Act",
-      "2. Apple’s Lawsuit Could Disrupt OpenAI’s IPO Plans",
-      "3. Why the First GPU Financiers Are Turning to Inference Chips in a $400 Million Deal",
-      "4. AI-Driven Memory Crunch Jolts India’s Smartphone Market",
-      "5. Patreon Stops Asking AI Bots Not to Scrape — and Starts Blocking Them",
-      "6. Vertu Wants Executives to Pay $6,880 for an AI Agent — Here’s How It Actually Performs",
-      "7. Agility Robotics Plants Its Flag in Tesla’s Backyard",
-      "8. Google Vids Now Lets You Star in Your Own AI Videos",
-      "9. Roblox Launches an AI-Powered Game-Creation Feature in Its Mobile App",
-      "10. Neil Rimer Thinks the AI Money Is Coming Back Out"
     ]
   }
 ]
