@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-21",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-21",
+    "titleZh": "AI资讯早报 | 2026-08-21",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-21",
+    "slug": "news-2026-08-21-morning",
+    "headlines": [
+      "1. OpenAI Is Gaining on Anthropic with Business Users, New Data Indicates",
+      "2. A Third of Web Pages Published Since ChatGPT's Launch Show Signs of AI Authorship, Study Finds",
+      "3. ChatGPT Can Now Send Texts for You with New Apple Messages Plug-in",
+      "4. Google Gives Publishers a New Way to Fight AI-Driven Traffic Losses",
+      "5. Meta AI's New Mac App Wants You to Talk to Your Apps",
+      "6. AI Data Startup Micro1 Reaches $500M Gross Run Rate Amid AI Training Boom",
+      "7. Binance Now Lets AI Agents Trade, but Keeping Them in Check Is Largely Up to Users",
+      "8. Grok Keeps Sending Gibberish Responses to Users",
+      "9. Debates over AI Consciousness Are a Trap",
+      "10. Meta Brings Pocket, an App That Lets You Vibe-Code and Share Games, to US Users"
+    ]
+  },
+  {
     "date": "2026-08-20",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1298,27 +1319,6 @@
       "8. Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
       "9. Neil Rimer thinks the AI money is coming back out",
       "10. The Zoom hack that says, ‘Don’t record me’"
-    ]
-  },
-  {
-    "date": "2026-07-19",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-19",
-    "titleZh": "AI资讯早报 | 2026-07-19",
-    "title": "AI News Morning Brief | 2026-07-19",
-    "slug": "news-2026-07-19-morning",
-    "headlines": [
-      "1. Databricks Hits $188B Valuation, Extending Its Run as AI’s Favorite Second Act",
-      "2. How Apple’s Big Lawsuit Could Disrupt OpenAI’s IPO Plans",
-      "3. Why the First GPU Financiers Are Turning to Inference Chips in a $400 Million Deal",
-      "4. Patreon Stops Asking AI Bots Not to Scrape — and Starts Blocking Them",
-      "5. AI-Driven Memory Crunch Jolts India’s Smartphone Market",
-      "6. Vertu Wants Executives to Pay $6,880 for an AI Agent — Here’s How It Actually Performs",
-      "7. Agility Robotics Plants Its Flag in Tesla’s Backyard",
-      "8. The Zoom Hack That Says, ‘Don’t Record Me’",
-      "9. Roblox Launches an AI-Powered Game-Creation Feature in Its Mobile App",
-      "10. Neil Rimer Thinks the AI Money Is Coming Back Out"
     ]
   }
 ]
