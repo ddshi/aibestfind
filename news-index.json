@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-08-22",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-22",
+    "titleZh": "AI资讯早报 | 2026-08-22",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-22",
+    "slug": "news-2026-08-22-morning",
+    "headlines": [
+      "Nvidia Just Showed That the Harness, Not the AI Model, Is Now the Real Hero",
+      "Nvidia Partners with Data Center Developer Cloverleaf",
+      "Starcloud Raises $250 Million for Orbital Data Centers as Launch Options Dry Up",
+      "OK, Can We Actually Cool Data Centers with Our Pee?",
+      "OpenAI Is Gaining on Anthropic with Business Users, New Data Indicates",
+      "Anthropic's Opus 4.6 Is a Smut-Machine",
+      "ChatGPT Can Now Send Texts for You with New Apple Messages Plug-in",
+      "Grok Keeps Sending Gibberish Responses to Users",
+      "A Third of Web Pages Published Since ChatGPT Launched Were Written by AI, Study Finds",
+      "Google Gives Publishers a New Way to Fight AI-Driven Traffic Losses",
+      "The DOJ Is Investigating a16z. What Does This Mean for Venture Capital?",
+      "When AI Designs a Drug, Who Gets the Credit?",
+      "This Company's Plans to Deploy Space Mirrors Could Jeopardize the Night Sky for Many",
+      "AI Data Startup Micro1 Reaches $500M Gross Run Rate Amid AI Training Boom",
+      "Ramp Launches Its Own AI Model Router, Called Router"
+    ]
+  },
+  {
     "date": "2026-08-21",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1303,27 +1329,6 @@
       "AI-Driven Memory Crunch Jolts India’s Smartphone Market",
       "Christopher Nolan Calls AI an Obvious ‘Trojan Horse’",
       "Agility Robotics Plants Its Flag in Tesla’s Backyard"
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-20",
-    "titleZh": "AI资讯早报 | 2026-07-20",
-    "title": "AI News Morning Brief | 2026-07-20",
-    "slug": "news-2026-07-20-morning",
-    "headlines": [
-      "Can an Apple Lawsuit Derail OpenAI's Hardware Plans?",
-      "Databricks Hits $188B Valuation, Extending Its Run as AI's Favorite Second Act",
-      "Nonprofit Current AI Is Racing to Build the World Wide Web of AI, Free for All",
-      "Why the First GPU Financiers Are Turning to Inference Chips in a $400 Million Deal",
-      "Agility Robotics Plants Its Flag in Tesla's Backyard",
-      "'Odyssey' Director Christopher Nolan Calls AI an Obvious 'Trojan Horse'",
-      "Patreon Stops Asking AI Bots Not to Scrape — and Starts Blocking Them",
-      "Neil Rimer Thinks the AI Money Is Coming Back Out",
-      "AI-Driven Memory Crunch Jolts India's Smartphone Market",
-      "The Zoom Hack That Says, 'Don't Record Me'"
     ]
   }
 ]
