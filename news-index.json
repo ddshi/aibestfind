@@ -1,6 +1,31 @@
 [
   {
     "date": "2026-08-22",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-22",
+    "titleZh": "AI资讯晚报 | 2026-08-22",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-22",
+    "slug": "news-2026-08-22-evening",
+    "headlines": [
+      "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "Nvidia partners with data center developer Cloverleaf",
+      "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "Ramp launches its own AI model router, called Router",
+      "A third of web pages published since ChatGPT launched were written by AI, study finds",
+      "Google gives publishers a new way to fight AI-driven traffic losses",
+      "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "When AI designs a drug, who gets the credit?",
+      "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "Anthropic’s Opus 4.6 is a smut-machine",
+      "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "The DOJ is investigating a16z. What does this mean for venture capital?"
+    ]
+  },
+  {
+    "date": "2026-08-22",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-22",
@@ -1308,27 +1333,6 @@
       "8. YouTube Clarifies Policies Around AI Slop and Upsetting Videos",
       "9. Adobe Camera App’s New Feature Will Critique Your Photos Using AI",
       "10. Databricks Hits $188B Valuation, Extending Its Run as AI’s Favorite Second Act"
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-20",
-    "titleZh": "AI资讯晚报 | 2026-07-20",
-    "title": "AI News Evening Brief | 2026-07-20",
-    "slug": "news-2026-07-20-evening",
-    "headlines": [
-      "Apple’s Lawsuit Could Derail OpenAI’s Hardware and IPO Plans",
-      "AI Is More Likely Than Humans to Form Biases When Hiring",
-      "Databricks Hits $188B Valuation, Extending Its Run as AI’s Favorite Second Act",
-      "Nonprofit Current AI Is Racing to Build the World Wide Web of AI, Free for All",
-      "YouTube Clarifies Policies Around AI Slop and Upsetting Videos",
-      "Why the First GPU Financiers Are Turning to Inference Chips in a $400 Million Deal",
-      "Patreon Stops Asking AI Bots Not to Scrape—and Starts Blocking Them",
-      "AI-Driven Memory Crunch Jolts India’s Smartphone Market",
-      "Christopher Nolan Calls AI an Obvious ‘Trojan Horse’",
-      "Agility Robotics Plants Its Flag in Tesla’s Backyard"
     ]
   }
 ]
