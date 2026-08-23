@@ -1,6 +1,29 @@
 [
   {
     "date": "2026-08-23",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-23",
+    "titleZh": "AI资讯晚报 | 2026-08-23",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-23",
+    "slug": "news-2026-08-23-evening",
+    "headlines": [
+      "OpenAI says California should strengthen its AI safety bill",
+      "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "Anthropic’s Opus 4.6 is a smut-machine",
+      "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "Nvidia partners with data center developer Cloverleaf",
+      "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "Google gives publishers a new way to fight AI-driven traffic losses",
+      "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders"
+    ]
+  },
+  {
+    "date": "2026-08-23",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-23",
@@ -1312,27 +1335,6 @@
       "8. Jack Dorsey is Taking on Slack with Buzz, a Group Chat Platform for Teams and Their AI Agents",
       "9. Meta is Testing an AI Bedtime Story App for People with No Imagination",
       "10. Gritt Exits Stealth with $32 Million for Robots to Build Solar Plants"
-    ]
-  },
-  {
-    "date": "2026-07-21",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-21",
-    "titleZh": "AI资讯晚报 | 2026-07-21",
-    "title": "AI News Evening Brief | 2026-07-21",
-    "slug": "news-2026-07-21-evening",
-    "headlines": [
-      "1. US Threatens Sanctions Against Chinese AI Models Over IP Theft",
-      "2. Anthropic’s Landmark $1.5B Copyright Settlement is Approved",
-      "3. China’s AI Models Have Trump’s AI World at War With Itself",
-      "4. Deezer Says More Than 50% of Daily Uploads Are AI-Generated",
-      "5. OpenAI is Scared of Open-Weight Models. Should the US Be?",
-      "6. Trump’s Latest AI Czar Has Already Resigned",
-      "7. Google is Working on a New AI Chip Designed to Make Gemini More Efficient",
-      "8. Gritt Exits Stealth With $32 Million for Robots to Build Solar Plants",
-      "9. AI is More Likely Than Humans to Form Biases When Hiring",
-      "10. YouTube Clarifies Policies Around AI Slop and Upsetting Videos"
     ]
   }
 ]
