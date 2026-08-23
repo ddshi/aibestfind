@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-23",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-23",
+    "titleZh": "AI资讯早报 | 2026-08-23",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-23",
+    "slug": "news-2026-08-23-morning",
+    "headlines": [
+      "1. Inherent's AI 'Teammate' Claims Breakthrough in Research Replication",
+      "2. OpenAI Urges California to Strengthen Its AI Safety Bill",
+      "3. Frontier AI Labs Still Won't Say How They'd Contain a Rogue Model",
+      "4. Nvidia Shows the 'Harness' Is Now the Real Hero",
+      "5. OpenAI Gains Ground on Anthropic with Business Users",
+      "6. ChatGPT Can Now Send Texts with New Apple Messages Plug-in",
+      "7. Nvidia Partners with Data Center Developer Cloverleaf",
+      "8. AI Data Startup Micro1 Hits $500M Gross Run Rate",
+      "9. Google Gives Publishers a New Way to Fight AI-Driven Traffic Losses",
+      "10. Starcloud Raises $250 Million for Orbital Data Centers"
+    ]
+  },
+  {
     "date": "2026-08-22",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1312,27 +1333,6 @@
       "8. Gritt Exits Stealth With $32 Million for Robots to Build Solar Plants",
       "9. AI is More Likely Than Humans to Form Biases When Hiring",
       "10. YouTube Clarifies Policies Around AI Slop and Upsetting Videos"
-    ]
-  },
-  {
-    "date": "2026-07-21",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-21",
-    "titleZh": "AI资讯早报 | 2026-07-21",
-    "title": "AI News Morning Brief | 2026-07-21",
-    "slug": "news-2026-07-21-morning",
-    "headlines": [
-      "1. Anthropic’s Landmark $1.5B Copyright Settlement Is Approved",
-      "2. Trump’s Latest AI Czar Has Already Resigned",
-      "3. Google Is Working on a New AI Chip Designed to Make Gemini More Efficient",
-      "4. AI’s Most Important Protocol Is Getting a Little Bit Easier to Use",
-      "5. OpenAI Is Scared of Open-Weight Models. Should the US Be?",
-      "6. China’s AI Models Have Trump’s AI World at War with Itself",
-      "7. AI Is More Likely Than Humans to Form Biases When Hiring",
-      "8. YouTube Clarifies Policies Around AI Slop and Upsetting Videos",
-      "9. Adobe Camera App’s New Feature Will Critique Your Photos Using AI",
-      "10. Databricks Hits $188B Valuation, Extending Its Run as AI’s Favorite Second Act"
     ]
   }
 ]
