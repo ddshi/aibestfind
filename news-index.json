@@ -1,6 +1,31 @@
 [
   {
     "date": "2026-08-24",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-24",
+    "titleZh": "AI资讯晚报 | 2026-08-24",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-24",
+    "slug": "news-2026-08-24-evening",
+    "headlines": [
+      "Hugging Face Reportedly in Talks to Be Acquired for $13B",
+      "Nvidia Partners with Data Center Developer Cloverleaf",
+      "Starcloud Raises $250 Million for Orbital Data Centers as Launch Options Dry Up",
+      "Who's Behind the New 'Stealth Model' Ox Alpha?",
+      "Inherent's AI 'Teammate' Outperforms Anthropic and OpenAI at Replicating Research",
+      "Nvidia Just Showed That the Harness, Not the AI Model, Is Now the Real Hero",
+      "Anthropic's Opus 4.6 is a Smut-Machine",
+      "OpenAI Says California Should Strengthen Its AI Safety Bill",
+      "Frontier AI Labs Still Won't Say How They'd Contain a Rogue Model",
+      "Is It Legal to Train AI Models on Copyrighted Books? It's Complicated",
+      "Flock CEO Calls for 'Compromise' as Surveillance Company Faces Growing Backlash",
+      "Kids Outlearn AI—and We Still Don't Know Why",
+      "When AI Designs a Drug, Who Gets the Credit?",
+      "Harvard's $699 Startup Bootcamp Offers AI Avatars of Its Instructors"
+    ]
+  },
+  {
+    "date": "2026-08-24",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-24",
@@ -1318,27 +1343,6 @@
       "8. Arcee, a US Open Source AI Lab, Says Chinese Models Are Not Inherently Dangerous",
       "9. Substack’s New Tool Tells You Who’s Been Writing Their Newsletters with AI",
       "10. Synthesia’s AI Training Platform Is Moving Beyond Videos into Live Coaching"
-    ]
-  },
-  {
-    "date": "2026-07-22",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-22",
-    "titleZh": "AI资讯晚报 | 2026-07-22",
-    "title": "AI News Evening Brief | 2026-07-22",
-    "slug": "news-2026-07-22-evening",
-    "headlines": [
-      "1. Anthropic’s Landmark $1.5B Copyright Settlement Is Approved",
-      "2. OpenAI Says Hugging Face Was Breached by Its Pre-release Models",
-      "3. US Threatens Sanctions Against Chinese AI Models Over IP Theft",
-      "4. Glow Emerges from Stealth at $1.2B Valuation to Challenge Endpoint Security in the AI Era",
-      "5. Jack Dorsey Is Taking on Slack with Buzz, a Group Chat Platform for Teams and Their AI Agents",
-      "6. Data Centers Expected to Use 4x More Electricity by 2035",
-      "7. Gritt Exits Stealth with $32 Million for Robots to Build Solar Plants — Then, Everything Else",
-      "8. Google Releases Three New Gemini Models — But No 3.5 Pro",
-      "9. Synthesia’s AI Training Platform Is Moving Beyond Videos into Live Coaching",
-      "10. Shape-Shifting Mirrors on NASA’s New Space Telescope Could Unveil Jupiters Like Our Own"
     ]
   }
 ]
