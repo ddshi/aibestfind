@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-08-24",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-24",
+    "titleZh": "AI资讯早报 | 2026-08-24",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-24",
+    "slug": "news-2026-08-24-morning",
+    "headlines": [
+      "1. Who’s Behind the New ‘Stealth Model’ Ox Alpha?",
+      "2. Frontier AI Labs Still Won’t Say How They’d Contain a Rogue Model",
+      "3. Is It Legal to Train AI Models on Copyrighted Books? It’s Complicated",
+      "4. OpenAI Says California Should Strengthen Its AI Safety Bill",
+      "6. Nvidia Just Showed That the Harness, Not the AI Model, Is Now the Real Hero",
+      "7. OpenAI Is Gaining on Anthropic with Business Users, New Data Indicates",
+      "8. ChatGPT Can Now Send Texts for You with New Apple Messages Plug-in",
+      "9. Nvidia Partners with Data Center Developer Cloverleaf",
+      "10. When AI Designs a Drug, Who Gets the Credit?",
+      "11. Flock CEO Calls for ‘Compromise’ as Surveillance Company Faces Growing Backlash",
+      "12. AI Data Startup Micro1 Reaches $500M Gross Run Rate Amid AI Training Boom",
+      "13. Harvard’s $699 Startup Bootcamp Offers AI Avatars of Its Instructors",
+      "14. Anthropic’s Opus 4.6 Is a Smut-Machine",
+      "15. Starcloud Raises $250 Million for Orbital Data Centers as Launch Options Dry Up"
+    ]
+  },
+  {
     "date": "2026-08-23",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1314,27 +1339,6 @@
       "8. Google Releases Three New Gemini Models — But No 3.5 Pro",
       "9. Synthesia’s AI Training Platform Is Moving Beyond Videos into Live Coaching",
       "10. Shape-Shifting Mirrors on NASA’s New Space Telescope Could Unveil Jupiters Like Our Own"
-    ]
-  },
-  {
-    "date": "2026-07-22",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-22",
-    "titleZh": "AI资讯早报 | 2026-07-22",
-    "title": "AI News Morning Brief | 2026-07-22",
-    "slug": "news-2026-07-22-morning",
-    "headlines": [
-      "1. Anthropic’s Landmark $1.5B Copyright Settlement is Approved",
-      "2. US Threatens Sanctions Against Chinese AI Models Over IP Theft",
-      "3. Data Centers Expected to Use 4x More Electricity by 2035",
-      "4. The Anthropic-Physical Intelligence Rumor Roiling AI Twitter",
-      "5. Google Releases Three New Gemini Models — But No 3.5 Pro",
-      "6. OpenAI Says Hugging Face Was Breached by Its Pre-release Models",
-      "7. Music Streamer Deezer Says More Than 50% of Daily Uploads are AI-Generated",
-      "8. Jack Dorsey is Taking on Slack with Buzz, a Group Chat Platform for Teams and Their AI Agents",
-      "9. Meta is Testing an AI Bedtime Story App for People with No Imagination",
-      "10. Gritt Exits Stealth with $32 Million for Robots to Build Solar Plants"
     ]
   }
 ]
