@@ -1,6 +1,29 @@
 [
   {
     "date": "2026-08-25",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-25",
+    "titleZh": "AI资讯晚报 | 2026-08-25",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-25",
+    "slug": "news-2026-08-25-evening",
+    "headlines": [
+      "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "OpenAI is building AI agents for everything. Will everyone use them?",
+      "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "Hugging Face reportedly in talks to be acquired for $13B",
+      "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "How to encourage smarter AI use in the classroom",
+      "Kids outlearn AI—and we still don’t know why",
+      "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "Accel-backed Keenable is indexing the web for AI agents"
+    ]
+  },
+  {
+    "date": "2026-08-25",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-25",
@@ -1326,26 +1349,6 @@
       "8. Runway Launches AI Model Router as Generative Media Gets Crowded",
       "9. Anthropic Updates Claude Voice Mode with More Capable Models",
       "10. Nvidia Is Sending GPUs to the Moon"
-    ]
-  },
-  {
-    "date": "2026-07-23",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-23",
-    "titleZh": "AI资讯晚报 | 2026-07-23",
-    "title": "AI News Evening Brief | 2026-07-23",
-    "slug": "news-2026-07-23-evening",
-    "headlines": [
-      "Etched Hits $10.3B Valuation, Defying AI Chip Skeptics",
-      "OpenAI's Spending Spree Balloons to $750B",
-      "Treasury Threatens Sanctions Over Alleged Model Distillation",
-      "Google’s Gemini Nears Billion-User Milestone",
-      "Nvidia is Sending GPUs to the Moon",
-      "Travis Kalanick’s Robotics Company Raises $1.7B",
-      "How AI Helps Scientists Design the Next Generation of Medicines",
-      "Experts Say Exploiting Anthropic’s Fable Isn’t How Kimi K3 Got So Good",
-      "Google Justifies Its Massive AI Spending with a Booming Cloud Business"
     ]
   }
 ]
