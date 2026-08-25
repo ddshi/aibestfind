@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-08-25",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-25",
+    "titleZh": "AI资讯早报 | 2026-08-25",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-25",
+    "slug": "news-2026-08-25-morning",
+    "headlines": [
+      "General Intuition Raises $6B to Push into Robotics",
+      "Hugging Face Reportedly in Talks for $13B Acquisition",
+      "Situational Awareness, Star AI Hedge Fund, Probed by SEC",
+      "DeepMind Alumni Startup Says Its AI 'Teammate' Outperforms Anthropic and OpenAI",
+      "Frontier AI Labs Still Won't Say How They'd Contain a Rogue Model",
+      "OpenAI Says California Should Strengthen Its AI Safety Bill",
+      "Who's Behind the New 'Stealth Model' Ox Alpha?",
+      "Instinct's Powerful AI Assistant Raises Privacy and Security Concerns",
+      "Kids Outlearn AI—and We Still Don't Know Why",
+      "How to Encourage Smarter AI Use in the Classroom",
+      "Is It Legal to Train AI Models on Copyrighted Books? It's Complicated",
+      "Replit CEO Amjad Masad Joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "Trump Bought SpaceX Shares Two Weeks After Blockbuster IPO"
+    ]
+  },
+  {
     "date": "2026-08-24",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1322,27 +1346,6 @@
       "How AI Helps Scientists Design the Next Generation of Medicines",
       "Experts Say Exploiting Anthropic’s Fable Isn’t How Kimi K3 Got So Good",
       "Google Justifies Its Massive AI Spending with a Booming Cloud Business"
-    ]
-  },
-  {
-    "date": "2026-07-23",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-23",
-    "titleZh": "AI资讯早报 | 2026-07-23",
-    "title": "AI News Morning Brief | 2026-07-23",
-    "slug": "news-2026-07-23-morning",
-    "headlines": [
-      "1. OpenAI’s AI Spending Spree Has Ballooned to $750B",
-      "2. Treasury Threatens Sanctions After White House Claims Moonshot Distilled Anthropic’s Fable",
-      "3. How OpenAI’s Human Mistake Led to the AI-Powered Hack on Hugging Face",
-      "4. Travis Kalanick’s Robotics Company Raises $1.7B, Led by a16z",
-      "5. Google Justifies Its Massive AI Spending with a Booming Cloud Business",
-      "6. Monday.com Lays Off Hundreds to Focus on AI",
-      "7. Glow Emerges from Stealth at $1.2B Valuation to Challenge Endpoint Security in the AI Era",
-      "8. Arcee, a US Open Source AI Lab, Says Chinese Models Are Not Inherently Dangerous",
-      "9. Substack’s New Tool Tells You Who’s Been Writing Their Newsletters with AI",
-      "10. Synthesia’s AI Training Platform Is Moving Beyond Videos into Live Coaching"
     ]
   }
 ]
