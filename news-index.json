@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-08-26",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-26",
+    "titleZh": "AI资讯晚报 | 2026-08-26",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-26",
+    "slug": "news-2026-08-26-evening",
+    "headlines": [
+      "1. Bill Gates Says We've Passed AI's Danger Thresholds — Proposes Robot Taxes and 'Human Reserved' Jobs",
+      "2. Mystery Solved: Z.ai Revealed as the Lab Behind the Ox Alpha Model",
+      "3. Robotics Startup Generalist Reaches $3B Valuation as Robot Brain Builders Leave Their 'GPT-2 Era'",
+      "4. OpenAI Loses Another Top Executive as High-Profile Departures Continue",
+      "5. Arga Labs Raises Funding to Build Better Enterprise AI Agent Training",
+      "6. Runable Secures $21M to Help AI Agents Grow Businesses, Not Just Build Them",
+      "7. Legato Emerges from Stealth with $12M for AI Hearing Glasses",
+      "8. India's Ringg Gets Peak XV Backing to Push Voice AI Beyond the Phone Call",
+      "9. AI Models Still Flub These Intelligence Tests — Can You Do Better?",
+      "10. QueryStory Wants You to Believe What AI Is Telling You"
+    ]
+  },
+  {
+    "date": "2026-08-26",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-26",
@@ -1328,27 +1349,6 @@
       "8. US Weighs Response to Chinese AI; Industry Urges Against Broad Open-Weight Restrictions",
       "9. AMD Takes on Nvidia with Its Helios AI Rack-Scale System",
       "10. OpenAI's New Voice Mode Reaches ChatGPT Desktop App"
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-24",
-    "titleZh": "AI资讯晚报 | 2026-07-24",
-    "title": "AI News Evening Brief | 2026-07-24",
-    "slug": "news-2026-07-24-evening",
-    "headlines": [
-      "1. AMD Takes on Nvidia with Its Helios AI Rack-Scale System",
-      "2. AI Chip Startup Etched Defies Skeptics, Hits $10.3B Valuation",
-      "3. OpenAI’s New Voice Mode Makes It to the ChatGPT Desktop App",
-      "4. Anthropic Updates Claude Voice Mode with More Capable Models",
-      "5. How AI Guardrails Are Impeding the Work of Offensive Cybersecurity Researchers",
-      "6. Google’s Gemini Nears Billion-User Milestone",
-      "7. Nvidia Is Sending GPUs to the Moon",
-      "8. AegisAI Lands $36M to Stop AI-Driven Spear Phishing",
-      "9. Midjourney Acquired the Astrology App Co-Star",
-      "10. Runway Launches AI Model Router as Generative Media Gets Crowded"
     ]
   }
 ]
