@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-26",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-26",
+    "titleZh": "AI资讯早报 | 2026-08-26",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-26",
+    "slug": "news-2026-08-26-morning",
+    "headlines": [
+      "1. OpenAI's Jalapeño Chip is Built for Fast Inference at Scale, Benchmarks Show",
+      "2. OpenAI Loses a Top Data Center Exec, as Stream of High-Profile Departures Continues",
+      "3. Robotics Startup Generalist Reaches $3B Valuation, Sources Say",
+      "4. Stability AI, Maker of Image Generator Stable Diffusion, Raises $76 Million in Fresh Funding",
+      "5. Situational Awareness, Star AI Hedge Fund That Nearly Imploded, Now Being Probed by the SEC",
+      "6. 'The World Seems to Be Ready': An Interview with OpenAI Head of Product Thibault Sottiaux",
+      "7. Claude Cowork Finally Remembers What You Told the App in Chat",
+      "8. Accel-Backed Keenable is Indexing the Web for AI Agents",
+      "9. Gamma Acquires Accel-Backed Design Startup Lica",
+      "10. Your Brain on AI"
+    ]
+  },
+  {
     "date": "2026-08-25",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1328,27 +1349,6 @@
       "8. AegisAI Lands $36M to Stop AI-Driven Spear Phishing",
       "9. Midjourney Acquired the Astrology App Co-Star",
       "10. Runway Launches AI Model Router as Generative Media Gets Crowded"
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-24",
-    "titleZh": "AI资讯早报 | 2026-07-24",
-    "title": "AI News Morning Brief | 2026-07-24",
-    "slug": "news-2026-07-24-morning",
-    "headlines": [
-      "1. AMD Takes on Nvidia with Its Helios AI Rack-Scale System",
-      "2. AI Chip Startup Etched Defies Skeptics, Hits $10.3B Valuation",
-      "3. Treasury Threatens Sanctions After White House Claims Moonshot Distilled Anthropic’s Fable",
-      "4. OpenAI Makes ChatGPT Health Available to All US Users",
-      "5. AegisAI, Founded by Former Google Security Execs, Lands $36M to Stop AI-Driven Spear Phishing",
-      "6. How OpenAI’s Human Mistake Led to the AI-Powered Hack on Hugging Face",
-      "7. Google Justifies Its Massive AI Spending with a Booming Cloud Business",
-      "8. Runway Launches AI Model Router as Generative Media Gets Crowded",
-      "9. Anthropic Updates Claude Voice Mode with More Capable Models",
-      "10. Nvidia Is Sending GPUs to the Moon"
     ]
   }
 ]
