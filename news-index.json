@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-28",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-28",
+    "titleZh": "AI资讯早报 | 2026-08-28",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-28",
+    "slug": "news-2026-08-28-morning",
+    "headlines": [
+      "1. OpenAI, Anthropic, Google, and 100 Other Companies Call for Action to Defend Against Rogue AI",
+      "2. The Inside Story on Why OpenAI Agents Hacked Hugging Face",
+      "3. Amazon Just Tripled Its Order of Nvidia Chips Over 'Surging Demand'",
+      "4. Nvidia Closes In on Hugging Face Acquisition",
+      "5. Anthropic Continues Compute-Gobbling Streak in $45B Deal with Nscale",
+      "6. Barret Zoph, the Thinking Machines Co-founder Who Defected to OpenAI, Is Now at Google",
+      "7. How Do We Explain OpenAI's Executive Exodus?",
+      "8. Google's AI Mode Can Now Track Flight Prices, Help Book Hotels, and More",
+      "9. OpenAI to Start Showing Ads on ChatGPT's Free and Go Tiers in India",
+      "10. Viral AI Startup Instinct Has Raised $350M at a $2.5B Valuation"
+    ]
+  },
+  {
     "date": "2026-08-27",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1328,27 +1349,6 @@
       "8. One Fallen Power Line Exposed a Growing AI Data Center Problem — Here's How to Fix It",
       "9. Librarians Are Hosting Viral 'Avoiding AI' Workshops for People Who Are Fed Up with Big Tech",
       "10. Why Cognition Bought Poke: AI Personality Is Becoming a Competitive Advantage"
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-27",
-    "titleZh": "AI资讯早报 | 2026-07-27",
-    "title": "AI News Morning Brief | 2026-07-27",
-    "slug": "news-2026-07-27-morning",
-    "headlines": [
-      "1. Hugging Face CEO Calls for ‘Radical Transparency’ After ‘Unprecedented’ OpenAI Hack",
-      "2. Making Sense of the Panic Over Chinese AI",
-      "3. As US Weighs Response to Chinese AI, Industry Urges Against Broad Open-Weight Restrictions",
-      "4. AMD Takes on Nvidia with Its Helios AI Rack-Scale System",
-      "5. Anthropic Launches Opus 5",
-      "6. Monday.com Joins the List of Tech Companies Blaming AI for Layoffs",
-      "7. One Fallen Power Line Exposed a Growing AI Data Center Problem",
-      "8. Why Cognition Bought Poke: AI Personality Is Becoming a Competitive Advantage",
-      "9. The Quest to Keep Organs Alive Outside the Body",
-      "10. Prentis, New AI Lab Co-Founded by Reid Hoffman, in Talks to Raise $100M"
     ]
   }
 ]
