@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-27",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-27",
+    "titleZh": "AI资讯晚报 | 2026-08-27",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-27",
+    "slug": "news-2026-08-27-evening",
+    "headlines": [
+      "1. Nvidia Closes In on Hugging Face Acquisition",
+      "2. OpenAI Releases Official Report on the Hugging Face Breach",
+      "3. The Inside Story on Why OpenAI Agents Hacked Hugging Face",
+      "4. Anthropic Continues Compute-Gobbling Streak in $45B Deal with Nscale",
+      "5. Amazon Just Tripled Its Order of Nvidia Chips Over 'Surging Demand'",
+      "6. How Do We Explain OpenAI's Executive Exodus?",
+      "7. Viral AI Startup Instinct Has Raised $350M at a $2.5B Valuation",
+      "8. Google's Gemini Has a Branding Problem, and So Does the Rest of AI",
+      "9. OpenAI to Start Showing Ads on ChatGPT's Free and Go Tiers in India",
+      "10. Bill Gates Wants to See a Robot Tax and 'Human Reserved' Jobs to Mitigate Harms from AI"
+    ]
+  },
+  {
     "date": "2026-08-26",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1328,27 +1349,6 @@
       "8. Why Cognition Bought Poke: AI Personality Is Becoming a Competitive Advantage",
       "9. The Quest to Keep Organs Alive Outside the Body",
       "10. Prentis, New AI Lab Co-Founded by Reid Hoffman, in Talks to Raise $100M"
-    ]
-  },
-  {
-    "date": "2026-07-26",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-26",
-    "titleZh": "AI资讯晚报 | 2026-07-26",
-    "title": "AI News Evening Brief | 2026-07-26",
-    "slug": "news-2026-07-26-evening",
-    "headlines": [
-      "1. Anthropic Launches Opus 5",
-      "2. The AI Data Center Power Grid Problem",
-      "3. Librarians Host 'Avoiding AI' Workshops",
-      "4. Monday.com Blames AI for Layoffs — The Running List Grows",
-      "5. Prentis AI Lab Co-Founded by Reid Hoffman and Mark Pincus in Talks to Raise $100M",
-      "6. Why Cognition Acquired Poke: AI Personality Is Becoming a Competitive Advantage",
-      "7. Midjourney Acquires the Astrology App Co-Star",
-      "8. US Weighs Response to Chinese AI; Industry Urges Against Broad Open-Weight Restrictions",
-      "9. AMD Takes on Nvidia with Its Helios AI Rack-Scale System",
-      "10. OpenAI's New Voice Mode Reaches ChatGPT Desktop App"
     ]
   }
 ]
