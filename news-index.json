@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-08-28",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-28",
+    "titleZh": "AI资讯晚报 | 2026-08-28",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-28",
+    "slug": "news-2026-08-28-evening",
+    "headlines": [
+      "OpenAI, Anthropic, Google, and 100 Other Companies Call for Action to Defend Against Rogue AI",
+      "Here's All the Times AI Has Gone Rogue and Hacked Other Companies",
+      "Anthropic Gets Its First Court Win Over the Pentagon's Supply Chain Risk Label",
+      "Amazon Just Tripled Its Order of Nvidia Chips Over 'Surging Demand'",
+      "Anthropic Continues Compute-Gobbling Streak in $45B Deal with Nscale",
+      "Nvidia Closes In on Hugging Face Acquisition",
+      "Meta Executive Leaves for OpenAI as the Social Media Giant Faces Growing Scrutiny in India",
+      "Barret Zoph, the Thinking Machines Co-founder Ousted Before Joining OpenAI, Is Now at Google",
+      "Viral AI Startup Instinct Has Raised $350M at a $2.5B Valuation",
+      "Google's AI Mode Can Now Track Flight Prices, Help Book Hotels, and More",
+      "OpenAI to Start Showing Ads on ChatGPT's Free and Go Tiers in India",
+      "AI's Memory Crunch Is Coming for Android Apps",
+      "Hugging Face Is Selling a Cute $399 Open Source Duck Robot, Microduck"
+    ]
+  },
+  {
+    "date": "2026-08-28",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-28",
@@ -1328,27 +1352,6 @@
       "8. Meta AI Comes to Threads DMs",
       "9. Cursor Pushes Into India Ahead of SpaceX Acquisition",
       "10. Building the Enterprise Environment for Agentic AI"
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-28",
-    "titleZh": "AI资讯晚报 | 2026-07-28",
-    "title": "AI News Evening Brief | 2026-07-28",
-    "slug": "news-2026-07-28-evening",
-    "headlines": [
-      "1. Google's AI Search Is Rapidly Becoming the Default, New Data Shows",
-      "2. Ilya Sutskever's Safe Superintelligence Partners with Nvidia to Scale Its AI Research",
-      "3. Hugging Face CEO Calls for 'Radical Transparency' After 'Unprecedented' OpenAI Hack",
-      "4. Enigma Raises $70M to Make Controlling a Robot as Easy as Adjusting the Volume",
-      "5. Monday.com Is the Latest Tech Company to Blame AI for Layoffs — Here Are 20 Others",
-      "6. Making Sense of the Panic Over Chinese AI",
-      "7. The Path to Artificial Superintelligence",
-      "8. One Fallen Power Line Exposed a Growing AI Data Center Problem — Here's How to Fix It",
-      "9. Librarians Are Hosting Viral 'Avoiding AI' Workshops for People Who Are Fed Up with Big Tech",
-      "10. Why Cognition Bought Poke: AI Personality Is Becoming a Competitive Advantage"
     ]
   }
 ]
