@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-08-29",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-29",
+    "titleZh": "AI资讯早报 | 2026-08-29",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-29",
+    "slug": "news-2026-08-29-morning",
+    "headlines": [
+      "Nvidia closes in on Hugging Face acquisition",
+      "Open-weight AI companies are the Valley's hottest acquisition targets",
+      "OpenAI, Anthropic, Google, and 100+ companies call for action to defend against rogue AI",
+      "Anthropic researcher offers glimpse at self-improving AI",
+      "Anthropic gets its first court win over the Pentagon's supply-chain risk label",
+      "Meta executive leaves for OpenAI amid growing scrutiny in India",
+      "Barret Zoph joins Google after Thinking Machines ouster",
+      "Neocloud Lambda secures $1B in debt to buy more chips",
+      "Google's AI Mode can now track flight prices, help book hotels, and more",
+      "OpenAI to start showing ads on ChatGPT's free and Go tiers in India",
+      "AI's memory crunch is coming for Android apps",
+      "Hugging Face launches $399 open-source duck robot, Microduck",
+      "Plaud's new earphones with eSIM-enabled case for AI agents"
+    ]
+  },
+  {
     "date": "2026-08-28",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1331,27 +1355,6 @@
       "8. Microsoft Launches Its First Cybersecurity Model, Plus a New Agentic Cybersecurity System",
       "9. Google's AI Search Is Rapidly Becoming the Default, New Data Shows",
       "10. Fish Audio Raises $52M Seed to Build AI Voice Models for Creators and Enterprises"
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-28",
-    "titleZh": "AI资讯早报 | 2026-07-28",
-    "title": "AI News Morning Brief | 2026-07-28",
-    "slug": "news-2026-07-28-morning",
-    "headlines": [
-      "1. The Hugging Face Breach: An Unprecedented Wake-Up Call for AI Security",
-      "2. Anthropic’s Dario Amodei: Not Anti-Open, But Anti-Chinese AI",
-      "3. Satya Nadella: Betting on One AI is a Losing Strategy",
-      "4. Google’s AI Search is Becoming the Default",
-      "5. Ilya Sutskever’s Safe Superintelligence Partners with Nvidia",
-      "6. PSA: Your Claude Shared Chats May Have Leaked to Google",
-      "7. Enigma Raises $71M to Democratize Robot Control",
-      "8. Meta AI Comes to Threads DMs",
-      "9. Cursor Pushes Into India Ahead of SpaceX Acquisition",
-      "10. Building the Enterprise Environment for Agentic AI"
     ]
   }
 ]
