@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-08-29",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-29",
+    "titleZh": "AI资讯晚报 | 2026-08-29",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-29",
+    "slug": "news-2026-08-29-evening",
+    "headlines": [
+      "1. OpenAI, Anthropic, Google, and 100+ Companies Call for Action to Defend Against Rogue AI",
+      "2. Anthropic Gets Its First Court Win Over the Pentagon's Supply-Chain Risk Label",
+      "3. An Anthropic Researcher Just Gave Us a Peek at Self-Improving AI",
+      "4. Nvidia Closes In on Hugging Face Acquisition",
+      "5. Neocloud Lambda Secures $1B in Debt to Buy More Chips",
+      "6. Open-Weight AI Companies Are the Valley's Hottest Acquisition Targets",
+      "7. Meta Executive Leaves for OpenAI as the Social Media Giant Faces Growing Scrutiny in India",
+      "8. Google's AI Mode Can Now Track Flight Prices, Help Book Hotels, and More",
+      "9. OpenAI to Start Showing Ads on ChatGPT's Free and Go Tiers in India",
+      "10. AI's Memory Crunch Is Coming for Android Apps"
+    ]
+  },
+  {
+    "date": "2026-08-29",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-29",
@@ -1334,27 +1355,6 @@
       "8. Satya Nadella: Single-AI Dependency is a Survival Risk",
       "9. Google's AI Search is Rapidly Becoming Default",
       "10. Fish Audio Raises $52M Seed for AI Voice Models"
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief | 2026-07-29",
-    "titleZh": "AI资讯晚报 | 2026-07-29",
-    "title": "AI News Evening Brief | 2026-07-29",
-    "slug": "news-2026-07-29-evening",
-    "headlines": [
-      "1. Recursive Superintelligence Signs $410 Million Compute Deal with Amazon",
-      "2. OpenAI's Hugging Face Breach Reignites Alignment and Control Debate",
-      "3. Data Centers May Face Temporary Power Cuts to Prevent Blackouts on Largest US Grid",
-      "4. Satya Nadella Says Companies That Trust One AI for Everything May Not Survive",
-      "5. Anthropic's Dario Amodei Responds: Doesn't Oppose Open-Weight Models, but Fears Chinese AI",
-      "6. Ilya Sutskever's Safe Superintelligence Partners with Nvidia to Scale Its AI Research",
-      "7. PSA: Your Claude Shared Chats and Artifacts May Have Ended Up on Google",
-      "8. Microsoft Launches Its First Cybersecurity Model, Plus a New Agentic Cybersecurity System",
-      "9. Google's AI Search Is Rapidly Becoming the Default, New Data Shows",
-      "10. Fish Audio Raises $52M Seed to Build AI Voice Models for Creators and Enterprises"
     ]
   }
 ]
