@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-30",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-30",
+    "titleZh": "AI资讯晚报 | 2026-08-30",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-30",
+    "slug": "news-2026-08-30-evening",
+    "headlines": [
+      "1. Nvidia’s AI Advantage Is Moving Beyond the GPU",
+      "2. Neocloud Lambda Secures $1B in Debt to Buy More Chips",
+      "3. An Anthropic Researcher Just Gave Us a Peek at Self-Improving AI",
+      "4. Open-Weight AI Companies Are the Valley’s Hottest Acquisition Targets",
+      "5. Anthropic Gets Its First Court Win Over the Pentagon’s Supply-Chain Risk Label",
+      "6. OpenAI, Anthropic, Google, and 100 Other Companies Call for Action to Defend Against Rogue AI",
+      "7. Meta Executive Leaves for OpenAI as the Social Media Giant Faces Growing Scrutiny in India",
+      "8. Google’s AI Mode Can Now Track Flight Prices, Help Book Hotels, and More",
+      "9. AI’s Memory Crunch Is Coming for Android Apps",
+      "10. OpenAI to Start Showing Ads on ChatGPT’s Free and Go Tiers in India"
+    ]
+  },
+  {
     "date": "2026-08-29",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1334,27 +1355,6 @@
       "As AI content floods the internet, Pangram raises $9M to detect it",
       "Bot-detection startup Spur nabs $200M from Insight",
       "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI"
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-29",
-    "titleZh": "AI资讯早报 | 2026-07-29",
-    "title": "AI News Morning Brief | 2026-07-29",
-    "slug": "news-2026-07-29-morning",
-    "headlines": [
-      "1. OpenAI's Hugging Face Breach: A Predictable Crisis",
-      "2. Sam Altman Signals Deceleration",
-      "3. Cyera Acquires Oasis Security for $1B to Protect AI Agents",
-      "4. Microsoft Launches First Cybersecurity Model and Agentic System",
-      "5. Data Centers Face Emergency Power Cuts on US Grid",
-      "6. Recursive Superintelligence Signs $410M Compute Deal with Amazon",
-      "7. Anthropic's Dario Amodei: Not Anti-Open, but Afraid of Chinese AI",
-      "8. Satya Nadella: Single-AI Dependency is a Survival Risk",
-      "9. Google's AI Search is Rapidly Becoming Default",
-      "10. Fish Audio Raises $52M Seed for AI Voice Models"
     ]
   }
 ]
