@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-08-31",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-31",
+    "titleZh": "AI资讯晚报 | 2026-08-31",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-31",
+    "slug": "news-2026-08-31-evening",
+    "headlines": [
+      "Sony Music & Warner Sue Anthropic Over Copyright Infringement",
+      "Nvidia’s AI Advantage Expands Beyond the GPU",
+      "Open-Weight AI Companies Become Prime Acquisition Targets",
+      "Industry Giants Call for United Action Against Rogue AI",
+      "Neocloud Lambda Secures $1 Billion in Debt to Fuel Chip Expansion",
+      "Anthropic Researcher Offers a Glimpse of Self-Improving AI",
+      "Anthropic Wins First Court Victory Against Pentagon’s Supply-Chain Label",
+      "Meta Executive Departs for OpenAI Amid Indian Market Scrutiny",
+      "Google’s AI Mode Expands into Travel Booking and Price Tracking",
+      "AI’s Memory Crunch Is Coming for Android Apps",
+      "Caterpillar Brings Mining Automation Expertise to AI Deployment",
+      "Barret Zoph Lands at Google After Thinking Machines Exit",
+      "Hugging Face Launches a $399 Open-Source Duck Robot"
+    ]
+  },
+  {
     "date": "2026-08-30",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1330,31 +1354,6 @@
       "Microsoft GPT-5 Copilot Free Tier",
       "DeepSeek R2 Model Released",
       "Perplexity Raises \\ at \\ Valuation"
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief | 2026-07-30",
-    "titleZh": "AI资讯早报 | 2026-07-30",
-    "title": "AI News Morning Brief | 2026-07-30",
-    "slug": "news-2026-07-30-morning",
-    "headlines": [
-      "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "The Hugging Face AI break-in explained",
-      "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "Sam Altman is ready to decelerate",
-      "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "As AI content floods the internet, Pangram raises $9M to detect it",
-      "Bot-detection startup Spur nabs $200M from Insight",
-      "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI"
     ]
   }
 ]
