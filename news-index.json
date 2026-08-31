@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-09-01",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-01",
+    "titleZh": "AI资讯晚报 | 2026-09-01",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-01",
+    "slug": "news-2026-09-01-evening",
+    "headlines": [
+      "1. Sony Music, Warner Sue Anthropic, Alleging a ‘Brazen Campaign’ of Intellectual Property Theft",
+      "2. Nvidia’s $3.5B MediaTek Bet Reveals Its Plan for Tackling Big Tech’s AI Chip Buildout",
+      "3. Hugging Face Hack Could Indicate Cultural Issues at OpenAI",
+      "4. Nvidia’s AI Advantage Is Moving Beyond the GPU",
+      "5. Clipto Uses AI to Search Terabytes of Video and Is Now Valued at $250M",
+      "6. Open-Weight AI Companies Are the Valley’s Hottest Acquisition Targets",
+      "7. The US Is Building Barriers Around Drones and Robots, but China Has Scale to Get Around Them",
+      "8. An Anthropic Researcher Just Gave Us a Peek at Self-Improving AI",
+      "9. Neocloud Lambda Secures $1B in Debt to Buy More Chips",
+      "10. Anthropic Gets Its First Court Win Over the Pentagon’s Supply-Chain Risk Label",
+      "11. Instagram Puts New Limits on Undisclosed AI Profiles",
+      "12. Caterpillar Is Bringing to AI Deployment What It Learned from Automating Mining",
+      "13. At TechBBQ, Europe’s AI Conversations Kept Coming Back to: Who’s Actually in Control?",
+      "14. Harvard Law Dropout Raises $6M for Blue Voice to Build a ‘Harvey for Police Officers’",
+      "15. Meta Executive Leaves for OpenAI as the Social Media Giant Faces Growing Scrutiny in India"
+    ]
+  },
+  {
     "date": "2026-08-31",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1337,23 +1363,6 @@
       "Forward-Deployed Engineers Are the AI Industry's Latest Talent Obsession",
       "Google Says AI Helped Fix More Chrome Bugs in June Than in the Past Two Years",
       "Friend, the Lonely AI Wearable, Returns With New Voice and Hefty Price Tag"
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-07-30",
-    "slug": "news-2026-07-30-evening",
-    "headlines": [
-      "OpenAI Launches GPT-5 with Advanced Reasoning Capabilities",
-      "Anthropic Opens Claude Agent Protocol",
-      "Google DeepMind AlphaFold 3.0",
-      "EU AI Act Full Enforcement",
-      "Midjourney V7 Adds Video Generation",
-      "Microsoft GPT-5 Copilot Free Tier",
-      "DeepSeek R2 Model Released",
-      "Perplexity Raises \\ at \\ Valuation"
     ]
   }
 ]
