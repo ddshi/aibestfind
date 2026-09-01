@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-01",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-01",
+    "titleZh": "AI资讯早报 | 2026-09-01",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-01",
+    "slug": "news-2026-09-01-morning",
+    "headlines": [
+      "1. Nvidia’s $3.5B MediaTek Bet Reveals Its Plan for Tackling Big Tech’s AI Chip Buildout",
+      "2. Sony Music, Warner Sue Anthropic, Alleging a ‘Brazen Campaign’ of Intellectual Property Theft",
+      "3. Apple Shares ‘Shocking Evidence’ Against Former Employee Accused of Stealing Company Data for OpenAI",
+      "4. The Pentagon Now Has Its Own Version of ChatGPT and Grok",
+      "5. The Hugging Face Hack Could Indicate Cultural Issues at OpenAI",
+      "6. Instagram Puts New Limits on Undisclosed AI Profiles",
+      "7. An Anthropic Researcher Just Gave Us a Peek at Self-Improving AI",
+      "8. Harvard Law Dropout Raises $6M for Blue Voice to Build a ‘Harvey for Police Officers’",
+      "9. Neocloud Lambda Secures $1B in Debt to Buy More Chips",
+      "10. Open-Weight AI Companies Are the Valley’s Hottest Acquisition Targets"
+    ]
+  },
+  {
+    "date": "2026-09-01",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-01",
@@ -1337,32 +1358,6 @@
       "LinkedIn Adds a Button to Report AI-Generated 'Slop'",
       "Meta Says AI Is Making It Easier to Build New Apps",
       "Forward-Deployed Engineers: The AI Industry's Latest Talent Obsession"
-    ]
-  },
-  {
-    "date": "2026-07-31",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-07-31",
-    "titleZh": "AI资讯早报 | 2026-07-31",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-07-31",
-    "slug": "news-2026-07-31-morning",
-    "headlines": [
-      "Anthropic's AI Models Successfully Breach Three Companies in Security Tests",
-      "Fundamental Flaw Leaves LLMs Alarmingly Vulnerable to Attacks",
-      "Inside the Hugging Face Breach: OpenAI's Hacker Was Noisy, Fast, But Not Unstoppable",
-      "Microsoft Is Openly Competing With OpenAI and Anthropic More Than Ever",
-      "Meta Says AI Is Making It Easier to Build New Apps — And More Are Coming",
-      "Mark Zuckerberg Predicts Billions of People Will Have Personal AI Agents in Five Years",
-      "AI Hedge Fund Situational Awareness Keeps Its Anthropic Shares Despite Selling Public Portfolio",
-      "Investors Love AI — As Long As You're a Cloud Host",
-      "Nscale Acquires Anyscale to Own More of the AI Compute Stack",
-      "Okta Acquires AI Security Startup Permiso for Approximately $200M",
-      "Judge Rules Trump Administration Still Lacks Evidence for Anthropic's 'Supply-Chain Risk' Label",
-      "LinkedIn Adds Button to Report AI-Generated 'Slop'",
-      "Forward-Deployed Engineers Are the AI Industry's Latest Talent Obsession",
-      "Google Says AI Helped Fix More Chrome Bugs in June Than in the Past Two Years",
-      "Friend, the Lonely AI Wearable, Returns With New Voice and Hefty Price Tag"
     ]
   }
 ]
