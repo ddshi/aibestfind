@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-02",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-02",
+    "titleZh": "AI资讯晚报 | 2026-09-02",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-02",
+    "slug": "news-2026-09-02-evening",
+    "headlines": [
+      "1. Nvidia’s $3.5B MediaTek Bet Reveals Its Plan for Tackling Big Tech’s AI Chip Buildout",
+      "2. Sony Music, Warner Sue Anthropic, Alleging a ‘Brazen Campaign’ of Intellectual Property Theft",
+      "3. ChatGPT Health Adds Epic Integration for Clinicians to Import Patient Data",
+      "4. Apple Shares ‘Shocking Evidence’ Against Former Employee Accused of Stealing Company Data for OpenAI",
+      "5. The Pentagon Now Has Its Own Version of ChatGPT and Grok",
+      "6. AIR Raises $50M to Help Companies Vet the Skills and Add-ons AI Agents Use",
+      "7. Sequoia-Incubated Empirik Launches with $21M to Predict Outages Before They Happen",
+      "8. Instagram Puts New Limits on Undisclosed AI Profiles",
+      "9. Clipto Uses AI to Search Terabytes of Video and Is Now Valued at $250M",
+      "10. Amazon Alexa Can Now Alert You When Something New Might Tempt You to Shop"
+    ]
+  },
+  {
     "date": "2026-09-01",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1337,27 +1358,6 @@
       "LinkedIn Adds a Button to Report AI-Generated 'Slop'",
       "Google Says It Fixed More Chrome Bugs in June Than Over the Past Two Years, Thanks to AI",
       "Friend, the Lonely AI Wearable, Returns with a New Voice and a Much Bigger Price Tag"
-    ]
-  },
-  {
-    "date": "2026-07-31",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-07-31",
-    "titleZh": "AI资讯晚报 | 2026-07-31",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-07-31",
-    "slug": "news-2026-07-31-evening",
-    "headlines": [
-      "Anthropic's AI Agents Prove Their Mettle in Offensive Security Tests",
-      "Judge Rules Trump Admin Lacks Evidence for Anthropic 'Supply-Chain Risk' Label",
-      "AI Hedge Fund Sells Public Portfolio but Holds Onto Anthropic Shares",
-      "Nscale Acquires Anyscale to Own More of the AI Compute Stack",
-      "Okta Acquires AI Security Startup Permiso for ~$200M",
-      "Google Says AI Helped It Fix More Chrome Bugs in a Month Than in Two Years",
-      "Smallest.ai Raises $13M for Ultra-Fast, Human-Sounding Voice AI",
-      "LinkedIn Adds a Button to Report AI-Generated 'Slop'",
-      "Meta Says AI Is Making It Easier to Build New Apps",
-      "Forward-Deployed Engineers: The AI Industry's Latest Talent Obsession"
     ]
   }
 ]
