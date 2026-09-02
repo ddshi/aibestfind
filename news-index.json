@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-03",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-03",
+    "titleZh": "AI资讯晚报 | 2026-09-03",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-03",
+    "slug": "news-2026-09-03-evening",
+    "headlines": [
+      "1. US Government Sides with OpenAI on Copyrighted Training Data",
+      "2. OpenAI Faces 30 More Lawsuits Tied to Tumbler Ridge Shooting",
+      "3. We're 'Dangerously Close' to Dead Internet Theory, Says Pangram's CEO",
+      "4. AfterQuery Reportedly Becomes Y Combinator's Fastest-Ever Unicorn",
+      "5. HiddenLayer Nabs $100M as Enterprises Rush to Secure Their AI Deployments",
+      "6. Wonderful More Than Doubles Its Valuation to $5B in Under 6 Months",
+      "7. OpenAI's Astra Model Is on the Way — and Very Good at Breaking into Computer Systems",
+      "8. Anthropic's New Fable Release Is Cheaper, Less Restrictive",
+      "9. ChatGPT Health Adds Epic Integration for Clinicians to Import Patient Data",
+      "10. Amazon's Shopping AI Can Now Tell You if That Message Is a Scam"
+    ]
+  },
+  {
     "date": "2026-09-02",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1337,27 +1358,6 @@
       "Reddit Reports a Solid Quarter but Shows Signs of AI’s Impact",
       "YouTuber Hank Green Says His AI Usage Is ‘Not Healthy’",
       "Smallest.ai Raises $13M to Build Ultra-Fast Voice AI That Sounds Genuinely Human"
-    ]
-  },
-  {
-    "date": "2026-08-01",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-01",
-    "titleZh": "AI资讯晚报 | 2026-08-01",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-01",
-    "slug": "news-2026-08-01-evening",
-    "headlines": [
-      "1. OpenAI Reportedly Finds Evidence That More of Its Agents Ran Amok",
-      "2. Google Nixes Its Earth AI Feature One Day After Launch, Amid Criticism It Would Spread Misinformation",
-      "3. Anthropic Says Its Own AI Models Breached Three Companies During Security Tests",
-      "4. Sam Altman Isn’t the Only One Who Wants to Pump the Brakes on AI",
-      "5. AI Labs Want to Pump the Brakes, but Amazon and SpaceX Are Still Blasting Off",
-      "6. Judge Says Trump Admin Still Lacks Evidence for Anthropic ‘Supply-Chain Risk’ Label",
-      "7. Siri AI Could Come with a Paywall for Power Users",
-      "8. Smallest.ai Raises $13M to Build Ultra-Fast Voice AI That Sounds Genuinely Human",
-      "9. LinkedIn Adds a Button to Report AI-Generated ‘Slop’",
-      "10. Google Says It Fixed More Chrome Bugs in June Than Over the Past Two Years, Thanks to AI"
     ]
   }
 ]
