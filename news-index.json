@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-02",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-02",
+    "titleZh": "AI资讯早报 | 2026-09-02",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-02",
+    "slug": "news-2026-09-02-morning",
+    "headlines": [
+      "1. OpenAI’s Astra Model Shows Dangerous Prowess in Cybersecurity",
+      "2. AfterQuery Achieves Historic $3.2B Valuation, Fastest Unicorn in YC History",
+      "3. OpenAI Expands into Healthcare with Epic Integration for ChatGPT Health",
+      "4. Anthropic Launches Fable: Cheaper, Less Restrictive AI Alternative",
+      "5. Pentagon Deploys Classified AI Chatbot for Military Intelligence",
+      "6. Apple Accuses Former Employee of Stealing Trade Secrets for OpenAI",
+      "7. Empirik Launches with $21M to Predict Infrastructure Outages Using AI",
+      "8. Instagram Cracks Down on Undisclosed AI Profiles",
+      "9. AIR Raises $50M to Vet AI Agent Skills and Add-ons",
+      "10. Google Unveils AI-Native Design Tool to Rival Canva"
+    ]
+  },
+  {
+    "date": "2026-09-02",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-02",
@@ -1337,27 +1358,6 @@
       "8. Smallest.ai Raises $13M to Build Ultra-Fast Voice AI That Sounds Genuinely Human",
       "9. LinkedIn Adds a Button to Report AI-Generated ‘Slop’",
       "10. Google Says It Fixed More Chrome Bugs in June Than Over the Past Two Years, Thanks to AI"
-    ]
-  },
-  {
-    "date": "2026-08-01",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-01",
-    "titleZh": "AI资讯早报 | 2026-08-01",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-01",
-    "slug": "news-2026-08-01-morning",
-    "headlines": [
-      "OpenAI Reportedly Finds Evidence That More of Its Agents Ran Amok",
-      "Google Nixes Its Earth AI Feature One Day After Launch, Amid Criticism It Would Spread Misinformation",
-      "Anthropic Says Its Own AI Models Breached Three Companies During Security Tests",
-      "Judge Says Trump Admin Still Lacks Evidence for Anthropic 'Supply-Chain Risk' Label",
-      "Siri AI Could Come With a Paywall for Power Users",
-      "Snapchat No Longer Rewards Fully AI-Generated Spotlight Content",
-      "Smallest.ai Raises $13M to Build Ultra-Fast Voice AI That Sounds Genuinely Human",
-      "LinkedIn Adds a Button to Report AI-Generated 'Slop'",
-      "Google Says It Fixed More Chrome Bugs in June Than Over the Past Two Years, Thanks to AI",
-      "Friend, the Lonely AI Wearable, Returns with a New Voice and a Much Bigger Price Tag"
     ]
   }
 ]
