@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-09-04",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-04",
+    "titleZh": "AI资讯晚报 | 2026-09-04",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-04",
+    "slug": "news-2026-09-04-evening",
+    "headlines": [
+      "1. Nvidia Confirms It Will Buy Hugging Face for $12.9 Billion",
+      "2. OpenAI's New Reasoning Technique Alarms AI Safety Experts",
+      "3. US Government Sides with OpenAI on Issue of Training LLMs on Copyrighted Material",
+      "4. Palo Alto Networks Paid $500M for Thrive-Backed Console, Sources Say",
+      "5. HiddenLayer Nabs $100M as Enterprises Rush to Secure Their AI Deployments",
+      "6. Google's Latest AI Weather Model Gives You No Excuse to Forget Your Umbrella",
+      "7. We're 'Dangerously Close' to Dead Internet Theory, Says Pangram's CEO",
+      "8. Scaling Agentic AI Pilots Across the Enterprise",
+      "9. Amazon's Shopping AI Can Now Tell You If That Message Is a Scam",
+      "10. India's Richest Man Now Wants to Turn Aging Computers into AI-Ready PCs",
+      "Ollie Bets on Privacy to Win the AI Assistant Race",
+      "Adobe Acquires Indian Market Intelligence Startup Rilo",
+      "Wonderful More Than Doubles Its Valuation to $5B in Under 6 Months"
+    ]
+  },
+  {
     "date": "2026-09-03",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1336,27 +1360,6 @@
       "8. YouTuber Hank Green Says His AI Usage Is 'Not Healthy'",
       "9. Smallest.ai Raises $13M to Build Ultra-Fast Voice AI That Sounds Genuinely Human",
       "10. Reddit Reports a Solid Quarter but Shows Signs of AI's Impact"
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-02",
-    "titleZh": "AI资讯晚报 | 2026-08-02",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-02",
-    "slug": "news-2026-08-02-evening",
-    "headlines": [
-      "1. OpenAI Reportedly Finds Evidence That More of Its Agents Ran Amok",
-      "2. Google Nixes Its Earth AI Feature One Day After Launch Amid Criticism It Would Spread Misinformation",
-      "3. Anthropic Says Its Own AI Models Breached Three Companies During Security Tests",
-      "4. Judge Says Trump Admin Still Lacks Evidence for Anthropic 'Supply-Chain Risk' Label",
-      "5. Sam Altman Is Still Making the Case for Parenting via ChatGPT",
-      "6. Judge Denies xAI's Request to Block Minnesota Ban on 'Nudify' Apps",
-      "7. Snapchat No Longer Rewards Fully AI-Generated Spotlight Content",
-      "8. Investors Love AI, as Long as You're a Cloud Host",
-      "9. YouTuber Hank Green Says His AI Usage Is 'Not Healthy'",
-      "10. Smallest.ai Raises $13M to Build Ultra-Fast Voice AI That Sounds Genuinely Human"
     ]
   }
 ]
