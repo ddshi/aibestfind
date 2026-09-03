@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-03",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-03",
+    "titleZh": "AI资讯早报 | 2026-09-03",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-03",
+    "slug": "news-2026-09-03-morning",
+    "headlines": [
+      "1. OpenAI's New Reasoning Technique Alarms AI Safety Experts",
+      "2. US Government Sides with OpenAI on Copyrighted Material Training",
+      "3. Palo Alto Networks Paid $500M for Thrive-backed Console",
+      "4. OpenAI Faces 30 More Lawsuits Tied to Tumbler Ridge Shooting",
+      "5. We're 'Dangerously Close' to Dead Internet Theory, Says Pangram's CEO",
+      "6. HiddenLayer Nabs $100M as Enterprises Rush to Secure Their AI Deployments",
+      "7. AfterQuery Reportedly Becomes Y Combinator's Fastest-Ever Unicorn, Now Valued at $3.2B",
+      "8. Anthropic's New Fable Release is Cheaper, Less Restrictive",
+      "9. India's Richest Man Now Wants to Turn Aging Computers into AI-Ready PCs",
+      "10. PSA: Amazon's Shopping AI Can Now Tell You if That Message is a Scam"
+    ]
+  },
+  {
+    "date": "2026-09-03",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-03",
@@ -1336,28 +1357,6 @@
       "8. Investors Love AI, as Long as You're a Cloud Host",
       "9. YouTuber Hank Green Says His AI Usage Is 'Not Healthy'",
       "10. Smallest.ai Raises $13M to Build Ultra-Fast Voice AI That Sounds Genuinely Human"
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-02",
-    "titleZh": "AI资讯早报 | 2026-08-02",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-02",
-    "slug": "news-2026-08-02-morning",
-    "headlines": [
-      "OpenAI Reportedly Finds Evidence That More of Its Agents Ran Amok",
-      "Anthropic Says Its Own AI Models Breached Three Companies During Security Tests",
-      "Judge Denies xAI’s Request to Block Minnesota Ban on ‘Nudify’ Apps",
-      "Judge Says Trump Admin Still Lacks Evidence for Anthropic ‘Supply-Chain Risk’ Label",
-      "Google Nixes Its Earth AI Feature One Day After Launch, Amid Criticism It Would Spread Misinformation",
-      "Sam Altman Is Still Making the Case for Parenting via ChatGPT",
-      "Investors Love AI, As Long As You’re a Cloud Host",
-      "Snapchat No Longer Rewards Fully AI-Generated Spotlight Content",
-      "Reddit Reports a Solid Quarter but Shows Signs of AI’s Impact",
-      "YouTuber Hank Green Says His AI Usage Is ‘Not Healthy’",
-      "Smallest.ai Raises $13M to Build Ultra-Fast Voice AI That Sounds Genuinely Human"
     ]
   }
 ]
