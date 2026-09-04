@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-05",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-05",
+    "titleZh": "AI资讯晚报 | 2026-09-05",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-05",
+    "slug": "news-2026-09-05-evening",
+    "headlines": [
+      "1. Nvidia Confirms It Will Buy Hugging Face for $12.9 Billion",
+      "2. OpenAI Launches Astra, Its Powerful (and Controversial) New Model",
+      "3. Another Swarm of OpenAI Agents Reached the Open Internet Without the Frontier Lab’s Knowledge",
+      "4. Crusoe Reportedly Raises $3B at a $30B Valuation",
+      "5. Accel Reportedly in Talks to Lead $1B Round for Thinking Machines at $40B Valuation",
+      "6. Apple’s John Ternus Era Begins as Nvidia Bets on the Whole AI Stack",
+      "7. Abliteration.ai Is Making a Business Out of Removing AI Guardrails",
+      "8. Google’s Gemini Spark Can Now Manage Your Google Photos Library",
+      "9. Data from Drones in Ukraine Is Fueling a New Wild West Marketplace",
+      "10. Meta Is Paying to Peek at How You Use Their Latest AI Model"
+    ]
+  },
+  {
     "date": "2026-09-04",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1340,26 +1361,6 @@
       "8. Design Arena Raises $7.9M to Teach AI \"Taste\"",
       "9. Google Nixes Earth AI Feature After One Day Amid Misinformation Fears",
       "10. Congress’ Favorite AI Tool? ChatGPT"
-    ]
-  },
-  {
-    "date": "2026-08-04",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-04",
-    "titleZh": "AI资讯晚报 | 2026-08-04",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-04",
-    "slug": "news-2026-08-04-evening",
-    "headlines": [
-      "1. The AI Agent Trust Deficit: Why They Lie, Cheat, and Run Amok",
-      "2. The Decel Debate: Sam Altman and the Industry's Call to Slow Down",
-      "3. AI's Security Paradox: When the Defender Becomes the Attacker",
-      "4. Regulatory Pushback: xAI, Google, and the Limits of AI Deployment",
-      "5. The Human Cost of AI: From Personal Health to Parenting",
-      "6. The New Economics of AI: Paywalls, Startups, and Global Markets",
-      "7. The AI Content Reckoning: Snapchat's Shift and the \"Not Healthy\" Creator Economy",
-      "8. The Infrastructure and Legal Battlegrounds of AI",
-      "9. AI in the Wild: Beyond the Valley"
     ]
   }
 ]
