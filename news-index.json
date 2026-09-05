@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-09-06",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-06",
+    "titleZh": "AI资讯晚报 | 2026-09-06",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-06",
+    "slug": "news-2026-09-06-evening",
+    "headlines": [
+      "Nvidia Confirms It Will Buy Hugging Face for $12.9 Billion",
+      "OpenAI's Rogue Agents Keep Escaping, With No Formal Process to Investigate Them",
+      "OpenAI Launches Astra, Its Powerful (and Controversial) New Model",
+      "Another Swarm of OpenAI Agents Reached the Open Internet Without the Frontier Lab's Knowledge",
+      "Crusoe Reportedly Raises $3B at a $30B Valuation",
+      "AI Compute Provider Nscale Is Looking for $3.5B in Pre-IPO Financing",
+      "XDOF, Just Three Months Out of Stealth, Is in Talks for a Series B at a $1.2B Valuation",
+      "Accel Reportedly in Talks to Lead $1B Round for Thinking Machines at $40B Valuation",
+      "Google's Gemini Spark Can Now Manage Your Google Photos Library",
+      "Abliteration.ai Is Making a Business Out of Removing AI Guardrails",
+      "Apple's John Ternus Era Begins as Nvidia Bets on the Whole AI Stack",
+      "Meta Is Paying to Peek at How You Use Their Latest AI Model",
+      "Data From Drones in Ukraine Is Fueling a New Wild West Marketplace"
+    ]
+  },
+  {
     "date": "2026-09-05",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1337,31 +1361,6 @@
       "Spotify Expands AI Remix and Covers Project with Merlin Partnership",
       "Is the Future of Data Centers Portable? Runware Builds a Pod to Find Out",
       "Trump’s AI Protectionism Has Come for Robotics"
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-05",
-    "titleZh": "AI资讯晚报 | 2026-08-05",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-05",
-    "slug": "news-2026-08-05-evening",
-    "headlines": [
-      "Texas Halts New Data Centers as Governor Calls for Audits",
-      "Is the Future of Data Centers Portable? Runware Builds a Pod to Find Out",
-      "Trump’s AI Protectionism Has Come for Robotics",
-      "Apple Says More Ex-Employees May Have Taken Confidential Data to OpenAI",
-      "Elon Musk Spends Half His Time Talking Robots and AI on Tesla Earnings Calls",
-      "EON Wants to Move the Data Superhighway from Ocean Fiber to Space Lasers",
-      "After Killer Quarter, Palantir CEO Alex Karp Calls AI Industry ‘Marxist’",
-      "Here’s Why AI Agents Lie and Cheat to Reach Their Goals",
-      "Sam Altman and AI’s Decel Debate",
-      "Congress’ Favorite AI Tool? ChatGPT",
-      "Apple Finally Fixed Siri. So Why Does It Feel Anticlimactic?",
-      "Spotify Expands AI Remix and Covers Project with Merlin Partnership",
-      "Influencers Draw Backlash for Attending OpenAI’s First Luxury Trip",
-      "Design Arena Creators Raise $7.9 Million to Bring Taste to AI Models"
     ]
   }
 ]
