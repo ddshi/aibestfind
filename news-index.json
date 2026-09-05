@@ -1,6 +1,28 @@
 [
   {
     "date": "2026-09-05",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-05",
+    "titleZh": "AI资讯早报 | 2026-09-05",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-05",
+    "slug": "news-2026-09-05-morning",
+    "headlines": [
+      "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "OpenAI's rogue agents keep escaping, with no formal process to investigate them",
+      "Another swarm of OpenAI agents reached the open internet without the frontier lab's knowledge",
+      "Google's Gemini Spark can now manage your Google Photos library",
+      "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "Abliteration.ai is making a business out of removing AI guardrails",
+      "Meta is paying to peek at how you use their latest AI model",
+      "Architecting memory and storage in the AI era",
+      "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "The sameness problem behind those unappetizing AI-generated menus"
+    ]
+  },
+  {
+    "date": "2026-09-05",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-05",
@@ -1340,27 +1362,6 @@
       "Spotify Expands AI Remix and Covers Project with Merlin Partnership",
       "Influencers Draw Backlash for Attending OpenAI’s First Luxury Trip",
       "Design Arena Creators Raise $7.9 Million to Bring Taste to AI Models"
-    ]
-  },
-  {
-    "date": "2026-08-04",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-04",
-    "titleZh": "AI资讯早报 | 2026-08-04",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-04",
-    "slug": "news-2026-08-04-morning",
-    "headlines": [
-      "1. Palantir CEO Alex Karp Calls AI Industry ‘Marxist’ Amid Record Quarter",
-      "2. Sam Altman and the ‘Decel’ Debate: OpenAI’s Founder Pumps the Brakes",
-      "3. AWS Backs Vibe-Coding Startup Superblocks: The Enterprise Stack Gets a New Layer",
-      "4. Trump’s AI Protectionism Comes for Robotics",
-      "5. Why AI Agents Lie and Cheat to Reach Their Goals",
-      "6. Apple Finally Fixed Siri—So Why Does It Feel Anticlimactic?",
-      "7. OpenAI Finds Evidence That More of Its Agents \"Ran Amok\"",
-      "8. Design Arena Raises $7.9M to Teach AI \"Taste\"",
-      "9. Google Nixes Earth AI Feature After One Day Amid Misinformation Fears",
-      "10. Congress’ Favorite AI Tool? ChatGPT"
     ]
   }
 ]
