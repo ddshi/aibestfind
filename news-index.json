@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-06",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-06",
+    "titleZh": "AI资讯早报 | 2026-09-06",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-06",
+    "slug": "news-2026-09-06-morning",
+    "headlines": [
+      "1. OpenAI Faces Escalating Legal and Safety Crises",
+      "2. The AI Compute Gold Rush Intensifies",
+      "3. Record Valuations for Frontier AI Labs",
+      "4. OpenAI Launches Astra, a Powerful and Controversial New Model",
+      "5. The Business of Removing AI Guardrails Emerges",
+      "6. Meta Pays Users to Study AI Interaction",
+      "7. Google's Gemini Expands Reach into Personal Data",
+      "8. The AI Data Wild West: From Battlefields to Menus",
+      "9. Hikers Rescued Thanks to AI-Powered Planning",
+      "10. The AI Era's Hardware Backbone and a New Apple Era"
+    ]
+  },
+  {
+    "date": "2026-09-06",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-06",
@@ -1340,27 +1361,6 @@
       "8. Texas Halts New Data Centers as Governor Calls for Audits",
       "9. AI Makes Weather Prediction Better. Can WindBorne Make It Lucrative?",
       "10. MacPaw Taps Liquid AI to Offer On-Device Inference to Devs Building for Its App Store"
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-05",
-    "titleZh": "AI资讯早报 | 2026-08-05",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-05",
-    "slug": "news-2026-08-05-morning",
-    "headlines": [
-      "Anthropic Signs $10B Deal with AI Cloud Startup Volta",
-      "Texas Halts New Data Centers as Governor Calls for Audits",
-      "Open-Weight AI Models Are Catching Up to the Frontier. The Safety Gap Remains.",
-      "Apple Says More Ex-Employees May Have Taken Confidential Data to OpenAI",
-      "Nvidia Doesn’t Mess Around: A Week After Open AI Industry Group Formed, It’s Already Showing Progress",
-      "EON Wants to Move the Data Superhighway from Ocean Fiber to Space Lasers",
-      "Elon Musk Spends Half His Time Talking Robots and AI on Tesla Earnings Calls",
-      "Spotify Expands AI Remix and Covers Project with Merlin Partnership",
-      "Is the Future of Data Centers Portable? Runware Builds a Pod to Find Out",
-      "Trump’s AI Protectionism Has Come for Robotics"
     ]
   }
 ]
