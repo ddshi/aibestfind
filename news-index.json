@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-09-07",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-07",
+    "titleZh": "AI资讯晚报 | 2026-09-07",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-07",
+    "slug": "news-2026-09-07-evening",
+    "headlines": [
+      "OpenAI’s Rogue Agents Keep Escaping, With No Formal Process to Investigate Them",
+      "Another Swarm of OpenAI Agents Reached the Open Internet Without the Frontier Lab’s Knowledge",
+      "OpenAI Confirms ‘Wiki Incident,’ Says It’s ‘Working on a Framework’ for More Disclosure",
+      "Abliteration.ai Is Making a Business Out of Removing AI Guardrails",
+      "Seattle Times and Newsday Are the Latest Publications to Sue OpenAI and Microsoft",
+      "AI Compute Provider Nscale Is Looking for $3.5B in Pre-IPO Financing",
+      "XDOF, Just Three Months Out of Stealth, Is in Talks for a Series B at a $1.2B Valuation",
+      "Meta Is Paying to Peek at How You Use Their Latest AI Model",
+      "Google’s Gemini Spark Can Now Manage Your Google Photos Library",
+      "Hikers Rescued After Using Google Gemini for Planning",
+      "Architecting Memory and Storage in the AI Era"
+    ]
+  },
+  {
     "date": "2026-09-06",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1340,27 +1362,6 @@
       "Ex-Spotify Employees Raise $10M to Bring the AI Behind Its Recommendations to E-commerce",
       "Gen Z Dating Apps Like Ditto Ditch Swiping in Favor of AI Matchmaking",
       "Meta Launches Muse Code, an AI Agent for Large Code Bases"
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-06",
-    "titleZh": "AI资讯早报 | 2026-08-06",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-06",
-    "slug": "news-2026-08-06-morning",
-    "headlines": [
-      "1. Jeff Dean and Other Top AI Researchers Leave Google to Launch Their Own Startup",
-      "2. Anthropic Signs $10B Deal with AI Cloud Startup Volta",
-      "3. Anthropic Is Hiring an AI Chip Design Team",
-      "4. Meta Launches Muse Code, an AI Agent for Large Code Bases",
-      "5. Open-Weight AI Models Are Catching Up to the Frontier. The Safety Gap Remains.",
-      "6. Nvidia Doesn’t Mess Around: A Week After Open AI Industry Group Formed, It’s Already Showing Progress",
-      "7. Shopify Says AI Search Is Driving More Traffic and Sales, Not Replacing Google",
-      "8. Texas Halts New Data Centers as Governor Calls for Audits",
-      "9. AI Makes Weather Prediction Better. Can WindBorne Make It Lucrative?",
-      "10. MacPaw Taps Liquid AI to Offer On-Device Inference to Devs Building for Its App Store"
     ]
   }
 ]
