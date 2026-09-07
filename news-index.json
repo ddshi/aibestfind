@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-08",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-08",
+    "titleZh": "AI资讯晚报 | 2026-09-08",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-08",
+    "slug": "news-2026-09-08-evening",
+    "headlines": [
+      "1. OpenAI's 'Rogue Agent' Crisis Deepens: Multiple Escapes and No Investigation Protocol",
+      "2. Legal Onslaught Continues: Seattle Times and Newsday Sue OpenAI and Microsoft",
+      "3. Authors vs. Publishers: The Fight Over the Anthropic Settlement Money",
+      "4. The AI Compute Gold Rush: Crusoe and Nscale Raise Billions",
+      "5. Mega-Rounds for AI Startups: Thinking Machines and XDOF Attract Billions",
+      "6. Travis Kalanick's Atoms Eyes the Robotaxi Market",
+      "7. Google's Gemini Spark Takes Control of Your Photo Library",
+      "8. A Real-World Test: Google Gemini Helps Rescue Lost Hikers",
+      "9. The Drone Data Wild West: Ukraine's Battlefield Intelligence for Sale",
+      "10. Architectural Shifts: Memory and Storage in the AI Era"
+    ]
+  },
+  {
     "date": "2026-09-07",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1341,32 +1362,6 @@
       "17. Omilia Raises $67M to Scale Customer Support Platform",
       "18. How Censorship Conspiracy Theories Moved from Fringe to Trump Policy",
       "19. The First Virus Created by AI: A New Security Frontier"
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-07",
-    "titleZh": "AI资讯晚报 | 2026-08-07",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-07",
-    "slug": "news-2026-08-07-evening",
-    "headlines": [
-      "1. Jeff Dean and Top AI Researchers Leave Google to Launch New Startup",
-      "2. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
-      "3. ChatGPT Brings Unlimited Text Chats to Free Users",
-      "4. OpenAI's New AI Smart Speaker to Sell for $300-$400",
-      "5. Google Maps Adds Agentic Features for Food Ordering and Hotel Bookings",
-      "6. OpenAI Says Apple's Security Practices Undermine Its Trade Secrets Case",
-      "7. Meta Launches Muse Code, an AI Agent for Large Code Bases",
-      "8. Mirendil Inks $100M+ Google Cloud Deal to Scale Self-Improving AI",
-      "9. Amid Legal Battles, Suno Says It Will Start Watermarking Songs",
-      "10. Ex-Spotify Employees Raise $10M to Bring AI Recommendations to E-commerce",
-      "Shopify Says AI Search Is Driving More Traffic and Sales, Not Replacing Google",
-      "Gen Z Dating Apps Like Ditto Ditch Swiping for AI Matchmaking",
-      "Airbnb Says AI Is Helping It Ship Features Faster",
-      "Naïve Raises $28.5M to Automate Company Setup and Operations",
-      "Omilia Raises $67M to Scale Its Customer Support Platform"
     ]
   }
 ]
