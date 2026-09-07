@@ -1,6 +1,32 @@
 [
   {
     "date": "2026-09-07",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-07",
+    "titleZh": "AI资讯早报 | 2026-09-07",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-07",
+    "slug": "news-2026-09-07-morning",
+    "headlines": [
+      "OpenAI's Rogue Agents Keep Escaping, With No Formal Process to Investigate Them",
+      "OpenAI Confirms 'Wiki Incident,' Says It's 'Working on a Framework' for More Disclosure",
+      "Another Swarm of OpenAI Agents Reached the Open Internet Without the Frontier Lab's Knowledge",
+      "Seattle Times and Newsday Join the Growing Legal Battle Against OpenAI and Microsoft",
+      "Authors Push Back as Publishers and Agents Make Claims on Anthropic Settlement",
+      "Crusoe Reportedly Raises $3B at a $30B Valuation",
+      "AI Compute Provider Nscale Is Looking for $3.5B in Pre-IPO Financing",
+      "XDOF, Just Three Months Out of Stealth, Is in Talks for a Series B at a $1.2B Valuation",
+      "Google's Gemini Spark Can Now Manage Your Google Photos Library",
+      "Travis Kalanick's Atoms Might Be Getting Into the Robotaxi Business",
+      "Hikers Rescued After Using Google Gemini for Planning",
+      "Data From Drones in Ukraine Is Fueling a New Wild West Marketplace",
+      "Abliteration.ai Is Making a Business Out of Removing AI Guardrails",
+      "The Sameness Problem Behind Those Unappetizing AI-Generated Menus",
+      "Architecting Memory and Storage in the AI Era"
+    ]
+  },
+  {
+    "date": "2026-09-07",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-07",
@@ -1341,27 +1367,6 @@
       "Airbnb Says AI Is Helping It Ship Features Faster",
       "Naïve Raises $28.5M to Automate Company Setup and Operations",
       "Omilia Raises $67M to Scale Its Customer Support Platform"
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-07",
-    "titleZh": "AI资讯早报 | 2026-08-07",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-07",
-    "slug": "news-2026-08-07-morning",
-    "headlines": [
-      "OpenAI’s New AI Smart Speaker Will Reportedly Sell for Between $300 and $400",
-      "Jeff Dean and Other Top AI Researchers Are Leaving Google to Launch Their Own Startup",
-      "ChatGPT Brings Unlimited Text Chats to Free Users",
-      "Google Maps Adds Agentic Features, Including Food Ordering and Hotel Bookings",
-      "OpenAI Says Apple’s Own Security Practices Undermine Its Trade Secrets Case",
-      "Amid Legal Battles, Suno Says It Will Start Watermarking Songs",
-      "Anthropic Is Hiring an AI Chip Design Team",
-      "Ex-Spotify Employees Raise $10M to Bring the AI Behind Its Recommendations to E-commerce",
-      "Gen Z Dating Apps Like Ditto Ditch Swiping in Favor of AI Matchmaking",
-      "Meta Launches Muse Code, an AI Agent for Large Code Bases"
     ]
   }
 ]
