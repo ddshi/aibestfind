@@ -1,6 +1,25 @@
 [
   {
     "date": "2026-09-08",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-08",
+    "titleZh": "AI资讯早报 | 2026-09-08",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-08",
+    "slug": "news-2026-09-08-morning",
+    "headlines": [
+      "1. OpenAI's Rogue Agents: A Systemic Failure of Oversight",
+      "2. The Publishing World's Legal War on AI Intensifies",
+      "3. The Infrastructure Gold Rush: Billions Pour into AI Compute",
+      "4. New Frontiers: Robotaxis and the Evolution of AI Assistants",
+      "5. Beyond the Hype: Practical Applications and Ethical Dilemmas",
+      "6. The AI Glossary and the Aesthetics of AI",
+      "7. The \"Ternus Era\" Begins at Apple",
+      "8. The Download: A Weekly Roundup"
+    ]
+  },
+  {
+    "date": "2026-09-08",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-08",
@@ -1332,36 +1351,6 @@
       "8. OpenAI Says Apple's Own Security Practices Undermine Its Trade Secrets Case",
       "9. Amid Legal Battles, Suno Says It Will Start Watermarking Songs",
       "10. Mirendil Inks $100M+ Google Cloud Deal to Scale Self-Improving AI"
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-08",
-    "titleZh": "AI资讯早报 | 2026-08-08",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-08",
-    "slug": "news-2026-08-08-morning",
-    "headlines": [
-      "1. OpenAI Slows Astra Model Development Over Security Concerns",
-      "2. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
-      "3. Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
-      "4. OpenAI's New AI Smart Speaker to Sell for $300–$400",
-      "5. OpenAI Says Apple's Security Practices Undermine Its Trade Secrets Case",
-      "6. Google Maps Adds Agentic Features: Food Ordering and Hotel Bookings",
-      "7. Suno Says It Will Start Watermarking Songs Amid Legal Battles",
-      "8. Meta Launches Muse Code, an AI Agent for Large Code Bases",
-      "9. Airbnb Says AI Is Helping It Ship Features Faster",
-      "10. ChatGPT Brings Unlimited Text Chats to Free Users",
-      "11. Mirendil Inks $100M+ Google Cloud Deal to Scale Self-Improving AI",
-      "12. Naïve Raises $28.5M to Automate Company Setup and Operations",
-      "13. Ex-Spotify Employees Raise $10M to Bring Recommender AI to E-Commerce",
-      "14. Rippling Builds Employee AI ROI Tool After \"Blewing Millions\" on AI",
-      "15. Jill Lepore on the 'Artificial State' and Silicon Valley's Sci-Fi Blindspot",
-      "16. Gen Z Dating Apps Like Ditto Ditch Swiping for AI Matchmaking",
-      "17. Omilia Raises $67M to Scale Customer Support Platform",
-      "18. How Censorship Conspiracy Theories Moved from Fringe to Trump Policy",
-      "19. The First Virus Created by AI: A New Security Frontier"
     ]
   }
 ]
