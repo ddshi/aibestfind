@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-09-09",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-09",
+    "titleZh": "AI资讯晚报 | 2026-09-09",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-09",
+    "slug": "news-2026-09-09-evening",
+    "headlines": [
+      "Mistral raises €3B as sovereign AI becomes big business",
+      "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "This founder is teaching chips how to recycle (their energy)",
+      "This founder is making cheaper, cleaner steel"
+    ]
+  },
+  {
     "date": "2026-09-08",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1330,27 +1353,6 @@
       "8. Google Maps Adds Agentic Features, Including Food Ordering and Hotel Bookings",
       "9. Amid Legal Battles, Suno Says It Will Start Watermarking Songs",
       "10. Exclusive: Mirendil Inks $100M+ Google Cloud Deal to Scale Self-Improving AI"
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-08",
-    "titleZh": "AI资讯晚报 | 2026-08-08",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-08",
-    "slug": "news-2026-08-08-evening",
-    "headlines": [
-      "1. OpenAI Slows Astra Model Development Over Security Concerns",
-      "2. Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
-      "3. OpenAI's New AI Smart Speaker to Sell for $300-$400",
-      "4. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
-      "5. ChatGPT Brings Unlimited Text Chats to Free Users",
-      "6. Google Maps Adds Agentic Features, Including Food Ordering and Hotel Bookings",
-      "7. The First Virus Created by AI: A New Era of Cyber Threats",
-      "8. OpenAI Says Apple's Own Security Practices Undermine Its Trade Secrets Case",
-      "9. Amid Legal Battles, Suno Says It Will Start Watermarking Songs",
-      "10. Mirendil Inks $100M+ Google Cloud Deal to Scale Self-Improving AI"
     ]
   }
 ]
