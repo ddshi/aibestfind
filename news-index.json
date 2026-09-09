@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-09",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-09",
+    "titleZh": "AI资讯早报 | 2026-09-09",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-09",
+    "slug": "news-2026-09-09-morning",
+    "headlines": [
+      "1. Mistral Raises €3B as Sovereign AI Becomes Big Business",
+      "2. Cognition Hits $48B Valuation, Signaling Investors Believe AI Coding is Far From a Winner-Take-All Market",
+      "3. OpenAI Fought Dirty on Career-Making Math Problem, Says NYU Mathematician",
+      "4. Hackers Are Stealing Claude Tokens from Subscribers",
+      "5. Google Cloud Races to Catch Up in the AI Deployment Wars with Accenture Deal",
+      "6. Meta Debuts Its Muse AI Agent. Will Consumers Trust It?",
+      "7. OpenAI Confirms 'Wiki Incident,' Says It's 'Working on a Framework' for More Disclosure",
+      "8. Chrome Is Now Shipping Updates Every 2 Weeks as AI Changes the Security Landscape",
+      "9. Seattle Times and Newsday Are the Latest Publications to Sue OpenAI and Microsoft",
+      "10. Authors Push Back as Publishers and Agents Make Claims on Anthropic Settlement"
+    ]
+  },
+  {
+    "date": "2026-09-09",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-09",
@@ -1332,27 +1353,6 @@
       "8. ChatGPT Brings Unlimited Text Chats to Free Users",
       "9. After Rippling Blew Millions on AI in Months, It Built an Employee ROI Tool",
       "10. Amid Legal Battles, Suno Says It Will Start Watermarking Songs"
-    ]
-  },
-  {
-    "date": "2026-08-09",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-09",
-    "titleZh": "AI资讯早报 | 2026-08-09",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-09",
-    "slug": "news-2026-08-09-morning",
-    "headlines": [
-      "1. Planned Amazon Data Center Could Become the Biggest Climate Polluter in the U.S.",
-      "2. OpenAI Says It Slowed Astra Model Development Over Security Concerns",
-      "3. OpenAI Acquires Presentation Startup NextSlide",
-      "4. Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
-      "5. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
-      "6. After Rippling Blew Millions on AI in Months, It Built an Employee ROI Tool",
-      "7. OpenAI's New AI Smart Speaker Will Reportedly Sell for Between $300 and $400",
-      "8. Google Maps Adds Agentic Features, Including Food Ordering and Hotel Bookings",
-      "9. Amid Legal Battles, Suno Says It Will Start Watermarking Songs",
-      "10. Exclusive: Mirendil Inks $100M+ Google Cloud Deal to Scale Self-Improving AI"
     ]
   }
 ]
