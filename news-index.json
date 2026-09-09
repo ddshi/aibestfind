@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-10",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-10",
+    "titleZh": "AI资讯晚报 | 2026-09-10",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-10",
+    "slug": "news-2026-09-10-evening",
+    "headlines": [
+      "The Superintelligence Debate Intensifies",
+      "Anthropic Researcher Quits, Warns Against Self-Improving AI",
+      "ControlAI’s Connor Leahy on Why Superintelligence is ‘Not a Weapon, It’s an Adversary’",
+      "AI Assistants Move In on Everyday Life",
+      "Meta Debuts Its Muse AI Agent. Will Consumers Trust It?",
+      "Instacart Launches an AI Grocery Shopping Assistant Called Clementine",
+      "Shipt Becomes the Latest Delivery App with an AI Shopping Assistant",
+      "Enterprise AI: Security, Spending, and Deployment",
+      "Sequoia Doubles Down on Cymphony as AI Agents Create New Enterprise Security Risks",
+      "Google Cloud Races to Catch Up in the AI Deployment Wars with Accenture Deal",
+      "AI Spend Per Employee Slumped at Top Firms in August — Summer Doldrums or a Warning Sign?",
+      "Security Threats and Legal Battles",
+      "Hackers Are Stealing Claude Tokens from Subscribers",
+      "Suno Replaces Its AI Models with a New One Trained on Licensed Music as Copyright Suits Pile Up",
+      "AI's Expanding Frontier",
+      "Cognition Hits $48B Valuation, Signaling Investors Believe AI Coding is Far from a Winner-Take-All Market",
+      "Chrome is Now Shipping Updates Every 2 Weeks as AI Changes the Security Landscape"
+    ]
+  },
+  {
     "date": "2026-09-09",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1332,27 +1360,6 @@
       "8. After Rippling Blew Millions on AI in Months, It Built an Employee ROI Tool",
       "9. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
       "10. OpenAI's New AI Smart Speaker Will Reportedly Sell for Between $300 and $400"
-    ]
-  },
-  {
-    "date": "2026-08-09",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-09",
-    "titleZh": "AI资讯晚报 | 2026-08-09",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-09",
-    "slug": "news-2026-08-09-evening",
-    "headlines": [
-      "1. Planned Amazon Data Center Could Become the Biggest Climate Polluter in the U.S.",
-      "2. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
-      "3. OpenAI Says It Slowed Astra Model Development Over Security Concerns",
-      "4. Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
-      "5. OpenAI Acquires Presentation Startup NextSlide",
-      "6. OpenAI’s New AI Smart Speaker Will Reportedly Sell for Between $300 and $400",
-      "7. Google Maps Adds Agentic Features, Including Food Ordering and Hotel Bookings",
-      "8. ChatGPT Brings Unlimited Text Chats to Free Users",
-      "9. After Rippling Blew Millions on AI in Months, It Built an Employee ROI Tool",
-      "10. Amid Legal Battles, Suno Says It Will Start Watermarking Songs"
     ]
   }
 ]
