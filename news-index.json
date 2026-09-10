@@ -1,6 +1,31 @@
 [
   {
     "date": "2026-09-10",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-10",
+    "titleZh": "AI资讯早报 | 2026-09-10",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-10",
+    "slug": "news-2026-09-10-morning",
+    "headlines": [
+      "1. OpenAI Adds a Prominent AI Doomer to Its Board of Directors",
+      "2. Anthropic Researcher Quits, Warns Against Self-Improving AI: 'Gambling with Our Lives'",
+      "3. Apple Watch's Always-Listening AI Features Are Normalizing Ambient Surveillance",
+      "4. Everything Apple Announced at Its Fall Event: Foldable iPhone Duo, Always-Listening Watch, and More",
+      "5. Apple CEO John Ternus Says the Best AI Device Is Still the iPhone",
+      "6. Suno Replaces Its AI Models with Licensed Music Training as Copyright Suits Pile Up",
+      "7. AI Spend Per Employee Slumped at Top Firms in August—Summer Doldrums or Warning Sign?",
+      "8. Massachusetts Hits Data Centers with New Clean Power Rules",
+      "9. Instacart Launches AI Grocery Assistant 'Clementine' as Delivery Apps Race to Add AI",
+      "10. Listen Labs Scrubbed a $1.5B Funding Round for Salesforce Talks",
+      "11. ControlAI's Connor Leahy: Superintelligence Is 'Not a Weapon, It's an Adversary'",
+      "12. Sequoia Doubles Down on Cymphony as AI Agents Create New Enterprise Security Risks",
+      "13. Besxar Is Building an Orbital Semiconductor Factory, One SpaceX Rocket at a Time",
+      "14. Viral AI Assistant Instinct Now Has Its Own Email Address"
+    ]
+  },
+  {
+    "date": "2026-09-10",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-10",
@@ -1339,27 +1364,6 @@
       "New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
       "OpenAI's New AI Smart Speaker Will Reportedly Sell for Between $300 and $400",
       "ChatGPT Brings Unlimited Text Chats to Free Users"
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-10",
-    "titleZh": "AI资讯早报 | 2026-08-10",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-10",
-    "slug": "news-2026-08-10-morning",
-    "headlines": [
-      "1. Anthropic Turns Claude Code's Auto Mode On by Default",
-      "2. Planned Amazon Data Center Could Become the Biggest Climate Polluter in the U.S.",
-      "3. Historian Jill Lepore Says Silicon Valley Misreads Science Fiction and Undermines Democracy",
-      "4. The AI Safety Test Is Becoming a Safety Risk",
-      "5. OpenAI Acquires Presentation Startup NextSlide",
-      "6. OpenAI Says It Slowed Astra Model Development Over Security Concerns",
-      "7. Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
-      "8. After Rippling Blew Millions on AI in Months, It Built an Employee ROI Tool",
-      "9. New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
-      "10. OpenAI's New AI Smart Speaker Will Reportedly Sell for Between $300 and $400"
     ]
   }
 ]
