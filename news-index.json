@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-11",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-11",
+    "titleZh": "AI资讯晚报 | 2026-09-11",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-11",
+    "slug": "news-2026-09-11-evening",
+    "headlines": [
+      "1. AI Agents Are Flooding Public Services with New Requests",
+      "2. OpenAI Adds a Prominent AI Doomer to Its Board of Directors",
+      "3. Massachusetts Hits Data Centers with New Clean Power Rules",
+      "4. Apple Watch's New AI Features Are Normalizing Always-Listening Tech",
+      "5. AI Research Startup Listen Labs Scrubbed a $1.5B Funding Round for Salesforce Talks",
+      "6. Powering AI Is an Architecture Problem",
+      "7. Healthcare AI's Next Test Is Integration",
+      "8. Apple Has a New Way to Prove Your iPhone Photos Aren't AI Slop",
+      "9. Maven Robotics Wants to Steal Your Robot Deployment Deal",
+      "10. Superintelligence Is Coming. Should We Let It?"
+    ]
+  },
+  {
     "date": "2026-09-10",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1338,32 +1359,6 @@
       "After Rippling Blew Millions on AI in Months, It Built an Employee ROI Tool",
       "These Startups Are Chasing the Next Big Thing in LLMs",
       "OpenAI Acquires Presentation Startup NextSlide"
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-10",
-    "titleZh": "AI资讯晚报 | 2026-08-10",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-10",
-    "slug": "news-2026-08-10-evening",
-    "headlines": [
-      "Anthropic Turns Claude Code's Auto Mode On by Default",
-      "AI for Science Needs Reasoning, Not Just Data",
-      "These Startups Are Chasing the Next Big Thing in LLMs",
-      "Embattled Hedge Fund Invests $400M in Chip Startup Source Foundry",
-      "OpenAI Acquires Presentation Startup NextSlide",
-      "Planned Amazon Data Center Could Become the Biggest Climate Polluter in the U.S.",
-      "The AI Safety Test Is Becoming a Safety Risk",
-      "Discovered Materials Is Playing AI Whack-a-Mole to Hunt Cooler Chips",
-      "Historian Jill Lepore Says Silicon Valley Misreads Science Fiction and Undermines Democracy",
-      "OpenAI Says It Slowed Astra Model Development Over Security Concerns",
-      "Cloudflare Launches Kitesurf, a Browser Built for AI Agents",
-      "Airbnb Says AI Is Helping It Ship Features Faster as It Tests a New Search Function",
-      "New Mexico Court Orders Meta to Pay Additional $567M in Child Safety Case",
-      "OpenAI's New AI Smart Speaker Will Reportedly Sell for Between $300 and $400",
-      "ChatGPT Brings Unlimited Text Chats to Free Users"
     ]
   }
 ]
