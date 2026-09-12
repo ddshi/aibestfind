@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-12",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-12",
+    "titleZh": "AI资讯早报 | 2026-09-12",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-12",
+    "slug": "news-2026-09-12-morning",
+    "headlines": [
+      "1. Mecka AI Nears $500M Valuation in Sequoia-Led Deal Amid Robot Training Data Rush",
+      "2. Anthropic Details Distillation Campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "3. Y Combinator’s Garry Tan Wants U.S. Open-Weight AI Labs to ‘Distill’ Frontier Models, Too",
+      "4. OpenAI Puts Pro Subscriptions on Hold Due to Astra Demand",
+      "5. Meta’s AI Agent Muse Is Now the No. 2 App in the U.S.",
+      "6. Kimi-Maker Moonshot AI Targets $2B in Annual Revenue",
+      "7. Nscale Adds Former OpenAI Exec Fidji Simo to Board Ahead of Potential IPO",
+      "8. OpenAI’s Feud with Mathematicians Is Only Escalating",
+      "9. An Anthropic Researcher’s Doomsday Warning Comes at a Very Interesting Time",
+      "10. Jensen Huang Explains Why Nvidia Will Grow an Astounding 70% Next Year"
+    ]
+  },
+  {
+    "date": "2026-09-12",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-12",
@@ -1327,26 +1348,6 @@
       "How the \"Censorship-Industrial Complex\" Is Changing the Internet and US Policy",
       "Spotify Will Label 'AI Persona' Profiles and Exclude Their Music from Recommendations",
       "AI Professors Are Negotiating the New Realities of Academic Research"
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-12",
-    "titleZh": "AI资讯早报 | 2026-08-12",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-12",
-    "slug": "news-2026-08-12-morning",
-    "headlines": [
-      "OpenAI's Brad Lightcap Departs, Tender Offer Closes",
-      "Google's Gemini App Hits 1 Billion Users",
-      "Anthropic Model Tackles Unsolved Math Problem and Announces Watermarking",
-      "River AI Secures $1.1B in Record Time for a Two-Month-Old Startup",
-      "OpenAI Launches Cyber Model and Linux Desktop App",
-      "Spotify to Label and De-prioritize 'AI Persona' Profiles",
-      "The \"Censorship-Industrial Complex\" and AI Academic Shifts",
-      "Meta's 'Glimmer' Model Offers a Glimpse into Zuckerberg's AI Vision",
-      "The Next Big Thing in LLMs and AI for Science"
     ]
   }
 ]
