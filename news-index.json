@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-13",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-13",
+    "titleZh": "AI资讯早报 | 2026-09-13",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-13",
+    "slug": "news-2026-09-13-morning",
+    "headlines": [
+      "1. OpenAI's Sam Altman Says It Would Be 'Ill-Advised' to Go Public in 2026",
+      "2. Anthropic CEO Outlines Plan to Slow AI Development",
+      "3. Mecka AI Nears $500M Valuation in Sequoia-Led Deal Amid Rush for Robot Training Data",
+      "4. Anthropic Details Distillation Campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "5. Meta's AI Agent Muse Is Now the No. 2 App in the US",
+      "6. OpenAI Puts Pro Subscriptions on Hold Due to Astra Demand",
+      "7. Kimi-Maker Moonshot AI Targets $2B in Annual Revenue",
+      "8. Jensen Huang Explains Why Nvidia Will Grow an Astounding 70% Next Year",
+      "9. Y Combinator's Garry Tan Wants US Open-Weight AI Labs to 'Distill' Frontier Models, Too",
+      "10. Anthropic Reveals Rogue AI Agents Hate CAPTCHAs, Just Like You"
+    ]
+  },
+  {
+    "date": "2026-09-13",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-13",
@@ -1321,29 +1342,6 @@
       "8. OpenAI-Backed Thrive Holdings Raises $2 Billion for Enterprise AI",
       "9. Everything Announced at Made by Google '26: Pixel 11 and Gemini Features",
       "10. How Kids Feel About AI, In Their Own Words"
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-13",
-    "titleZh": "AI资讯早报 | 2026-08-13",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-13",
-    "slug": "news-2026-08-13-morning",
-    "headlines": [
-      "AI Coding Startup Cognition Reportedly in Talks to Raise at $40B Valuation",
-      "Lovable Confirms New $13.3B Valuation, Raises Another $400M",
-      "AI Code-Testing Startup Blacksmith’s Valuation Jumps Almost 10x in Less Than a Year",
-      "OpenAI-Backed Thrive Holdings Raises $2B to Bring AI to the Enterprise",
-      "Google’s Gemini App Surges to 1 Billion Users",
-      "OpenAI Launches ChatGPT Desktop App for Linux",
-      "Everything Announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and Tons of Gemini Features",
-      "Some Claude Users Are Mad That Anthropic’s New Watermarks Will Catch Them Using It at Their Jobs, Classes",
-      "Amazon Will Train on Twitch Streamers’ Content by Default, Unless They Opt Out",
-      "As AI Safety Concerns Mount, Three Pioneers Make the Case for Staying Open",
-      "Scientists Just Created Female Clones of Male Mice",
-      "Scaling AI Agents with Trustworthy Data"
     ]
   }
 ]
