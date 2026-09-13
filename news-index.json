@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-14",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-14",
+    "titleZh": "AI资讯晚报 | 2026-09-14",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-14",
+    "slug": "news-2026-09-14-evening",
+    "headlines": [
+      "1. Sam Altman: Going Public in 2026 Would Be 'Ill-Advised'",
+      "2. Anthropic CEO Outlines a Plan to Slow AI Development",
+      "3. Mecka AI Nears $500M Valuation in Sequoia-Led Deal",
+      "4. Y Combinator's Garry Tan Wants US Open-Weight Labs to 'Distill' Frontier Models Too",
+      "5. OpenAI's Feud With Mathematicians Is Only Escalating",
+      "6. Moonshot AI Targets $2B in Annual Revenue",
+      "7. Anthropic Researcher's Doomsday Warning Comes at a Very Interesting Time",
+      "8. Nscale Adds Former OpenAI Exec Fidji Simo to Its Board Ahead of Potential IPO",
+      "9. Jensen Huang Explains Why Nvidia Will Grow an Astounding 70% Next Year",
+      "10. Meta's AI Agent Muse Is Now the No. 2 App in the US"
+    ]
+  },
+  {
     "date": "2026-09-13",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1321,27 +1342,6 @@
       "8. Apple in Talks to License News Content for Siri's AI Overhaul",
       "9. Amazon to Train AI on Twitch Streamers' Content by Default",
       "10. Anthropic's Watermarking Feature Sparks User Backlash"
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-13",
-    "titleZh": "AI资讯晚报 | 2026-08-13",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-13",
-    "slug": "news-2026-08-13-evening",
-    "headlines": [
-      "1. Apple in Talks to Pay Publishers for Siri News Content",
-      "2. Cognition AI in Talks to Raise at a Staggering $40 Billion Valuation",
-      "3. Amazon to Train AI on Twitch Streamers' Content by Default",
-      "4. Flock Tightens Rules Amid Surveillance Backlash",
-      "5. AI Safety Pioneers Make the Case for Openness",
-      "6. Anthropic's New Watermarks Anger Claude Users",
-      "7. Lovable Confirms $13.3 Billion Valuation and Raises $400 Million",
-      "8. OpenAI-Backed Thrive Holdings Raises $2 Billion for Enterprise AI",
-      "9. Everything Announced at Made by Google '26: Pixel 11 and Gemini Features",
-      "10. How Kids Feel About AI, In Their Own Words"
     ]
   }
 ]
