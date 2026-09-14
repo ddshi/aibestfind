@@ -1,6 +1,28 @@
 [
   {
     "date": "2026-09-14",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-14",
+    "titleZh": "AI资讯早报 | 2026-09-14",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-14",
+    "slug": "news-2026-09-14-morning",
+    "headlines": [
+      "1. Anthropic CEO Outlines Plan to Slow AI Development",
+      "2. Sam Altman Says It Would Be 'Ill-Advised' to Go Public in 2026",
+      "3. What's Behind the AI Industry's Latest Warnings of Doom?",
+      "4. Anthropic Details Distillation Campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "5. Jensen Huang Explains Why Nvidia Will Grow an Astounding 70% Next Year",
+      "6. Mecka AI Nears $500M Valuation in Sequoia-Led Deal Amid Rush for Robot Training Data",
+      "7. Y Combinator's Garry Tan Wants US Open-Weight Labs to 'Distill' Frontier Models, Too",
+      "8. Meta's AI Agent Muse Is Now the No. 2 App in the US",
+      "9. Obama Urges Democrats to Have a 'Clear Plan' for AI Safeguards",
+      "10. Kimi-Maker Moonshot AI Targets $2B in Annual Revenue",
+      "Honorable Mentions"
+    ]
+  },
+  {
+    "date": "2026-09-14",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-14",
@@ -1321,27 +1343,6 @@
       "8. Writer Introduces New AI Model with Cost-Containment \"Harness\"",
       "9. Apple in Talks to Pay Publishers for Real-Time News for Siri",
       "10. Flock Tightens Rules Amid Surveillance Backlash"
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-14",
-    "titleZh": "AI资讯早报 | 2026-08-14",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-14",
-    "slug": "news-2026-08-14-morning",
-    "headlines": [
-      "1. OpenAI Introduces 'Ultrafast' Mode, Delivering 14x Speed Boost to GPT-5.6 Sol",
-      "2. Databricks' $5B Raise at $190B Valuation Highlights Insatiable AI Demand",
-      "3. Nvidia's $500B Plan: A Bold Bet on GPU Longevity and Infrastructure",
-      "4. IBM and OpenAI Forge Enterprise Partnership to Challenge Cloud Rivals",
-      "5. Anthropic's AI Agents Spark 'Turf War' When Given the Same Task",
-      "6. Microsoft Streamlines Copilot, Killing Off Unsuccessful AI Features",
-      "7. OpenAI Hires New CRO Amid Executive Shake-Up",
-      "8. Apple in Talks to License News Content for Siri's AI Overhaul",
-      "9. Amazon to Train AI on Twitch Streamers' Content by Default",
-      "10. Anthropic's Watermarking Feature Sparks User Backlash"
     ]
   }
 ]
