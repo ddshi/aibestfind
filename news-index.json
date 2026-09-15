@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-16",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-16",
+    "titleZh": "AI资讯晚报 | 2026-09-16",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-16",
+    "slug": "news-2026-09-16-evening",
+    "headlines": [
+      "1. OpenAI, Anthropic, and Google Have Been in Talks on AI Safety for Weeks",
+      "2. Salesforce and Nvidia's New Reasoning Model Is Everything the AI Labs Should Fear",
+      "3. Meta Expands Subscription Push with New AI-Focused Plans",
+      "4. Early Anthropic Hire and Former METR COO Have Found a Way to Rein In Rogue AI Agents",
+      "5. AI Agents Now Have a Place to Snitch",
+      "6. OpenAI Buys Smartphone Camera Maker Glass Imaging for $300 Million",
+      "7. AI Models Need More Data About Biology, and OpenAI Is Paying to Create It",
+      "8. The AI Industry Has Taken a Doomer Turn. What Now?",
+      "9. What's at Stake in AI's Trillion-Dollar Gamble",
+      "10. Microsoft's New AI 'Code of Conduct' Tells Models Not to Hack Systems or Trick Humans"
+    ]
+  },
+  {
     "date": "2026-09-15",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1319,30 +1340,6 @@
       "8. Hyperscalers Might Regret Embracing Natural Gas If New Forecast Proves Correct",
       "9. Writer Introduces New AI Model and Upgraded Harness to Contain Token Costs",
       "10. Apple in Talks to Pay Publishers to Provide Siri with Current News"
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-15",
-    "titleZh": "AI资讯早报 | 2026-08-15",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-15",
-    "slug": "news-2026-08-15-morning",
-    "headlines": [
-      "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "IBM partners with OpenAI to bolster enterprise AI push",
-      "Apple in talks to pay publishers to provide Siri with current news: report",
-      "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "Writer introduces new AI model and upgraded harness to contain token costs",
-      "Kog is going deeper to squeeze more inference out of GPUs",
-      "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "Google will now allow users to remove visible watermark from its AI generations",
-      "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "OpenAI hires new CRO as executive shake-up continues"
     ]
   }
 ]
