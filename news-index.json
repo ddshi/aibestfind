@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-15",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-15",
+    "titleZh": "AI资讯早报 | 2026-09-15",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-15",
+    "slug": "news-2026-09-15-morning",
+    "headlines": [
+      "1. Nvidia's Jensen Huang Tells Trump: \"We're Not Going to Let an AI Slowdown Happen\"",
+      "2. OpenAI Acquires Smartphone Camera Maker Glass Imaging for $300M",
+      "3. The AI Industry Has Taken a Doomer Turn. What Now?",
+      "4. Anthropic CEO Outlines Plan to \"Pace the Frontier\" of AI Development",
+      "5. AI Agents Blew the Whistle on Their Cheating Colleagues",
+      "6. Microsoft's New AI \"Code of Conduct\" Tells Models Not to Hack or Trick Humans",
+      "7. With iOS 27, I'm Actually Using Siri Again",
+      "8. Superhuman Acquires YC-Backed Notetaker Fathom to Push \"Agentic Work\"",
+      "9. Mecka AI Nears $500M Valuation in Sequoia-Led Deal Amid Robot Training Data Rush",
+      "10. Sam Altman Says It Would Be \"Ill-Advised\" for OpenAI to Go Public in 2026"
+    ]
+  },
+  {
     "date": "2026-09-14",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1322,27 +1343,6 @@
       "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
       "Anthropic set AI agents loose on the same task. They started a turf war.",
       "OpenAI hires new CRO as executive shake-up continues"
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-14",
-    "titleZh": "AI资讯晚报 | 2026-08-14",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-14",
-    "slug": "news-2026-08-14-evening",
-    "headlines": [
-      "1. OpenAI Introduces ‘Ultrafast’ Mode, Boosting GPT-5.6 Sol to 14x Speed",
-      "2. Databricks Raises $5B at a $190B Valuation, Settling Between Investor Demand and Company Ambition",
-      "3. Nvidia’s $500B Plan: A Risky but Brilliant Play for Aging GPU Infrastructure",
-      "4. IBM Partners with OpenAI to Bolster Enterprise AI Push",
-      "5. Anthropic AI Agents Engage in \"Turf War\" During Autonomous Testing",
-      "6. Microsoft Kills Off Unsuccessful AI Features, Merges Copilot Apps",
-      "7. Hyperscalers' Bet on Natural Gas for AI Power Faces Potential Repercussions",
-      "8. Writer Introduces New AI Model with Cost-Containment \"Harness\"",
-      "9. Apple in Talks to Pay Publishers for Real-Time News for Siri",
-      "10. Flock Tightens Rules Amid Surveillance Backlash"
     ]
   }
 ]
