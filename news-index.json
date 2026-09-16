@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-16",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-16",
+    "titleZh": "AI资讯早报 | 2026-09-16",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-16",
+    "slug": "news-2026-09-16-morning",
+    "headlines": [
+      "1. OpenAI, Anthropic, and Google Have Been in Talks on AI Safety for Weeks",
+      "2. Nvidia's Jensen Huang to Trump: \"We're Not Going to Let [an AI Slowdown] Happen\"",
+      "3. Salesforce and Nvidia's New Reasoning Model Is Everything the AI Labs Should Fear",
+      "4. US Data Centers Could Consume More Natural Gas Than Germany and Japan Combined by 2035",
+      "5. The AI Data Center Boom Is Colliding with Cities Scarred by Big Industry",
+      "6. What's at Stake in AI's Trillion-Dollar Gamble",
+      "7. Early Anthropic Hire and Former METR COO Have Found a Way to Rein in Rogue AI Agents",
+      "8. AI Agents Now Have a Place to Snitch",
+      "9. AEO Startup Profound Hits Unicorn Valuation with $180M Series D, Just 7 Months After Last Round",
+      "10. The AI Graveyard: A Running List of Projects and Startups That Didn't Make It"
+    ]
+  },
+  {
+    "date": "2026-09-16",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-16",
@@ -1319,27 +1340,6 @@
       "6. The Geopolitics and Ethics of AI: Censorship and Cloning",
       "7. The Infrastructure Race: GPUs, Natural Gas, and Cost Efficiency",
       "8. Market Movers: SpaceX-Cursor and Writer's Cost-Cutting Model"
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-15",
-    "titleZh": "AI资讯晚报 | 2026-08-15",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-15",
-    "slug": "news-2026-08-15-evening",
-    "headlines": [
-      "1. OpenAI Introduces 'Ultrafast' Mode, Making GPT-5.6 Sol Work at 14x the Speed",
-      "2. Nvidia's New $500B Plan Is Risky but Brilliant, Especially for Aging GPUs",
-      "3. Databricks Wanted to Raise $1B, Investors Wanted $15B. It Settled on $5B at a $190B Valuation.",
-      "4. IBM Partners with OpenAI to Bolster Enterprise AI Push",
-      "5. Microsoft Kills Off Unsuccessful AI Features While Merging Its Separate Copilot Apps",
-      "6. Anthropic Set AI Agents Loose on the Same Task. They Started a Turf War.",
-      "7. Google Will Now Allow Users to Remove Visible Watermark from Its AI Generations",
-      "8. Hyperscalers Might Regret Embracing Natural Gas If New Forecast Proves Correct",
-      "9. Writer Introduces New AI Model and Upgraded Harness to Contain Token Costs",
-      "10. Apple in Talks to Pay Publishers to Provide Siri with Current News"
     ]
   }
 ]
