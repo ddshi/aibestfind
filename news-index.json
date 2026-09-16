@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-17",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-17",
+    "titleZh": "AI资讯晚报 | 2026-09-17",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-17",
+    "slug": "news-2026-09-17-evening",
+    "headlines": [
+      "1. Your AI agents can now control your Google Home devices",
+      "2. Anthropic merges Claude chat and Cowork in one interface",
+      "3. Nvidia’s Jensen Huang: “We don’t need AI regulation — leave safety to us”",
+      "4. Amazon launches Alexa+ in India with Hindi support",
+      "5. US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "6. The AI data center boom is colliding with cities scarred by big industry",
+      "7. SK Hynix reportedly in talks with Intel to build memory chips in the US",
+      "8. Former Infosys chief’s AI startup nabs another $53M",
+      "9. Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "10. Meet a mouse whose brain cortex is made up of human cells"
+    ]
+  },
+  {
     "date": "2026-09-16",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1321,25 +1342,6 @@
       "Woman Claims Her Stepfather Used Grok to Transform Childhood Photo into Explicit Imagery",
       "Hyperscalers Might Regret Embracing Natural Gas if New Forecast Proves Correct",
       "Writer Introduces New AI Model and Upgraded Harness to Contain Token Costs"
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-16",
-    "titleZh": "AI资讯早报 | 2026-08-16",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-16",
-    "slug": "news-2026-08-16-morning",
-    "headlines": [
-      "1. The Dark Side of Generative AI: A Case of Image Abuse",
-      "2. OpenAI's 'Ultrafast' Mode and Executive Shuffle",
-      "3. The Watermarking Wars: Anthropic vs. Google",
-      "4. The Business of AI: Databricks' Mega-Round and IBM's OpenAI Partnership",
-      "5. When AI Agents Fight: Anthropic's 'Turf War' Experiment",
-      "6. The Geopolitics and Ethics of AI: Censorship and Cloning",
-      "7. The Infrastructure Race: GPUs, Natural Gas, and Cost Efficiency",
-      "8. Market Movers: SpaceX-Cursor and Writer's Cost-Cutting Model"
     ]
   }
 ]
