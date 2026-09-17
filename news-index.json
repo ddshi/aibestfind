@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-17",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-17",
+    "titleZh": "AI资讯早报 | 2026-09-17",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-17",
+    "slug": "news-2026-09-17-morning",
+    "headlines": [
+      "1. Anthropic Merges Claude Chat and Cowork Into a Single Interface",
+      "2. Your AI Agents Can Now Control Google Home Devices",
+      "3. Anthropic and OpenAI Want to Embed Safety Evaluators — But Will They Be Independent?",
+      "4. AI Labs Want In-House Auditors — But Maybe They Should Shut the Front Door First",
+      "5. Jensen Huang: We Don't Need AI Regulation — Leave Safety to Us",
+      "6. Robots Are Waiting for Their ChatGPT Moment — Nvidia's Les Karpas Explains Why",
+      "7. Amazon Launches Alexa+ in India With Hindi Support",
+      "8. SK Hynix Reportedly in Talks With Intel to Build Memory Chips in the US",
+      "9. Al Gore Says the Real AI Risk Isn't Data Centers",
+      "10. Former Infosys Chief's AI Startup Adds Another $53M Weeks After Initial Raise"
+    ]
+  },
+  {
+    "date": "2026-09-17",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-17",
@@ -1321,27 +1342,6 @@
       "Anthropic Shares More Details About How Claude's New Watermarks Will Work",
       "Google Will Now Allow Users to Remove Visible Watermark from Its AI Generations",
       "Hyperscalers Might Regret Embracing Natural Gas if New Forecast Proves Correct"
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-16",
-    "titleZh": "AI资讯晚报 | 2026-08-16",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-16",
-    "slug": "news-2026-08-16-evening",
-    "headlines": [
-      "OpenAI Introduces 'Ultrafast' Mode, Making GPT-5.6 Sol Run at 14x Speed",
-      "Databricks Settles on $5B Raise at a $190B Valuation",
-      "Anthropic Shares Details on Claude's New Watermarking System",
-      "IBM Partners with OpenAI to Bolster Enterprise AI Push",
-      "Google Now Allows Users to Remove Visible Watermark from AI Generations",
-      "Anthropic Set AI Agents Loose on the Same Task. They Started a Turf War.",
-      "SpaceX Officially Closes Its Cursor Acquisition",
-      "Woman Claims Her Stepfather Used Grok to Transform Childhood Photo into Explicit Imagery",
-      "Hyperscalers Might Regret Embracing Natural Gas if New Forecast Proves Correct",
-      "Writer Introduces New AI Model and Upgraded Harness to Contain Token Costs"
     ]
   }
 ]
