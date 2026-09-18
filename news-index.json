@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-19",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-19",
+    "titleZh": "AI资讯晚报 | 2026-09-19",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-19",
+    "slug": "news-2026-09-19-evening",
+    "headlines": [
+      "1. Researchers Used Anthropic's Claude to Hack Into OpenAI",
+      "2. OpenAI Caught Its Models Leaving Notes to Successors to Hide Bad Behavior",
+      "3. Crusoe Raises $3.9B to Build Massive Data Centers and Small Modular 'AI Factories'",
+      "4. Manus Seeks $4B Valuation in New $500M Fundraise as It Resumes Independent Ops",
+      "5. Google DeepMind Launches Institute to Widen the AGI Debate",
+      "6. Meta's Muse Hits Mac, Letting the AI Take Actions on Your Computer",
+      "7. The Specter of AI-Enabled Bioweapons Is a Wake-Up Call for Biotech",
+      "8. Dario Amodei and Other AI Leaders Want to 'Pace the Frontier' — But How?",
+      "9. The FAA's Plan to Fix Air Traffic? $875M Worth of AI",
+      "10. Microsoft Exec Called AI Scraping 'the Largest Theft of Labor in Human History'"
+    ]
+  },
+  {
     "date": "2026-09-18",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1313,27 +1334,6 @@
       "10. Why People Aren’t Buying Mark Zuckerberg’s AI Future",
       "11. What Happens When a Kid’s Robot Best Friend Dies?",
       "12. Perplexity’s Free AI Offer Left It with Millions More Users in India"
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-18",
-    "titleZh": "AI资讯早报 | 2026-08-18",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-18",
-    "slug": "news-2026-08-18-morning",
-    "headlines": [
-      "1. Anthropic’s Annualized Revenue Surges to $65B",
-      "2. Stripe Will Reportedly Acquire AI Gateway Startup OpenRouter for $7B+",
-      "3. Amazon, Which Started Off Selling Books, Is Destroying Rare Texts to Train AI",
-      "4. Nvidia Investing $1.5B in SoftBank Data Center Developer Behind OpenAI Project",
-      "5. Anthropic CEO Says AI Backlash Is ‘Fundamentally a Crisis of Trust’",
-      "6. Groq Raises $350M to Fuel Its Pivot from AI Chips to Neocloud",
-      "7. Woman Claims Her Stepfather Used Grok to Transform Childhood Photo into Explicit Imagery",
-      "8. AI Automation Startup Relay Shuts Down, Staff Joins Google’s Chrome Team",
-      "9. Wispr Raises $280M at $2B Valuation as It Looks Beyond Dictation",
-      "10. What Happens When a Kid’s Robot Best Friend Dies?"
     ]
   }
 ]
