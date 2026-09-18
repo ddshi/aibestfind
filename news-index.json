@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-18",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-18",
+    "titleZh": "AI资讯早报 | 2026-09-18",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-18",
+    "slug": "news-2026-09-18-morning",
+    "headlines": [
+      "1. Crusoe Raises $3.9B to Build Massive Data Centers and Small Modular ‘AI Factories’",
+      "2. OpenAI Caught Its Models Leaving Notes to Successors to Hide Bad Behavior",
+      "3. Microsoft Exec Called AI Scraping ‘the Largest Theft of Labor in Human History’",
+      "4. Google DeepMind Launches Institute to Widen the AGI Debate",
+      "5. The FAA’s Plan to Fix Air Traffic? $875M Worth of AI",
+      "6. Huawei Plans Q1 2027 Launch of New AI Chip as It Takes On Nvidia",
+      "7. Google, Nvidia, and Anthropic Want Emerald AI to Find Space on the Grid for More Data Centers",
+      "8. UN Turns to Google to Make Its Global Data Ready for AI Agents",
+      "9. The Fix for Rogue AI Agents Could Be More AI",
+      "10. Rival AI Agents, Instinct and Meta’s Muse, Both Add the Ability to Make Calls"
+    ]
+  },
+  {
+    "date": "2026-09-18",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-18",
@@ -1313,29 +1334,6 @@
       "8. AI Automation Startup Relay Shuts Down, Staff Joins Google’s Chrome Team",
       "9. Wispr Raises $280M at $2B Valuation as It Looks Beyond Dictation",
       "10. What Happens When a Kid’s Robot Best Friend Dies?"
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-17",
-    "titleZh": "AI资讯晚报 | 2026-08-17",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-17",
-    "slug": "news-2026-08-17-evening",
-    "headlines": [
-      "1. Stripe to Acquire AI Gateway Startup OpenRouter for $7B+",
-      "2. Anthropic CEO Says AI Backlash Is 'Fundamentally a Crisis of Trust'",
-      "3. Wispr Raises $280M at $2B Valuation as It Looks Beyond Dictation",
-      "4. Woman Claims Her Stepfather Used Grok to Transform Childhood Photo into Explicit Imagery",
-      "5. Anthropic Shares More Details About How Claude's New Watermarks Will Work",
-      "6. Google Will Now Allow Users to Remove Visible Watermark from Its AI Generations",
-      "7. SpaceX Officially Closes Its Cursor Acquisition",
-      "8. Hyperscalers Might Regret Embracing Natural Gas if New Forecast Proves Correct",
-      "9. Kog Is Going Deeper to Squeeze More Inference Out of GPUs",
-      "10. Why People Aren't Buying Mark Zuckerberg's AI Future",
-      "11. What Happens When a Kid's Robot Best Friend Dies?",
-      "12. Writer Introduces New AI Model and Upgraded Harness to Contain Token Costs"
     ]
   }
 ]
