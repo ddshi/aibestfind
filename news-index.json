@@ -1,6 +1,28 @@
 [
   {
     "date": "2026-09-19",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-19",
+    "titleZh": "AI资讯早报 | 2026-09-19",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-19",
+    "slug": "news-2026-09-19-morning",
+    "headlines": [
+      "1. AI Hallucination Nearly Triggers a US Military Operation",
+      "2. Researchers Used Anthropic's Claude to Hack Into OpenAI",
+      "3. Anthropic Is Operating a Biology Lab That Conducts Experiments",
+      "4. A Startup Incubator Raised $100M and Is All-In on Physical AI",
+      "5. A New Kind of AI Model From a ChatGPT Inventor Is Thrilling Developers",
+      "6. Manus Seeks $4B Valuation in $500M Raise as It Resumes Independent Operations",
+      "7. Google's New 'CC' Is an AI Agent That Helps Families Run Their Households",
+      "8. Meta's Muse Hits Mac, Letting the AI Take Actions on Your Computer",
+      "9. Anthropic's First Embedded Evaluator Is … Accenture?",
+      "10. World Model Companies Are Keeping a Lot of Secrets",
+      "Honorable Mentions"
+    ]
+  },
+  {
+    "date": "2026-09-19",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-19",
@@ -1311,29 +1333,6 @@
       "8. Perplexity's Free AI Offer Left It with Millions More Users in India",
       "9. We Still Don't Know How People Are Really Using AI",
       "10. AI's Recursive Self-Improvement Might Not Come So Quickly After All"
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-18",
-    "titleZh": "AI资讯晚报 | 2026-08-18",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-18",
-    "slug": "news-2026-08-18-evening",
-    "headlines": [
-      "1. Anthropic’s Annualized Revenue Surges to $65B",
-      "2. Stripe Will Reportedly Acquire AI Gateway Startup OpenRouter for $7B+",
-      "3. Nvidia Investing $1.5B in SoftBank Data Center Developer Behind OpenAI Project",
-      "4. OpenAI Launches a Safer ChatGPT for Teens — Years After Teens Started Using It",
-      "5. Anthropic CEO Says AI Backlash Is ‘Fundamentally a Crisis of Trust’",
-      "6. We Still Don’t Know How People Are Really Using AI",
-      "7. Amazon, Which Started Off Selling Books, Is Destroying Rare Texts to Train AI",
-      "8. AI’s Recursive Self-Improvement Might Not Come So Quickly After All",
-      "9. Groq Raises $350M to Fuel Its Pivot from AI Chips to Neocloud",
-      "10. Why People Aren’t Buying Mark Zuckerberg’s AI Future",
-      "11. What Happens When a Kid’s Robot Best Friend Dies?",
-      "12. Perplexity’s Free AI Offer Left It with Millions More Users in India"
     ]
   }
 ]
