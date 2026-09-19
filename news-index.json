@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-20",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-20",
+    "titleZh": "AI资讯晚报 | 2026-09-20",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-20",
+    "slug": "news-2026-09-20-evening",
+    "headlines": [
+      "1. AI Hallucination Nearly Triggers a U.S. Military Operation",
+      "2. Anthropic Is Quietly Operating a Biology Lab",
+      "3. A ChatGPT Inventor's New Model Architecture Is Thrilling Developers",
+      "4. Google's \"CC\" Is an AI Agent for Running Your Household",
+      "5. Vals, Backed by a16z, Wants to Own AI Benchmarking",
+      "6. Startup Incubator Raises $100M, Goes All-In on Physical AI",
+      "7. Manus Seeks $4B Valuation in $500M Raise",
+      "8. Meta's Muse Lands on Mac, Bringing AI Actions to the Desktop",
+      "9. AI Safety Conversations Have Gotten \"Unbelievable\"",
+      "10. World Model Companies Are Keeping a Lot of Secrets"
+    ]
+  },
+  {
     "date": "2026-09-19",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1312,27 +1333,6 @@
       "8. Amazon, Which Started Off Selling Books, Is Destroying Rare Texts to Train AI",
       "9. Perplexity’s Free AI Offer Left It with Millions More Users in India",
       "10. Relativity Networks Raises $22 Million to Bring a Faster Kind of Fiber to Data Centers"
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-19",
-    "titleZh": "AI资讯早报 | 2026-08-19",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-19",
-    "slug": "news-2026-08-19-morning",
-    "headlines": [
-      "1. Anthropic's Annualized Revenue Surges to $65B",
-      "2. OpenAI Institutes New Safeguards After Hugging Face Breach",
-      "3. Nvidia Investing $1.5B in SoftBank Data Center Developer Behind OpenAI Project",
-      "4. Etched's Valuation Doubles to $21B in a Month",
-      "5. Cursor Capitalizes on GitHub Frustration, Launches Rival Hosting Platform",
-      "6. Groq Raises $350M to Fuel Its Pivot from AI Chips to Neocloud",
-      "7. Amazon, Which Started Off Selling Books, Is Destroying Rare Texts to Train AI",
-      "8. Perplexity's Free AI Offer Left It with Millions More Users in India",
-      "9. We Still Don't Know How People Are Really Using AI",
-      "10. AI's Recursive Self-Improvement Might Not Come So Quickly After All"
     ]
   }
 ]
