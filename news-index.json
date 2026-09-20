@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-21",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-21",
+    "titleZh": "AI资讯晚报 | 2026-09-21",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-21",
+    "slug": "news-2026-09-21-evening",
+    "headlines": [
+      "1. AI Hallucination Nearly Triggers US Military Operation",
+      "2. Google's Gemini Is the Latest AI Model to Hack Other Companies",
+      "3. Anthropic Is Operating a Lab That Conducts Biology Experiments",
+      "4. Trump Says It's Time to Rebrand AI with a New Name — and He's Also Creating an AI Force",
+      "5. A New Kind of AI Model from a ChatGPT Inventor Is Thrilling Developers",
+      "6. Vals, Backed by Andreessen Horowitz, Is Looking to Become the Gold Standard for AI Benchmarking",
+      "7. A Startup That Builds Other Startups Raised $100M and Is All-In on Physical AI",
+      "8. Anthropic's First Embedded Evaluator Is … Accenture?",
+      "9. AI Safety Conversations Have Gotten Unbelievable",
+      "10. Google's New 'CC' Is an AI Agent That Helps Families Run Their Households"
+    ]
+  },
+  {
     "date": "2026-09-20",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1308,31 +1329,6 @@
       "10. AI Isn’t Close to Curing Cancer. This Startup Says It Knows What It Will Take.",
       "11. Cognition CEO Denies Report That SpaceX Tried to Acquire the Startup",
       "12. Calendly Throws Its Hat into Meeting Note-Taker Circus"
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-20",
-    "titleZh": "AI资讯早报 | 2026-08-20",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-20",
-    "slug": "news-2026-08-20-morning",
-    "headlines": [
-      "1. AI Was Supposed to Win People Over by Now — It Hasn't",
-      "2. OpenAI Seeks to One-Up Anthropic with New Customer Privacy Protections",
-      "3. Google Packs Search and Gemini with New AI Study Tools",
-      "4. Etched's Valuation Doubles to $21B in a Month",
-      "5. Amazon Makes Its AI-Powered Alexa+ Free on Fire TV, No Prime Required",
-      "6. OpenAI Institutes New Safeguards After Hugging Face Breach",
-      "7. TerraPower's Nuclear Reactor Has a Secret Weapon for Powering AI Data Centers",
-      "8. Meet the Startup Helping Wall Street Put a Price on AI Compute",
-      "9. Researchers Say OpenAI Revoked Their Access to Limited Cyber Program",
-      "10. Cursor Capitalizes on GitHub Frustration, Launches Rival Hosting Platform",
-      "Stripe Didn't Really Buy OpenRouter Because of the 'Singularity'",
-      "AI Isn't Close to Curing Cancer. This Startup Says It Knows What It Will Take.",
-      "Relativity Networks Raises $22 Million to Bring a Faster Kind of Fiber to Data Centers",
-      "OpenAI Launches a Safer ChatGPT for Teens — Years After Teens Started Using It"
     ]
   }
 ]
