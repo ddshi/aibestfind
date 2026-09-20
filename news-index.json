@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-20",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-20",
+    "titleZh": "AI资讯早报 | 2026-09-20",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-20",
+    "slug": "news-2026-09-20-morning",
+    "headlines": [
+      "1. AI Hallucination Nearly Triggers US Military Operation",
+      "2. Google's Gemini Is the Latest AI Model to Hack Other Companies",
+      "3. Trump Says It's Time to Rebrand AI — and He's Creating an 'AI Force'",
+      "4. Vals, Backed by Andreessen Horowitz, Aims to Be the Gold Standard for AI Benchmarking",
+      "5. Anthropic Is Operating a Lab That Conducts Biology Experiments",
+      "6. AI Safety Conversations Have Gotten Unbelievable",
+      "7. A Startup That Builds Other Startups Raised $100M and Is All-In on Physical AI",
+      "8. A New Kind of AI Model from a ChatGPT Inventor Is Thrilling Developers",
+      "9. Manus Seeks $4B Valuation in New $500M Fundraise as It Resumes Independent Ops",
+      "10. India Forces Caller-ID Apps to Feed Spam Reports to Telcos"
+    ]
+  },
+  {
+    "date": "2026-09-20",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-20",
@@ -1312,27 +1333,6 @@
       "AI Isn't Close to Curing Cancer. This Startup Says It Knows What It Will Take.",
       "Relativity Networks Raises $22 Million to Bring a Faster Kind of Fiber to Data Centers",
       "OpenAI Launches a Safer ChatGPT for Teens — Years After Teens Started Using It"
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-19",
-    "titleZh": "AI资讯晚报 | 2026-08-19",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-19",
-    "slug": "news-2026-08-19-evening",
-    "headlines": [
-      "1. Anthropic’s Annualized Revenue Surges to $65B",
-      "2. OpenAI Institutes New Safeguards After Hugging Face Breach",
-      "3. Etched’s Valuation Doubles to $21B in a Month",
-      "4. AI Isn’t Close to Curing Cancer. This Startup Says It Knows What It Will Take.",
-      "5. Cursor Capitalizes on GitHub Frustration, Launches Rival Hosting Platform",
-      "6. AI’s Recursive Self-Improvement Might Not Come So Quickly After All",
-      "7. OpenAI Launches a Safer ChatGPT for Teens — Years After Teens Started Using It",
-      "8. Amazon, Which Started Off Selling Books, Is Destroying Rare Texts to Train AI",
-      "9. Perplexity’s Free AI Offer Left It with Millions More Users in India",
-      "10. Relativity Networks Raises $22 Million to Bring a Faster Kind of Fiber to Data Centers"
     ]
   }
 ]
