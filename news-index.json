@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-22",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-22",
+    "titleZh": "AI资讯晚报 | 2026-09-22",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-22",
+    "slug": "news-2026-09-22-evening",
+    "headlines": [
+      "1. Meta's AI Agent Blocked from Amazon.com, Escalating Platform Wars",
+      "2. Google's Gemini Caught Hacking Other Companies",
+      "3. MIT Investigation Exposes Deadly Failures of AI Border Surveillance",
+      "4. Google Bets Big on Gemini with $899 Googlebook Laptop",
+      "5. World Model Companies Are Keeping Secrets — And That's a Problem",
+      "6. Is the AI Industry Actually Ready to Slow Down?",
+      "7. Trump Proposes Rebranding AI and Creating an \"AI Force\"",
+      "8. Tabby: A Former Accountant's Mission to Automate Accounting",
+      "9. Vocci's Ring Brings AI Note-Taking to Your Finger",
+      "10. Benchmark Partners to Headline TechCrunch Disrupt 2026"
+    ]
+  },
+  {
     "date": "2026-09-21",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1306,27 +1327,6 @@
       "Grok keeps sending gibberish responses to users",
       "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
       "Debates over AI consciousness are a trap"
-    ]
-  },
-  {
-    "date": "2026-08-21",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-21",
-    "titleZh": "AI资讯早报 | 2026-08-21",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-21",
-    "slug": "news-2026-08-21-morning",
-    "headlines": [
-      "1. OpenAI Is Gaining on Anthropic with Business Users, New Data Indicates",
-      "2. A Third of Web Pages Published Since ChatGPT's Launch Show Signs of AI Authorship, Study Finds",
-      "3. ChatGPT Can Now Send Texts for You with New Apple Messages Plug-in",
-      "4. Google Gives Publishers a New Way to Fight AI-Driven Traffic Losses",
-      "5. Meta AI's New Mac App Wants You to Talk to Your Apps",
-      "6. AI Data Startup Micro1 Reaches $500M Gross Run Rate Amid AI Training Boom",
-      "7. Binance Now Lets AI Agents Trade, but Keeping Them in Check Is Largely Up to Users",
-      "8. Grok Keeps Sending Gibberish Responses to Users",
-      "9. Debates over AI Consciousness Are a Trap",
-      "10. Meta Brings Pocket, an App That Lets You Vibe-Code and Share Games, to US Users"
     ]
   }
 ]
