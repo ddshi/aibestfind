@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-23",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-23",
+    "titleZh": "AI资讯晚报 | 2026-09-23",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-23",
+    "slug": "news-2026-09-23-evening",
+    "headlines": [
+      "1. Anthropic Releases Opus 5.5 with Lower Prices and Fable-Level Performance",
+      "2. OpenAI Forms Math Advisory Group as Its AI Resolves More Than 100 Open Problems",
+      "3. Meta's AI Agent Has Been Blocked from Using Amazon.com",
+      "4. Meta's Muse Is Outpacing ChatGPT's Early Mobile Launch",
+      "5. Nscale's IPO Will Test Wall Street's Appetite for Concentrated AI Bets Once Again",
+      "6. Everyone Can Find a Reason to Dislike Data Center Construction",
+      "7. Don't Be Fooled by This Summer of AI Hype",
+      "8. Google's $899 Googlebook Is a Bet That You'll Buy a New Laptop for Gemini",
+      "9. AstroForge Is Putting AI in Command of Its Next Spacecraft",
+      "10. The Man Who Built Apple's Stores Doesn't Buy Silicon Valley's Bet on AI Shopping"
+    ]
+  },
+  {
     "date": "2026-09-22",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1296,32 +1317,6 @@
       "Anthropic’s Opus 4.6 is a smut-machine",
       "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "The DOJ is investigating a16z. What does this mean for venture capital?"
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-22",
-    "titleZh": "AI资讯早报 | 2026-08-22",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-22",
-    "slug": "news-2026-08-22-morning",
-    "headlines": [
-      "Nvidia Just Showed That the Harness, Not the AI Model, Is Now the Real Hero",
-      "Nvidia Partners with Data Center Developer Cloverleaf",
-      "Starcloud Raises $250 Million for Orbital Data Centers as Launch Options Dry Up",
-      "OK, Can We Actually Cool Data Centers with Our Pee?",
-      "OpenAI Is Gaining on Anthropic with Business Users, New Data Indicates",
-      "Anthropic's Opus 4.6 Is a Smut-Machine",
-      "ChatGPT Can Now Send Texts for You with New Apple Messages Plug-in",
-      "Grok Keeps Sending Gibberish Responses to Users",
-      "A Third of Web Pages Published Since ChatGPT Launched Were Written by AI, Study Finds",
-      "Google Gives Publishers a New Way to Fight AI-Driven Traffic Losses",
-      "The DOJ Is Investigating a16z. What Does This Mean for Venture Capital?",
-      "When AI Designs a Drug, Who Gets the Credit?",
-      "This Company's Plans to Deploy Space Mirrors Could Jeopardize the Night Sky for Many",
-      "AI Data Startup Micro1 Reaches $500M Gross Run Rate Amid AI Training Boom",
-      "Ramp Launches Its Own AI Model Router, Called Router"
     ]
   }
 ]
