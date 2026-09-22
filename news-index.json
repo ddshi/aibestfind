@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-22",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-22",
+    "titleZh": "AI资讯早报 | 2026-09-22",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-22",
+    "slug": "news-2026-09-22-morning",
+    "headlines": [
+      "1. OpenAI Forms Math Advisory Group as Its AI Resolves More Than 100 Open Problems",
+      "2. Meta's AI Agent Has Been Blocked From Using Amazon.com",
+      "3. Meta's Muse Is Outpacing ChatGPT's Early Mobile Launch",
+      "4. Google's $899 Googlebook Is a Bet That You'll Buy a New Laptop for Gemini",
+      "5. Is the AI Industry Really Ready to Slow Down?",
+      "6. World Model Companies Are Keeping a Lot of Secrets",
+      "7. The Man Who Built Apple's Stores Doesn't Buy Silicon Valley's Bet on AI Shopping",
+      "8. With Tabby, a Former Accountant Is Using AI to Make Accountants Obsolete",
+      "9. The US Spent Billions on Border Surveillance. Why Can't It Catch People Before They Die?",
+      "10. Vocci's Ring Adds a New Form Factor to Meeting Note-Taking"
+    ]
+  },
+  {
+    "date": "2026-09-22",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-22",
@@ -1301,32 +1322,6 @@
       "This Company's Plans to Deploy Space Mirrors Could Jeopardize the Night Sky for Many",
       "AI Data Startup Micro1 Reaches $500M Gross Run Rate Amid AI Training Boom",
       "Ramp Launches Its Own AI Model Router, Called Router"
-    ]
-  },
-  {
-    "date": "2026-08-21",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-21",
-    "titleZh": "AI资讯晚报 | 2026-08-21",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-21",
-    "slug": "news-2026-08-21-evening",
-    "headlines": [
-      "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "Ramp launches its own AI model router, called Router",
-      "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-      "OK, can we actually cool data centers with our pee?",
-      "Google gives publishers a new way to fight AI-driven traffic losses",
-      "A third of web pages published since ChatGPT's launch show signs of AI authorship, study finds",
-      "When AI designs a drug, who gets the credit?",
-      "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "Meta AI's new Mac app wants you to talk to your apps",
-      "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "Grok keeps sending gibberish responses to users",
-      "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "Debates over AI consciousness are a trap"
     ]
   }
 ]
