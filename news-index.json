@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-24",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-24",
+    "titleZh": "AI资讯晚报 | 2026-09-24",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-24",
+    "slug": "news-2026-09-24-evening",
+    "headlines": [
+      "1. OpenAI Launches GPT-6 Sol and Luna, Promising Lower Cost and Fewer Errors",
+      "2. Anthropic Releases Opus 5.5 With Lower Prices and Fable-Level Performance",
+      "3. ChatGPT Mobile App Gets Voice-Based Agentic Features",
+      "4. Even Americans Who Use AI Every Day Are Worried About It",
+      "5. YouTube Will Let You Build Your Own Algorithm With AI",
+      "6. Spotify Launches 'Taste Profile' to Open Up Its Recommendation Algorithm",
+      "7. Snorkel AI Triples Valuation to $3.5B as Demand for AI Training Data Booms",
+      "8. Ema Raises $77M as AI Starts Eating Into Enterprise Software and Services",
+      "9. Smart Glasses Are Already Causing Havoc in India",
+      "10. Qualcomm Launches Two New Smartphone Chips With Heavy AI Emphasis"
+    ]
+  },
+  {
     "date": "2026-09-23",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1292,27 +1313,6 @@
       "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "Google gives publishers a new way to fight AI-driven traffic losses",
       "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders"
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-23",
-    "titleZh": "AI资讯早报 | 2026-08-23",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-23",
-    "slug": "news-2026-08-23-morning",
-    "headlines": [
-      "1. Inherent's AI 'Teammate' Claims Breakthrough in Research Replication",
-      "2. OpenAI Urges California to Strengthen Its AI Safety Bill",
-      "3. Frontier AI Labs Still Won't Say How They'd Contain a Rogue Model",
-      "4. Nvidia Shows the 'Harness' Is Now the Real Hero",
-      "5. OpenAI Gains Ground on Anthropic with Business Users",
-      "6. ChatGPT Can Now Send Texts with New Apple Messages Plug-in",
-      "7. Nvidia Partners with Data Center Developer Cloverleaf",
-      "8. AI Data Startup Micro1 Hits $500M Gross Run Rate",
-      "9. Google Gives Publishers a New Way to Fight AI-Driven Traffic Losses",
-      "10. Starcloud Raises $250 Million for Orbital Data Centers"
     ]
   }
 ]
