@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-23",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-23",
+    "titleZh": "AI资讯早报 | 2026-09-23",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-23",
+    "slug": "news-2026-09-23-morning",
+    "headlines": [
+      "1. OpenAI Launches GPT-6 Sol and Luna, Promising Lower Cost and Fewer Errors",
+      "2. Anthropic Releases Opus 5.5 With Lower Prices and Fable-Level Performance",
+      "3. Snorkel AI Triples Valuation to $3.5B as Demand for AI Training Data Booms",
+      "4. Qualcomm Launches Two New Smartphone Chips With Heavy AI Emphasis",
+      "5. Meta Admits Muse's Likeness to OpenClaw Isn't a Coincidence",
+      "6. OpenAI Forms Math Advisory Group as Its AI Resolves More Than 100 Open Problems",
+      "7. Greece's Prime Minister Gets Candid About AI: \"We're Already Fighting Yesterday's Battle\"",
+      "8. MIT Tech Review: \"Don't Be Fooled by This Summer of AI Hype\"",
+      "9. Nscale's IPO Will Test Wall Street's Appetite for Concentrated AI Bets",
+      "10. AstroForge Is Putting AI in Command of Its Next Spacecraft"
+    ]
+  },
+  {
+    "date": "2026-09-23",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-23",
@@ -1292,31 +1313,6 @@
       "8. AI Data Startup Micro1 Hits $500M Gross Run Rate",
       "9. Google Gives Publishers a New Way to Fight AI-Driven Traffic Losses",
       "10. Starcloud Raises $250 Million for Orbital Data Centers"
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-22",
-    "titleZh": "AI资讯晚报 | 2026-08-22",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-22",
-    "slug": "news-2026-08-22-evening",
-    "headlines": [
-      "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "Nvidia partners with data center developer Cloverleaf",
-      "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "Ramp launches its own AI model router, called Router",
-      "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "Google gives publishers a new way to fight AI-driven traffic losses",
-      "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "When AI designs a drug, who gets the credit?",
-      "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-      "Anthropic’s Opus 4.6 is a smut-machine",
-      "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "The DOJ is investigating a16z. What does this mean for venture capital?"
     ]
   }
 ]
