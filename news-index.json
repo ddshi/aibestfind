@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-24",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-24",
+    "titleZh": "AI资讯早报 | 2026-09-24",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-24",
+    "slug": "news-2026-09-24-morning",
+    "headlines": [
+      "1. Meta Unveils Tamagotchi-Like Wearable for Its Muse AI Agent",
+      "2. Anthropic Says Its Biology Lab Has Already Found Something Big",
+      "3. ChatGPT Mobile App Gets Voice-Based Agentic Features",
+      "4. Meta Introduces Camera-Free AI Glasses",
+      "5. Enveda Secures $311M to Bring Nature-Derived AI Drugs into Clinical Trials",
+      "6. Even Americans Who Use AI Every Day Are Worried About It",
+      "7. YouTube Will Let You Build Your Own Algorithm with AI",
+      "8. Smart Glasses Are Already Causing Havoc in India",
+      "9. Ema Raises $77M as AI Starts Eating into Enterprise Software and Services",
+      "10. Greece's Prime Minister Gets Candid About AI: 'We're Already Fighting Yesterday's Battle'"
+    ]
+  },
+  {
+    "date": "2026-09-24",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-24",
@@ -1290,29 +1311,6 @@
       "13. Harvard’s $699 Startup Bootcamp Offers AI Avatars of Its Instructors",
       "14. Anthropic’s Opus 4.6 Is a Smut-Machine",
       "15. Starcloud Raises $250 Million for Orbital Data Centers as Launch Options Dry Up"
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-23",
-    "titleZh": "AI资讯晚报 | 2026-08-23",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-23",
-    "slug": "news-2026-08-23-evening",
-    "headlines": [
-      "OpenAI says California should strengthen its AI safety bill",
-      "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "Anthropic’s Opus 4.6 is a smut-machine",
-      "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "Nvidia partners with data center developer Cloverleaf",
-      "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "Google gives publishers a new way to fight AI-driven traffic losses",
-      "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders"
     ]
   }
 ]
