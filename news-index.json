@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-25",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-25",
+    "titleZh": "AI资讯晚报 | 2026-09-25",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-25",
+    "slug": "news-2026-09-25-evening",
+    "headlines": [
+      "1. Meta Debuts Tamagotchi-Like Wearable and Camera-Free AI Glasses for Its Muse Agent",
+      "2. Google Tests Letting Gemini Make Phone Calls on Your Behalf",
+      "3. ElevenLabs Reportedly Valued at $22B as Voice AI Demand Surges",
+      "4. Lovable's Annualized Revenue Crosses $600M as Vibe Coding Goes Mainstream",
+      "5. Anthropic Says Its Biology Lab Has Already Found Something Big",
+      "6. Australia Investigates Whether OpenAI-Linked Hack of Government Health Website Broke the Law",
+      "7. Ando Builds a Slack Competitor Where Humans and AI Agents Work Side by Side",
+      "8. AI Dominates the Conversation at Climate Week",
+      "9. Enveda Secures $311M to Bring Nature-Derived AI Drugs into Clinical Trials",
+      "10. Google Photos Launches 'Clueless'-Inspired Virtual Closet on Android and iOS"
+    ]
+  },
+  {
     "date": "2026-09-24",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1286,31 +1307,6 @@
       "Kids Outlearn AI—and We Still Don't Know Why",
       "When AI Designs a Drug, Who Gets the Credit?",
       "Harvard's $699 Startup Bootcamp Offers AI Avatars of Its Instructors"
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-24",
-    "titleZh": "AI资讯早报 | 2026-08-24",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-24",
-    "slug": "news-2026-08-24-morning",
-    "headlines": [
-      "1. Who’s Behind the New ‘Stealth Model’ Ox Alpha?",
-      "2. Frontier AI Labs Still Won’t Say How They’d Contain a Rogue Model",
-      "3. Is It Legal to Train AI Models on Copyrighted Books? It’s Complicated",
-      "4. OpenAI Says California Should Strengthen Its AI Safety Bill",
-      "6. Nvidia Just Showed That the Harness, Not the AI Model, Is Now the Real Hero",
-      "7. OpenAI Is Gaining on Anthropic with Business Users, New Data Indicates",
-      "8. ChatGPT Can Now Send Texts for You with New Apple Messages Plug-in",
-      "9. Nvidia Partners with Data Center Developer Cloverleaf",
-      "10. When AI Designs a Drug, Who Gets the Credit?",
-      "11. Flock CEO Calls for ‘Compromise’ as Surveillance Company Faces Growing Backlash",
-      "12. AI Data Startup Micro1 Reaches $500M Gross Run Rate Amid AI Training Boom",
-      "13. Harvard’s $699 Startup Bootcamp Offers AI Avatars of Its Instructors",
-      "14. Anthropic’s Opus 4.6 Is a Smut-Machine",
-      "15. Starcloud Raises $250 Million for Orbital Data Centers as Launch Options Dry Up"
     ]
   }
 ]
