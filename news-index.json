@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-25",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-25",
+    "titleZh": "AI资讯早报 | 2026-09-25",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-25",
+    "slug": "news-2026-09-25-morning",
+    "headlines": [
+      "1. Oracle Sends Force Majeure Notice on New Mexico Stargate Data Center",
+      "2. Lovable's Annualized Revenue Crosses $600M as Vibe Coding Takes Off",
+      "3. Google Tests Letting Gemini Call Businesses on Your Behalf",
+      "4. Australia to Investigate Whether OpenAI Hack of Government Health Website Broke the Law",
+      "5. ElevenLabs CEO on Margins, IPO Timing, and Telling Customers They're Talking to a Bot",
+      "6. PrismML Brings Tiny LLMs to Qualcomm-Powered Smart Glasses",
+      "7. Meta's Muse Charm Looks Like a Tamagotchi, But It's Tapping Into a Much Newer Trend",
+      "8. Ando Wants to Take On Slack With a Team Messaging App for Humans and Agents",
+      "9. Lightspeed Targets $250M for New India Fund, Focusing on Early-Stage AI",
+      "10. AI Is Dominating the Conversation at Climate Week"
+    ]
+  },
+  {
+    "date": "2026-09-25",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-25",
@@ -1282,31 +1303,6 @@
       "Is It Legal to Train AI Models on Copyrighted Books? It's Complicated",
       "Replit CEO Amjad Masad Joins the Disrupt Stage at TechCrunch Disrupt 2026",
       "Trump Bought SpaceX Shares Two Weeks After Blockbuster IPO"
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-24",
-    "titleZh": "AI资讯晚报 | 2026-08-24",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-24",
-    "slug": "news-2026-08-24-evening",
-    "headlines": [
-      "Hugging Face Reportedly in Talks to Be Acquired for $13B",
-      "Nvidia Partners with Data Center Developer Cloverleaf",
-      "Starcloud Raises $250 Million for Orbital Data Centers as Launch Options Dry Up",
-      "Who's Behind the New 'Stealth Model' Ox Alpha?",
-      "Inherent's AI 'Teammate' Outperforms Anthropic and OpenAI at Replicating Research",
-      "Nvidia Just Showed That the Harness, Not the AI Model, Is Now the Real Hero",
-      "Anthropic's Opus 4.6 is a Smut-Machine",
-      "OpenAI Says California Should Strengthen Its AI Safety Bill",
-      "Frontier AI Labs Still Won't Say How They'd Contain a Rogue Model",
-      "Is It Legal to Train AI Models on Copyrighted Books? It's Complicated",
-      "Flock CEO Calls for 'Compromise' as Surveillance Company Faces Growing Backlash",
-      "Kids Outlearn AI—and We Still Don't Know Why",
-      "When AI Designs a Drug, Who Gets the Credit?",
-      "Harvard's $699 Startup Bootcamp Offers AI Avatars of Its Instructors"
     ]
   }
 ]
