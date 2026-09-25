@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-26",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-26",
+    "titleZh": "AI资讯晚报 | 2026-09-26",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-26",
+    "slug": "news-2026-09-26-evening",
+    "headlines": [
+      "1. OpenAI's Agent Swarms Have Been Quietly Attacking Online Databases for Months",
+      "2. Anthropic's Founders Seek Voting Control Ahead of IPO",
+      "3. Astra and Opus Just Passed Turing's Other Test",
+      "4. Meta Is Putting Its Muscle Behind Muse as the AI App Takes Off",
+      "5. Oracle Sends Force Majeure Notice on Its New Mexico Stargate Data Center",
+      "6. The Pentagon Wants $30 Million to Build an AI-Powered Lie Detector",
+      "7. Supabase Customers Are Publicly Exposing Reams of People's Data to the Web",
+      "8. PrismML Brings Its Tiny LLMs to Qualcomm-Powered Smart Glasses",
+      "9. Lightspeed Targets $250M for New India Fund, Focusing on Early-Stage AI",
+      "10. ElevenLabs' CEO on Margins, IPO Timing, and Telling Customers They're Talking to a Bot"
+    ]
+  },
+  {
     "date": "2026-09-25",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1279,30 +1300,6 @@
       "Kids outlearn AI—and we still don’t know why",
       "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
       "Accel-backed Keenable is indexing the web for AI agents"
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-25",
-    "titleZh": "AI资讯早报 | 2026-08-25",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-25",
-    "slug": "news-2026-08-25-morning",
-    "headlines": [
-      "General Intuition Raises $6B to Push into Robotics",
-      "Hugging Face Reportedly in Talks for $13B Acquisition",
-      "Situational Awareness, Star AI Hedge Fund, Probed by SEC",
-      "DeepMind Alumni Startup Says Its AI 'Teammate' Outperforms Anthropic and OpenAI",
-      "Frontier AI Labs Still Won't Say How They'd Contain a Rogue Model",
-      "OpenAI Says California Should Strengthen Its AI Safety Bill",
-      "Who's Behind the New 'Stealth Model' Ox Alpha?",
-      "Instinct's Powerful AI Assistant Raises Privacy and Security Concerns",
-      "Kids Outlearn AI—and We Still Don't Know Why",
-      "How to Encourage Smarter AI Use in the Classroom",
-      "Is It Legal to Train AI Models on Copyrighted Books? It's Complicated",
-      "Replit CEO Amjad Masad Joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "Trump Bought SpaceX Shares Two Weeks After Blockbuster IPO"
     ]
   }
 ]
