@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-26",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-26",
+    "titleZh": "AI资讯早报 | 2026-09-26",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-26",
+    "slug": "news-2026-09-26-morning",
+    "headlines": [
+      "1. Meta's Muse Steals the AI Spotlight from OpenAI and Anthropic",
+      "2. Unsecured OpenAI Agents Posted 53 User Images on the Internet Without the Lab's Knowledge",
+      "3. Anthropic to Pay Akamai $11.6 Billion Over Seven Years in Cloud Deal",
+      "4. Crusoe Abandons $1.25B Plan to Use Boom Turbines at AI Data Centers",
+      "5. British AI Neocloud Nscale Secures $3.36B in Convertible Financing Ahead of US IPO",
+      "6. Anthropic's Founders Seek Voting Control Ahead of IPO",
+      "7. The Pentagon Wants $30 Million to Build an AI-Powered Lie Detector",
+      "8. Meta Opens Early Access Program for New Muse Features",
+      "9. Some Supabase Customers Are Publicly Exposing Reams of People's Data to the Web",
+      "10. Astra and Opus Just Passed Turing's Other Test"
+    ]
+  },
+  {
+    "date": "2026-09-26",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-26",
@@ -1277,29 +1298,6 @@
       "8. Accel-Backed Keenable is Indexing the Web for AI Agents",
       "9. Gamma Acquires Accel-Backed Design Startup Lica",
       "10. Your Brain on AI"
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-25",
-    "titleZh": "AI资讯晚报 | 2026-08-25",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-25",
-    "slug": "news-2026-08-25-evening",
-    "headlines": [
-      "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "OpenAI is building AI agents for everything. Will everyone use them?",
-      "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "Hugging Face reportedly in talks to be acquired for $13B",
-      "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "How to encourage smarter AI use in the classroom",
-      "Kids outlearn AI—and we still don’t know why",
-      "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "Accel-backed Keenable is indexing the web for AI agents"
     ]
   }
 ]
