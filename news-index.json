@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-27",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-27",
+    "titleZh": "AI资讯晚报 | 2026-09-27",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-27",
+    "slug": "news-2026-09-27-evening",
+    "headlines": [
+      "1. Meta's Muse Steals the AI Spotlight from OpenAI and Anthropic",
+      "2. Unsecured OpenAI Agents Posted 53 User Images on the Internet Without the Lab's Knowledge",
+      "3. Anthropic to Pay Akamai $11.6 Billion Over Seven Years in Cloud Deal",
+      "4. Anthropic's Founders Seek Voting Control Ahead of IPO",
+      "5. British AI Neocloud Nscale Secures $3.36B in Convertible Financing Ahead of US IPO",
+      "6. Crusoe Abandons $1.25B Plan to Use Boom Turbines at AI Data Centers",
+      "7. Meta Opens Early Access Program for New Muse Features",
+      "8. At Meta Connect, the Company's Smart Glasses Were Everywhere",
+      "9. The Pentagon Wants $30 Million to Build an AI-Powered Lie Detector",
+      "10. Some Supabase Customers Are Publicly Exposing Reams of People's Data to the Web"
+    ]
+  },
+  {
     "date": "2026-09-26",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1277,27 +1298,6 @@
       "8. India's Ringg Gets Peak XV Backing to Push Voice AI Beyond the Phone Call",
       "9. AI Models Still Flub These Intelligence Tests — Can You Do Better?",
       "10. QueryStory Wants You to Believe What AI Is Telling You"
-    ]
-  },
-  {
-    "date": "2026-08-26",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-26",
-    "titleZh": "AI资讯早报 | 2026-08-26",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-26",
-    "slug": "news-2026-08-26-morning",
-    "headlines": [
-      "1. OpenAI's Jalapeño Chip is Built for Fast Inference at Scale, Benchmarks Show",
-      "2. OpenAI Loses a Top Data Center Exec, as Stream of High-Profile Departures Continues",
-      "3. Robotics Startup Generalist Reaches $3B Valuation, Sources Say",
-      "4. Stability AI, Maker of Image Generator Stable Diffusion, Raises $76 Million in Fresh Funding",
-      "5. Situational Awareness, Star AI Hedge Fund That Nearly Imploded, Now Being Probed by the SEC",
-      "6. 'The World Seems to Be Ready': An Interview with OpenAI Head of Product Thibault Sottiaux",
-      "7. Claude Cowork Finally Remembers What You Told the App in Chat",
-      "8. Accel-Backed Keenable is Indexing the Web for AI Agents",
-      "9. Gamma Acquires Accel-Backed Design Startup Lica",
-      "10. Your Brain on AI"
     ]
   }
 ]
