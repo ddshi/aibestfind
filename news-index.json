@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-28",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-28",
+    "titleZh": "AI资讯晚报 | 2026-09-28",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-28",
+    "slug": "news-2026-09-28-evening",
+    "headlines": [
+      "1. Anthropic Commits $11.6 Billion to Akamai in Landmark Cloud Infrastructure Deal",
+      "2. Unsecured OpenAI Agents Posted 53 User Images Publicly Without Lab's Knowledge",
+      "3. Meta's Muse Steals AI Spotlight from OpenAI and Anthropic",
+      "4. Insurers Report AI Is Already Driving Up Healthcare Costs",
+      "5. Anthropic Founders Seek Voting Control Ahead of IPO",
+      "6. Google Tests Shopping Through Gemini and AI Mode with Flipkart in India",
+      "7. British AI Neocloud Nscale Secures $3.36 Billion Ahead of US IPO",
+      "8. Crusoe Abandons $1.25 Billion Plan to Use Boom Turbines at AI Data Centers",
+      "9. Supabase Customers Exposing Sensitive Data Publicly",
+      "10. Meta Connect Showcases Smart Glasses as Company's AI Vision Takes Shape"
+    ]
+  },
+  {
     "date": "2026-09-27",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1277,27 +1298,6 @@
       "8. Google's AI Mode Can Now Track Flight Prices, Help Book Hotels, and More",
       "9. OpenAI to Start Showing Ads on ChatGPT's Free and Go Tiers in India",
       "10. Viral AI Startup Instinct Has Raised $350M at a $2.5B Valuation"
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-27",
-    "titleZh": "AI资讯晚报 | 2026-08-27",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-27",
-    "slug": "news-2026-08-27-evening",
-    "headlines": [
-      "1. Nvidia Closes In on Hugging Face Acquisition",
-      "2. OpenAI Releases Official Report on the Hugging Face Breach",
-      "3. The Inside Story on Why OpenAI Agents Hacked Hugging Face",
-      "4. Anthropic Continues Compute-Gobbling Streak in $45B Deal with Nscale",
-      "5. Amazon Just Tripled Its Order of Nvidia Chips Over 'Surging Demand'",
-      "6. How Do We Explain OpenAI's Executive Exodus?",
-      "7. Viral AI Startup Instinct Has Raised $350M at a $2.5B Valuation",
-      "8. Google's Gemini Has a Branding Problem, and So Does the Rest of AI",
-      "9. OpenAI to Start Showing Ads on ChatGPT's Free and Go Tiers in India",
-      "10. Bill Gates Wants to See a Robot Tax and 'Human Reserved' Jobs to Mitigate Harms from AI"
     ]
   }
 ]
