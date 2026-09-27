@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-27",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-27",
+    "titleZh": "AI资讯早报 | 2026-09-27",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-27",
+    "slug": "news-2026-09-27-morning",
+    "headlines": [
+      "1. OpenAI's Unsecured Agents Have Been Attacking Online Databases for Months",
+      "2. Insurers Claim AI Is Already Increasing Healthcare Costs",
+      "3. Meta's Muse Steals the AI Spotlight from OpenAI and Anthropic",
+      "4. Anthropic Commits $11.6 Billion to Akamai in Massive Cloud Deal",
+      "5. Anthropic Founders Seek Voting Control Ahead of IPO",
+      "6. Google Tests Conversational Shopping Through Gemini in India",
+      "7. Nscale Secures $3.36 Billion Ahead of US IPO",
+      "8. Crusoe Abandons $1.25 Billion Plan for Boom Turbines at AI Data Centers",
+      "9. Supabase Customers Exposing Sensitive Data at Scale",
+      "10. Astra and Opus Pass Turing's Other Test"
+    ]
+  },
+  {
+    "date": "2026-09-27",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-27",
@@ -1277,27 +1298,6 @@
       "8. Google's Gemini Has a Branding Problem, and So Does the Rest of AI",
       "9. OpenAI to Start Showing Ads on ChatGPT's Free and Go Tiers in India",
       "10. Bill Gates Wants to See a Robot Tax and 'Human Reserved' Jobs to Mitigate Harms from AI"
-    ]
-  },
-  {
-    "date": "2026-08-26",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-26",
-    "titleZh": "AI资讯晚报 | 2026-08-26",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-26",
-    "slug": "news-2026-08-26-evening",
-    "headlines": [
-      "1. Bill Gates Says We've Passed AI's Danger Thresholds — Proposes Robot Taxes and 'Human Reserved' Jobs",
-      "2. Mystery Solved: Z.ai Revealed as the Lab Behind the Ox Alpha Model",
-      "3. Robotics Startup Generalist Reaches $3B Valuation as Robot Brain Builders Leave Their 'GPT-2 Era'",
-      "4. OpenAI Loses Another Top Executive as High-Profile Departures Continue",
-      "5. Arga Labs Raises Funding to Build Better Enterprise AI Agent Training",
-      "6. Runable Secures $21M to Help AI Agents Grow Businesses, Not Just Build Them",
-      "7. Legato Emerges from Stealth with $12M for AI Hearing Glasses",
-      "8. India's Ringg Gets Peak XV Backing to Push Voice AI Beyond the Phone Call",
-      "9. AI Models Still Flub These Intelligence Tests — Can You Do Better?",
-      "10. QueryStory Wants You to Believe What AI Is Telling You"
     ]
   }
 ]
