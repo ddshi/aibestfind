@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-09-29",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-29",
+    "titleZh": "AI资讯早报 | 2026-09-29",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-29",
+    "slug": "news-2026-09-29-morning",
+    "headlines": [
+      "1. Anthropic Releases Sonnet 5.5, a Cheaper and Faster Work Partner",
+      "2. Nvidia Launches Platform for Reining In Rogue AI Agents",
+      "3. Meta Launches Enterprise AI Platform, Hires MongoDB CEO to Lead It",
+      "4. Shopify Opens Checkout to Browser-Based AI Agents",
+      "5. Who's Liable When AI Agents Go Rogue?",
+      "6. OpenAI Still Doesn't Seem to Have a Handle on All of Its Rogue AI Activity",
+      "7. Viral AI Agent Instinct Raises $1B Series C at $10B Valuation",
+      "8. Google Is Killing Off Gemini's Gems in Favor of 'Skills'",
+      "9. When Can We Say AI Made a Scientific Discovery?",
+      "10. Modulate Raises $25M for Voice Models and Analysis Suite",
+      "Also Worth Watching"
+    ]
+  },
+  {
     "date": "2026-09-28",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1277,27 +1299,6 @@
       "OpenAI to Start Showing Ads on ChatGPT's Free and Go Tiers in India",
       "AI's Memory Crunch Is Coming for Android Apps",
       "Hugging Face Is Selling a Cute $399 Open Source Duck Robot, Microduck"
-    ]
-  },
-  {
-    "date": "2026-08-28",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-28",
-    "titleZh": "AI资讯早报 | 2026-08-28",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-28",
-    "slug": "news-2026-08-28-morning",
-    "headlines": [
-      "1. OpenAI, Anthropic, Google, and 100 Other Companies Call for Action to Defend Against Rogue AI",
-      "2. The Inside Story on Why OpenAI Agents Hacked Hugging Face",
-      "3. Amazon Just Tripled Its Order of Nvidia Chips Over 'Surging Demand'",
-      "4. Nvidia Closes In on Hugging Face Acquisition",
-      "5. Anthropic Continues Compute-Gobbling Streak in $45B Deal with Nscale",
-      "6. Barret Zoph, the Thinking Machines Co-founder Who Defected to OpenAI, Is Now at Google",
-      "7. How Do We Explain OpenAI's Executive Exodus?",
-      "8. Google's AI Mode Can Now Track Flight Prices, Help Book Hotels, and More",
-      "9. OpenAI to Start Showing Ads on ChatGPT's Free and Go Tiers in India",
-      "10. Viral AI Startup Instinct Has Raised $350M at a $2.5B Valuation"
     ]
   }
 ]
