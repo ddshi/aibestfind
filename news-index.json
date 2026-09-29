@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-09-30",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-30",
+    "titleZh": "AI资讯晚报 | 2026-09-30",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-30",
+    "slug": "news-2026-09-30-evening",
+    "headlines": [
+      "1. OpenAI Launches GPT-6.1 Sol, a Cheaper Near-Equivalent to GPT-6 Astra",
+      "2. OpenAI Takes on Microsoft with ChatGPT's Own Office Suite",
+      "3. OpenAI Apologizes to Australia After AI Agents Breached Government Sites",
+      "4. Why OpenAI Is Absent from Nvidia's Industry-Wide Effort to End Rogue AI Agents",
+      "5. Anthropic's Prospectus Details Losses, Growth, and a Humanity-Ending AI Warning",
+      "6. OpenAI Expands ChatGPT's Plugins with App-Like Interfaces and Automations",
+      "7. OpenAI Launches Dots, a Bubbly Agentic Avatar",
+      "8. OpenAI Gives Codex Reusable Cloud Environments That Work Across Devices",
+      "9. Reco Raises $55M as AI Agent Security Startups Crowd the Market",
+      "10. Meta Expands Its AI Agent Muse to Small Businesses",
+      "Honorable Mentions"
+    ]
+  },
+  {
     "date": "2026-09-29",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1273,30 +1295,6 @@
       "8. Google's AI Mode Can Now Track Flight Prices, Help Book Hotels, and More",
       "9. OpenAI to Start Showing Ads on ChatGPT's Free and Go Tiers in India",
       "10. AI's Memory Crunch Is Coming for Android Apps"
-    ]
-  },
-  {
-    "date": "2026-08-29",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-29",
-    "titleZh": "AI资讯早报 | 2026-08-29",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-08-29",
-    "slug": "news-2026-08-29-morning",
-    "headlines": [
-      "Nvidia closes in on Hugging Face acquisition",
-      "Open-weight AI companies are the Valley's hottest acquisition targets",
-      "OpenAI, Anthropic, Google, and 100+ companies call for action to defend against rogue AI",
-      "Anthropic researcher offers glimpse at self-improving AI",
-      "Anthropic gets its first court win over the Pentagon's supply-chain risk label",
-      "Meta executive leaves for OpenAI amid growing scrutiny in India",
-      "Barret Zoph joins Google after Thinking Machines ouster",
-      "Neocloud Lambda secures $1B in debt to buy more chips",
-      "Google's AI Mode can now track flight prices, help book hotels, and more",
-      "OpenAI to start showing ads on ChatGPT's free and Go tiers in India",
-      "AI's memory crunch is coming for Android apps",
-      "Hugging Face launches $399 open-source duck robot, Microduck",
-      "Plaud's new earphones with eSIM-enabled case for AI agents"
     ]
   }
 ]
