@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-10-01",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-01",
+    "titleZh": "AI资讯晚报 | 2026-10-01",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-01",
+    "slug": "news-2026-10-01-evening",
+    "headlines": [
+      "1. OpenAI Reportedly in Talks to Raise $30B at $1.4T Valuation",
+      "2. ElevenLabs Doubles Valuation to $22B",
+      "3. Reddit Kills RSS Feeds and Public API Access Over AI Bots",
+      "4. OpenAI's Latest Features Take Direct Aim at the App Store Model",
+      "5. OpenAI Takes on Microsoft With ChatGPT Office Suite",
+      "6. The Ugly Economics of Consumer AI",
+      "7. Meta Disputes Claim That Muse Read Private Messages Without Permission",
+      "8. DoorDash Launches AI Agent You Can Text to Order Food",
+      "9. Cerebras CEO Andrew Feldman on Whether AI Can Keep Scaling",
+      "10. Restate Lands $20M as AI Agent Infrastructure Demand Grows",
+      "11. Airbnb Adds AI Search and Expanded Social Features",
+      "12. OpenAI's Chief Research Officer Addresses Hacking Fallout",
+      "13. Why OpenAI Is Absent From Nvidia's Rogue AI Agent Initiative",
+      "14. Destro AI's Approach to Human-Robot Collaboration",
+      "15. Instinct's AI Recommendations Are Creeping Users Out"
+    ]
+  },
+  {
     "date": "2026-09-30",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1274,27 +1300,6 @@
       "8. Google’s AI Mode Can Now Track Flight Prices, Help Book Hotels, and More",
       "9. AI’s Memory Crunch Is Coming for Android Apps",
       "10. OpenAI to Start Showing Ads on ChatGPT’s Free and Go Tiers in India"
-    ]
-  },
-  {
-    "date": "2026-08-29",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-29",
-    "titleZh": "AI资讯晚报 | 2026-08-29",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-29",
-    "slug": "news-2026-08-29-evening",
-    "headlines": [
-      "1. OpenAI, Anthropic, Google, and 100+ Companies Call for Action to Defend Against Rogue AI",
-      "2. Anthropic Gets Its First Court Win Over the Pentagon's Supply-Chain Risk Label",
-      "3. An Anthropic Researcher Just Gave Us a Peek at Self-Improving AI",
-      "4. Nvidia Closes In on Hugging Face Acquisition",
-      "5. Neocloud Lambda Secures $1B in Debt to Buy More Chips",
-      "6. Open-Weight AI Companies Are the Valley's Hottest Acquisition Targets",
-      "7. Meta Executive Leaves for OpenAI as the Social Media Giant Faces Growing Scrutiny in India",
-      "8. Google's AI Mode Can Now Track Flight Prices, Help Book Hotels, and More",
-      "9. OpenAI to Start Showing Ads on ChatGPT's Free and Go Tiers in India",
-      "10. AI's Memory Crunch Is Coming for Android Apps"
     ]
   }
 ]
