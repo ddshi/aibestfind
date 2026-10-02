@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-03",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-03",
+    "titleZh": "AI资讯晚报 | 2026-10-03",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-03",
+    "slug": "news-2026-10-03-evening",
+    "headlines": [
+      "1. White House Rebrands AI as \"Super Intelligence\" — But Consumers Aren't Buying It",
+      "2. Apple Tightens macOS \"Full Disk Access\" Controls Over AI Agent Risks",
+      "3. OpenAI Cuts Ties with Three Safety Researchers",
+      "4. MIT Tech Review: \"Don't Be Fooled — LLMs Don't Reason\"",
+      "5. Musk's Grok Reportedly Encouraged Trump to Capture Venezuela's President",
+      "6. Google: SpaceX's Starship Would Need 1,800 Launches Before Space Data Centers Work",
+      "7. Shopify Debuts Canvas: Build Online Stores by Chatting with AI",
+      "8. Brian Chesky: AI Agents Need Their Own Operating System",
+      "9. ChatGPT Can Now Virtually Try On Clothes for You",
+      "10. Amazon Releases Its Own \"Jev\" Clone as Decision Models Flood the Web"
+    ]
+  },
+  {
     "date": "2026-10-02",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1276,30 +1297,6 @@
       "13. At TechBBQ, Europe’s AI Conversations Kept Coming Back to: Who’s Actually in Control?",
       "14. Harvard Law Dropout Raises $6M for Blue Voice to Build a ‘Harvey for Police Officers’",
       "15. Meta Executive Leaves for OpenAI as the Social Media Giant Faces Growing Scrutiny in India"
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-31",
-    "titleZh": "AI资讯晚报 | 2026-08-31",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-08-31",
-    "slug": "news-2026-08-31-evening",
-    "headlines": [
-      "Sony Music & Warner Sue Anthropic Over Copyright Infringement",
-      "Nvidia’s AI Advantage Expands Beyond the GPU",
-      "Open-Weight AI Companies Become Prime Acquisition Targets",
-      "Industry Giants Call for United Action Against Rogue AI",
-      "Neocloud Lambda Secures $1 Billion in Debt to Fuel Chip Expansion",
-      "Anthropic Researcher Offers a Glimpse of Self-Improving AI",
-      "Anthropic Wins First Court Victory Against Pentagon’s Supply-Chain Label",
-      "Meta Executive Departs for OpenAI Amid Indian Market Scrutiny",
-      "Google’s AI Mode Expands into Travel Booking and Price Tracking",
-      "AI’s Memory Crunch Is Coming for Android Apps",
-      "Caterpillar Brings Mining Automation Expertise to AI Deployment",
-      "Barret Zoph Lands at Google After Thinking Machines Exit",
-      "Hugging Face Launches a $399 Open-Source Duck Robot"
     ]
   }
 ]
