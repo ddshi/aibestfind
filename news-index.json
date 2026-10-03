@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-04",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-04",
+    "titleZh": "AI资讯晚报 | 2026-10-04",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-04",
+    "slug": "news-2026-10-04-evening",
+    "headlines": [
+      "1. OpenAI Safety Employee Resigns, Claiming the Company's 'Culture Is Broken'",
+      "2. Apple Tightens macOS 'Full Disk Access' Controls Due to New Risks from AI Agents",
+      "3. Sean Parker Is Rebuilding Stability AI Around Music",
+      "4. Meta Wants Your Next Gadget to Be Muse-Infused",
+      "5. It's Not AI Anymore, It's 'Super Intelligence' (According to the White House)",
+      "6. Call It AI, Call It Super Intelligence — Only 2% of Consumers Are Buying It",
+      "7. Don't Be Fooled — LLMs Don't Reason",
+      "8. Musk's AI Chatbot Grok Reportedly Encouraged Trump to Capture Venezuela's President",
+      "9. ChatGPT Can Now Virtually Try On Clothes for You",
+      "10. Redefining Enterprise Intelligence with Autonomous AI"
+    ]
+  },
+  {
     "date": "2026-10-03",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1271,27 +1292,6 @@
       "8. Instagram Puts New Limits on Undisclosed AI Profiles",
       "9. Clipto Uses AI to Search Terabytes of Video and Is Now Valued at $250M",
       "10. Amazon Alexa Can Now Alert You When Something New Might Tempt You to Shop"
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-01",
-    "titleZh": "AI资讯早报 | 2026-09-01",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-01",
-    "slug": "news-2026-09-01-morning",
-    "headlines": [
-      "1. Nvidia’s $3.5B MediaTek Bet Reveals Its Plan for Tackling Big Tech’s AI Chip Buildout",
-      "2. Sony Music, Warner Sue Anthropic, Alleging a ‘Brazen Campaign’ of Intellectual Property Theft",
-      "3. Apple Shares ‘Shocking Evidence’ Against Former Employee Accused of Stealing Company Data for OpenAI",
-      "4. The Pentagon Now Has Its Own Version of ChatGPT and Grok",
-      "5. The Hugging Face Hack Could Indicate Cultural Issues at OpenAI",
-      "6. Instagram Puts New Limits on Undisclosed AI Profiles",
-      "7. An Anthropic Researcher Just Gave Us a Peek at Self-Improving AI",
-      "8. Harvard Law Dropout Raises $6M for Blue Voice to Build a ‘Harvey for Police Officers’",
-      "9. Neocloud Lambda Secures $1B in Debt to Buy More Chips",
-      "10. Open-Weight AI Companies Are the Valley’s Hottest Acquisition Targets"
     ]
   }
 ]
