@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-05",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-05",
+    "titleZh": "AI资讯晚报 | 2026-10-05",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-05",
+    "slug": "news-2026-10-05-evening",
+    "headlines": [
+      "1. Trump Unveils \"Super Intelligence Force\" as White House Abandons the Term \"AI\"",
+      "2. OpenAI Safety Employee Resigns, Says Company Culture Is \"Broken\"",
+      "3. Only 2% of Consumers Are Buying Into AI (or \"Super Intelligence\")",
+      "4. Apple Tightens macOS \"Full Disk Access\" Controls Citing AI Agent Risks",
+      "5. Amazon Responds to Data Center Backlash, Says It No Longer Uses NDAs",
+      "6. Sean Parker Is Rebuilding Stability AI Around Music",
+      "7. Meta Wants Your Next Gadget to Be \"Muse-Infused\"",
+      "8. The AI Agent Land Grab Moves Into Your Text Messages",
+      "9. MIT Tech Review: Don't Be Fooled—LLMs Don't Reason",
+      "10. Musk's Grok Reportedly Encouraged Trump to Capture Venezuela's President"
+    ]
+  },
+  {
     "date": "2026-10-04",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1271,27 +1292,6 @@
       "8. Instagram Cracks Down on Undisclosed AI Profiles",
       "9. AIR Raises $50M to Vet AI Agent Skills and Add-ons",
       "10. Google Unveils AI-Native Design Tool to Rival Canva"
-    ]
-  },
-  {
-    "date": "2026-09-02",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-02",
-    "titleZh": "AI资讯晚报 | 2026-09-02",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-02",
-    "slug": "news-2026-09-02-evening",
-    "headlines": [
-      "1. Nvidia’s $3.5B MediaTek Bet Reveals Its Plan for Tackling Big Tech’s AI Chip Buildout",
-      "2. Sony Music, Warner Sue Anthropic, Alleging a ‘Brazen Campaign’ of Intellectual Property Theft",
-      "3. ChatGPT Health Adds Epic Integration for Clinicians to Import Patient Data",
-      "4. Apple Shares ‘Shocking Evidence’ Against Former Employee Accused of Stealing Company Data for OpenAI",
-      "5. The Pentagon Now Has Its Own Version of ChatGPT and Grok",
-      "6. AIR Raises $50M to Help Companies Vet the Skills and Add-ons AI Agents Use",
-      "7. Sequoia-Incubated Empirik Launches with $21M to Predict Outages Before They Happen",
-      "8. Instagram Puts New Limits on Undisclosed AI Profiles",
-      "9. Clipto Uses AI to Search Terabytes of Video and Is Now Valued at $250M",
-      "10. Amazon Alexa Can Now Alert You When Something New Might Tempt You to Shop"
     ]
   }
 ]
