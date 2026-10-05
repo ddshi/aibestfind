@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-06",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-06",
+    "titleZh": "AI资讯早报 | 2026-10-06",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-06",
+    "slug": "news-2026-10-06-morning",
+    "headlines": [
+      "1. OpenAI Will Start Watermarking ChatGPT's Text in the EU",
+      "2. Trump Unveils His New Super Intelligence Force",
+      "3. Reflection Debuts Beam, an Open-Weight Model to Rival Chinese Models at Lower Compute Cost",
+      "4. OpenAI Launches Visual Ads That Appear Alongside Image Generation Results",
+      "5. Google Froze Its Open Source Bug Bounty Program Due to a 'Significant Rise' in AI Submissions",
+      "6. TikTok Rolls Out an AI Shopping Assistant and One-Click Checkout",
+      "7. Researchers Are Tracking a Chinese AI 'Agent Fleet'",
+      "8. HackerRank's AI Interviewer Offers a Glimpse Into What Job Interviews Could Become",
+      "9. People Really Hate AI, So Why Can't They Get Enough?",
+      "10. Connecting AI Agents to Enterprise Knowledge"
+    ]
+  },
+  {
     "date": "2026-10-05",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1271,27 +1292,6 @@
       "8. Anthropic's New Fable Release Is Cheaper, Less Restrictive",
       "9. ChatGPT Health Adds Epic Integration for Clinicians to Import Patient Data",
       "10. Amazon's Shopping AI Can Now Tell You if That Message Is a Scam"
-    ]
-  },
-  {
-    "date": "2026-09-02",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-02",
-    "titleZh": "AI资讯早报 | 2026-09-02",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-02",
-    "slug": "news-2026-09-02-morning",
-    "headlines": [
-      "1. OpenAI’s Astra Model Shows Dangerous Prowess in Cybersecurity",
-      "2. AfterQuery Achieves Historic $3.2B Valuation, Fastest Unicorn in YC History",
-      "3. OpenAI Expands into Healthcare with Epic Integration for ChatGPT Health",
-      "4. Anthropic Launches Fable: Cheaper, Less Restrictive AI Alternative",
-      "5. Pentagon Deploys Classified AI Chatbot for Military Intelligence",
-      "6. Apple Accuses Former Employee of Stealing Trade Secrets for OpenAI",
-      "7. Empirik Launches with $21M to Predict Infrastructure Outages Using AI",
-      "8. Instagram Cracks Down on Undisclosed AI Profiles",
-      "9. AIR Raises $50M to Vet AI Agent Skills and Add-ons",
-      "10. Google Unveils AI-Native Design Tool to Rival Canva"
     ]
   }
 ]
