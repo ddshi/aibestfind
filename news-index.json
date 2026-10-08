@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-09",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-09",
+    "titleZh": "AI资讯晚报 | 2026-10-09",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-09",
+    "slug": "news-2026-10-09-evening",
+    "headlines": [
+      "1. OpenAI's Revenue Reportedly Falls $20 Billion Short of Projections",
+      "2. Google Brings Agentic AI to Gemini, Starting with Businesses",
+      "3. China's Manus Raises Over $500M in First Funding Round Since Meta Split",
+      "4. Anthropic Tightens Usage Policy to Ban Model Abuse and Election Interference",
+      "5. Arena Nearly Doubles Valuation to $3.1B in Just 10 Months",
+      "6. Goodfire Launches 'Inside-Out' Monitors to Catch Rogue AI Agents",
+      "7. Microsoft Releases New Nvidia-Chip AI PCs with Revamped Windows 11",
+      "8. Nous Research Confirms $1.5B Valuation, Launches Business AI Agents",
+      "9. Natura's $99 Smart Ring Puts AI Agents on Your Finger",
+      "10. MIT Tech Review: AI Robotics Breakthroughs Won't Change Your Life Anytime Soon"
+    ]
+  },
+  {
     "date": "2026-10-08",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1269,27 +1290,6 @@
       "8. Google’s Gemini Spark Can Now Manage Your Google Photos Library",
       "9. Data from Drones in Ukraine Is Fueling a New Wild West Marketplace",
       "10. Meta Is Paying to Peek at How You Use Their Latest AI Model"
-    ]
-  },
-  {
-    "date": "2026-09-04",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-04",
-    "titleZh": "AI资讯早报 | 2026-09-04",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-04",
-    "slug": "news-2026-09-04-morning",
-    "headlines": [
-      "1. Nvidia Confirms $12.9 Billion Acquisition of Hugging Face",
-      "2. OpenAI Launches Astra: A Powerful and Controversial New Model",
-      "3. Crusoe Reportedly Raises $3 Billion at a $30 Billion Valuation",
-      "4. Accel in Talks to Lead $1 Billion Round for Thinking Machines at $40 Billion Valuation",
-      "5. US Government Sides with OpenAI on Copyrighted Training Data",
-      "6. Abliteration.ai Is Making a Business Out of Removing AI Guardrails",
-      "7. Meta Is Paying Users to Peek at How They Use Their Latest AI Model",
-      "8. Ollie Bets on Privacy to Win the AI Assistant Race",
-      "9. The Sameness Problem Behind Those Unappetizing AI-Generated Menus",
-      "10. Google's Latest AI Weather Model Gives You No Excuse to Forget Your Umbrella"
     ]
   }
 ]
