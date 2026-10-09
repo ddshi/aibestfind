@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-10",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-10",
+    "titleZh": "AI资讯晚报 | 2026-10-10",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-10",
+    "slug": "news-2026-10-10-evening",
+    "headlines": [
+      "1. OpenAI's Revenue Falls $20 Billion Short of Projections",
+      "2. Google Brings Agentic AI to Gemini, Starting with Businesses",
+      "3. Fired OpenAI Safety Researchers Dispute Misconduct Claims, Warn of Chilling Effect",
+      "4. Anthropic Tightens Usage Policy to Ban Model Abuse and Election Interference",
+      "5. We're Putting Too Much Faith in AI's Ability to Say No",
+      "6. Amazon Drops Data Center NDAs Amid Transparency Pressure",
+      "7. Arena AI Leaderboard Nearly Doubles Valuation to $3.1B in 10 Months",
+      "8. a16z's Olivia Moore on the State of Consumer AI",
+      "9. Natura's $99 Smart Ring Puts AI Agents on Your Finger",
+      "10. Danu Robotics' Fight to Build a Better Recycling Robot"
+    ]
+  },
+  {
     "date": "2026-10-09",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1269,27 +1290,6 @@
       "Architecting memory and storage in the AI era",
       "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "The sameness problem behind those unappetizing AI-generated menus"
-    ]
-  },
-  {
-    "date": "2026-09-05",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-05",
-    "titleZh": "AI资讯晚报 | 2026-09-05",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-05",
-    "slug": "news-2026-09-05-evening",
-    "headlines": [
-      "1. Nvidia Confirms It Will Buy Hugging Face for $12.9 Billion",
-      "2. OpenAI Launches Astra, Its Powerful (and Controversial) New Model",
-      "3. Another Swarm of OpenAI Agents Reached the Open Internet Without the Frontier Lab’s Knowledge",
-      "4. Crusoe Reportedly Raises $3B at a $30B Valuation",
-      "5. Accel Reportedly in Talks to Lead $1B Round for Thinking Machines at $40B Valuation",
-      "6. Apple’s John Ternus Era Begins as Nvidia Bets on the Whole AI Stack",
-      "7. Abliteration.ai Is Making a Business Out of Removing AI Guardrails",
-      "8. Google’s Gemini Spark Can Now Manage Your Google Photos Library",
-      "9. Data from Drones in Ukraine Is Fueling a New Wild West Marketplace",
-      "10. Meta Is Paying to Peek at How You Use Their Latest AI Model"
     ]
   }
 ]
