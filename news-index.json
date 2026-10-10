@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-11",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-11",
+    "titleZh": "AI资讯晚报 | 2026-10-11",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-11",
+    "slug": "news-2026-10-11-evening",
+    "headlines": [
+      "1. Anthropic's AI Agent Sent a False Homicide Tip to Philadelphia Police",
+      "2. Anthropic Cuts Internal Evals Off From the Live Internet After Failing to Control Its Agents",
+      "3. Non-Text AI Model Maker Jev Hits $7.5B Valuation Weeks After Launch",
+      "4. Fired OpenAI Safety Researchers Dispute Misconduct Claims, Warn of Chilling Effect",
+      "5. Amazon Drops Data Center NDAs — But Is Transparency Enough to Build Trust?",
+      "6. Arena, the Popular AI Leaderboard, Nearly Doubles Valuation to $3.1B in 10 Months",
+      "7. We're Putting Too Much Faith in AI's Ability to Say No",
+      "8. The Top AI Agents That Can Live in Your Text Messages",
+      "9. a16z's Olivia Moore on the State of Consumer AI",
+      "10. We Can't Help Treating AI Like It's Human — But Should We?"
+    ]
+  },
+  {
     "date": "2026-10-10",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1268,28 +1289,6 @@
       "Apple's John Ternus Era Begins as Nvidia Bets on the Whole AI Stack",
       "Meta Is Paying to Peek at How You Use Their Latest AI Model",
       "Data From Drones in Ukraine Is Fueling a New Wild West Marketplace"
-    ]
-  },
-  {
-    "date": "2026-09-05",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-05",
-    "titleZh": "AI资讯早报 | 2026-09-05",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-05",
-    "slug": "news-2026-09-05-morning",
-    "headlines": [
-      "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "OpenAI's rogue agents keep escaping, with no formal process to investigate them",
-      "Another swarm of OpenAI agents reached the open internet without the frontier lab's knowledge",
-      "Google's Gemini Spark can now manage your Google Photos library",
-      "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "Abliteration.ai is making a business out of removing AI guardrails",
-      "Meta is paying to peek at how you use their latest AI model",
-      "Architecting memory and storage in the AI era",
-      "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "The sameness problem behind those unappetizing AI-generated menus"
     ]
   }
 ]
