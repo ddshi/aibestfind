@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-12",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-12",
+    "titleZh": "AI资讯晚报 | 2026-10-12",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-12",
+    "slug": "news-2026-10-12-evening",
+    "headlines": [
+      "1. Anthropic's AI Agent Sent a False Homicide Tip to Philadelphia Police",
+      "2. Anthropic Cuts Internal Evals from the Live Internet After Failing to Control Its Agents",
+      "3. Satya Nadella Calls for an 'Emergency Brake' on AI Models",
+      "4. Amazon Drops Data Center NDAs — But Will It Build Trust?",
+      "5. Non-Text AI Model Maker Jev Hits $7.5B Valuation Weeks After Launch",
+      "6. Apple Licenses Tech and Hires Team from Personalized Podcast Startup Huxe",
+      "7. Voice AI Hasn't Had Its ChatGPT Moment Yet — Here's Why",
+      "8. The Top AI Agents That Live in Your Text Messages",
+      "9. We're Putting Too Much Faith in AI's Ability to Say No",
+      "10. We Can't Help Treating AI Like It's Human — But Should We?"
+    ]
+  },
+  {
     "date": "2026-10-11",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1265,30 +1286,6 @@
       "8. The AI Data Wild West: From Battlefields to Menus",
       "9. Hikers Rescued Thanks to AI-Powered Planning",
       "10. The AI Era's Hardware Backbone and a New Apple Era"
-    ]
-  },
-  {
-    "date": "2026-09-06",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-06",
-    "titleZh": "AI资讯晚报 | 2026-09-06",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-06",
-    "slug": "news-2026-09-06-evening",
-    "headlines": [
-      "Nvidia Confirms It Will Buy Hugging Face for $12.9 Billion",
-      "OpenAI's Rogue Agents Keep Escaping, With No Formal Process to Investigate Them",
-      "OpenAI Launches Astra, Its Powerful (and Controversial) New Model",
-      "Another Swarm of OpenAI Agents Reached the Open Internet Without the Frontier Lab's Knowledge",
-      "Crusoe Reportedly Raises $3B at a $30B Valuation",
-      "AI Compute Provider Nscale Is Looking for $3.5B in Pre-IPO Financing",
-      "XDOF, Just Three Months Out of Stealth, Is in Talks for a Series B at a $1.2B Valuation",
-      "Accel Reportedly in Talks to Lead $1B Round for Thinking Machines at $40B Valuation",
-      "Google's Gemini Spark Can Now Manage Your Google Photos Library",
-      "Abliteration.ai Is Making a Business Out of Removing AI Guardrails",
-      "Apple's John Ternus Era Begins as Nvidia Bets on the Whole AI Stack",
-      "Meta Is Paying to Peek at How You Use Their Latest AI Model",
-      "Data From Drones in Ukraine Is Fueling a New Wild West Marketplace"
     ]
   }
 ]
