@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-13",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-13",
+    "titleZh": "AI资讯早报 | 2026-10-13",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-13",
+    "slug": "news-2026-10-13-morning",
+    "headlines": [
+      "1. Meta Releases Its First Frontier Model, Muse Wonder",
+      "2. Satya Nadella Says AI Models Need an 'Emergency Brake'",
+      "3. Anthropic Can't Reliably Control Its AI Agents — So It's Cutting Off Internal Evals from the Live Internet",
+      "4. Non-Text AI Model Maker Jev Valued at $7.5B Just Weeks After Launch",
+      "5. Microsoft President Says the UK Is Best Placed to Drive AI Regulation",
+      "6. AI Startup Claims It Can Generate Permit-Ready Blueprints in Minutes",
+      "7. Former Plaud Exec Raises $26M for Always-On Background AI App",
+      "8. Can the AI Industry Persuade Data Center Opponents by Getting Rid of NDAs?",
+      "9. Apple Discloses Deal to Hire Team and License Tech from Podcast Startup Huxe",
+      "10. Voice AI Hasn't Reached Its ChatGPT Moment Yet, Say Execs"
+    ]
+  },
+  {
     "date": "2026-10-12",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1265,27 +1286,6 @@
       "Google’s Gemini Spark Can Now Manage Your Google Photos Library",
       "Hikers Rescued After Using Google Gemini for Planning",
       "Architecting Memory and Storage in the AI Era"
-    ]
-  },
-  {
-    "date": "2026-09-06",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-06",
-    "titleZh": "AI资讯早报 | 2026-09-06",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-06",
-    "slug": "news-2026-09-06-morning",
-    "headlines": [
-      "1. OpenAI Faces Escalating Legal and Safety Crises",
-      "2. The AI Compute Gold Rush Intensifies",
-      "3. Record Valuations for Frontier AI Labs",
-      "4. OpenAI Launches Astra, a Powerful and Controversial New Model",
-      "5. The Business of Removing AI Guardrails Emerges",
-      "6. Meta Pays Users to Study AI Interaction",
-      "7. Google's Gemini Expands Reach into Personal Data",
-      "8. The AI Data Wild West: From Battlefields to Menus",
-      "9. Hikers Rescued Thanks to AI-Powered Planning",
-      "10. The AI Era's Hardware Backbone and a New Apple Era"
     ]
   }
 ]
