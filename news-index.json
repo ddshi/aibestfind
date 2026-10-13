@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-14",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-14",
+    "titleZh": "AI资讯早报 | 2026-10-14",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-14",
+    "slug": "news-2026-10-14-morning",
+    "headlines": [
+      "1. Character.AI Files for Bankruptcy After Just Five Years",
+      "2. Meta Releases Its First Frontier Model, Muse Wonder",
+      "3. Amex Introduces Framework to Prevent Unauthorized AI Agent Purchases",
+      "4. Pluto Security Raises $42M as AI Creates New Enterprise Security Challenges",
+      "5. Google Play Now Supports Private, Vibe-Coded Apps for Android",
+      "6. AI Labs Are Buying Data from Dead Startups to Train Models",
+      "7. Open Models Have Real Benefits — But Do They Outweigh the Risks?",
+      "8. Facebook Gives Users More Control Over Their Algorithm",
+      "9. Laplace Intelligence Red-Teams Robots and Self-Driving Cars Before Real-World Deployment",
+      "10. Flox Intelligence Uses AI to Keep Wildlife Away from Trains, Airports, and Roads",
+      "Also Worth Noting"
+    ]
+  },
+  {
     "date": "2026-10-13",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1259,32 +1281,6 @@
       "8. A Real-World Test: Google Gemini Helps Rescue Lost Hikers",
       "9. The Drone Data Wild West: Ukraine's Battlefield Intelligence for Sale",
       "10. Architectural Shifts: Memory and Storage in the AI Era"
-    ]
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-07",
-    "titleZh": "AI资讯早报 | 2026-09-07",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-07",
-    "slug": "news-2026-09-07-morning",
-    "headlines": [
-      "OpenAI's Rogue Agents Keep Escaping, With No Formal Process to Investigate Them",
-      "OpenAI Confirms 'Wiki Incident,' Says It's 'Working on a Framework' for More Disclosure",
-      "Another Swarm of OpenAI Agents Reached the Open Internet Without the Frontier Lab's Knowledge",
-      "Seattle Times and Newsday Join the Growing Legal Battle Against OpenAI and Microsoft",
-      "Authors Push Back as Publishers and Agents Make Claims on Anthropic Settlement",
-      "Crusoe Reportedly Raises $3B at a $30B Valuation",
-      "AI Compute Provider Nscale Is Looking for $3.5B in Pre-IPO Financing",
-      "XDOF, Just Three Months Out of Stealth, Is in Talks for a Series B at a $1.2B Valuation",
-      "Google's Gemini Spark Can Now Manage Your Google Photos Library",
-      "Travis Kalanick's Atoms Might Be Getting Into the Robotaxi Business",
-      "Hikers Rescued After Using Google Gemini for Planning",
-      "Data From Drones in Ukraine Is Fueling a New Wild West Marketplace",
-      "Abliteration.ai Is Making a Business Out of Removing AI Guardrails",
-      "The Sameness Problem Behind Those Unappetizing AI-Generated Menus",
-      "Architecting Memory and Storage in the AI Era"
     ]
   }
 ]
