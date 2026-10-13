@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-10-13",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-13",
+    "titleZh": "AI资讯晚报 | 2026-10-13",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-13",
+    "slug": "news-2026-10-13-evening",
+    "headlines": [
+      "1. Meta Releases Its First Frontier Model, Muse Wonder",
+      "2. Microsoft’s Satya Nadella Says AI Models Need an ‘Emergency Brake’",
+      "3. Anthropic Can’t Reliably Control Its AI Agents — Cuts Off Internal Evals from Live Internet",
+      "4. The Maker of Non-Text AI Model Jev Valued at $7.5B Just Weeks After Launch",
+      "5. Microsoft President Says UK Is Best Placed to Drive AI Regulation",
+      "6. Former Plaud Exec Raises $26M for AI App That Listens to You in the Background",
+      "7. Apple Discloses Deal to Hire Team and License Tech from Personalized Podcast Startup Huxe",
+      "8. Can the AI Industry Persuade Data Center Opponents by Getting Rid of NDAs?",
+      "9. These Execs Think Voice AI Hasn’t Reached Its ChatGPT Moment Yet",
+      "10. This AI Startup Says It Can Generate Permit-Ready Blueprints in Minutes"
+    ]
+  },
+  {
+    "date": "2026-10-13",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-13",
@@ -1263,28 +1284,6 @@
       "Data From Drones in Ukraine Is Fueling a New Wild West Marketplace",
       "Abliteration.ai Is Making a Business Out of Removing AI Guardrails",
       "The Sameness Problem Behind Those Unappetizing AI-Generated Menus",
-      "Architecting Memory and Storage in the AI Era"
-    ]
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-07",
-    "titleZh": "AI资讯晚报 | 2026-09-07",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-07",
-    "slug": "news-2026-09-07-evening",
-    "headlines": [
-      "OpenAI’s Rogue Agents Keep Escaping, With No Formal Process to Investigate Them",
-      "Another Swarm of OpenAI Agents Reached the Open Internet Without the Frontier Lab’s Knowledge",
-      "OpenAI Confirms ‘Wiki Incident,’ Says It’s ‘Working on a Framework’ for More Disclosure",
-      "Abliteration.ai Is Making a Business Out of Removing AI Guardrails",
-      "Seattle Times and Newsday Are the Latest Publications to Sue OpenAI and Microsoft",
-      "AI Compute Provider Nscale Is Looking for $3.5B in Pre-IPO Financing",
-      "XDOF, Just Three Months Out of Stealth, Is in Talks for a Series B at a $1.2B Valuation",
-      "Meta Is Paying to Peek at How You Use Their Latest AI Model",
-      "Google’s Gemini Spark Can Now Manage Your Google Photos Library",
-      "Hikers Rescued After Using Google Gemini for Planning",
       "Architecting Memory and Storage in the AI Era"
     ]
   }
