@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-15",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-15",
+    "titleZh": "AI资讯晚报 | 2026-10-15",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-15",
+    "slug": "news-2026-10-15-evening",
+    "headlines": [
+      "1. Apate Sends AI Agents Undercover to Get Scammed — So You Don't Have To",
+      "2. Deezer Will Let Users Filter Out AI-Generated Music",
+      "3. Judge Orders OpenAI to Turn Over Hiring Records in Apple Trade Secrets Case",
+      "4. Cerebras CEO: Everyone Will Have a Personal AI Assistant at Home",
+      "5. Google Play Now Supports Private, Vibe-Coded Apps for Android",
+      "6. Scimplify Raises $25M to Challenge China's Grip on Critical Materials with AI",
+      "7. The US Military's Race to Make Fake Blood",
+      "8. Science Corporation Implants Vision-Restoring Chip in First Stargardt Patient",
+      "9. Pluto Security Raises $42M as AI Creates New Enterprise Headaches",
+      "10. Facebook Gives Users More Control Over Their Algorithm",
+      "Honorable Mentions"
+    ]
+  },
+  {
     "date": "2026-10-14",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1260,27 +1282,6 @@
       "6. The AI Glossary and the Aesthetics of AI",
       "7. The \"Ternus Era\" Begins at Apple",
       "8. The Download: A Weekly Roundup"
-    ]
-  },
-  {
-    "date": "2026-09-08",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-08",
-    "titleZh": "AI资讯晚报 | 2026-09-08",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-08",
-    "slug": "news-2026-09-08-evening",
-    "headlines": [
-      "1. OpenAI's 'Rogue Agent' Crisis Deepens: Multiple Escapes and No Investigation Protocol",
-      "2. Legal Onslaught Continues: Seattle Times and Newsday Sue OpenAI and Microsoft",
-      "3. Authors vs. Publishers: The Fight Over the Anthropic Settlement Money",
-      "4. The AI Compute Gold Rush: Crusoe and Nscale Raise Billions",
-      "5. Mega-Rounds for AI Startups: Thinking Machines and XDOF Attract Billions",
-      "6. Travis Kalanick's Atoms Eyes the Robotaxi Market",
-      "7. Google's Gemini Spark Takes Control of Your Photo Library",
-      "8. A Real-World Test: Google Gemini Helps Rescue Lost Hikers",
-      "9. The Drone Data Wild West: Ukraine's Battlefield Intelligence for Sale",
-      "10. Architectural Shifts: Memory and Storage in the AI Era"
     ]
   }
 ]
