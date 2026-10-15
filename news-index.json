@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-16",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-16",
+    "titleZh": "AI资讯晚报 | 2026-10-16",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-16",
+    "slug": "news-2026-10-16-evening",
+    "headlines": [
+      "1. Amazon's Bee Launches Two New Personal AI Devices, Starting at $75",
+      "2. AI Agents Are Coming to Rivian's Cars",
+      "3. Figma Announces New Features to Define How Agents Work on Its Platform",
+      "4. YouTube Music Launches New Labels as AI-Generated Music Floods Streaming Platforms",
+      "5. Deezer Will Soon Let You Filter Out AI-Generated Music",
+      "6. Pig Kidneys Frozen for a Year Have Been Brought Back to Life",
+      "7. Ricursive Intelligence Is Betting on AI-Designed Chips to Help Solve the Compute Crisis",
+      "8. Zenzap Raises $44M for Its AI Chat App That Aims to Replace WhatsApp in the Workplace",
+      "9. Apate Sends AI Agents Undercover to Get Scammed So They Can Gather Fraud Intelligence",
+      "10. Gudea Leverages AI to Help Organizations Prevent Social Media Crises Before They Erupt"
+    ]
+  },
+  {
     "date": "2026-10-15",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1261,29 +1282,6 @@
       "8. Chrome Is Now Shipping Updates Every 2 Weeks as AI Changes the Security Landscape",
       "9. Seattle Times and Newsday Are the Latest Publications to Sue OpenAI and Microsoft",
       "10. Authors Push Back as Publishers and Agents Make Claims on Anthropic Settlement"
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-09",
-    "titleZh": "AI资讯晚报 | 2026-09-09",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-09",
-    "slug": "news-2026-09-09-evening",
-    "headlines": [
-      "Mistral raises €3B as sovereign AI becomes big business",
-      "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "This founder is teaching chips how to recycle (their energy)",
-      "This founder is making cheaper, cleaner steel"
     ]
   }
 ]
