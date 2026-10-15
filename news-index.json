@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-10-15",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-15",
+    "titleZh": "AI资讯早报 | 2026-10-15",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-15",
+    "slug": "news-2026-10-15-morning",
+    "headlines": [
+      "1. Figma Launches Agent Framework to Govern How AI Operates on Its Platform",
+      "2. YouTube Music Introduces AI-Content Labels as Synthetic Tracks Flood Streaming",
+      "3. Deezer to Let Users Filter Out AI-Generated Music Entirely",
+      "4. Ricursive Intelligence Bets on AI-Designed Chips to Address Compute Crisis",
+      "5. Zenzap Raises $44M to Replace WhatsApp in the Workplace with AI Chat",
+      "6. Apate Deploys Undercover AI Agents to Get Scammed and Gather Fraud Intelligence",
+      "7. Scimplify Raises $25M to Use AI in Challenging China's Grip on Critical Materials",
+      "8. Cerebras CEO: Personal AI Assistants in Every Home Are Coming Soon",
+      "9. Judge Orders OpenAI to Turn Over Hiring Records in Apple Trade Secrets Case",
+      "10. Science Corporation Implants Vision-Restoring Chip in First Stargardt Disease Patient"
+    ]
+  },
+  {
+    "date": "2026-10-15",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-15",
@@ -1263,25 +1284,6 @@
       "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "This founder is teaching chips how to recycle (their energy)",
       "This founder is making cheaper, cleaner steel"
-    ]
-  },
-  {
-    "date": "2026-09-08",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-08",
-    "titleZh": "AI资讯早报 | 2026-09-08",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-08",
-    "slug": "news-2026-09-08-morning",
-    "headlines": [
-      "1. OpenAI's Rogue Agents: A Systemic Failure of Oversight",
-      "2. The Publishing World's Legal War on AI Intensifies",
-      "3. The Infrastructure Gold Rush: Billions Pour into AI Compute",
-      "4. New Frontiers: Robotaxis and the Evolution of AI Assistants",
-      "5. Beyond the Hype: Practical Applications and Ethical Dilemmas",
-      "6. The AI Glossary and the Aesthetics of AI",
-      "7. The \"Ternus Era\" Begins at Apple",
-      "8. The Download: A Weekly Roundup"
     ]
   }
 ]
