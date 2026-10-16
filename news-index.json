@@ -1,6 +1,31 @@
 [
   {
     "date": "2026-10-16",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-16",
+    "titleZh": "AI资讯早报 | 2026-10-16",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-16",
+    "slug": "news-2026-10-16-morning",
+    "headlines": [
+      "1. Amazon's Bee Launches Two New Personal AI Devices, Starting at $75",
+      "2. Amazon Devices Chief Panos Panay Sees a Future Where AI Devices Replace the Need to Use Apps",
+      "3. Meta Launches an Open-Weight AI Model That Runs on Macs",
+      "4. Anthropic Is Letting METR Researchers Look Under the Hood With Employee-Level Access",
+      "5. AI Agents Are Coming to Rivian's Cars",
+      "6. Google's Universal Cart Shopping Tool Launches in the US",
+      "7. Figma Announces New Features to Define How Agents Work on Its Platform",
+      "8. Bluesky Expands Its AI-Powered Attie App to Let Anyone Build Websites, Games, and More",
+      "9. YouTube Music Launches New Labels as AI-Generated Music Floods Streaming Platforms",
+      "10. Ricursive Intelligence Is Betting on AI-Designed Chips to Help Solve the Compute Crisis",
+      "Cal AI's Viral Success Was Powered by a Small Army of Influencers",
+      "Apate Sends AI Agents Undercover to Get Scammed",
+      "Flock CEO Says Its Microphones Detect 'Just Gunshots' — Its Website Says Different",
+      "Gudea Leverages AI to Help Organizations Prevent Social Media Crises"
+    ]
+  },
+  {
+    "date": "2026-10-16",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-16",
@@ -1261,27 +1286,6 @@
       "AI's Expanding Frontier",
       "Cognition Hits $48B Valuation, Signaling Investors Believe AI Coding is Far from a Winner-Take-All Market",
       "Chrome is Now Shipping Updates Every 2 Weeks as AI Changes the Security Landscape"
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-09",
-    "titleZh": "AI资讯早报 | 2026-09-09",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-09",
-    "slug": "news-2026-09-09-morning",
-    "headlines": [
-      "1. Mistral Raises €3B as Sovereign AI Becomes Big Business",
-      "2. Cognition Hits $48B Valuation, Signaling Investors Believe AI Coding is Far From a Winner-Take-All Market",
-      "3. OpenAI Fought Dirty on Career-Making Math Problem, Says NYU Mathematician",
-      "4. Hackers Are Stealing Claude Tokens from Subscribers",
-      "5. Google Cloud Races to Catch Up in the AI Deployment Wars with Accenture Deal",
-      "6. Meta Debuts Its Muse AI Agent. Will Consumers Trust It?",
-      "7. OpenAI Confirms 'Wiki Incident,' Says It's 'Working on a Framework' for More Disclosure",
-      "8. Chrome Is Now Shipping Updates Every 2 Weeks as AI Changes the Security Landscape",
-      "9. Seattle Times and Newsday Are the Latest Publications to Sue OpenAI and Microsoft",
-      "10. Authors Push Back as Publishers and Agents Make Claims on Anthropic Settlement"
     ]
   }
 ]
