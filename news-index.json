@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-17",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-17",
+    "titleZh": "AI资讯晚报 | 2026-10-17",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-17",
+    "slug": "news-2026-10-17-evening",
+    "headlines": [
+      "1. Meta Launches Open-Weight AI Model That Runs on Macs",
+      "2. Anthropic Grants METR Researchers Employee-Level Access for Safety Audits",
+      "3. Jev Becomes Vercel's Fastest-Adopted AI Model Ever",
+      "4. Replit CEO: The Future of Work Is the \"Self-Driving Company\"",
+      "5. Elorian's First AI Model Reasons With Images, Not Just About Them",
+      "6. Nvidia Veteran Turned VC: Physical AI Is More Than Robots",
+      "7. Why Robotics Hasn't Hit Its ChatGPT Moment Yet",
+      "8. Amazon Devices Chief: AI Devices Will Replace the Need for Apps",
+      "9. AI Agents Are Coming to Rivian's Cars",
+      "10. Bluesky Expands Attie App to Let Anyone Build Websites and Games"
+    ]
+  },
+  {
     "date": "2026-10-16",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1258,34 +1279,6 @@
       "12. Sequoia Doubles Down on Cymphony as AI Agents Create New Enterprise Security Risks",
       "13. Besxar Is Building an Orbital Semiconductor Factory, One SpaceX Rocket at a Time",
       "14. Viral AI Assistant Instinct Now Has Its Own Email Address"
-    ]
-  },
-  {
-    "date": "2026-09-10",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-10",
-    "titleZh": "AI资讯晚报 | 2026-09-10",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-10",
-    "slug": "news-2026-09-10-evening",
-    "headlines": [
-      "The Superintelligence Debate Intensifies",
-      "Anthropic Researcher Quits, Warns Against Self-Improving AI",
-      "ControlAI’s Connor Leahy on Why Superintelligence is ‘Not a Weapon, It’s an Adversary’",
-      "AI Assistants Move In on Everyday Life",
-      "Meta Debuts Its Muse AI Agent. Will Consumers Trust It?",
-      "Instacart Launches an AI Grocery Shopping Assistant Called Clementine",
-      "Shipt Becomes the Latest Delivery App with an AI Shopping Assistant",
-      "Enterprise AI: Security, Spending, and Deployment",
-      "Sequoia Doubles Down on Cymphony as AI Agents Create New Enterprise Security Risks",
-      "Google Cloud Races to Catch Up in the AI Deployment Wars with Accenture Deal",
-      "AI Spend Per Employee Slumped at Top Firms in August — Summer Doldrums or a Warning Sign?",
-      "Security Threats and Legal Battles",
-      "Hackers Are Stealing Claude Tokens from Subscribers",
-      "Suno Replaces Its AI Models with a New One Trained on Licensed Music as Copyright Suits Pile Up",
-      "AI's Expanding Frontier",
-      "Cognition Hits $48B Valuation, Signaling Investors Believe AI Coding is Far from a Winner-Take-All Market",
-      "Chrome is Now Shipping Updates Every 2 Weeks as AI Changes the Security Landscape"
     ]
   }
 ]
