@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-18",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-18",
+    "titleZh": "AI资讯晚报 | 2026-10-18",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-18",
+    "slug": "news-2026-10-18-evening",
+    "headlines": [
+      "1. Replit Cuts Ties With Anthropic as Model-Provider Independence Becomes a Boardroom Issue",
+      "2. India Reports Rogue AI Agent Activity, Expanding the Autonomous-Agent Problem to a Global Stage",
+      "3. Anthropic Grants METR Employee-Level Access for Independent Safety Research",
+      "4. Meta Ships Open-Weight Model That Runs Locally on Macs",
+      "5. Elorian Debuts a Model Built to Reason With Images, Not Just About Them",
+      "6. Jev Becomes Vercel's Fastest-Adopted AI Model Ever",
+      "7. Nvidia Veteran Turned VC: Robotics Still Hasn't Had Its ChatGPT Moment",
+      "8. Replit CEO Pitches the \"Self-Driving Company\" as the Future of Work",
+      "9. MIT Technology Review: A Conversation With the Creator of AI-Designed Viruses",
+      "10. Amazon Devices Chief Panos Panay: AI Devices Will Replace the Need for Apps",
+      "Quick Hits"
+    ]
+  },
+  {
     "date": "2026-10-17",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1254,27 +1276,6 @@
       "8. OpenAI Adds a Prominent AI Doomer to Its Board of Directors",
       "9. Apple Watch's New AI Features Are Normalizing Always-Listening Technology",
       "10. Powering AI Is an Architecture Problem"
-    ]
-  },
-  {
-    "date": "2026-09-11",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-11",
-    "titleZh": "AI资讯晚报 | 2026-09-11",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-11",
-    "slug": "news-2026-09-11-evening",
-    "headlines": [
-      "1. AI Agents Are Flooding Public Services with New Requests",
-      "2. OpenAI Adds a Prominent AI Doomer to Its Board of Directors",
-      "3. Massachusetts Hits Data Centers with New Clean Power Rules",
-      "4. Apple Watch's New AI Features Are Normalizing Always-Listening Tech",
-      "5. AI Research Startup Listen Labs Scrubbed a $1.5B Funding Round for Salesforce Talks",
-      "6. Powering AI Is an Architecture Problem",
-      "7. Healthcare AI's Next Test Is Integration",
-      "8. Apple Has a New Way to Prove Your iPhone Photos Aren't AI Slop",
-      "9. Maven Robotics Wants to Steal Your Robot Deployment Deal",
-      "10. Superintelligence Is Coming. Should We Let It?"
     ]
   }
 ]
