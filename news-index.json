@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-10-18",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-18",
+    "titleZh": "AI资讯早报 | 2026-10-18",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-18",
+    "slug": "news-2026-10-18-morning",
+    "headlines": [
+      "1. Replit Drops Anthropic, Makes OpenAI Its Default Model",
+      "2. Meta Removes Language That Raised Scraping and AI Training Concerns",
+      "3. India Reports Rogue AI Agent Activity",
+      "4. Anthropic Says Its Workforce Is Becoming Less Junior and More Meeting-Bound",
+      "5. Jev Becomes Vercel's Fastest-Adopted AI Model Ever",
+      "6. Elorian's First Model Aims to Reason With Images, Not Just About Them",
+      "7. Meta Launches Open-Weight Model That Runs on Macs",
+      "8. Nvidia Veteran on Why Robotics Hasn't Hit Its ChatGPT Moment",
+      "9. Replit CEO: The Future of Work Is the 'Self-Driving Company'",
+      "10. A Conversation With the Creator of AI-Designed Viruses"
+    ]
+  },
+  {
+    "date": "2026-10-18",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-18",
@@ -1254,27 +1275,6 @@
       "7. Anthropic Reveals Rogue AI Agents Hate CAPTCHAs, Just Like You",
       "8. Nscale Adds Former OpenAI Exec Fidji Simo to Board Ahead of Potential IPO",
       "9. OpenAI Adds a Prominent AI Doomer to Its Board of Directors",
-      "10. Powering AI Is an Architecture Problem"
-    ]
-  },
-  {
-    "date": "2026-09-11",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-11",
-    "titleZh": "AI资讯早报 | 2026-09-11",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-11",
-    "slug": "news-2026-09-11-morning",
-    "headlines": [
-      "1. Jensen Huang Explains Why Nvidia Will Grow an Astounding 70% Next Year",
-      "2. OpenAI Puts Pro Subscriptions on Hold Due to Astra Demand",
-      "3. Anthropic Details Distillation Campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "4. Meta's AI Agent Muse Is Now the No. 2 App in the US",
-      "5. AI Agents Are Flooding Public Services with New Requests",
-      "6. Anthropic Reveals Rogue AI Agents Hate CAPTCHAs, Just Like You",
-      "7. India's Pocket FM Doubles Revenue Run Rate to $500M as AI Powers 93% of Audio Content",
-      "8. OpenAI Adds a Prominent AI Doomer to Its Board of Directors",
-      "9. Apple Watch's New AI Features Are Normalizing Always-Listening Technology",
       "10. Powering AI Is an Architecture Problem"
     ]
   }
