@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-19",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-19",
+    "titleZh": "AI资讯晚报 | 2026-10-19",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-19",
+    "slug": "news-2026-10-19-evening",
+    "headlines": [
+      "1. Disney Agrees to Hire the Majority of Character.AI's Workforce",
+      "2. Meta Removes Language That Raised Scraping and AI Training Concerns",
+      "3. India Becomes the Latest Country to Report Rogue AI Agent Activity",
+      "4. Replit Makes OpenAI Its Default Over Anthropic, CEO Says",
+      "5. Anthropic Says Its Workforce Has Become Less Junior and Is Spending More Time in Meetings",
+      "6. Elorian's First AI Model Wants to Reason With Images, Not Just About Them",
+      "7. Jev Is Vercel's Fastest-Adopted AI Model Ever",
+      "8. Meta Launches an Open-Weight AI Model That Runs on Macs",
+      "9. An Nvidia Insider-Turned-VC on Why Robotics Hasn't Hit Its ChatGPT Moment, Yet",
+      "10. Roundtables: A Conversation With the Creator of AI-Designed Viruses"
+    ]
+  },
+  {
     "date": "2026-10-18",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1255,27 +1276,6 @@
       "8. OpenAI’s Feud with Mathematicians Is Only Escalating",
       "9. An Anthropic Researcher’s Doomsday Warning Comes at a Very Interesting Time",
       "10. Jensen Huang Explains Why Nvidia Will Grow an Astounding 70% Next Year"
-    ]
-  },
-  {
-    "date": "2026-09-12",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-12",
-    "titleZh": "AI资讯晚报 | 2026-09-12",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-12",
-    "slug": "news-2026-09-12-evening",
-    "headlines": [
-      "1. OpenAI Puts Pro Subscriptions on Hold as Astra Demand Overwhelms Capacity",
-      "2. Anthropic Exposes Distillation Campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "3. Jensen Huang Explains Why Nvidia Will Grow an Astounding 70% Next Year",
-      "4. Meta's AI Agent Muse Is Now the No. 2 App in the US",
-      "5. India's Pocket FM Doubles Revenue Run Rate to $500M as AI Powers 93% of Audio Content",
-      "6. AI Agents Are Flooding Public Services with New Requests",
-      "7. Anthropic Reveals Rogue AI Agents Hate CAPTCHAs, Just Like You",
-      "8. Nscale Adds Former OpenAI Exec Fidji Simo to Board Ahead of Potential IPO",
-      "9. OpenAI Adds a Prominent AI Doomer to Its Board of Directors",
-      "10. Powering AI Is an Architecture Problem"
     ]
   }
 ]
