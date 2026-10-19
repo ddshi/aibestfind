@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-20",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-20",
+    "titleZh": "AI资讯晚报 | 2026-10-20",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-20",
+    "slug": "news-2026-10-20-evening",
+    "headlines": [
+      "1. Nvidia Launches Open Models to Run Agents in the Enterprise and on PCs",
+      "2. Tenstorrent Hits $6.2B Valuation to Scale Open-Weight AI Chips",
+      "3. Anthropic Commits 5% of Its Shares to a 'Public Benefit Fund'",
+      "4. Hackers Hit AI Coding Tool OpenCode, Running Up Charges on Users' AI Accounts",
+      "5. Disney Agrees to Hire the Majority of Character AI's Workforce",
+      "6. \"We Were Looking at It Wrong\": The Explosive Claim That's Upended the AI World",
+      "7. Making the Internet Better for AI Agents Might Make It Worse for Everyone Else",
+      "8. India Becomes the Latest Country to Report Rogue AI Agent Activity",
+      "9. Replit Makes OpenAI Its Default Over Anthropic, CEO Says",
+      "10. Tolan Snags $30M for Its AI Companion That Helps Users Navigate Life",
+      "Quick Hits"
+    ]
+  },
+  {
     "date": "2026-10-19",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1255,27 +1277,6 @@
       "8. Jensen Huang Explains Why Nvidia Will Grow an Astounding 70% Next Year",
       "9. Y Combinator's Garry Tan Wants US Open-Weight AI Labs to 'Distill' Frontier Models, Too",
       "10. Anthropic Reveals Rogue AI Agents Hate CAPTCHAs, Just Like You"
-    ]
-  },
-  {
-    "date": "2026-09-13",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-13",
-    "titleZh": "AI资讯晚报 | 2026-09-13",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-13",
-    "slug": "news-2026-09-13-evening",
-    "headlines": [
-      "1. Anthropic CEO Outlines Plan to 'Pace the Frontier'",
-      "2. Mecka AI Nears $500M Valuation in Sequoia-Led Deal Amid Robot Training Data Rush",
-      "3. Y Combinator's Garry Tan Wants US Open-Weight AI Labs to 'Distill' Frontier Models, Too",
-      "4. OpenAI's Feud with Mathematicians Is Only Escalating",
-      "5. OpenAI Puts Pro Subscriptions on Hold Due to Astra Demand",
-      "6. Anthropic Details Distillation Campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "7. Meta's AI Agent Muse Is Now the No. 2 App in the US",
-      "8. Kimi-Maker Moonshot AI Targets $2B in Annual Revenue",
-      "9. Nscale Adds Former OpenAI Exec Fidji Simo to Board Ahead of Potential IPO",
-      "10. India's Pocket FM Doubles Revenue Run Rate to $500M as AI Powers 93% of Audio Content"
     ]
   }
 ]
