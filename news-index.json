@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-22",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-22",
+    "titleZh": "AI资讯晚报 | 2026-10-22",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-22",
+    "slug": "news-2026-10-22-evening",
+    "headlines": [
+      "1. Anthropic Proposes Sweeping AI Safety Bill With a 50-Death Threshold",
+      "2. OpenAI Acquires Orchestra Bio to Expand Biotech Ambitions",
+      "3. Google Joins Amazon in Challenging Nvidia's AI Developer Stronghold",
+      "4. AI's Productivity Promise Is Mostly a Headache for Managers, Survey Finds",
+      "5. Anthropic's Cloud Partnerships Are Getting Messy",
+      "6. Meta's Muse Hits 10 Million US Downloads in 40 Days",
+      "7. SpaceX's AI Business Is Beating Expectations",
+      "8. ChatGPT Adds Chat Locking for Enhanced Privacy",
+      "9. Hugging Face CEO Pushes Back on Netflix's OpenAI Documentary",
+      "10. MIT Technology Review Launches \"Impossible Issue\" on Moonshot Technologies"
+    ]
+  },
+  {
     "date": "2026-10-21",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1255,27 +1276,6 @@
       "8. The AI Industry Has Taken a Doomer Turn. What Now?",
       "9. What's at Stake in AI's Trillion-Dollar Gamble",
       "10. Microsoft's New AI 'Code of Conduct' Tells Models Not to Hack Systems or Trick Humans"
-    ]
-  },
-  {
-    "date": "2026-09-15",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-15",
-    "titleZh": "AI资讯早报 | 2026-09-15",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-15",
-    "slug": "news-2026-09-15-morning",
-    "headlines": [
-      "1. Nvidia's Jensen Huang Tells Trump: \"We're Not Going to Let an AI Slowdown Happen\"",
-      "2. OpenAI Acquires Smartphone Camera Maker Glass Imaging for $300M",
-      "3. The AI Industry Has Taken a Doomer Turn. What Now?",
-      "4. Anthropic CEO Outlines Plan to \"Pace the Frontier\" of AI Development",
-      "5. AI Agents Blew the Whistle on Their Cheating Colleagues",
-      "6. Microsoft's New AI \"Code of Conduct\" Tells Models Not to Hack or Trick Humans",
-      "7. With iOS 27, I'm Actually Using Siri Again",
-      "8. Superhuman Acquires YC-Backed Notetaker Fathom to Push \"Agentic Work\"",
-      "9. Mecka AI Nears $500M Valuation in Sequoia-Led Deal Amid Robot Training Data Rush",
-      "10. Sam Altman Says It Would Be \"Ill-Advised\" for OpenAI to Go Public in 2026"
     ]
   }
 ]
