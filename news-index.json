@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-10-21",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-21",
+    "titleZh": "AI资讯早报 | 2026-10-21",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-21",
+    "slug": "news-2026-10-21-morning",
+    "headlines": [
+      "1. Anthropic Pitches AI Safety Bill That Could Block Models If 50+ People Could Be Killed",
+      "2. OpenAI Acquires Orchestra Bio to Beef Up Its Biotech Business",
+      "3. Google Joins Amazon in Attacking Nvidia's Stronghold With AI App Developers",
+      "4. Anthropic's Cloud Partnerships Are Getting Messy",
+      "5. Meta's Muse Hits 10M US Downloads in 40 Days",
+      "6. SpaceX's AI Business Is Beating Expectations",
+      "7. ChatGPT Now Lets You Lock Your Chats",
+      "8. Eric Schmidt Reportedly Owns About Half as Much of Anthropic as CEO Dario Amodei",
+      "9. Hugging Face CEO Warns Netflix's OpenAI Hack Documentary Isn't Accurate",
+      "10. Ex-Nvidia-Turned-VC Amulya Vishwanath: 'Physical AI Is in Its LEGO Era'"
+    ]
+  },
+  {
+    "date": "2026-10-21",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-21",
@@ -1255,28 +1276,6 @@
       "8. Superhuman Acquires YC-Backed Notetaker Fathom to Push \"Agentic Work\"",
       "9. Mecka AI Nears $500M Valuation in Sequoia-Led Deal Amid Robot Training Data Rush",
       "10. Sam Altman Says It Would Be \"Ill-Advised\" for OpenAI to Go Public in 2026"
-    ]
-  },
-  {
-    "date": "2026-09-14",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-14",
-    "titleZh": "AI资讯早报 | 2026-09-14",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-14",
-    "slug": "news-2026-09-14-morning",
-    "headlines": [
-      "1. Anthropic CEO Outlines Plan to Slow AI Development",
-      "2. Sam Altman Says It Would Be 'Ill-Advised' to Go Public in 2026",
-      "3. What's Behind the AI Industry's Latest Warnings of Doom?",
-      "4. Anthropic Details Distillation Campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "5. Jensen Huang Explains Why Nvidia Will Grow an Astounding 70% Next Year",
-      "6. Mecka AI Nears $500M Valuation in Sequoia-Led Deal Amid Rush for Robot Training Data",
-      "7. Y Combinator's Garry Tan Wants US Open-Weight Labs to 'Distill' Frontier Models, Too",
-      "8. Meta's AI Agent Muse Is Now the No. 2 App in the US",
-      "9. Obama Urges Democrats to Have a 'Clear Plan' for AI Safeguards",
-      "10. Kimi-Maker Moonshot AI Targets $2B in Annual Revenue",
-      "Honorable Mentions"
     ]
   }
 ]
