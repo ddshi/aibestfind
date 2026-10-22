@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-23",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-23",
+    "titleZh": "AI资讯晚报 | 2026-10-23",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-23",
+    "slug": "news-2026-10-23-evening",
+    "headlines": [
+      "1. Uber Deploys ChatGPT Work Across All 30,000 Employees",
+      "2. DeepSeek Reportedly Raises $15B Days After US Restrictions",
+      "3. Anthropic Launches Claude Duet, a Dedicated Agent App",
+      "4. Meta Creates New Stock Class to Fund AI Buildout",
+      "5. Chinese Hackers Breached ConnectWise to Spy on Thousands of Companies",
+      "6. AI's Hidden Storage Bill: The Data Inference Leaves Behind",
+      "7. Spotify's AI Strategy: Becoming the Music Service Agents Choose",
+      "8. Walmart Embraces AI Agents While Amazon Blocks Them",
+      "9. Recursive Launches Flint, a Coding Model Largely Built by AI",
+      "10. Survey: AI Is Still Mostly a Headache for Managers"
+    ]
+  },
+  {
     "date": "2026-10-22",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1255,27 +1276,6 @@
       "8. Former Infosys chief’s AI startup nabs another $53M",
       "9. Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
       "10. Meet a mouse whose brain cortex is made up of human cells"
-    ]
-  },
-  {
-    "date": "2026-09-16",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-16",
-    "titleZh": "AI资讯早报 | 2026-09-16",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-16",
-    "slug": "news-2026-09-16-morning",
-    "headlines": [
-      "1. OpenAI, Anthropic, and Google Have Been in Talks on AI Safety for Weeks",
-      "2. Nvidia's Jensen Huang to Trump: \"We're Not Going to Let [an AI Slowdown] Happen\"",
-      "3. Salesforce and Nvidia's New Reasoning Model Is Everything the AI Labs Should Fear",
-      "4. US Data Centers Could Consume More Natural Gas Than Germany and Japan Combined by 2035",
-      "5. The AI Data Center Boom Is Colliding with Cities Scarred by Big Industry",
-      "6. What's at Stake in AI's Trillion-Dollar Gamble",
-      "7. Early Anthropic Hire and Former METR COO Have Found a Way to Rein in Rogue AI Agents",
-      "8. AI Agents Now Have a Place to Snitch",
-      "9. AEO Startup Profound Hits Unicorn Valuation with $180M Series D, Just 7 Months After Last Round",
-      "10. The AI Graveyard: A Running List of Projects and Startups That Didn't Make It"
     ]
   }
 ]
