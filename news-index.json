@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-10-22",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-22",
+    "titleZh": "AI资讯早报 | 2026-10-22",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-22",
+    "slug": "news-2026-10-22-morning",
+    "headlines": [
+      "1. Anthropic Pitches Sweeping AI Safety Bill With a 50-Death Threshold",
+      "2. \"PHP Armageddon\": OpenAI and Google's Wiz Surface Ancient Vulnerabilities",
+      "3. Meta's Muse Passes 10M Users, With Shopping Leading Engagement",
+      "4. Walmart Welcomes AI Agents While Amazon Slams the Door",
+      "5. Recursive Launches Flint, a Laptop-Run Coding Model Largely Built by AI",
+      "6. Survey: AI Is Still Mostly a Headache for Managers",
+      "7. Blacksmith Hits Unicorn Valuation With Sequoia-Led Series C",
+      "8. Blackstone's Jas Khaira: Fears Over AI-Buildout Debt Are Overblown",
+      "9. Anthropic's Cloud Partnerships Are Getting Messy",
+      "10. Hugging Face CEO Challenges Netflix's OpenAI Hack Documentary"
+    ]
+  },
+  {
+    "date": "2026-10-22",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-22",
@@ -1255,27 +1276,6 @@
       "8. AI Agents Now Have a Place to Snitch",
       "9. AEO Startup Profound Hits Unicorn Valuation with $180M Series D, Just 7 Months After Last Round",
       "10. The AI Graveyard: A Running List of Projects and Startups That Didn't Make It"
-    ]
-  },
-  {
-    "date": "2026-09-16",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-16",
-    "titleZh": "AI资讯晚报 | 2026-09-16",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-16",
-    "slug": "news-2026-09-16-evening",
-    "headlines": [
-      "1. OpenAI, Anthropic, and Google Have Been in Talks on AI Safety for Weeks",
-      "2. Salesforce and Nvidia's New Reasoning Model Is Everything the AI Labs Should Fear",
-      "3. Meta Expands Subscription Push with New AI-Focused Plans",
-      "4. Early Anthropic Hire and Former METR COO Have Found a Way to Rein In Rogue AI Agents",
-      "5. AI Agents Now Have a Place to Snitch",
-      "6. OpenAI Buys Smartphone Camera Maker Glass Imaging for $300 Million",
-      "7. AI Models Need More Data About Biology, and OpenAI Is Paying to Create It",
-      "8. The AI Industry Has Taken a Doomer Turn. What Now?",
-      "9. What's at Stake in AI's Trillion-Dollar Gamble",
-      "10. Microsoft's New AI 'Code of Conduct' Tells Models Not to Hack Systems or Trick Humans"
     ]
   }
 ]
