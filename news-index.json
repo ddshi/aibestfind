@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-24",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-24",
+    "titleZh": "AI资讯晚报 | 2026-10-24",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-24",
+    "slug": "news-2026-10-24-evening",
+    "headlines": [
+      "1. OpenAI Reportedly Raising $30B at $1.25T Valuation Ahead of IPO",
+      "2. DeepSeek Reportedly Raises $15B Days After US Restrictions",
+      "3. Microsoft's Mustafa Suleyman Says Its AI Outperforms Doctors on Hard Cases",
+      "4. Uber Puts All 30,000 Employees on ChatGPT Work",
+      "5. Claude Duet App Is Anthropic's Bet on Agents",
+      "6. 1Password Lets AI Agents Log In Without Seeing Your Password",
+      "7. Canva Releases Its First Image Generation Model",
+      "8. OpenAI Makes Its Jev Competitor Widely Available as Decision-Model Competition Heats Up",
+      "9. inDrive Eyes 2027 Robotaxi Tests in Central Asia with Pony AI and Nvidia",
+      "10. Spotify's AI Bet: Being the Music Service That Agents Choose"
+    ]
+  },
+  {
     "date": "2026-10-23",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1255,27 +1276,6 @@
       "9. Iceland's Treble Raises $18M for Voice Simulation Platform",
       "10. Al Gore Says the Real AI Risk Isn't Data Centers",
       "Also Worth Watching"
-    ]
-  },
-  {
-    "date": "2026-09-17",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-17",
-    "titleZh": "AI资讯早报 | 2026-09-17",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-17",
-    "slug": "news-2026-09-17-morning",
-    "headlines": [
-      "1. Anthropic Merges Claude Chat and Cowork Into a Single Interface",
-      "2. Your AI Agents Can Now Control Google Home Devices",
-      "3. Anthropic and OpenAI Want to Embed Safety Evaluators — But Will They Be Independent?",
-      "4. AI Labs Want In-House Auditors — But Maybe They Should Shut the Front Door First",
-      "5. Jensen Huang: We Don't Need AI Regulation — Leave Safety to Us",
-      "6. Robots Are Waiting for Their ChatGPT Moment — Nvidia's Les Karpas Explains Why",
-      "7. Amazon Launches Alexa+ in India With Hindi Support",
-      "8. SK Hynix Reportedly in Talks With Intel to Build Memory Chips in the US",
-      "9. Al Gore Says the Real AI Risk Isn't Data Centers",
-      "10. Former Infosys Chief's AI Startup Adds Another $53M Weeks After Initial Raise"
     ]
   }
 ]
