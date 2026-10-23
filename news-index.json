@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-10-23",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-23",
+    "titleZh": "AI资讯早报 | 2026-10-23",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-23",
+    "slug": "news-2026-10-23-morning",
+    "headlines": [
+      "1. OpenAI Working on New $30B Raise at $1.25T Valuation Ahead of IPO",
+      "2. DeepSeek Reportedly Raises $15B Days After US Restrictions",
+      "3. Microsoft's Mustafa Suleyman Says Its AI Outperforms Doctors on Hard Cases",
+      "4. Uber Puts All 30,000 Employees on ChatGPT Work",
+      "5. Claude Duet App Is Anthropic's Bet on Agents",
+      "6. 1Password Launches a Way for AI Agents to Log In on Your Behalf Without Seeing Your Password",
+      "7. Canva Releases Its First Image Generation Model",
+      "8. OpenAI Makes Its Jev Competitor Widely Available as Decision Model Competition Heats Up",
+      "9. Uber Rival inDrive Eyes 2027 Robotaxi Tests in Central Asia with Pony.ai and Nvidia",
+      "10. Spotify's Current AI Bet Is About Being the Music Service That Agents Choose"
+    ]
+  },
+  {
+    "date": "2026-10-23",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-23",
@@ -1255,27 +1276,6 @@
       "8. SK Hynix Reportedly in Talks With Intel to Build Memory Chips in the US",
       "9. Al Gore Says the Real AI Risk Isn't Data Centers",
       "10. Former Infosys Chief's AI Startup Adds Another $53M Weeks After Initial Raise"
-    ]
-  },
-  {
-    "date": "2026-09-17",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-17",
-    "titleZh": "AI资讯晚报 | 2026-09-17",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-17",
-    "slug": "news-2026-09-17-evening",
-    "headlines": [
-      "1. Your AI agents can now control your Google Home devices",
-      "2. Anthropic merges Claude chat and Cowork in one interface",
-      "3. Nvidia’s Jensen Huang: “We don’t need AI regulation — leave safety to us”",
-      "4. Amazon launches Alexa+ in India with Hindi support",
-      "5. US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "6. The AI data center boom is colliding with cities scarred by big industry",
-      "7. SK Hynix reportedly in talks with Intel to build memory chips in the US",
-      "8. Former Infosys chief’s AI startup nabs another $53M",
-      "9. Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "10. Meet a mouse whose brain cortex is made up of human cells"
     ]
   }
 ]
