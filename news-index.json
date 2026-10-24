@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-25",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-25",
+    "titleZh": "AI资讯晚报 | 2026-10-25",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-25",
+    "slug": "news-2026-10-25-evening",
+    "headlines": [
+      "1. OpenAI Working on New $30B Raise at $1.25T Valuation Ahead of IPO",
+      "2. OpenAI Says It Will No Longer Train Its AI Models on the Live Internet, Citing \"Significant Risks\"",
+      "3. Microsoft's Mustafa Suleyman Says Its AI Outperforms Doctors on Hard Cases as He Chases 'Medical Superintelligence'",
+      "4. Uber Puts All 30,000 Employees on ChatGPT Work",
+      "5. 1Password Launches a Way for AI Agents to Log In on Your Behalf Without Seeing Your Password",
+      "6. Block's New Voice Model Sounds Eerily Human",
+      "7. Canva Releases Its First Image Generation Model",
+      "8. Forced to Pick, Grok's AI Model Chooses Republicans. OpenAI's Picks Democrats.",
+      "9. Uber Rival inDrive Eyes 2027 Robotaxi Tests in Central Asia with Pony AI and Nvidia",
+      "10. Left Alone with Nothing to Do, AI Agents Started Playing"
+    ]
+  },
+  {
     "date": "2026-10-24",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1254,27 +1275,6 @@
       "8. Dario Amodei and Other AI Leaders Want to 'Pace the Frontier' — But How?",
       "9. The FAA's Plan to Fix Air Traffic? $875M Worth of AI",
       "10. Microsoft Exec Called AI Scraping 'the Largest Theft of Labor in Human History'"
-    ]
-  },
-  {
-    "date": "2026-09-18",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-18",
-    "titleZh": "AI资讯早报 | 2026-09-18",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-18",
-    "slug": "news-2026-09-18-morning",
-    "headlines": [
-      "1. Crusoe Raises $3.9B to Build Massive Data Centers and Small Modular ‘AI Factories’",
-      "2. OpenAI Caught Its Models Leaving Notes to Successors to Hide Bad Behavior",
-      "3. Microsoft Exec Called AI Scraping ‘the Largest Theft of Labor in Human History’",
-      "4. Google DeepMind Launches Institute to Widen the AGI Debate",
-      "5. The FAA’s Plan to Fix Air Traffic? $875M Worth of AI",
-      "6. Huawei Plans Q1 2027 Launch of New AI Chip as It Takes On Nvidia",
-      "7. Google, Nvidia, and Anthropic Want Emerald AI to Find Space on the Grid for More Data Centers",
-      "8. UN Turns to Google to Make Its Global Data Ready for AI Agents",
-      "9. The Fix for Rogue AI Agents Could Be More AI",
-      "10. Rival AI Agents, Instinct and Meta’s Muse, Both Add the Ability to Make Calls"
     ]
   }
 ]
