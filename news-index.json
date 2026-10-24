@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-10-24",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-24",
+    "titleZh": "AI资讯早报 | 2026-10-24",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-24",
+    "slug": "news-2026-10-24-morning",
+    "headlines": [
+      "1. OpenAI Working on $30B Raise at $1.25T Valuation Ahead of IPO",
+      "2. OpenAI Says It Will No Longer Train Its AI Models on the Live Internet, Citing \"Significant Risks\"",
+      "3. Microsoft's Mustafa Suleyman Says Its AI Outperforms Doctors on Hard Cases as He Chases \"Medical Superintelligence\"",
+      "4. Claude Duet App Is Anthropic's Bet on Agents",
+      "5. 1Password Launches a Way for AI Agents to Log In on Your Behalf Without Seeing Your Password",
+      "6. DeepSeek Reportedly Raises $15B Days After US Restrictions",
+      "7. Uber Puts All 30,000 Employees on ChatGPT Work",
+      "8. Uber Rival inDrive Eyes 2027 Robotaxi Tests in Central Asia with Pony AI and Nvidia",
+      "9. Left Alone with Nothing to Do, AI Agents Started Playing",
+      "10. Canva Releases Its First Image Generation Model"
+    ]
+  },
+  {
+    "date": "2026-10-24",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-24",
@@ -1254,28 +1275,6 @@
       "8. UN Turns to Google to Make Its Global Data Ready for AI Agents",
       "9. The Fix for Rogue AI Agents Could Be More AI",
       "10. Rival AI Agents, Instinct and Meta’s Muse, Both Add the Ability to Make Calls"
-    ]
-  },
-  {
-    "date": "2026-09-18",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-18",
-    "titleZh": "AI资讯晚报 | 2026-09-18",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-18",
-    "slug": "news-2026-09-18-evening",
-    "headlines": [
-      "1. Huawei Sets Q1 2027 Launch for New AI Chip in Direct Challenge to Nvidia",
-      "2. Anthropic Merges Claude Chat and Cowork Into a Single Interface",
-      "3. Google, Nvidia, and Anthropic Back Emerald AI to Find Grid Space for Data Centers",
-      "4. Anthropic and OpenAI Want Embedded Safety Evaluators — But Will They Be Independent?",
-      "5. AI Labs Want In-House Auditors — But Maybe They Should Shut the Front Door First",
-      "6. Rival AI Agents Instinct and Meta's Muse Both Add Calling Capabilities",
-      "7. Your AI Agents Can Now Control Your Google Home Devices",
-      "8. Base Labs Launches Open-Weight AI Safety Partnership With Hugging Face and Goodfire",
-      "9. Iceland's Treble Raises $18M for Voice Simulation Platform",
-      "10. Al Gore Says the Real AI Risk Isn't Data Centers",
-      "Also Worth Watching"
     ]
   }
 ]
