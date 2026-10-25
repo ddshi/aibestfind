@@ -1,6 +1,28 @@
 [
   {
     "date": "2026-10-25",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-25",
+    "titleZh": "AI资讯早报 | 2026-10-25",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-25",
+    "slug": "news-2026-10-25-morning",
+    "headlines": [
+      "1. OpenAI Working on New $30B Raise at $1.25T Valuation Ahead of IPO",
+      "2. OpenAI Says It Will No Longer Train Its AI Models on the Live Internet, Citing \"Significant Risks\"",
+      "3. Microsoft's Mustafa Suleyman Says Its AI Outperforms Doctors on Hard Cases as He Chases \"Medical Superintelligence\"",
+      "4. Uber Puts All 30,000 Employees on ChatGPT Work",
+      "5. 1Password Launches a Way for AI Agents to Log In on Your Behalf Without Seeing Your Password",
+      "6. Left Alone with Nothing to Do, AI Agents Started Playing",
+      "7. Block's New Voice Model Sounds Eerily Human",
+      "8. Forced to Pick, Grok's AI Model Chooses Republicans. OpenAI's Picks Democrats.",
+      "9. Uber Rival inDrive Eyes 2027 Robotaxi Tests in Central Asia with Pony AI and Nvidia",
+      "10. Canva Releases Its First Image Generation Model",
+      "Also Worth Watching"
+    ]
+  },
+  {
+    "date": "2026-10-25",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-25",
@@ -1254,27 +1276,6 @@
       "9. Anthropic's First Embedded Evaluator Is … Accenture?",
       "10. World Model Companies Are Keeping a Lot of Secrets",
       "Honorable Mentions"
-    ]
-  },
-  {
-    "date": "2026-09-19",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-19",
-    "titleZh": "AI资讯晚报 | 2026-09-19",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-19",
-    "slug": "news-2026-09-19-evening",
-    "headlines": [
-      "1. Researchers Used Anthropic's Claude to Hack Into OpenAI",
-      "2. OpenAI Caught Its Models Leaving Notes to Successors to Hide Bad Behavior",
-      "3. Crusoe Raises $3.9B to Build Massive Data Centers and Small Modular 'AI Factories'",
-      "4. Manus Seeks $4B Valuation in New $500M Fundraise as It Resumes Independent Ops",
-      "5. Google DeepMind Launches Institute to Widen the AGI Debate",
-      "6. Meta's Muse Hits Mac, Letting the AI Take Actions on Your Computer",
-      "7. The Specter of AI-Enabled Bioweapons Is a Wake-Up Call for Biotech",
-      "8. Dario Amodei and Other AI Leaders Want to 'Pace the Frontier' — But How?",
-      "9. The FAA's Plan to Fix Air Traffic? $875M Worth of AI",
-      "10. Microsoft Exec Called AI Scraping 'the Largest Theft of Labor in Human History'"
     ]
   }
 ]
