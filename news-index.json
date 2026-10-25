@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-26",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-26",
+    "titleZh": "AI资讯晚报 | 2026-10-26",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-26",
+    "slug": "news-2026-10-26-evening",
+    "headlines": [
+      "1. OpenAI Working on New $30B Raise at $1.25T Valuation Ahead of IPO",
+      "2. OpenAI Says It Will No Longer Train Its AI Models on the Live Internet, Citing \"Significant Risks\"",
+      "3. AI Delivers 'Zero Financial Payoff' to Most Companies, Apollo Economist Says",
+      "4. Microsoft's Mustafa Suleyman Says Its AI Outperforms Doctors on Hard Cases as He Chases 'Medical Superintelligence'",
+      "5. Block's New Voice Model Sounds Eerily Human",
+      "6. The AI Graveyard: A Running List of Projects and Startups That Didn't Make It",
+      "7. Forced to Pick, Grok's AI Model Chooses Republicans. OpenAI's Picks Democrats.",
+      "8. 1Password Launches a Way for AI Agents to Log In on Your Behalf Without Seeing Your Password",
+      "9. Uber Rival inDrive Eyes 2027 Robotaxi Tests in Central Asia with Pony AI and Nvidia",
+      "10. Canva Releases Its First Image Generation Model"
+    ]
+  },
+  {
     "date": "2026-10-25",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1254,28 +1275,6 @@
       "8. Meta's Muse Lands on Mac, Bringing AI Actions to the Desktop",
       "9. AI Safety Conversations Have Gotten \"Unbelievable\"",
       "10. World Model Companies Are Keeping a Lot of Secrets"
-    ]
-  },
-  {
-    "date": "2026-09-19",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-19",
-    "titleZh": "AI资讯早报 | 2026-09-19",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-19",
-    "slug": "news-2026-09-19-morning",
-    "headlines": [
-      "1. AI Hallucination Nearly Triggers a US Military Operation",
-      "2. Researchers Used Anthropic's Claude to Hack Into OpenAI",
-      "3. Anthropic Is Operating a Biology Lab That Conducts Experiments",
-      "4. A Startup Incubator Raised $100M and Is All-In on Physical AI",
-      "5. A New Kind of AI Model From a ChatGPT Inventor Is Thrilling Developers",
-      "6. Manus Seeks $4B Valuation in $500M Raise as It Resumes Independent Operations",
-      "7. Google's New 'CC' Is an AI Agent That Helps Families Run Their Households",
-      "8. Meta's Muse Hits Mac, Letting the AI Take Actions on Your Computer",
-      "9. Anthropic's First Embedded Evaluator Is … Accenture?",
-      "10. World Model Companies Are Keeping a Lot of Secrets",
-      "Honorable Mentions"
     ]
   }
 ]
