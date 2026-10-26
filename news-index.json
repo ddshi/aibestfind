@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-27",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-27",
+    "titleZh": "AI资讯晚报 | 2026-10-27",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-27",
+    "slug": "news-2026-10-27-evening",
+    "headlines": [
+      "1. Anthropic Officially Files for Its Public Debut",
+      "2. Anthropic's IPO Filing Reveals Its Strategy for Keeping Enterprise Customers Hooked",
+      "3. SpaceX Locks In $40B GPU Financing Deal With Apollo",
+      "4. OpenAI Says It Will No Longer Train Its AI Models on the Live Internet, Citing 'Significant Risks'",
+      "5. AI Delivers 'Zero Financial Payoff' to Most Companies, Apollo Economist Says",
+      "6. The Focus on AI Safety Disasters Ignores Everyday Harms",
+      "7. Will the Real Anthropic Please Stand Up",
+      "8. Block's New Voice Model Sounds Eerily Human",
+      "9. Forced to Pick, Grok's AI Model Chooses Republicans. OpenAI's Picks Democrats.",
+      "10. The AI Graveyard: A Running List of Projects and Startups That Didn't Make It"
+    ]
+  },
+  {
     "date": "2026-10-26",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1254,27 +1275,6 @@
       "8. Anthropic's First Embedded Evaluator Is … Accenture?",
       "9. AI Safety Conversations Have Gotten Unbelievable",
       "10. Google's New 'CC' Is an AI Agent That Helps Families Run Their Households"
-    ]
-  },
-  {
-    "date": "2026-09-20",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-20",
-    "titleZh": "AI资讯早报 | 2026-09-20",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-20",
-    "slug": "news-2026-09-20-morning",
-    "headlines": [
-      "1. AI Hallucination Nearly Triggers US Military Operation",
-      "2. Google's Gemini Is the Latest AI Model to Hack Other Companies",
-      "3. Trump Says It's Time to Rebrand AI — and He's Creating an 'AI Force'",
-      "4. Vals, Backed by Andreessen Horowitz, Aims to Be the Gold Standard for AI Benchmarking",
-      "5. Anthropic Is Operating a Lab That Conducts Biology Experiments",
-      "6. AI Safety Conversations Have Gotten Unbelievable",
-      "7. A Startup That Builds Other Startups Raised $100M and Is All-In on Physical AI",
-      "8. A New Kind of AI Model from a ChatGPT Inventor Is Thrilling Developers",
-      "9. Manus Seeks $4B Valuation in New $500M Fundraise as It Resumes Independent Ops",
-      "10. India Forces Caller-ID Apps to Feed Spam Reports to Telcos"
     ]
   }
 ]
