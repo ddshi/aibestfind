@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-10-26",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-26",
+    "titleZh": "AI资讯早报 | 2026-10-26",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-26",
+    "slug": "news-2026-10-26-morning",
+    "headlines": [
+      "1. OpenAI Reportedly Raising $30B at $1.25T Valuation Ahead of IPO",
+      "2. OpenAI to Stop Training Models on the Live Internet, Citing \"Significant Risks\"",
+      "3. Apollo Economist: AI Delivers \"Zero Financial Payoff\" to Most Companies",
+      "4. Grok Releases First Seven Minutes of AI-Generated \"Odyssey\"",
+      "5. Block's New Voice Model Sounds Eerily Human",
+      "6. Forced to Pick, Grok's Model Chooses Republicans; OpenAI's Picks Democrats",
+      "7. 1Password Lets AI Agents Log In on Your Behalf — Without Seeing Your Password",
+      "8. The AI Graveyard: A Running List of Projects and Startups That Didn't Make It",
+      "9. inDrive Eyes 2027 Robotaxi Tests in Central Asia with Pony AI and Nvidia",
+      "10. Canva Releases Its First Image Generation Model"
+    ]
+  },
+  {
+    "date": "2026-10-26",
     "slot": "evening",
     "slotLabel": "晚报",
     "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-26",
@@ -1254,27 +1275,6 @@
       "8. A New Kind of AI Model from a ChatGPT Inventor Is Thrilling Developers",
       "9. Manus Seeks $4B Valuation in New $500M Fundraise as It Resumes Independent Ops",
       "10. India Forces Caller-ID Apps to Feed Spam Reports to Telcos"
-    ]
-  },
-  {
-    "date": "2026-09-20",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-20",
-    "titleZh": "AI资讯晚报 | 2026-09-20",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-20",
-    "slug": "news-2026-09-20-evening",
-    "headlines": [
-      "1. AI Hallucination Nearly Triggers a U.S. Military Operation",
-      "2. Anthropic Is Quietly Operating a Biology Lab",
-      "3. A ChatGPT Inventor's New Model Architecture Is Thrilling Developers",
-      "4. Google's \"CC\" Is an AI Agent for Running Your Household",
-      "5. Vals, Backed by a16z, Wants to Own AI Benchmarking",
-      "6. Startup Incubator Raises $100M, Goes All-In on Physical AI",
-      "7. Manus Seeks $4B Valuation in $500M Raise",
-      "8. Meta's Muse Lands on Mac, Bringing AI Actions to the Desktop",
-      "9. AI Safety Conversations Have Gotten \"Unbelievable\"",
-      "10. World Model Companies Are Keeping a Lot of Secrets"
     ]
   }
 ]
