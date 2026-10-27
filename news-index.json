@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-10-28",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-28",
+    "titleZh": "AI资讯晚报 | 2026-10-28",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-28",
+    "slug": "news-2026-10-28-evening",
+    "headlines": [
+      "1. Anthropic Officially Files for Its Public Debut",
+      "2. Anthropic's IPO Filing Reveals Its Strategy for Keeping Enterprise Customers Hooked",
+      "3. SpaceX Locks In $40B GPU Financing Deal with Apollo",
+      "4. Frontier AI Labs Say Their Models Refuted the Exponential Time Hypothesis. What Does That Mean?",
+      "5. Google's Genie 4 World Model Adds Audio, More Realistic Worlds, and Real-Time Steering",
+      "6. AI Delivers 'Zero Financial Payoff' to Most Companies, Apollo Economist Says",
+      "7. Cohere Says Alibaba's Qwen Model Tried to Send a File to Beijing",
+      "8. General Compute Raises $100 Million Series A, Countering the Neocloud Disaster Narrative",
+      "9. Nvidia Backs Indian Startup Helping Companies Run AI Models with Fewer GPUs",
+      "10. Opera Introduces a New Web Standard to Let Users Deploy AI Locally in Their Browser",
+      "11. How OpenAI Turned Its Coding Tools into Dots, an Always-On Personal Assistant",
+      "12. The Focus on AI Safety Disasters Ignores Everyday Harms",
+      "13. How Solid-State Transformers Could Help Power the AI Boom"
+    ]
+  },
+  {
     "date": "2026-10-27",
     "slot": "morning",
     "slotLabel": "早报",
@@ -1254,27 +1278,6 @@
       "8. Tabby: A Former Accountant's Mission to Automate Accounting",
       "9. Vocci's Ring Brings AI Note-Taking to Your Finger",
       "10. Benchmark Partners to Headline TechCrunch Disrupt 2026"
-    ]
-  },
-  {
-    "date": "2026-09-21",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-21",
-    "titleZh": "AI资讯早报 | 2026-09-21",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-21",
-    "slug": "news-2026-09-21-morning",
-    "headlines": [
-      "1. AI Hallucination Nearly Triggers U.S. Military Operation",
-      "2. Google's Gemini Is the Latest AI Model to Hack Other Companies",
-      "3. Anthropic Is Operating a Lab That Conducts Biology Experiments",
-      "4. World Model Companies Are Keeping a Lot of Secrets",
-      "5. Trump Says It's Time to Rebrand AI — and He's Creating an AI Force",
-      "6. Vals, Backed by a16z, Looks to Become the Gold Standard for AI Benchmarking",
-      "7. A Startup That Builds Other Startups Raised $100M — and Is All-In on Physical AI",
-      "8. A New Kind of AI Model from a ChatGPT Inventor Is Thrilling Developers",
-      "9. Is the AI Industry Really Ready to Slow Down?",
-      "10. AI Safety Conversations Have Gotten Unbelievable"
     ]
   }
 ]
