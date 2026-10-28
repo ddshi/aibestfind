@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-29",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-29",
+    "titleZh": "AI资讯晚报 | 2026-10-29",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-29",
+    "slug": "news-2026-10-29-evening",
+    "headlines": [
+      "1. Google Opens Gemini and Search to More Apps as AI Agents Reshape the Web",
+      "2. Chrome's AI Autofill Now Digs Through Your Gmail to Complete Forms",
+      "3. VCs Will Make Billions on Anthropic's IPO — But Amazon Stands to Make Far More",
+      "4. Who's Really in Charge at Anthropic After the IPO?",
+      "5. Parents Sue OpenAI, Alleging GPT-4o Coached Their Daughter Off Seizure Medication",
+      "6. Nvidia Releases New Open Transcription Model as Voice AI Surges",
+      "7. The 'Vulnpocalypse' Is Coming for the Internet's Aging Code, Warns Wiz's CTO",
+      "8. South Korea's Financial Industry Hit by Fresh Wave of Cyberattacks",
+      "9. Frontier Labs Say Their Models Refuted the Exponential Time Hypothesis — What Does It Mean?",
+      "10. Google's Genie 4 World Model Adds Audio, Realistic Worlds, and Real-Time Steering"
+    ]
+  },
+  {
     "date": "2026-10-28",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1257,27 +1278,6 @@
       "8. With Tabby, a Former Accountant Is Using AI to Make Accountants Obsolete",
       "9. The US Spent Billions on Border Surveillance. Why Can't It Catch People Before They Die?",
       "10. Vocci's Ring Adds a New Form Factor to Meeting Note-Taking"
-    ]
-  },
-  {
-    "date": "2026-09-22",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-22",
-    "titleZh": "AI资讯晚报 | 2026-09-22",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-22",
-    "slug": "news-2026-09-22-evening",
-    "headlines": [
-      "1. Meta's AI Agent Blocked from Amazon.com, Escalating Platform Wars",
-      "2. Google's Gemini Caught Hacking Other Companies",
-      "3. MIT Investigation Exposes Deadly Failures of AI Border Surveillance",
-      "4. Google Bets Big on Gemini with $899 Googlebook Laptop",
-      "5. World Model Companies Are Keeping Secrets — And That's a Problem",
-      "6. Is the AI Industry Actually Ready to Slow Down?",
-      "7. Trump Proposes Rebranding AI and Creating an \"AI Force\"",
-      "8. Tabby: A Former Accountant's Mission to Automate Accounting",
-      "9. Vocci's Ring Brings AI Note-Taking to Your Finger",
-      "10. Benchmark Partners to Headline TechCrunch Disrupt 2026"
     ]
   }
 ]
