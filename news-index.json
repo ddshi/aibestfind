@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-30",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-30",
+    "titleZh": "AI资讯晚报 | 2026-10-30",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-30",
+    "slug": "news-2026-10-30-evening",
+    "headlines": [
+      "1. Mistral Releases Weights for Trillion-Parameter Model Targeting Cybersecurity",
+      "2. US Investigated Chinese Spy Plot Aimed at Nvidia CEO",
+      "3. We Urgently Need to Monitor AI Agents' Actions in Real Time",
+      "4. Wabi, the AI Agent That Builds Mini Apps, Valued at $1.25B",
+      "5. Microsoft Discloses Azure Revenue ($33.2B) and $10B in OpenAI Revenue",
+      "6. The 'Vulnpocalypse' Is Coming for the Internet's Aging Code, Warns Wiz's CTO",
+      "7. Anthropic Launches Tools to Show Companies What Their AI Spending Is Buying",
+      "8. Deepgram Acquires Pipecat-Maker Daily to Bolster Voice AI Infrastructure",
+      "9. Ex-Palantir Execs Launch Dream with $17M from a16z for Construction World Models",
+      "10. Google Expands AI Search Ads Globally as Core Ad Growth Slows"
+    ]
+  },
+  {
     "date": "2026-10-29",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1257,27 +1278,6 @@
       "8. Google's $899 Googlebook Is a Bet That You'll Buy a New Laptop for Gemini",
       "9. AstroForge Is Putting AI in Command of Its Next Spacecraft",
       "10. The Man Who Built Apple's Stores Doesn't Buy Silicon Valley's Bet on AI Shopping"
-    ]
-  },
-  {
-    "date": "2026-09-22",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-22",
-    "titleZh": "AI资讯早报 | 2026-09-22",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-22",
-    "slug": "news-2026-09-22-morning",
-    "headlines": [
-      "1. OpenAI Forms Math Advisory Group as Its AI Resolves More Than 100 Open Problems",
-      "2. Meta's AI Agent Has Been Blocked From Using Amazon.com",
-      "3. Meta's Muse Is Outpacing ChatGPT's Early Mobile Launch",
-      "4. Google's $899 Googlebook Is a Bet That You'll Buy a New Laptop for Gemini",
-      "5. Is the AI Industry Really Ready to Slow Down?",
-      "6. World Model Companies Are Keeping a Lot of Secrets",
-      "7. The Man Who Built Apple's Stores Doesn't Buy Silicon Valley's Bet on AI Shopping",
-      "8. With Tabby, a Former Accountant Is Using AI to Make Accountants Obsolete",
-      "9. The US Spent Billions on Border Surveillance. Why Can't It Catch People Before They Die?",
-      "10. Vocci's Ring Adds a New Form Factor to Meeting Note-Taking"
     ]
   }
 ]
