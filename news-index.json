@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-31",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-31",
+    "titleZh": "AI资讯晚报 | 2026-10-31",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-31",
+    "slug": "news-2026-10-31-evening",
+    "headlines": [
+      "1. Mistral Releases Weights for Trillion-Parameter Model, Targeting Cybersecurity",
+      "2. Google's First Data Center Satellite Is Online and Writing Poetry",
+      "3. Theranos Whistleblower Tyler Shultz Warns the AI Boom Is \"a Great Opportunity to Go Deceive People\"",
+      "4. AWS Will Be a $1T Business, Jassy Says — But First, It Will Spend Big",
+      "5. DoorDash Says It's Only Received \"Several Hundred\" Orders from AI Agents",
+      "6. US Investigated Chinese Spy Plot Aimed at Nvidia CEO",
+      "7. As Search Traffic Dries Up, Reddit Shifts to a Logged-In Experience",
+      "8. OpenAI-Backed Thrive Holdings Acquires ADT",
+      "9. Eating Disorders Are on the Rise. GLP-1s Could Make Things Worse.",
+      "10. Meta Quietly Launches an AI Fashion App Called Style Sketch",
+      "Also Worth Watching"
+    ]
+  },
+  {
     "date": "2026-10-30",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1257,27 +1279,6 @@
       "8. MIT Tech Review: \"Don't Be Fooled by This Summer of AI Hype\"",
       "9. Nscale's IPO Will Test Wall Street's Appetite for Concentrated AI Bets",
       "10. AstroForge Is Putting AI in Command of Its Next Spacecraft"
-    ]
-  },
-  {
-    "date": "2026-09-23",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-23",
-    "titleZh": "AI资讯晚报 | 2026-09-23",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-23",
-    "slug": "news-2026-09-23-evening",
-    "headlines": [
-      "1. Anthropic Releases Opus 5.5 with Lower Prices and Fable-Level Performance",
-      "2. OpenAI Forms Math Advisory Group as Its AI Resolves More Than 100 Open Problems",
-      "3. Meta's AI Agent Has Been Blocked from Using Amazon.com",
-      "4. Meta's Muse Is Outpacing ChatGPT's Early Mobile Launch",
-      "5. Nscale's IPO Will Test Wall Street's Appetite for Concentrated AI Bets Once Again",
-      "6. Everyone Can Find a Reason to Dislike Data Center Construction",
-      "7. Don't Be Fooled by This Summer of AI Hype",
-      "8. Google's $899 Googlebook Is a Bet That You'll Buy a New Laptop for Gemini",
-      "9. AstroForge Is Putting AI in Command of Its Next Spacecraft",
-      "10. The Man Who Built Apple's Stores Doesn't Buy Silicon Valley's Bet on AI Shopping"
     ]
   }
 ]
