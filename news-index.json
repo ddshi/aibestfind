@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-11-01",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-01",
+    "titleZh": "AI资讯晚报 | 2026-11-01",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-01",
+    "slug": "news-2026-11-01-evening",
+    "headlines": [
+      "OpenAI Reportedly Lowers Funding Target for New Round",
+      "Anthropic Expected to Receive High 'Junk' Rating from Credit Agencies Following IPO",
+      "Cracks Are Emerging in the AI Spending Boom",
+      "Intel's Stock Crashes, Knocking $12B from Government's Stake",
+      "Nvidia Weighs Playing the Cosigner for Nscale's AI Data Center in West Virginia",
+      "Can AI Data Centers Be Mass-Produced Like Cars? This Startup Aims to Find Out",
+      "Google's First Data Center Satellite Is Online and Writing Poetry",
+      "AWS Will Be a $1T Business, Jassy Says — But First, It Will Spend Big",
+      "DoorDash Said It's Only Received 'Several Hundred' Orders from AI Agents",
+      "Zest's New AI Agent Finds Restaurants and Books Reservations Over Text",
+      "Theranos Whistleblower Tyler Shultz Warns the AI Boom Is 'a Great Opportunity to Go Deceive People'",
+      "Ollie, a Privacy-Focused AI Assistant, Is Shutting Down"
+    ]
+  },
+  {
     "date": "2026-10-31",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1258,27 +1281,6 @@
       "8. Ema Raises $77M as AI Starts Eating Into Enterprise Software and Services",
       "9. Smart Glasses Are Already Causing Havoc in India",
       "10. Qualcomm Launches Two New Smartphone Chips With Heavy AI Emphasis"
-    ]
-  },
-  {
-    "date": "2026-09-23",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-23",
-    "titleZh": "AI资讯早报 | 2026-09-23",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-23",
-    "slug": "news-2026-09-23-morning",
-    "headlines": [
-      "1. OpenAI Launches GPT-6 Sol and Luna, Promising Lower Cost and Fewer Errors",
-      "2. Anthropic Releases Opus 5.5 With Lower Prices and Fable-Level Performance",
-      "3. Snorkel AI Triples Valuation to $3.5B as Demand for AI Training Data Booms",
-      "4. Qualcomm Launches Two New Smartphone Chips With Heavy AI Emphasis",
-      "5. Meta Admits Muse's Likeness to OpenClaw Isn't a Coincidence",
-      "6. OpenAI Forms Math Advisory Group as Its AI Resolves More Than 100 Open Problems",
-      "7. Greece's Prime Minister Gets Candid About AI: \"We're Already Fighting Yesterday's Battle\"",
-      "8. MIT Tech Review: \"Don't Be Fooled by This Summer of AI Hype\"",
-      "9. Nscale's IPO Will Test Wall Street's Appetite for Concentrated AI Bets",
-      "10. AstroForge Is Putting AI in Command of Its Next Spacecraft"
     ]
   }
 ]
