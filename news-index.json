@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-02",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-02",
+    "titleZh": "AI资讯晚报 | 2026-11-02",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-02",
+    "slug": "news-2026-11-02-evening",
+    "headlines": [
+      "1. Cracks Are Emerging in the AI Spending Boom",
+      "2. Intel's Stock Crashes, Knocking $12B from Government's Stake",
+      "3. OpenAI Reportedly Lowers Funding Target for New Round",
+      "4. Anthropic Expected to Receive High 'Junk' Rating from Credit Agencies After IPO",
+      "5. Judge Allows NAACP Lawsuit Over xAI Data Center Pollution to Move Forward",
+      "6. Apple CEO Says the Company Doesn't 'Want to Ship AI for AI's Sake'",
+      "7. Theranos Whistleblower Tyler Shultz Warns the AI Boom Is 'a Great Opportunity to Go Deceive People'",
+      "8. Nvidia Weighs Playing Cosigner for Nscale's AI Data Center in West Virginia",
+      "9. Google's First Data Center Satellite Is Online and Writing Poetry",
+      "10. DoorDash Says It's Only Received 'Several Hundred' Orders from AI Agents"
+    ]
+  },
+  {
     "date": "2026-11-01",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1260,27 +1281,6 @@
       "8. Smart Glasses Are Already Causing Havoc in India",
       "9. Ema Raises $77M as AI Starts Eating into Enterprise Software and Services",
       "10. Greece's Prime Minister Gets Candid About AI: 'We're Already Fighting Yesterday's Battle'"
-    ]
-  },
-  {
-    "date": "2026-09-24",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-24",
-    "titleZh": "AI资讯晚报 | 2026-09-24",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-24",
-    "slug": "news-2026-09-24-evening",
-    "headlines": [
-      "1. OpenAI Launches GPT-6 Sol and Luna, Promising Lower Cost and Fewer Errors",
-      "2. Anthropic Releases Opus 5.5 With Lower Prices and Fable-Level Performance",
-      "3. ChatGPT Mobile App Gets Voice-Based Agentic Features",
-      "4. Even Americans Who Use AI Every Day Are Worried About It",
-      "5. YouTube Will Let You Build Your Own Algorithm With AI",
-      "6. Spotify Launches 'Taste Profile' to Open Up Its Recommendation Algorithm",
-      "7. Snorkel AI Triples Valuation to $3.5B as Demand for AI Training Data Booms",
-      "8. Ema Raises $77M as AI Starts Eating Into Enterprise Software and Services",
-      "9. Smart Glasses Are Already Causing Havoc in India",
-      "10. Qualcomm Launches Two New Smartphone Chips With Heavy AI Emphasis"
     ]
   }
 ]
