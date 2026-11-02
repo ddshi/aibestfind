@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-03",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-03",
+    "titleZh": "AI资讯早报 | 2026-11-03",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-03",
+    "slug": "news-2026-11-03-morning",
+    "headlines": [
+      "1. Anthropic Warns It's \"Very Close\" to Recursive Self-Improvement Capability",
+      "2. Elon Musk Throttles Grok Bot Limits Over \"Unsustainably High\" Costs",
+      "3. New York Times and Other Outlets Sue Brave Over Alleged Content Scraping",
+      "4. 42AI Emerges From Stealth With $62.5M and a \"Human Behavior\" World Model",
+      "5. The Agentic Web Is Here — and It's Reshaping the Internet's Architecture",
+      "6. OpenAI Merges ChatGPT's Chat and Work Tabs",
+      "7. Data Centers Become a Midterm Election Issue — Even in Brooklyn",
+      "8. Judge Allows NAACP Lawsuit Over xAI Data Center Pollution to Proceed",
+      "9. OpenAI Reportedly Lowers Funding Target for New Round",
+      "10. Apple CEO: We Don't \"Want to Ship AI for AI's Sake\""
+    ]
+  },
+  {
     "date": "2026-11-02",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1260,27 +1281,6 @@
       "8. AI Dominates the Conversation at Climate Week",
       "9. Enveda Secures $311M to Bring Nature-Derived AI Drugs into Clinical Trials",
       "10. Google Photos Launches 'Clueless'-Inspired Virtual Closet on Android and iOS"
-    ]
-  },
-  {
-    "date": "2026-09-24",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-24",
-    "titleZh": "AI资讯早报 | 2026-09-24",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-24",
-    "slug": "news-2026-09-24-morning",
-    "headlines": [
-      "1. Meta Unveils Tamagotchi-Like Wearable for Its Muse AI Agent",
-      "2. Anthropic Says Its Biology Lab Has Already Found Something Big",
-      "3. ChatGPT Mobile App Gets Voice-Based Agentic Features",
-      "4. Meta Introduces Camera-Free AI Glasses",
-      "5. Enveda Secures $311M to Bring Nature-Derived AI Drugs into Clinical Trials",
-      "6. Even Americans Who Use AI Every Day Are Worried About It",
-      "7. YouTube Will Let You Build Your Own Algorithm with AI",
-      "8. Smart Glasses Are Already Causing Havoc in India",
-      "9. Ema Raises $77M as AI Starts Eating into Enterprise Software and Services",
-      "10. Greece's Prime Minister Gets Candid About AI: 'We're Already Fighting Yesterday's Battle'"
     ]
   }
 ]
