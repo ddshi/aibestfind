@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-03",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-03",
+    "titleZh": "AI资讯晚报 | 2026-11-03",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-03",
+    "slug": "news-2026-11-03-evening",
+    "headlines": [
+      "1. Anthropic Warns It's \"Very Close\" to Recursive Self-Improvement Capability",
+      "2. Trump's \"Super Intelligence\" Loyalty Test Draws a Queue of Tech Companies",
+      "3. The Agentic Web Arrives — and It Changes How the Internet Works",
+      "4. Elon Musk Throttles Grok Bot Limits Over \"Unsustainably High\" Costs",
+      "5. NYT and Other Publishers Sue Brave Over Alleged AI Content Scraping",
+      "6. 42AI Emerges From Stealth With $62.5M and a \"Human Behavior\" World Model",
+      "7. Trajectory Raises $45M to Democratize AI Model Training",
+      "8. Apple Expands Its AI Platform Plays — Watch Features and Third-Party App Revenue",
+      "9. OpenAI Merges ChatGPT's Chat and Work Tabs",
+      "10. Google Brings Dreambeans to India to Scale AI Storytelling"
+    ]
+  },
+  {
+    "date": "2026-11-03",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-03",
@@ -1260,27 +1281,6 @@
       "8. Ando Wants to Take On Slack With a Team Messaging App for Humans and Agents",
       "9. Lightspeed Targets $250M for New India Fund, Focusing on Early-Stage AI",
       "10. AI Is Dominating the Conversation at Climate Week"
-    ]
-  },
-  {
-    "date": "2026-09-25",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-25",
-    "titleZh": "AI资讯晚报 | 2026-09-25",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-25",
-    "slug": "news-2026-09-25-evening",
-    "headlines": [
-      "1. Meta Debuts Tamagotchi-Like Wearable and Camera-Free AI Glasses for Its Muse Agent",
-      "2. Google Tests Letting Gemini Make Phone Calls on Your Behalf",
-      "3. ElevenLabs Reportedly Valued at $22B as Voice AI Demand Surges",
-      "4. Lovable's Annualized Revenue Crosses $600M as Vibe Coding Goes Mainstream",
-      "5. Anthropic Says Its Biology Lab Has Already Found Something Big",
-      "6. Australia Investigates Whether OpenAI-Linked Hack of Government Health Website Broke the Law",
-      "7. Ando Builds a Slack Competitor Where Humans and AI Agents Work Side by Side",
-      "8. AI Dominates the Conversation at Climate Week",
-      "9. Enveda Secures $311M to Bring Nature-Derived AI Drugs into Clinical Trials",
-      "10. Google Photos Launches 'Clueless'-Inspired Virtual Closet on Android and iOS"
     ]
   }
 ]
