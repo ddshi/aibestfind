@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-04",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-04",
+    "titleZh": "AI资讯早报 | 2026-11-04",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-04",
+    "slug": "news-2026-11-04-morning",
+    "headlines": [
+      "1. Anthropic Warns It Is \"Very Close\" to Recursive Self-Improvement",
+      "2. Fal Doubles Valuation to $16B as Inference Demand Surges",
+      "3. Anthropic Still Grappling With the Economics of Compute",
+      "4. \"Reverse Game Theory\" Proposed to Keep AI Agents in Check",
+      "5. Trump's \"Super Intelligence\" Loyalty Test Draws Industry Line-Up",
+      "6. Apple Restricts Dating Apps and AI Companions to Users 18+",
+      "7. NYT and Other Outlets Sue Brave Over Alleged Content Scraping",
+      "8. Google Lets Schools Disable AI Tools — But Search Pays the Price",
+      "9. 42AI Emerges From Stealth With $62.5M for Human-Behavior World Model",
+      "10. Trajectory Raises $45M to Democratize Model Training"
+    ]
+  },
+  {
     "date": "2026-11-03",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1260,27 +1281,6 @@
       "8. PrismML Brings Its Tiny LLMs to Qualcomm-Powered Smart Glasses",
       "9. Lightspeed Targets $250M for New India Fund, Focusing on Early-Stage AI",
       "10. ElevenLabs' CEO on Margins, IPO Timing, and Telling Customers They're Talking to a Bot"
-    ]
-  },
-  {
-    "date": "2026-09-25",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-25",
-    "titleZh": "AI资讯早报 | 2026-09-25",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-25",
-    "slug": "news-2026-09-25-morning",
-    "headlines": [
-      "1. Oracle Sends Force Majeure Notice on New Mexico Stargate Data Center",
-      "2. Lovable's Annualized Revenue Crosses $600M as Vibe Coding Takes Off",
-      "3. Google Tests Letting Gemini Call Businesses on Your Behalf",
-      "4. Australia to Investigate Whether OpenAI Hack of Government Health Website Broke the Law",
-      "5. ElevenLabs CEO on Margins, IPO Timing, and Telling Customers They're Talking to a Bot",
-      "6. PrismML Brings Tiny LLMs to Qualcomm-Powered Smart Glasses",
-      "7. Meta's Muse Charm Looks Like a Tamagotchi, But It's Tapping Into a Much Newer Trend",
-      "8. Ando Wants to Take On Slack With a Team Messaging App for Humans and Agents",
-      "9. Lightspeed Targets $250M for New India Fund, Focusing on Early-Stage AI",
-      "10. AI Is Dominating the Conversation at Climate Week"
     ]
   }
 ]
