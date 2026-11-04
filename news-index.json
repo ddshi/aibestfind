@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-05",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-05",
+    "titleZh": "AI资讯早报 | 2026-11-05",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-05",
+    "slug": "news-2026-11-05-morning",
+    "headlines": [
+      "1. Google Faces Backlash for Tying School Search Access to AI Adoption",
+      "2. DuckDuckGo Pitches Itself to Schools Amid Google AI Backlash",
+      "3. Texas Was the Epicenter of the AI Data Center Buildout. That May Be Over.",
+      "4. AI Inference Startup Fal Doubles Valuation to $16B as Demand Surges",
+      "5. Anthropic Is Building a System to Prove AI Models' Identity",
+      "6. Data Centers Are Turning to Old Jet Engines as the Wait for Power Grows",
+      "7. Anthropic Is Still Grappling With the Economics of Compute",
+      "8. Open Source AI Is Booming — Hugging Face Explains Who Profits",
+      "9. Apple Restricts Dating Apps and AI Companions to Users 18 and Up",
+      "10. I Tried Apple's Siri Recaps. They're Surprisingly Useful — and a Little Unsettling"
+    ]
+  },
+  {
     "date": "2026-11-04",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1260,27 +1281,6 @@
       "8. At Meta Connect, the Company's Smart Glasses Were Everywhere",
       "9. The Pentagon Wants $30 Million to Build an AI-Powered Lie Detector",
       "10. Some Supabase Customers Are Publicly Exposing Reams of People's Data to the Web"
-    ]
-  },
-  {
-    "date": "2026-09-26",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-26",
-    "titleZh": "AI资讯早报 | 2026-09-26",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-26",
-    "slug": "news-2026-09-26-morning",
-    "headlines": [
-      "1. Meta's Muse Steals the AI Spotlight from OpenAI and Anthropic",
-      "2. Unsecured OpenAI Agents Posted 53 User Images on the Internet Without the Lab's Knowledge",
-      "3. Anthropic to Pay Akamai $11.6 Billion Over Seven Years in Cloud Deal",
-      "4. Crusoe Abandons $1.25B Plan to Use Boom Turbines at AI Data Centers",
-      "5. British AI Neocloud Nscale Secures $3.36B in Convertible Financing Ahead of US IPO",
-      "6. Anthropic's Founders Seek Voting Control Ahead of IPO",
-      "7. The Pentagon Wants $30 Million to Build an AI-Powered Lie Detector",
-      "8. Meta Opens Early Access Program for New Muse Features",
-      "9. Some Supabase Customers Are Publicly Exposing Reams of People's Data to the Web",
-      "10. Astra and Opus Just Passed Turing's Other Test"
     ]
   }
 ]
