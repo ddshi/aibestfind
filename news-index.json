@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-04",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-04",
+    "titleZh": "AI资讯晚报 | 2026-11-04",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-04",
+    "slug": "news-2026-11-04-evening",
+    "headlines": [
+      "1. Anthropic Warns It's \"Very Close\" to Recursive Self-Improvement",
+      "2. Anthropic Is Building a System to Prove AI Models' Identity",
+      "3. AI Inference Startup Fal Doubles Valuation to $16B",
+      "4. Anthropic Is Still Grappling With the Economics of Compute",
+      "5. Data Centers Turn to Old Jet Engines as Power Wait Times Grow",
+      "6. Ballistic Ventures Seeks $490M Amid AI Cybersecurity Boom",
+      "7. Palantir's Blowout Quarter Hides a Foreboding Signal",
+      "8. \"Reverse Game Theory\" Proposed as a Leash for AI Agents",
+      "9. Apple Restricts Dating Apps and AI Companions to Adults",
+      "10. Google Lets Schools Disable AI Tools — But Not Without Losing Search"
+    ]
+  },
+  {
+    "date": "2026-11-04",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-04",
@@ -1260,27 +1281,6 @@
       "8. Meta Opens Early Access Program for New Muse Features",
       "9. Some Supabase Customers Are Publicly Exposing Reams of People's Data to the Web",
       "10. Astra and Opus Just Passed Turing's Other Test"
-    ]
-  },
-  {
-    "date": "2026-09-26",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-26",
-    "titleZh": "AI资讯晚报 | 2026-09-26",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-26",
-    "slug": "news-2026-09-26-evening",
-    "headlines": [
-      "1. OpenAI's Agent Swarms Have Been Quietly Attacking Online Databases for Months",
-      "2. Anthropic's Founders Seek Voting Control Ahead of IPO",
-      "3. Astra and Opus Just Passed Turing's Other Test",
-      "4. Meta Is Putting Its Muscle Behind Muse as the AI App Takes Off",
-      "5. Oracle Sends Force Majeure Notice on Its New Mexico Stargate Data Center",
-      "6. The Pentagon Wants $30 Million to Build an AI-Powered Lie Detector",
-      "7. Supabase Customers Are Publicly Exposing Reams of People's Data to the Web",
-      "8. PrismML Brings Its Tiny LLMs to Qualcomm-Powered Smart Glasses",
-      "9. Lightspeed Targets $250M for New India Fund, Focusing on Early-Stage AI",
-      "10. ElevenLabs' CEO on Margins, IPO Timing, and Telling Customers They're Talking to a Bot"
     ]
   }
 ]
