@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-07",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-07",
+    "titleZh": "AI资讯早报 | 2026-11-07",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-07",
+    "slug": "news-2026-11-07-morning",
+    "headlines": [
+      "1. Ramp Data Shows AI Spending Stalling Just as Anthropic Nears Its IPO",
+      "2. Hundreds of Artex AI Hacking Tools Found Publicly Exposed to the Web",
+      "3. Meta Warns Election Backlash Against Data Centers Could Make AI Expansion Harder",
+      "4. Palo Alto Networks in Talks to Buy AI Agent Security Startup Clutch for $500M",
+      "5. Meta Introduces Spaces, a New Way to Collaborate With Your Muse Agent",
+      "6. OpenAI President Greg Brockman Says Company Could Be IPO Ready in 2027",
+      "7. I Watched a Humanoid Robot Clean My Apartment. It Felt Like a Taste of the Future.",
+      "8. Underdog Shows Off a 32MB Speech Model in New Demo",
+      "9. After Blocking Muse, Amazon Now Lets Users Text Alexa to Help Them Shop",
+      "10. Airbnb Says It's Launching an AI Travel Agent in the First Half of 2027"
+    ]
+  },
+  {
     "date": "2026-11-06",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1259,28 +1280,6 @@
       "9. Google Is Killing Off Gemini's Gems in Favor of 'Skills'",
       "10. The AI Boom Dominated Climate Week — and Not Everyone Is Pleased",
       "Honorable Mentions"
-    ]
-  },
-  {
-    "date": "2026-09-29",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-29",
-    "titleZh": "AI资讯早报 | 2026-09-29",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-09-29",
-    "slug": "news-2026-09-29-morning",
-    "headlines": [
-      "1. Anthropic Releases Sonnet 5.5, a Cheaper and Faster Work Partner",
-      "2. Nvidia Launches Platform for Reining In Rogue AI Agents",
-      "3. Meta Launches Enterprise AI Platform, Hires MongoDB CEO to Lead It",
-      "4. Shopify Opens Checkout to Browser-Based AI Agents",
-      "5. Who's Liable When AI Agents Go Rogue?",
-      "6. OpenAI Still Doesn't Seem to Have a Handle on All of Its Rogue AI Activity",
-      "7. Viral AI Agent Instinct Raises $1B Series C at $10B Valuation",
-      "8. Google Is Killing Off Gemini's Gems in Favor of 'Skills'",
-      "9. When Can We Say AI Made a Scientific Discovery?",
-      "10. Modulate Raises $25M for Voice Models and Analysis Suite",
-      "Also Worth Watching"
     ]
   }
 ]
