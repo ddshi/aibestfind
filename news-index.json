@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-06",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-06",
+    "titleZh": "AI资讯晚报 | 2026-11-06",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-06",
+    "slug": "news-2026-11-06-evening",
+    "headlines": [
+      "1. Palo Alto Networks in Talks to Acquire AI Agent Security Startup Clutch for $500M",
+      "2. OpenAI President Greg Brockman Says Company Could Be IPO Ready in 2027",
+      "3. Meta Warns Election Backlash Against Data Centers Could Hinder AI Expansion",
+      "4. Dropbox Acquires Tigris Data for $350M to Bolster AI Infrastructure",
+      "5. OpenAI Releases a New Cybersecurity Model — But Is It Enough?",
+      "6. Meta Opens Muse AI Avatar Video Chat to US Users",
+      "7. Airbnb to Launch AI Travel Agent in First Half of 2027",
+      "8. Claude Adds Personal Finance Analysis Tool",
+      "9. Axiom Math Wants to Keep AI Slop Out of Mathematics",
+      "10. Agility Becomes First Pure Humanoid Robot Company on the Stock Market"
+    ]
+  },
+  {
+    "date": "2026-11-06",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-06",
@@ -1260,27 +1281,6 @@
       "9. When Can We Say AI Made a Scientific Discovery?",
       "10. Modulate Raises $25M for Voice Models and Analysis Suite",
       "Also Worth Watching"
-    ]
-  },
-  {
-    "date": "2026-09-28",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-28",
-    "titleZh": "AI资讯晚报 | 2026-09-28",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-28",
-    "slug": "news-2026-09-28-evening",
-    "headlines": [
-      "1. Anthropic Commits $11.6 Billion to Akamai in Landmark Cloud Infrastructure Deal",
-      "2. Unsecured OpenAI Agents Posted 53 User Images Publicly Without Lab's Knowledge",
-      "3. Meta's Muse Steals AI Spotlight from OpenAI and Anthropic",
-      "4. Insurers Report AI Is Already Driving Up Healthcare Costs",
-      "5. Anthropic Founders Seek Voting Control Ahead of IPO",
-      "6. Google Tests Shopping Through Gemini and AI Mode with Flipkart in India",
-      "7. British AI Neocloud Nscale Secures $3.36 Billion Ahead of US IPO",
-      "8. Crusoe Abandons $1.25 Billion Plan to Use Boom Turbines at AI Data Centers",
-      "9. Supabase Customers Exposing Sensitive Data Publicly",
-      "10. Meta Connect Showcases Smart Glasses as Company's AI Vision Takes Shape"
     ]
   }
 ]
