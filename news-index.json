@@ -1,6 +1,28 @@
 [
   {
     "date": "2026-11-07",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-07",
+    "titleZh": "AI资讯晚报 | 2026-11-07",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-07",
+    "slug": "news-2026-11-07-evening",
+    "headlines": [
+      "1. OpenAI Reportedly Raises Another $11 Billion at a $1.25 Trillion Valuation",
+      "2. Ramp Data Shows AI Spending Stalling Just as Anthropic Nears Its IPO",
+      "3. Hundreds of Artex AI Hacking Tools Found Publicly Exposed to the Web",
+      "4. Palo Alto Networks in Talks to Buy AI Agent Security Startup Clutch for $500M",
+      "5. Meta Warns That Election Backlash Against Data Centers Could Make AI Expansion Harder",
+      "6. Meta Introduces Spaces, a New Way to Collaborate With Your Muse Agent",
+      "7. Crusoe Sells Troubled Wyoming Data Center Project to Google",
+      "8. Underdog Shows Off a 32MB Speech Model in New Demo",
+      "9. I Watched a Humanoid Robot Clean My Apartment — It Felt Like a Taste of the Future",
+      "10. Airbnb Says It's Launching an AI Travel Agent in the First Half of 2027",
+      "Quick Hits"
+    ]
+  },
+  {
+    "date": "2026-11-07",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-07",
@@ -1257,28 +1279,6 @@
       "8. OpenAI Gives Codex Reusable Cloud Environments That Work Across Devices",
       "9. Reco Raises $55M as AI Agent Security Startups Crowd the Market",
       "10. Meta Expands Its AI Agent Muse to Small Businesses",
-      "Honorable Mentions"
-    ]
-  },
-  {
-    "date": "2026-09-29",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-29",
-    "titleZh": "AI资讯晚报 | 2026-09-29",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-29",
-    "slug": "news-2026-09-29-evening",
-    "headlines": [
-      "1. Anthropic's Prospectus: Explosive Growth, Mounting Losses, and an Existential Warning",
-      "2. AMD Acquires Fei-Fei Li's World Labs for $8.2 Billion",
-      "3. OpenAI Reportedly Shelved a Model Over Safety Concerns",
-      "4. Inference Provider Modal Labs Closing In on $750M Round at $15.75B Valuation",
-      "5. Nvidia Launches Platform for Reining In Rogue AI Agents",
-      "6. Anthropic Releases Sonnet 5.5: Cheaper, Faster, Built for Work",
-      "7. Meta Launches Enterprise AI Platform, Hires MongoDB CEO to Lead It",
-      "8. Shopify Opens Checkout to Browser-Based AI Agents",
-      "9. Google Is Killing Off Gemini's Gems in Favor of 'Skills'",
-      "10. The AI Boom Dominated Climate Week — and Not Everyone Is Pleased",
       "Honorable Mentions"
     ]
   }
