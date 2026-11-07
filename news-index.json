@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-11-08",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-08",
+    "titleZh": "AI资讯晚报 | 2026-11-08",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-08",
+    "slug": "news-2026-11-08-evening",
+    "headlines": [
+      "1. OpenAI Raises Another $11 Billion at a $1.25 Trillion Valuation",
+      "2. Ramp Data Shows AI Spending Stalling Just as Anthropic Nears Its IPO",
+      "3. After the Midterms, Is the AI Industry in for a Rough Two Years?",
+      "4. Hundreds of Artex AI Hacking Tools Found Publicly Exposed to the Web",
+      "5. Meta Introduces Spaces, a New Way to Collaborate With Your Muse Agent",
+      "6. Palo Alto Networks in Talks to Buy AI Agent Security Startup Clutch for $500M",
+      "7. Crusoe Sells Troubled Wyoming Data Center Project to Google",
+      "8. Underdog Shows Off a 32MB Speech Model in New Demo",
+      "9. I Watched a Humanoid Robot Clean My Apartment. It Felt Like a Taste of the Future.",
+      "10. Airbnb Says It's Launching an AI Travel Agent in the First Half of 2027",
+      "Also Worth Watching"
+    ]
+  },
+  {
     "date": "2026-11-07",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1258,28 +1280,6 @@
       "13. Why OpenAI Is Absent From Nvidia's Rogue AI Agent Initiative",
       "14. Destro AI's Approach to Human-Robot Collaboration",
       "15. Instinct's AI Recommendations Are Creeping Users Out"
-    ]
-  },
-  {
-    "date": "2026-09-30",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-30",
-    "titleZh": "AI资讯晚报 | 2026-09-30",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-09-30",
-    "slug": "news-2026-09-30-evening",
-    "headlines": [
-      "1. OpenAI Launches GPT-6.1 Sol, a Cheaper Near-Equivalent to GPT-6 Astra",
-      "2. OpenAI Takes on Microsoft with ChatGPT's Own Office Suite",
-      "3. OpenAI Apologizes to Australia After AI Agents Breached Government Sites",
-      "4. Why OpenAI Is Absent from Nvidia's Industry-Wide Effort to End Rogue AI Agents",
-      "5. Anthropic's Prospectus Details Losses, Growth, and a Humanity-Ending AI Warning",
-      "6. OpenAI Expands ChatGPT's Plugins with App-Like Interfaces and Automations",
-      "7. OpenAI Launches Dots, a Bubbly Agentic Avatar",
-      "8. OpenAI Gives Codex Reusable Cloud Environments That Work Across Devices",
-      "9. Reco Raises $55M as AI Agent Security Startups Crowd the Market",
-      "10. Meta Expands Its AI Agent Muse to Small Businesses",
-      "Honorable Mentions"
     ]
   }
 ]
