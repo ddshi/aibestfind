@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-11-09",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-09",
+    "titleZh": "AI资讯晚报 | 2026-11-09",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-09",
+    "slug": "news-2026-11-09-evening",
+    "headlines": [
+      "1. OpenAI Reportedly Raises $11B More at a $1.25 Trillion Valuation",
+      "2. Midterm Elections Throw a Wrench Into AI's Data Center Ambitions",
+      "3. US Intelligence Memo: Megaspeed Exec Recruited to Spy on Nvidia CEO",
+      "4. Ramp Data Shows AI Spending Stalling — Right as Anthropic Nears Its IPO",
+      "5. Google Buys Troubled Wyoming Data Center Project From Crusoe",
+      "6. Hundreds of Artex AI Hacking Tools Found Exposed on the Public Web",
+      "7. OpenAI Releases a New Cybersecurity Model — But Is It Enough?",
+      "8. Meta Launches Spaces to Collaborate With Its Muse Agent",
+      "9. Amazon Lets Users Text Alexa to Shop — After Blocking Muse",
+      "10. Underdog Demos a 32MB Speech Model",
+      "Also Worth Watching"
+    ]
+  },
+  {
     "date": "2026-11-08",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1254,32 +1276,6 @@
       "8. Reddit Is Killing RSS Feeds and Ending Public API Access Because of AI Bots",
       "9. DoorDash Launches an AI Agent You Can Text to Order Food",
       "10. Photon Raises $4.5M to Replace Mobile Apps with AI Agents"
-    ]
-  },
-  {
-    "date": "2026-10-01",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-01",
-    "titleZh": "AI资讯晚报 | 2026-10-01",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-01",
-    "slug": "news-2026-10-01-evening",
-    "headlines": [
-      "1. OpenAI Reportedly in Talks to Raise $30B at $1.4T Valuation",
-      "2. ElevenLabs Doubles Valuation to $22B",
-      "3. Reddit Kills RSS Feeds and Public API Access Over AI Bots",
-      "4. OpenAI's Latest Features Take Direct Aim at the App Store Model",
-      "5. OpenAI Takes on Microsoft With ChatGPT Office Suite",
-      "6. The Ugly Economics of Consumer AI",
-      "7. Meta Disputes Claim That Muse Read Private Messages Without Permission",
-      "8. DoorDash Launches AI Agent You Can Text to Order Food",
-      "9. Cerebras CEO Andrew Feldman on Whether AI Can Keep Scaling",
-      "10. Restate Lands $20M as AI Agent Infrastructure Demand Grows",
-      "11. Airbnb Adds AI Search and Expanded Social Features",
-      "12. OpenAI's Chief Research Officer Addresses Hacking Fallout",
-      "13. Why OpenAI Is Absent From Nvidia's Rogue AI Agent Initiative",
-      "14. Destro AI's Approach to Human-Robot Collaboration",
-      "15. Instinct's AI Recommendations Are Creeping Users Out"
     ]
   }
 ]
