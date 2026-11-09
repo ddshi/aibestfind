@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-10",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-10",
+    "titleZh": "AI资讯早报 | 2026-11-10",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-10",
+    "slug": "news-2026-11-10-morning",
+    "headlines": [
+      "1. Nvidia's Jensen Huang Scandal Escalates: Investigation, Lawsuits, and a Leadership Question",
+      "2. Intelligence Memo: Megaspeed Exec Recruited to Spy on Huang",
+      "3. Huang Pulls Out of ElevenLabs Summit as Fallout Spreads",
+      "4. Anthropic Releases New Mythos and Fable Models Amid RSI Concerns",
+      "5. Anthropic Buys $3.4B in Natural Gas Turbines, Joining AI's Power Frenzy",
+      "6. The Data Center Backlash Is Really About Electricity",
+      "7. Meta Releases Muse Ember, a Lightweight Model for Agent Execution",
+      "8. Midterms Reshape Washington's Stance on Big Tech and AI",
+      "9. The Climate Case for AI Has Not Been Made",
+      "10. Automattic Launches Platform to Deploy Vibe-Coded Apps"
+    ]
+  },
+  {
     "date": "2026-11-09",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1255,27 +1276,6 @@
       "8. Brian Chesky: AI Agents Need Their Own Operating System",
       "9. ChatGPT Can Now Virtually Try On Clothes for You",
       "10. Amazon Releases Its Own \"Jev\" Clone as Decision Models Flood the Web"
-    ]
-  },
-  {
-    "date": "2026-10-02",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-02",
-    "titleZh": "AI资讯晚报 | 2026-10-02",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-02",
-    "slug": "news-2026-10-02-evening",
-    "headlines": [
-      "1. Google Releases Gemini 4 Argon, Called Its Most Powerful Model Yet",
-      "2. OpenAI Cuts Ties with Three Safety Researchers, WSJ Reports",
-      "3. ElevenLabs Doubles Valuation to $22B",
-      "4. Amazon Releases Its Own Jev Clone as Decision Models Flood the Web",
-      "5. Shopify Debuts Canvas, a Way to Build Online Stores by Chatting with AI",
-      "6. Brian Chesky: AI Agents Need Their Own Operating System",
-      "7. An AI \"Mind-Reading\" Tool Can Reconstruct What You're Looking At from a Brain Scan",
-      "8. Reddit Is Killing RSS Feeds and Ending Public API Access Because of AI Bots",
-      "9. DoorDash Launches an AI Agent You Can Text to Order Food",
-      "10. Photon Raises $4.5M to Replace Mobile Apps with AI Agents"
     ]
   }
 ]
