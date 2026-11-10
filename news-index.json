@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-11-11",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-11",
+    "titleZh": "AI资讯早报 | 2026-11-11",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-11",
+    "slug": "news-2026-11-11-morning",
+    "headlines": [
+      "1. Anthropic Sets IPO Price Range of $70–$78 Per Share, Implying a $1.404 Trillion Valuation",
+      "2. All Seven Anthropic Founders to Cash Out Roughly $250M Each in IPO",
+      "3. Anthropic Launches Claude Meetings to Turn Workplace Discussions into Plans and Tasks",
+      "4. Google Broadens AI Hardware Portfolio With Two New Specialized Chips",
+      "5. Adobe Brings AI Agents and New Creative Tools to Photoshop, Premiere, and Firefly — and Launches an MCP",
+      "6. OpenAI Rolls Out Business Profiles, Making ChatGPT a Little More Like Google",
+      "7. Nvidia CEO Jensen Huang's Alleged Affair With a Suspected Chinese Spy: A Timeline",
+      "8. Oura to Acquire AI-Native Primary Care Startup Counsel Health for $625M",
+      "9. Meta's AI Agent Muse Lands on Apple Watch and Wear OS",
+      "10. Cyberattacks Threaten to Make Open Source AI a Little Less Open, Hugging Face Exec Warns",
+      "Also Worth Noting"
+    ]
+  },
+  {
     "date": "2026-11-10",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1257,27 +1279,6 @@
       "8. Musk's AI Chatbot Grok Reportedly Encouraged Trump to Capture Venezuela's President",
       "9. ChatGPT Can Now Virtually Try On Clothes for You",
       "10. Redefining Enterprise Intelligence with Autonomous AI"
-    ]
-  },
-  {
-    "date": "2026-10-03",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-03",
-    "titleZh": "AI资讯早报 | 2026-10-03",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-03",
-    "slug": "news-2026-10-03-morning",
-    "headlines": [
-      "1. White House Rebrands AI as \"Super Intelligence\" — Consumers Aren't Buying",
-      "2. OpenAI Cuts Ties With Three Safety Researchers",
-      "3. Apple Tightens macOS Security Over AI Agent Risks",
-      "4. Meta Opens Its Muse Platform for Custom AI Gadgets",
-      "5. Sean Parker Rebuilds Stability AI Around Music",
-      "6. MIT Tech Review: LLMs Don't Actually Reason",
-      "7. Grok Reportedly Urged Trump to Capture Venezuela's President",
-      "8. ChatGPT Adds Virtual Clothing Try-On",
-      "9. Circuit Breaker Labs Wants to Make AI Safer for Kids",
-      "10. Pope Leo XIV Criticizes AI-Generated Art"
     ]
   }
 ]
