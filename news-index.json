@@ -1,6 +1,29 @@
 [
   {
     "date": "2026-11-10",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-10",
+    "titleZh": "AI资讯晚报 | 2026-11-10",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-10",
+    "slug": "news-2026-11-10-evening",
+    "headlines": [
+      "1. Nvidia Opens Investigation Into CEO Jensen Huang's Relationship With Alleged Chinese Spy",
+      "2. Huang's China Ambitions Under Scrutiny as Fallout Spreads",
+      "3. Huang Pulls Out of ElevenLabs Summit Amid Controversy",
+      "4. The Race Is On to Sue Nvidia",
+      "5. Short Seller Flagged Huang's Ties Six Months Before the Scandal",
+      "6. Is Jensen Huang's Job on the Line? Yale's Jeffrey Sonnenfeld Puts It at 'About 50-50'",
+      "7. Anthropic Reportedly Plans to Move Forward With IPO",
+      "8. Anthropic Releases New Mythos and Fable Models Amid RSI Concerns",
+      "9. Anthropic Buys $3.4B in Natural Gas Turbines, Joining AI's Energy Frenzy",
+      "10. Meta Releases Muse Ember, a Lightweight Model for Agent Execution",
+      "11. Otter AI Now Follows Conversations Across 30+ Languages",
+      "Quick Hits"
+    ]
+  },
+  {
+    "date": "2026-11-10",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-10",
@@ -1255,27 +1278,6 @@
       "8. ChatGPT Adds Virtual Clothing Try-On",
       "9. Circuit Breaker Labs Wants to Make AI Safer for Kids",
       "10. Pope Leo XIV Criticizes AI-Generated Art"
-    ]
-  },
-  {
-    "date": "2026-10-03",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-03",
-    "titleZh": "AI资讯晚报 | 2026-10-03",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-03",
-    "slug": "news-2026-10-03-evening",
-    "headlines": [
-      "1. White House Rebrands AI as \"Super Intelligence\" — But Consumers Aren't Buying It",
-      "2. Apple Tightens macOS \"Full Disk Access\" Controls Over AI Agent Risks",
-      "3. OpenAI Cuts Ties with Three Safety Researchers",
-      "4. MIT Tech Review: \"Don't Be Fooled — LLMs Don't Reason\"",
-      "5. Musk's Grok Reportedly Encouraged Trump to Capture Venezuela's President",
-      "6. Google: SpaceX's Starship Would Need 1,800 Launches Before Space Data Centers Work",
-      "7. Shopify Debuts Canvas: Build Online Stores by Chatting with AI",
-      "8. Brian Chesky: AI Agents Need Their Own Operating System",
-      "9. ChatGPT Can Now Virtually Try On Clothes for You",
-      "10. Amazon Releases Its Own \"Jev\" Clone as Decision Models Flood the Web"
     ]
   }
 ]
