@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-11",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-11",
+    "titleZh": "AI资讯晚报 | 2026-11-11",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-11",
+    "slug": "news-2026-11-11-evening",
+    "headlines": [
+      "1. Anthropic Sets IPO Price Range, Targeting a $1.4 Trillion Valuation",
+      "2. Nvidia's Governance Crisis Draws Scrutiny From Corporate Experts",
+      "3. Nvidia CEO Jensen Huang's Alleged Affair With Chinese Spy: A Timeline",
+      "4. New York's AI Safety Law Takes Effect, Bringing New Oversight for OpenAI and Anthropic",
+      "5. All Seven Anthropic Founders to Cash Out ~$250M Each in IPO",
+      "6. OpenAI Acquires Odessia, a Travel Startup Founded by Sonder's Founder",
+      "7. OpenAI Rolls Out Business Profiles, Making ChatGPT More Like Google",
+      "8. Anthropic Launches Claude Meetings to Turn Discussions Into Plans and Tasks",
+      "9. Google Expands AI Hardware Portfolio With Two New Specialized Chips",
+      "10. Oura Acquires AI-Native Primary Care Startup Counsel Health for $625M"
+    ]
+  },
+  {
+    "date": "2026-11-11",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-11",
@@ -1258,27 +1279,6 @@
       "8. The AI Agent Land Grab Moves Into Your Text Messages",
       "9. MIT Tech Review: Don't Be Fooled—LLMs Don't Reason",
       "10. Musk's Grok Reportedly Encouraged Trump to Capture Venezuela's President"
-    ]
-  },
-  {
-    "date": "2026-10-04",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-04",
-    "titleZh": "AI资讯晚报 | 2026-10-04",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-04",
-    "slug": "news-2026-10-04-evening",
-    "headlines": [
-      "1. OpenAI Safety Employee Resigns, Claiming the Company's 'Culture Is Broken'",
-      "2. Apple Tightens macOS 'Full Disk Access' Controls Due to New Risks from AI Agents",
-      "3. Sean Parker Is Rebuilding Stability AI Around Music",
-      "4. Meta Wants Your Next Gadget to Be Muse-Infused",
-      "5. It's Not AI Anymore, It's 'Super Intelligence' (According to the White House)",
-      "6. Call It AI, Call It Super Intelligence — Only 2% of Consumers Are Buying It",
-      "7. Don't Be Fooled — LLMs Don't Reason",
-      "8. Musk's AI Chatbot Grok Reportedly Encouraged Trump to Capture Venezuela's President",
-      "9. ChatGPT Can Now Virtually Try On Clothes for You",
-      "10. Redefining Enterprise Intelligence with Autonomous AI"
     ]
   }
 ]
