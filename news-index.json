@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-12",
+    "titleZh": "AI资讯早报 | 2026-11-12",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-12",
+    "slug": "news-2026-11-12-morning",
+    "headlines": [
+      "1. OpenAI's Quarterly Revenue Reportedly Crosses $10B for the First Time",
+      "2. Congress to Call Jensen Huang In to Answer for Alleged Chinese Spy Affair",
+      "3. Nvidia's Crisis Has Corporate Governance Experts Reaching for the Popcorn",
+      "4. Is Jensen Huang's Bad Behavior More Commonplace Than It Seems?",
+      "5. With $720M Round, Britain's Fractile Gets a Leg Up in the Race for AI Chips",
+      "6. CoreWeave Turns to Customer Prepayments, Shorter Contracts to Fund AI Growth",
+      "7. Meta Is Losing Its Longtime Head of Infrastructure",
+      "8. How Backlash and Red Tape Continue to Slow Data Centers Post-Blue Wave",
+      "9. Why the Data Center You Dread Might Never Even Be Built",
+      "10. OpenAI, Anthropic Face New Oversight as New York's AI Safety Law Takes Effect",
+      "11. All 7 Anthropic Founders Will Each Cash Out About $250M in IPO",
+      "12. Databricks' New AI Agent Tells CEO Ali Ghodsi the Unvarnished Truth",
+      "13. Anthropic Launches Claude Meetings to Turn Workplace Discussions into Plans and Tasks",
+      "14. Oura to Acquire AI-Native Primary Care Startup Counsel Health for $625M",
+      "15. Plurai Wants to Help AI Agents Work Better Using the Same Approach That Helped Get Self-Driving Cars to Roads"
+    ]
+  },
+  {
     "date": "2026-11-11",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1258,27 +1284,6 @@
       "8. HackerRank's AI Interviewer Offers a Glimpse Into What Job Interviews Could Become",
       "9. People Really Hate AI, So Why Can't They Get Enough?",
       "10. Connecting AI Agents to Enterprise Knowledge"
-    ]
-  },
-  {
-    "date": "2026-10-05",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-05",
-    "titleZh": "AI资讯晚报 | 2026-10-05",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-05",
-    "slug": "news-2026-10-05-evening",
-    "headlines": [
-      "1. Trump Unveils \"Super Intelligence Force\" as White House Abandons the Term \"AI\"",
-      "2. OpenAI Safety Employee Resigns, Says Company Culture Is \"Broken\"",
-      "3. Only 2% of Consumers Are Buying Into AI (or \"Super Intelligence\")",
-      "4. Apple Tightens macOS \"Full Disk Access\" Controls Citing AI Agent Risks",
-      "5. Amazon Responds to Data Center Backlash, Says It No Longer Uses NDAs",
-      "6. Sean Parker Is Rebuilding Stability AI Around Music",
-      "7. Meta Wants Your Next Gadget to Be \"Muse-Infused\"",
-      "8. The AI Agent Land Grab Moves Into Your Text Messages",
-      "9. MIT Tech Review: Don't Be Fooled—LLMs Don't Reason",
-      "10. Musk's Grok Reportedly Encouraged Trump to Capture Venezuela's President"
     ]
   }
 ]
