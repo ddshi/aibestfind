@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-13",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-13",
+    "titleZh": "AI资讯早报 | 2026-11-13",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-13",
+    "slug": "news-2026-11-13-morning",
+    "headlines": [
+      "1. Jensen Huang Out at Nvidia as Board Moves to Oust CEO",
+      "2. Nvidia Privately Confirmed It Can Track Chips to Fight Smuggling",
+      "3. Google Search Upgrade Targets Complex, Multi-Step Questions",
+      "4. Huang's Exit Puts Nvidia's Open-Source Support in Question",
+      "5. Hugging Face CEO Vows to Keep Fighting for Open-Source AI",
+      "6. United Airlines Blocks AI Agents From Booking Flights",
+      "7. Fireworks AI Breach Exposed Notion Customers' Chat Transcripts",
+      "8. SoftBank's Billion-Dollar Loss May Cap AI's Natural Gas Ambitions",
+      "9. Norwest Launches $4B Fund to Push Deeper Into AI",
+      "10. Trump Floats Tim Cook as Huang's Successor"
+    ]
+  },
+  {
     "date": "2026-11-12",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1270,27 +1291,6 @@
       "8. Instinct Brings AI Agent to Group Chats — Even for Friends Without Accounts",
       "9. Pinterest's AI Turns Beauty Pins into Actionable Plans",
       "10. MIT Technology Review Names 10 Climate Tech Companies to Watch in 2026"
-    ]
-  },
-  {
-    "date": "2026-10-06",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-06",
-    "titleZh": "AI资讯晚报 | 2026-10-06",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-06",
-    "slug": "news-2026-10-06-evening",
-    "headlines": [
-      "1. OpenAI Will Watermark ChatGPT's Text in the EU",
-      "2. Reflection Debuts Beam, an Open-Weight Model to Rival Chinese AI at Lower Compute Cost",
-      "3. Google Froze Its Open Source Bug Bounty Program Due to a 'Significant Rise' in AI Submissions",
-      "4. OpenAI Launches Visual Ads Alongside Image Generation Results",
-      "5. Researchers Are Tracking a Chinese AI 'Agent Fleet'",
-      "6. People Really Hate AI, So Why Can't They Get Enough?",
-      "7. TikTok Rolls Out an AI Shopping Assistant and One-Click Checkout",
-      "8. Connecting AI Agents to Enterprise Knowledge",
-      "9. HackerRank's AI Interviewer Offers a Glimpse Into What Job Interviews Could Become",
-      "10. Trump Unveils His New Super Intelligence Force"
     ]
   }
 ]
