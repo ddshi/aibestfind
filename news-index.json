@@ -1,6 +1,37 @@
 [
   {
     "date": "2026-11-13",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-13",
+    "titleZh": "AI资讯晚报 | 2026-11-13",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-13",
+    "slug": "news-2026-11-13-evening",
+    "headlines": [
+      "Democrats Launch Nvidia Investigation, Write Scathing Letter on Huang's 'Scheme' with Trump",
+      "Jensen Huang Agrees to Testify Before Congress",
+      "Jensen Huang Is Out at Nvidia — Who Is Colette Kress, His Interim Replacement?",
+      "The Unfolding Jensen Huang Scandal: A Timeline",
+      "Jensen Huang Was Having a Third Affair, Reuters Reports",
+      "Jensen Huang's Exit Puts Nvidia's Support for Open Source in Question",
+      "Hugging Face CEO Vows to Keep Fighting for Open Source AI After Huang's Exit",
+      "Five Ways Jensen Huang's Ouster from Nvidia Could Damage the AI Industry",
+      "Nvidia Privately Confirmed It Could Track Chips to Fight Smuggling, Even as Industry Publicly Questioned Feasibility",
+      "Nebius Tests the Neocloud Playbook with $40 Billion in Planned Spending",
+      "Norwest Pushes Deeper into AI with New $4B Fund",
+      "Google's Latest Search Upgrade Promises Better Answers to Your Most Complicated Questions",
+      "Muse Can Now Place Calls to US Businesses — If You Pay",
+      "Nectar Launches an AI Agent to Automate Creator Discovery and Outreach for Brands",
+      "Cyberattack on Fireworks AI Allowed Hackers to Access Notion Customers' Chat Transcripts",
+      "United Airlines Blocks AI Agents from Booking Flights, Citing Cybersecurity Risks",
+      "SoftBank's Billion-Dollar Loss May Have Put a Cap on AI's Natural Gas Ambitions",
+      "Trump Floats Apple Chairman Tim Cook as Jensen Huang's Successor",
+      "Phota Labs Uses AI to Turn Everyday Photos into Professional-Looking Shots",
+      "Nine Korean Startups Vie for a Spot in Disrupt 2027's Startup Battlefield 200 Competition"
+    ]
+  },
+  {
+    "date": "2026-11-13",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-13",
@@ -1270,27 +1301,6 @@
       "9. Google Experiments with an AI-Powered Gaming Platform",
       "10. Hark Releases Privacy-Focused AI Personal Assistant",
       "Quick Hits & Industry Moves"
-    ]
-  },
-  {
-    "date": "2026-10-07",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-07",
-    "titleZh": "AI资讯晚报 | 2026-10-07",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-07",
-    "slug": "news-2026-10-07-evening",
-    "headlines": [
-      "1. Mistral Unveils 1-Trillion-Parameter Model to Challenge Closed and Open Rivals",
-      "2. Reflection Debuts Beam, an Open-Weight Model Targeting Lower Compute Costs",
-      "3. Anthropic Offers Startups a Free Year of Claude Team Plus $1,000 in Credits",
-      "4. Hark Launches Privacy-Focused AI Personal Assistant",
-      "5. LibreOffice Declares 'No AI' a Software Feature",
-      "6. OpenAI to Watermark ChatGPT Text in the EU",
-      "7. Mirror Particle Is Building a 'World Model' of Human Behavior",
-      "8. Instinct Brings AI Agent to Group Chats — Even for Friends Without Accounts",
-      "9. Pinterest's AI Turns Beauty Pins into Actionable Plans",
-      "10. MIT Technology Review Names 10 Climate Tech Companies to Watch in 2026"
     ]
   }
 ]
