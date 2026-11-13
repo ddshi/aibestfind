@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-14",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-14",
+    "titleZh": "AI资讯早报 | 2026-11-14",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-14",
+    "slug": "news-2026-11-14-morning",
+    "headlines": [
+      "1. The Jensen Huang Scandal Goes Political: Democrats Launch Nvidia Investigation",
+      "2. Export-Banned Nvidia Chips Power China's Most Advanced AI Models",
+      "3. Nvidia Privately Confirmed It Could Track Chips — While Publicly Doubting It",
+      "4. The Full Timeline of the Unfolding Huang Scandal",
+      "5. Huang's Exit Casts Doubt on Nvidia's Open-Source Commitment",
+      "6. LangChain Hits a $3B Valuation as AI Agent Hype Matures",
+      "7. ChatGPT's New Wallet Lets AI Agents Shop and Check Out for You",
+      "8. United Airlines Blocks AI Agents From Booking Flights",
+      "9. Nebius Bets $40 Billion on the Neocloud Playbook",
+      "10. Google Upgrades Search to Tackle Your Most Complicated Questions"
+    ]
+  },
+  {
     "date": "2026-11-13",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1279,28 +1300,6 @@
       "8. Nous Research Confirms $1.5B Valuation, Launches Business AI Agents",
       "9. Natura's $99 Smart Ring Puts AI Agents on Your Finger",
       "10. MIT Tech Review: AI Robotics Breakthroughs Won't Change Your Life Anytime Soon"
-    ]
-  },
-  {
-    "date": "2026-10-08",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-08",
-    "titleZh": "AI资讯晚报 | 2026-10-08",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-08",
-    "slug": "news-2026-10-08-evening",
-    "headlines": [
-      "1. ChatGPT Gets a Major Visual Overhaul with New Interface",
-      "2. Lambda Secures $4B to Fuel AI Computing Ahead of IPO",
-      "3. Google Launches SynthID Website to Identify AI-Generated Media",
-      "4. ChatGPT for Teens Keeps Talking During Mental Health Crises",
-      "5. Tony Fadell: Why the First Wave of AI Gadgets Failed",
-      "6. The Next Hurdle for AI Agents: Getting Websites to Let Them In",
-      "7. Healthleap Raises $38M for AI That Flags At-Risk Hospital Patients",
-      "8. Meta Rolls Out AI to Detect Ads Linking to Child Abuse Material",
-      "9. Google Experiments with an AI-Powered Gaming Platform",
-      "10. Hark Releases Privacy-Focused AI Personal Assistant",
-      "Quick Hits & Industry Moves"
     ]
   }
 ]
