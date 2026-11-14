@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-11-15",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-15",
+    "titleZh": "AI资讯晚报 | 2026-11-15",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-15",
+    "slug": "news-2026-11-15-evening",
+    "headlines": [
+      "1. Nvidia Privately Confirmed Chip-Tracking Capability While Publicly Doubting It",
+      "2. The Data Center Backlash May Really Be About Electricity",
+      "3. Silicon Valley's Futurism Got the Midterms Wrong",
+      "4. Brain-Implant Trial Volunteers Demand More Autonomy and Fewer NDAs",
+      "5. Pelosi's Successor Puts AI Regulation in the Crosshairs",
+      "6. Weighing the Risks of Open AI",
+      "7. The Quest for Cognitive Immortality",
+      "8. COP31 and the Climate Challenge Facing AI",
+      "9. Evolving Metal Extraction Processes"
+    ]
+  },
+  {
     "date": "2026-11-14",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1279,27 +1299,6 @@
       "8. The Top AI Agents That Can Live in Your Text Messages",
       "9. a16z's Olivia Moore on the State of Consumer AI",
       "10. We Can't Help Treating AI Like It's Human — But Should We?"
-    ]
-  },
-  {
-    "date": "2026-10-10",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-10",
-    "titleZh": "AI资讯晚报 | 2026-10-10",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-10",
-    "slug": "news-2026-10-10-evening",
-    "headlines": [
-      "1. OpenAI's Revenue Falls $20 Billion Short of Projections",
-      "2. Google Brings Agentic AI to Gemini, Starting with Businesses",
-      "3. Fired OpenAI Safety Researchers Dispute Misconduct Claims, Warn of Chilling Effect",
-      "4. Anthropic Tightens Usage Policy to Ban Model Abuse and Election Interference",
-      "5. We're Putting Too Much Faith in AI's Ability to Say No",
-      "6. Amazon Drops Data Center NDAs Amid Transparency Pressure",
-      "7. Arena AI Leaderboard Nearly Doubles Valuation to $3.1B in 10 Months",
-      "8. a16z's Olivia Moore on the State of Consumer AI",
-      "9. Natura's $99 Smart Ring Puts AI Agents on Your Finger",
-      "10. Danu Robotics' Fight to Build a Better Recycling Robot"
     ]
   }
 ]
