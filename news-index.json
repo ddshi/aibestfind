@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-14",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-14",
+    "titleZh": "AI资讯晚报 | 2026-11-14",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-14",
+    "slug": "news-2026-11-14-evening",
+    "headlines": [
+      "1. Nvidia Privately Confirmed It Could Track Chips to Fight Smuggling, Even as Industry Publicly Questioned Feasibility",
+      "2. The Backlash About Data Centers Might Really Just Be About Electricity",
+      "3. Silicon Valley Claims to Know the Future. So Why Did It Get the Midterms So Wrong?",
+      "4. The Download: Silicon Valley's Blind Spot and Nvidia's Chip-Tracking Plan",
+      "5. More Autonomy, Fewer NDAs: Volunteers Have New Requests for Brain Implant Trials",
+      "6. The Download: Pelosi's Successor Targets AI and Data Centers Face Power Woes",
+      "7. The Download: Preserving Minds and Weighing Open AI Risks",
+      "8. The Download: COP31's Climate Challenge and the Quest for Immortality",
+      "9. What to Know About This Year's UN Climate Talks",
+      "10. Evolving Metal Extraction Processes"
+    ]
+  },
+  {
+    "date": "2026-11-14",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-14",
@@ -1279,27 +1300,6 @@
       "8. a16z's Olivia Moore on the State of Consumer AI",
       "9. Natura's $99 Smart Ring Puts AI Agents on Your Finger",
       "10. Danu Robotics' Fight to Build a Better Recycling Robot"
-    ]
-  },
-  {
-    "date": "2026-10-09",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-09",
-    "titleZh": "AI资讯晚报 | 2026-10-09",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-09",
-    "slug": "news-2026-10-09-evening",
-    "headlines": [
-      "1. OpenAI's Revenue Reportedly Falls $20 Billion Short of Projections",
-      "2. Google Brings Agentic AI to Gemini, Starting with Businesses",
-      "3. China's Manus Raises Over $500M in First Funding Round Since Meta Split",
-      "4. Anthropic Tightens Usage Policy to Ban Model Abuse and Election Interference",
-      "5. Arena Nearly Doubles Valuation to $3.1B in Just 10 Months",
-      "6. Goodfire Launches 'Inside-Out' Monitors to Catch Rogue AI Agents",
-      "7. Microsoft Releases New Nvidia-Chip AI PCs with Revamped Windows 11",
-      "8. Nous Research Confirms $1.5B Valuation, Launches Business AI Agents",
-      "9. Natura's $99 Smart Ring Puts AI Agents on Your Finger",
-      "10. MIT Tech Review: AI Robotics Breakthroughs Won't Change Your Life Anytime Soon"
     ]
   }
 ]
