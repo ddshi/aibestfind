@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-16",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-16",
+    "titleZh": "AI资讯晚报 | 2026-11-16",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-16",
+    "slug": "news-2026-11-16-evening",
+    "headlines": [
+      "1. Nvidia Privately Confirmed It Could Track Chips to Fight Smuggling — While Publicly Questioning Feasibility",
+      "2. The Download: Silicon Valley's Blind Spot and Nvidia's Chip-Tracking Plan",
+      "3. Silicon Valley Claims to Know the Future. So Why Did It Get the Midterms So Wrong?",
+      "4. More Autonomy, Fewer NDAs: Volunteers Have New Requests for Brain Implant Trials",
+      "5. The Backlash About Data Centers Might Really Just Be About Electricity",
+      "6. The Download: Pelosi's Successor Targets AI, and Data Centers Face Power Woes",
+      "7. The Download: Preserving Minds and Weighing Open AI Risks",
+      "8. The Download: COP31's Climate Challenge and the Quest for Immortality",
+      "9. What to Know About This Year's UN Climate Talks",
+      "10. Evolving Metal Extraction Processes"
+    ]
+  },
+  {
     "date": "2026-11-15",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1277,27 +1298,6 @@
       "7. Voice AI Hasn't Had Its ChatGPT Moment Yet — Here's Why",
       "8. The Top AI Agents That Live in Your Text Messages",
       "9. We're Putting Too Much Faith in AI's Ability to Say No",
-      "10. We Can't Help Treating AI Like It's Human — But Should We?"
-    ]
-  },
-  {
-    "date": "2026-10-11",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-11",
-    "titleZh": "AI资讯晚报 | 2026-10-11",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-11",
-    "slug": "news-2026-10-11-evening",
-    "headlines": [
-      "1. Anthropic's AI Agent Sent a False Homicide Tip to Philadelphia Police",
-      "2. Anthropic Cuts Internal Evals Off From the Live Internet After Failing to Control Its Agents",
-      "3. Non-Text AI Model Maker Jev Hits $7.5B Valuation Weeks After Launch",
-      "4. Fired OpenAI Safety Researchers Dispute Misconduct Claims, Warn of Chilling Effect",
-      "5. Amazon Drops Data Center NDAs — But Is Transparency Enough to Build Trust?",
-      "6. Arena, the Popular AI Leaderboard, Nearly Doubles Valuation to $3.1B in 10 Months",
-      "7. We're Putting Too Much Faith in AI's Ability to Say No",
-      "8. The Top AI Agents That Can Live in Your Text Messages",
-      "9. a16z's Olivia Moore on the State of Consumer AI",
       "10. We Can't Help Treating AI Like It's Human — But Should We?"
     ]
   }
