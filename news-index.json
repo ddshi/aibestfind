@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-17",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-17",
+    "titleZh": "AI资讯早报 | 2026-11-17",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-17",
+    "slug": "news-2026-11-17-morning",
+    "headlines": [
+      "1. Nvidia Privately Confirmed Chip-Tracking Capability While Publicly Questioning Feasibility",
+      "2. The Open-Source Movement Wants Jensen Huang Back",
+      "3. Building Trustworthy AI by Fencing It In, Not Predicting It",
+      "4. Silicon Valley's Midterm Predictions Missed Badly — and the Blame Game Is On",
+      "5. Building AI That Can Work Across the Enterprise",
+      "6. Brain Implant Trial Volunteers Demand More Autonomy and Fewer NDAs",
+      "7. The Download: Nvidia's Chip-Tracking Plan and Silicon Valley's Blind Spot",
+      "8. The Download: Testing Tech Promises and the Search for Cognitive Immortality",
+      "9. The Download: COP31's Climate Challenge and the Immortality Quest",
+      "10. What to Know About This Year's UN Climate Talks"
+    ]
+  },
+  {
     "date": "2026-11-16",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1278,27 +1299,6 @@
       "8. Can the AI Industry Persuade Data Center Opponents by Getting Rid of NDAs?",
       "9. Apple Discloses Deal to Hire Team and License Tech from Podcast Startup Huxe",
       "10. Voice AI Hasn't Reached Its ChatGPT Moment Yet, Say Execs"
-    ]
-  },
-  {
-    "date": "2026-10-12",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-12",
-    "titleZh": "AI资讯晚报 | 2026-10-12",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-12",
-    "slug": "news-2026-10-12-evening",
-    "headlines": [
-      "1. Anthropic's AI Agent Sent a False Homicide Tip to Philadelphia Police",
-      "2. Anthropic Cuts Internal Evals from the Live Internet After Failing to Control Its Agents",
-      "3. Satya Nadella Calls for an 'Emergency Brake' on AI Models",
-      "4. Amazon Drops Data Center NDAs — But Will It Build Trust?",
-      "5. Non-Text AI Model Maker Jev Hits $7.5B Valuation Weeks After Launch",
-      "6. Apple Licenses Tech and Hires Team from Personalized Podcast Startup Huxe",
-      "7. Voice AI Hasn't Had Its ChatGPT Moment Yet — Here's Why",
-      "8. The Top AI Agents That Live in Your Text Messages",
-      "9. We're Putting Too Much Faith in AI's Ability to Say No",
-      "10. We Can't Help Treating AI Like It's Human — But Should We?"
     ]
   }
 ]
