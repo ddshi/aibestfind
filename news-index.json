@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-17",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-17",
+    "titleZh": "AI资讯晚报 | 2026-11-17",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-17",
+    "slug": "news-2026-11-17-evening",
+    "headlines": [
+      "1. Nvidia Privately Confirmed Chip-Tracking Capability Despite Public Doubts",
+      "2. Silicon Valley's Midterm Predictions Miss the Mark",
+      "3. The Open-Source Movement Wants Jensen Huang Back",
+      "4. A New Framework for Trustworthy AI: Fence It In, Don't Predict It",
+      "5. Building AI That Actually Works Across the Enterprise",
+      "6. Brain Implant Volunteers Demand More Autonomy, Fewer NDAs",
+      "7. The Download: Silicon Valley's Blind Spot and Nvidia's Chip-Tracking Plan",
+      "8. The Download: Testing Tech Promises and the Quest for Cognitive Immortality",
+      "9. COP31 Climate Talks and the Quest for Immortality",
+      "10. What to Know About This Year's UN Climate Talks"
+    ]
+  },
+  {
+    "date": "2026-11-17",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-17",
@@ -1278,27 +1299,6 @@
       "8. Can the AI Industry Persuade Data Center Opponents by Getting Rid of NDAs?",
       "9. These Execs Think Voice AI Hasn’t Reached Its ChatGPT Moment Yet",
       "10. This AI Startup Says It Can Generate Permit-Ready Blueprints in Minutes"
-    ]
-  },
-  {
-    "date": "2026-10-13",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-13",
-    "titleZh": "AI资讯早报 | 2026-10-13",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-13",
-    "slug": "news-2026-10-13-morning",
-    "headlines": [
-      "1. Meta Releases Its First Frontier Model, Muse Wonder",
-      "2. Satya Nadella Says AI Models Need an 'Emergency Brake'",
-      "3. Anthropic Can't Reliably Control Its AI Agents — So It's Cutting Off Internal Evals from the Live Internet",
-      "4. Non-Text AI Model Maker Jev Valued at $7.5B Just Weeks After Launch",
-      "5. Microsoft President Says the UK Is Best Placed to Drive AI Regulation",
-      "6. AI Startup Claims It Can Generate Permit-Ready Blueprints in Minutes",
-      "7. Former Plaud Exec Raises $26M for Always-On Background AI App",
-      "8. Can the AI Industry Persuade Data Center Opponents by Getting Rid of NDAs?",
-      "9. Apple Discloses Deal to Hire Team and License Tech from Podcast Startup Huxe",
-      "10. Voice AI Hasn't Reached Its ChatGPT Moment Yet, Say Execs"
     ]
   }
 ]
