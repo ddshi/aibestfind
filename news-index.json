@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-18",
+    "titleZh": "AI资讯早报 | 2026-11-18",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-18",
+    "slug": "news-2026-11-18-morning",
+    "headlines": [
+      "1. The Open-Source Movement Wants Jensen Huang Back",
+      "2. Building Trustworthy AI by Fencing It In, Not Predicting It",
+      "3. Inside the Quest for Cognitive Immortality",
+      "4. Building AI That Can Work Across the Enterprise",
+      "5. The Download: Jensen Huang's Open-Source Dilemma and Cognitive Immortality",
+      "6. More Autonomy, Fewer NDAs: Volunteers Have New Requests for Brain Implant Trials",
+      "7. The Download: Silicon Valley's Blind Spot and Nvidia's Chip-Tracking Plan",
+      "8. The Download: Testing Tech Promises and Searching for Cognitive Immortality",
+      "9. Hydropower Hit Record Lows in the US Southwest This Summer",
+      "10. Research Reports"
+    ]
+  },
+  {
     "date": "2026-11-17",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1278,27 +1299,6 @@
       "9. Laplace Intelligence Red-Teams Robots and Self-Driving Cars Before Real-World Deployment",
       "10. Flox Intelligence Uses AI to Keep Wildlife Away from Trains, Airports, and Roads",
       "Also Worth Noting"
-    ]
-  },
-  {
-    "date": "2026-10-13",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-13",
-    "titleZh": "AI资讯晚报 | 2026-10-13",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-13",
-    "slug": "news-2026-10-13-evening",
-    "headlines": [
-      "1. Meta Releases Its First Frontier Model, Muse Wonder",
-      "2. Microsoft’s Satya Nadella Says AI Models Need an ‘Emergency Brake’",
-      "3. Anthropic Can’t Reliably Control Its AI Agents — Cuts Off Internal Evals from Live Internet",
-      "4. The Maker of Non-Text AI Model Jev Valued at $7.5B Just Weeks After Launch",
-      "5. Microsoft President Says UK Is Best Placed to Drive AI Regulation",
-      "6. Former Plaud Exec Raises $26M for AI App That Listens to You in the Background",
-      "7. Apple Discloses Deal to Hire Team and License Tech from Personalized Podcast Startup Huxe",
-      "8. Can the AI Industry Persuade Data Center Opponents by Getting Rid of NDAs?",
-      "9. These Execs Think Voice AI Hasn’t Reached Its ChatGPT Moment Yet",
-      "10. This AI Startup Says It Can Generate Permit-Ready Blueprints in Minutes"
     ]
   }
 ]
