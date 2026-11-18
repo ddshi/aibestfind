@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-18",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-18",
+    "titleZh": "AI资讯晚报 | 2026-11-18",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-18",
+    "slug": "news-2026-11-18-evening",
+    "headlines": [
+      "1. The Open-Source Movement Wants Jensen Huang Back",
+      "2. The Download: Jensen Huang's Open-Source Dilemma and Cognitive Immortality",
+      "3. Building Trustworthy AI by Fencing It In, Not Predicting It",
+      "4. Building AI That Can Work Across the Enterprise",
+      "5. Roundtables: Inside the Quest for Cognitive Immortality",
+      "6. More Autonomy, Fewer NDAs: Volunteers Have New Requests for Brain Implant Trials",
+      "7. The Download: Silicon Valley's Blind Spot and Nvidia's Chip-Tracking Plan",
+      "8. The Download: Testing Tech Promises and Searching for Cognitive Immortality",
+      "9. Hydropower Hit Record Lows in the US Southwest This Summer",
+      "10. Research Reports"
+    ]
+  },
+  {
+    "date": "2026-11-18",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-18",
@@ -1277,28 +1298,6 @@
       "9. Pluto Security Raises $42M as AI Creates New Enterprise Headaches",
       "10. Facebook Gives Users More Control Over Their Algorithm",
       "Honorable Mentions"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-14",
-    "titleZh": "AI资讯早报 | 2026-10-14",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-14",
-    "slug": "news-2026-10-14-morning",
-    "headlines": [
-      "1. Character.AI Files for Bankruptcy After Just Five Years",
-      "2. Meta Releases Its First Frontier Model, Muse Wonder",
-      "3. Amex Introduces Framework to Prevent Unauthorized AI Agent Purchases",
-      "4. Pluto Security Raises $42M as AI Creates New Enterprise Security Challenges",
-      "5. Google Play Now Supports Private, Vibe-Coded Apps for Android",
-      "6. AI Labs Are Buying Data from Dead Startups to Train Models",
-      "7. Open Models Have Real Benefits — But Do They Outweigh the Risks?",
-      "8. Facebook Gives Users More Control Over Their Algorithm",
-      "9. Laplace Intelligence Red-Teams Robots and Self-Driving Cars Before Real-World Deployment",
-      "10. Flox Intelligence Uses AI to Keep Wildlife Away from Trains, Airports, and Roads",
-      "Also Worth Noting"
     ]
   }
 ]
