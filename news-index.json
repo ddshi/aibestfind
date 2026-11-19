@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-19",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-19",
+    "titleZh": "AI资讯晚报 | 2026-11-19",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-19",
+    "slug": "news-2026-11-19-evening",
+    "headlines": [
+      "1. This Smell Startup Says Its AI Nose Is as Good as a Human's",
+      "2. The Open-Source Movement Wants Jensen Huang Back",
+      "3. Building Trustworthy AI by Fencing It In, Not Predicting It",
+      "4. The AI Hype Index: AI Is Everywhere",
+      "5. The Download: AI Learns to Smell and Hydropower Struggles",
+      "6. Roundtables: Inside the Quest for Cognitive Immortality",
+      "7. The Download: Jensen Huang's Open-Source Dilemma and Cognitive Immortality",
+      "8. Hydropower Hit Record Lows in the US Southwest This Summer",
+      "9. The Download: Testing Tech Promises and Searching for Cognitive Immortality",
+      "10. Research Reports"
+    ]
+  },
+  {
+    "date": "2026-11-19",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-19",
@@ -1276,27 +1297,6 @@
       "8. Zenzap Raises $44M for Its AI Chat App That Aims to Replace WhatsApp in the Workplace",
       "9. Apate Sends AI Agents Undercover to Get Scammed So They Can Gather Fraud Intelligence",
       "10. Gudea Leverages AI to Help Organizations Prevent Social Media Crises Before They Erupt"
-    ]
-  },
-  {
-    "date": "2026-10-15",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-15",
-    "titleZh": "AI资讯早报 | 2026-10-15",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-15",
-    "slug": "news-2026-10-15-morning",
-    "headlines": [
-      "1. Figma Launches Agent Framework to Govern How AI Operates on Its Platform",
-      "2. YouTube Music Introduces AI-Content Labels as Synthetic Tracks Flood Streaming",
-      "3. Deezer to Let Users Filter Out AI-Generated Music Entirely",
-      "4. Ricursive Intelligence Bets on AI-Designed Chips to Address Compute Crisis",
-      "5. Zenzap Raises $44M to Replace WhatsApp in the Workplace with AI Chat",
-      "6. Apate Deploys Undercover AI Agents to Get Scammed and Gather Fraud Intelligence",
-      "7. Scimplify Raises $25M to Use AI in Challenging China's Grip on Critical Materials",
-      "8. Cerebras CEO: Personal AI Assistants in Every Home Are Coming Soon",
-      "9. Judge Orders OpenAI to Turn Over Hiring Records in Apple Trade Secrets Case",
-      "10. Science Corporation Implants Vision-Restoring Chip in First Stargardt Disease Patient"
     ]
   }
 ]
