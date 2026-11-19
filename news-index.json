@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-20",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-20",
+    "titleZh": "AI资讯早报 | 2026-11-20",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-20",
+    "slug": "news-2026-11-20-morning",
+    "headlines": [
+      "1. A Human Liver Has Been Kept Alive Outside the Body for a Record Seven Weeks",
+      "2. What a Billion-Dollar Deal Says About the US Battery Market",
+      "3. The AI Hype Index: AI Is Everywhere",
+      "4. This Smell Startup Says Its AI Nose Is as Good as a Human's",
+      "5. The Download: Jensen Huang's Open-Source Dilemma and Cognitive Immortality",
+      "6. Roundtables: Inside the Quest for Cognitive Immortality",
+      "7. The Download: AI Learns to Smell and Hydropower Struggles",
+      "8. Hydropower Hit Record Lows in the US Southwest This Summer",
+      "9. The Download: A Living Liver, a Billion-Dollar Battery Deal, and AI Hype",
+      "10. Research Reports"
+    ]
+  },
+  {
     "date": "2026-11-19",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1276,27 +1297,6 @@
       "Apate Sends AI Agents Undercover to Get Scammed",
       "Flock CEO Says Its Microphones Detect 'Just Gunshots' — Its Website Says Different",
       "Gudea Leverages AI to Help Organizations Prevent Social Media Crises"
-    ]
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-16",
-    "titleZh": "AI资讯晚报 | 2026-10-16",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-16",
-    "slug": "news-2026-10-16-evening",
-    "headlines": [
-      "1. Amazon's Bee Launches Two New Personal AI Devices, Starting at $75",
-      "2. AI Agents Are Coming to Rivian's Cars",
-      "3. Figma Announces New Features to Define How Agents Work on Its Platform",
-      "4. YouTube Music Launches New Labels as AI-Generated Music Floods Streaming Platforms",
-      "5. Deezer Will Soon Let You Filter Out AI-Generated Music",
-      "6. Pig Kidneys Frozen for a Year Have Been Brought Back to Life",
-      "7. Ricursive Intelligence Is Betting on AI-Designed Chips to Help Solve the Compute Crisis",
-      "8. Zenzap Raises $44M for Its AI Chat App That Aims to Replace WhatsApp in the Workplace",
-      "9. Apate Sends AI Agents Undercover to Get Scammed So They Can Gather Fraud Intelligence",
-      "10. Gudea Leverages AI to Help Organizations Prevent Social Media Crises Before They Erupt"
     ]
   }
 ]
