@@ -1,6 +1,26 @@
 [
   {
     "date": "2026-11-20",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-20",
+    "titleZh": "AI资讯晚报 | 2026-11-20",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-20",
+    "slug": "news-2026-11-20-evening",
+    "headlines": [
+      "1. This Smell Startup Says Its AI Nose Is as Good as a Human's",
+      "2. The AI Hype Index: AI Is Everywhere",
+      "3. Jensen Huang's Open-Source Dilemma",
+      "4. Inside the Quest for Cognitive Immortality",
+      "5. The Download: AI Learns to Smell, Hydropower Struggles",
+      "6. A Human Liver Kept Alive Outside the Body for a Record Seven Weeks",
+      "7. What a Billion-Dollar Deal Says About the US Battery Market",
+      "8. Hydropower Hit Record Lows in the US Southwest This Summer",
+      "9. The Download: A Living Liver, a Billion-Dollar Battery Deal, and AI Hype"
+    ]
+  },
+  {
+    "date": "2026-11-20",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-20",
@@ -1272,31 +1292,6 @@
       "8. Amazon Devices Chief: AI Devices Will Replace the Need for Apps",
       "9. AI Agents Are Coming to Rivian's Cars",
       "10. Bluesky Expands Attie App to Let Anyone Build Websites and Games"
-    ]
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-16",
-    "titleZh": "AI资讯早报 | 2026-10-16",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-16",
-    "slug": "news-2026-10-16-morning",
-    "headlines": [
-      "1. Amazon's Bee Launches Two New Personal AI Devices, Starting at $75",
-      "2. Amazon Devices Chief Panos Panay Sees a Future Where AI Devices Replace the Need to Use Apps",
-      "3. Meta Launches an Open-Weight AI Model That Runs on Macs",
-      "4. Anthropic Is Letting METR Researchers Look Under the Hood With Employee-Level Access",
-      "5. AI Agents Are Coming to Rivian's Cars",
-      "6. Google's Universal Cart Shopping Tool Launches in the US",
-      "7. Figma Announces New Features to Define How Agents Work on Its Platform",
-      "8. Bluesky Expands Its AI-Powered Attie App to Let Anyone Build Websites, Games, and More",
-      "9. YouTube Music Launches New Labels as AI-Generated Music Floods Streaming Platforms",
-      "10. Ricursive Intelligence Is Betting on AI-Designed Chips to Help Solve the Compute Crisis",
-      "Cal AI's Viral Success Was Powered by a Small Army of Influencers",
-      "Apate Sends AI Agents Undercover to Get Scammed",
-      "Flock CEO Says Its Microphones Detect 'Just Gunshots' — Its Website Says Different",
-      "Gudea Leverages AI to Help Organizations Prevent Social Media Crises"
     ]
   }
 ]
