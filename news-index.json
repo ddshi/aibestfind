@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-21",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-21",
+    "titleZh": "AI资讯早报 | 2026-11-21",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-21",
+    "slug": "news-2026-11-21-morning",
+    "headlines": [
+      "1. The Most Misunderstood Graph in AI Just Got a Major Update",
+      "2. A Human Liver Has Been Kept Alive Outside the Body for a Record Seven Weeks",
+      "3. This Smell Startup Says Its AI Nose Is as Good as a Human's",
+      "4. What a Billion-Dollar Deal Says About the US Battery Market",
+      "5. The AI Hype Index: AI Is Everywhere",
+      "6. The Download: Inside the Quest to Make Our Minds Immortal",
+      "7. Roundtables: Inside the Quest for Cognitive Immortality",
+      "8. Hydropower Hit Record Lows in the US Southwest This Summer",
+      "9. The Download: AI Learns to Smell and Hydropower Struggles",
+      "10. The Download: A Living Liver, a Billion-Dollar Battery Deal, and AI Hype"
+    ]
+  },
+  {
     "date": "2026-11-20",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1271,27 +1292,6 @@
       "8. Amazon's Devices Chief Envisions an App-Free, AI-First Interface",
       "9. Veritas Extends Anti-Counterfeit Chips to Jewelry, Trophies, and Fragrance",
       "10. MIT Technology Review: A Conversation With the Creator of AI-Designed Viruses"
-    ]
-  },
-  {
-    "date": "2026-10-17",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-17",
-    "titleZh": "AI资讯晚报 | 2026-10-17",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-17",
-    "slug": "news-2026-10-17-evening",
-    "headlines": [
-      "1. Meta Launches Open-Weight AI Model That Runs on Macs",
-      "2. Anthropic Grants METR Researchers Employee-Level Access for Safety Audits",
-      "3. Jev Becomes Vercel's Fastest-Adopted AI Model Ever",
-      "4. Replit CEO: The Future of Work Is the \"Self-Driving Company\"",
-      "5. Elorian's First AI Model Reasons With Images, Not Just About Them",
-      "6. Nvidia Veteran Turned VC: Physical AI Is More Than Robots",
-      "7. Why Robotics Hasn't Hit Its ChatGPT Moment Yet",
-      "8. Amazon Devices Chief: AI Devices Will Replace the Need for Apps",
-      "9. AI Agents Are Coming to Rivian's Cars",
-      "10. Bluesky Expands Attie App to Let Anyone Build Websites and Games"
     ]
   }
 ]
