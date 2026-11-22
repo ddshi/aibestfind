@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-22",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-22",
+    "titleZh": "AI资讯晚报 | 2026-11-22",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-22",
+    "slug": "news-2026-11-22-evening",
+    "headlines": [
+      "1. The Most Misunderstood Graph in AI Just Got a Major Update",
+      "2. This Smell Startup Says Its AI Nose Is as Good as a Human's",
+      "3. The Download: Inside the Quest to Make Our Minds Immortal",
+      "4. Roundtables: Inside the Quest for Cognitive Immortality",
+      "5. The AI Hype Index: AI Is Everywhere",
+      "6. A Human Liver Has Been Kept Alive Outside the Body for a Record Seven Weeks",
+      "7. What a Billion-Dollar Deal Says About the US Battery Market",
+      "8. Hydropower Hit Record Lows in the US Southwest This Summer",
+      "9. The Download: AI Learns to Smell and Hydropower Struggles",
+      "10. The Download: A Living Liver, a Billion-Dollar Battery Deal, and AI Hype"
+    ]
+  },
+  {
+    "date": "2026-11-22",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-22",
@@ -1269,27 +1290,6 @@
       "8. Meta Launches an Open-Weight AI Model That Runs on Macs",
       "9. An Nvidia Insider-Turned-VC on Why Robotics Hasn't Hit Its ChatGPT Moment, Yet",
       "10. Roundtables: A Conversation With the Creator of AI-Designed Viruses"
-    ]
-  },
-  {
-    "date": "2026-10-18",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-18",
-    "titleZh": "AI资讯早报 | 2026-10-18",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-18",
-    "slug": "news-2026-10-18-morning",
-    "headlines": [
-      "1. Replit Drops Anthropic, Makes OpenAI Its Default Model",
-      "2. Meta Removes Language That Raised Scraping and AI Training Concerns",
-      "3. India Reports Rogue AI Agent Activity",
-      "4. Anthropic Says Its Workforce Is Becoming Less Junior and More Meeting-Bound",
-      "5. Jev Becomes Vercel's Fastest-Adopted AI Model Ever",
-      "6. Elorian's First Model Aims to Reason With Images, Not Just About Them",
-      "7. Meta Launches Open-Weight Model That Runs on Macs",
-      "8. Nvidia Veteran on Why Robotics Hasn't Hit Its ChatGPT Moment",
-      "9. Replit CEO: The Future of Work Is the 'Self-Driving Company'",
-      "10. A Conversation With the Creator of AI-Designed Viruses"
     ]
   }
 ]
