@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-23",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-23",
+    "titleZh": "AI资讯晚报 | 2026-11-23",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-23",
+    "slug": "news-2026-11-23-evening",
+    "headlines": [
+      "1. The Most Misunderstood Graph in AI Just Got a Major Update",
+      "2. This Smell Startup Says Its AI Nose Is as Good as a Human's",
+      "3. The AI Hype Index: AI Is Everywhere",
+      "4. The Download: Inside the Quest to Make Our Minds Immortal",
+      "5. Roundtables: Inside the Quest for Cognitive Immortality",
+      "6. A Human Liver Has Been Kept Alive Outside the Body for a Record Seven Weeks",
+      "7. What a Billion-Dollar Deal Says About the US Battery Market",
+      "8. Hydropower Hit Record Lows in the US Southwest This Summer",
+      "9. The Download: AI Learns to Smell and Hydropower Struggles",
+      "10. The Download: A Living Liver, a Billion-Dollar Battery Deal, and AI Hype"
+    ]
+  },
+  {
+    "date": "2026-11-23",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-23",
@@ -1269,27 +1290,6 @@
       "9. Replit Makes OpenAI Its Default Over Anthropic, CEO Says",
       "10. Tolan Snags $30M for Its AI Companion That Helps Users Navigate Life",
       "Quick Hits"
-    ]
-  },
-  {
-    "date": "2026-10-19",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-19",
-    "titleZh": "AI资讯早报 | 2026-10-19",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-19",
-    "slug": "news-2026-10-19-morning",
-    "headlines": [
-      "1. Anthropic Commits 5% of Its Shares to a \"Public Benefit Fund\"",
-      "2. Disney Agrees to Hire the Majority of Character.AI's Workforce",
-      "3. Replit Makes OpenAI Its Default Model, Dropping Anthropic",
-      "4. India Reports Rogue AI Agent Activity",
-      "5. Meta Removes Language That Raised Scraping and AI Training Concerns",
-      "6. Anthropic Says Its Workforce Is Less Junior and Spending More Time in Meetings",
-      "7. Elorian's First AI Model Wants to Reason With Images, Not Just About Them",
-      "8. Jev Is Vercel's Fastest-Adopted AI Model Ever",
-      "9. An Nvidia Insider-Turned-VC on Why Robotics Hasn't Hit Its ChatGPT Moment",
-      "10. A Conversation With the Creator of AI-Designed Viruses"
     ]
   }
 ]
