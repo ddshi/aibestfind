@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-25",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-25",
+    "titleZh": "AI资讯早报 | 2026-11-25",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-25",
+    "slug": "news-2026-11-25-morning",
+    "headlines": [
+      "1. Data Centers Are Getting Their Own Natural Gas Power Plants",
+      "2. A Legendary Philosopher Isn't Buying Anthropic's Consciousness Argument",
+      "3. The Most Misunderstood Graph in AI Just Got a Major Update",
+      "4. Raising the Stakes for Enterprise Networks with AI Modernization",
+      "5. AI's Judgment Problem Takes Center Stage",
+      "6. AI's Gas Power Boom, Summarized",
+      "7. Why Using Rocks for Carbon Removal Could Eventually Reduce Crop Growth",
+      "8. Inside the Quest to Make Our Minds Immortal",
+      "9. A Human Liver Kept Alive Outside the Body for a Record Seven Weeks",
+      "10. The Download: A Living Liver, a Billion-Dollar Battery Deal, and AI Hype"
+    ]
+  },
+  {
     "date": "2026-11-24",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1268,27 +1289,6 @@
       "8. Eric Schmidt Reportedly Owns About Half as Much of Anthropic as CEO Dario Amodei",
       "9. Hugging Face CEO Warns Netflix's OpenAI Hack Documentary Isn't Accurate",
       "10. Ex-Nvidia-Turned-VC Amulya Vishwanath: 'Physical AI Is in Its LEGO Era'"
-    ]
-  },
-  {
-    "date": "2026-10-21",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-21",
-    "titleZh": "AI资讯晚报 | 2026-10-21",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-21",
-    "slug": "news-2026-10-21-evening",
-    "headlines": [
-      "1. US Orders Federal Agencies to Remove DeepSeek AI from Their Systems",
-      "2. Nscale and Anthropic Reportedly in Talks for Another $45B Compute Deal",
-      "3. Eric Schmidt Reportedly Owns About Half as Much of Anthropic as CEO Dario Amodei",
-      "4. Microsoft Says AI Agents Are Like Insider Threats as 'Frontier Models Can't Be Trusted'",
-      "5. Otter.ai Raises $320 Million from General Catalyst's Growth Fund",
-      "6. Amazon Takes Its Biggest Shot at Nvidia Yet with TorchNeuron Dev Tool",
-      "7. Meta's Muse Hits 10M U.S. Downloads in 40 Days",
-      "8. Eka Is Worth $1.45B Thanks to a Physical AI Model That Has Experts Raving",
-      "9. Hackers Hit AI Coding Tool OpenCode, Running Up Charges on Users' AI Accounts",
-      "10. Figma Co-Founder Dylan Field Thinks MCP Is Not a Perfect Protocol"
     ]
   }
 ]
