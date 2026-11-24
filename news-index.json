@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-24",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-24",
+    "titleZh": "AI资讯早报 | 2026-11-24",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-24",
+    "slug": "news-2026-11-24-morning",
+    "headlines": [
+      "1. A Legendary Philosopher Isn't Buying Anthropic's Consciousness Argument",
+      "2. The Most Misunderstood Graph in AI Just Got a Major Update",
+      "3. AI's Judgment Problem Takes Center Stage",
+      "4. The AI Hype Index: AI Is Everywhere",
+      "5. AI Learns to Smell",
+      "6. Why Using Rocks for Carbon Removal Could Eventually Reduce Crop Growth",
+      "7. Inside the Quest to Make Our Minds Immortal",
+      "8. A Billion-Dollar Deal and What It Says About the US Battery Market",
+      "9. A Human Liver Kept Alive Outside the Body for Seven Weeks",
+      "10. The Download: A Living Liver, a Battery Deal, and AI Hype"
+    ]
+  },
+  {
     "date": "2026-11-23",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1268,28 +1289,6 @@
       "8. Tenstorrent Hits $6.2B Valuation to Scale Open-Weight AI Chips",
       "9. Hugging Face Policy Chief: Embedded AI Evaluators Won't Be an Easy Solution",
       "10. Making the Internet Better for AI Agents Might Make It Worse for Everyone Else"
-    ]
-  },
-  {
-    "date": "2026-10-20",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-20",
-    "titleZh": "AI资讯晚报 | 2026-10-20",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-20",
-    "slug": "news-2026-10-20-evening",
-    "headlines": [
-      "1. Nvidia Launches Open Models to Run Agents in the Enterprise and on PCs",
-      "2. Tenstorrent Hits $6.2B Valuation to Scale Open-Weight AI Chips",
-      "3. Anthropic Commits 5% of Its Shares to a 'Public Benefit Fund'",
-      "4. Hackers Hit AI Coding Tool OpenCode, Running Up Charges on Users' AI Accounts",
-      "5. Disney Agrees to Hire the Majority of Character AI's Workforce",
-      "6. \"We Were Looking at It Wrong\": The Explosive Claim That's Upended the AI World",
-      "7. Making the Internet Better for AI Agents Might Make It Worse for Everyone Else",
-      "8. India Becomes the Latest Country to Report Rogue AI Agent Activity",
-      "9. Replit Makes OpenAI Its Default Over Anthropic, CEO Says",
-      "10. Tolan Snags $30M for Its AI Companion That Helps Users Navigate Life",
-      "Quick Hits"
     ]
   }
 ]
