@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-24",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-24",
+    "titleZh": "AI资讯晚报 | 2026-11-24",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-24",
+    "slug": "news-2026-11-24-evening",
+    "headlines": [
+      "1. Data Centers Are Getting Their Own Natural Gas Power Plants",
+      "2. A Legendary Philosopher Isn't Buying Anthropic's Consciousness Argument",
+      "3. The Download: AI's Judgment Problem and Carbon Removal's Crop Threat",
+      "4. Why Using Rocks for Carbon Removal Could Eventually Reduce Crop Growth",
+      "5. The Most Misunderstood Graph in AI Just Got a Major Update",
+      "6. The Download: Inside the Quest to Make Our Minds Immortal",
+      "7. The Download: A Living Liver, a Billion-Dollar Battery Deal, and AI Hype",
+      "8. A Human Liver Has Been Kept Alive Outside the Body for a Record Seven Weeks",
+      "9. What a Billion-Dollar Deal Says About the US Battery Market",
+      "10. The AI Hype Index: AI Is Everywhere"
+    ]
+  },
+  {
+    "date": "2026-11-24",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-24",
@@ -1268,27 +1289,6 @@
       "8. Eka Is Worth $1.45B Thanks to a Physical AI Model That Has Experts Raving",
       "9. Hackers Hit AI Coding Tool OpenCode, Running Up Charges on Users' AI Accounts",
       "10. Figma Co-Founder Dylan Field Thinks MCP Is Not a Perfect Protocol"
-    ]
-  },
-  {
-    "date": "2026-10-20",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-20",
-    "titleZh": "AI资讯早报 | 2026-10-20",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-20",
-    "slug": "news-2026-10-20-morning",
-    "headlines": [
-      "1. Nscale and Anthropic Reportedly in Talks for $45B Compute Deal",
-      "2. Microsoft Says AI Agents Are Like Insider Threats as 'Frontier Models Can't Be Trusted'",
-      "3. Amazon Takes Its Biggest Shot at Nvidia Yet with TorchNeuron Dev Tool",
-      "4. Hackers Hit AI Coding Tool OpenCode, Running Up Charges on Users' AI Accounts",
-      "5. Nvidia Launches New Open Models to Run Agents in the Enterprise and on PCs",
-      "6. Anthropic Commits 5% of Its Shares to a 'Public Benefit Fund'",
-      "7. Disney Agrees to Hire Majority of Character AI's Workforce",
-      "8. Tenstorrent Hits $6.2B Valuation to Scale Open-Weight AI Chips",
-      "9. Hugging Face Policy Chief: Embedded AI Evaluators Won't Be an Easy Solution",
-      "10. Making the Internet Better for AI Agents Might Make It Worse for Everyone Else"
     ]
   }
 ]
