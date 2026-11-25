@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-26",
+    "titleZh": "AI资讯早报 | 2026-11-26",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-26",
+    "slug": "news-2026-11-26-morning",
+    "headlines": [
+      "1. Data Centers Are Driving a US Natural-Gas Boom",
+      "2. AI Is Straining America's Open Records Systems",
+      "3. A Legendary Philosopher Isn't Buying Anthropic's Consciousness Argument",
+      "4. The Most Misunderstood Graph in AI Just Got a Major Update",
+      "5. Data Centers Are Getting Their Own Natural Gas Power Plants",
+      "6. AI's Judgment Problem Takes Center Stage",
+      "7. Enhanced Rock Weathering Could Threaten Crop Growth",
+      "8. The Quest to Make Our Minds Immortal",
+      "9. Firefighting for Permafrost",
+      "10. The Download: AI's Gas Boom and a Consciousness Reality Check"
+    ]
+  },
+  {
     "date": "2026-11-25",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1268,27 +1289,6 @@
       "8. Blackstone's Jas Khaira: Fears Over AI-Buildout Debt Are Overblown",
       "9. Anthropic's Cloud Partnerships Are Getting Messy",
       "10. Hugging Face CEO Challenges Netflix's OpenAI Hack Documentary"
-    ]
-  },
-  {
-    "date": "2026-10-22",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-22",
-    "titleZh": "AI资讯晚报 | 2026-10-22",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-22",
-    "slug": "news-2026-10-22-evening",
-    "headlines": [
-      "1. Anthropic Proposes Sweeping AI Safety Bill With a 50-Death Threshold",
-      "2. OpenAI Acquires Orchestra Bio to Expand Biotech Ambitions",
-      "3. Google Joins Amazon in Challenging Nvidia's AI Developer Stronghold",
-      "4. AI's Productivity Promise Is Mostly a Headache for Managers, Survey Finds",
-      "5. Anthropic's Cloud Partnerships Are Getting Messy",
-      "6. Meta's Muse Hits 10 Million US Downloads in 40 Days",
-      "7. SpaceX's AI Business Is Beating Expectations",
-      "8. ChatGPT Adds Chat Locking for Enhanced Privacy",
-      "9. Hugging Face CEO Pushes Back on Netflix's OpenAI Documentary",
-      "10. MIT Technology Review Launches \"Impossible Issue\" on Moonshot Technologies"
     ]
   }
 ]
