@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-25",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-25",
+    "titleZh": "AI资讯晚报 | 2026-11-25",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-25",
+    "slug": "news-2026-11-25-evening",
+    "headlines": [
+      "1. Data Centers Are Getting Their Own Natural Gas Power Plants",
+      "2. AI Is Straining America's Open Records Systems",
+      "3. A Legendary Philosopher Isn't Buying Anthropic's Consciousness Argument",
+      "4. The Most Misunderstood Graph in AI Just Got a Major Update",
+      "5. AI's Judgment Problem Takes Center Stage",
+      "6. AI Hype Meets a Billion-Dollar Battery Deal",
+      "7. Enhanced Rock Weathering Could Threaten Global Crop Yields",
+      "8. A Human Liver Kept Alive Outside the Body for a Record Seven Weeks",
+      "9. The Download: AI's Gas Boom and a Consciousness Reality Check",
+      "10. Inside the Quest to Make Our Minds Immortal"
+    ]
+  },
+  {
+    "date": "2026-11-25",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-25",
@@ -1268,27 +1289,6 @@
       "8. ChatGPT Adds Chat Locking for Enhanced Privacy",
       "9. Hugging Face CEO Pushes Back on Netflix's OpenAI Documentary",
       "10. MIT Technology Review Launches \"Impossible Issue\" on Moonshot Technologies"
-    ]
-  },
-  {
-    "date": "2026-10-21",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-21",
-    "titleZh": "AI资讯早报 | 2026-10-21",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-21",
-    "slug": "news-2026-10-21-morning",
-    "headlines": [
-      "1. Anthropic Pitches AI Safety Bill That Could Block Models If 50+ People Could Be Killed",
-      "2. OpenAI Acquires Orchestra Bio to Beef Up Its Biotech Business",
-      "3. Google Joins Amazon in Attacking Nvidia's Stronghold With AI App Developers",
-      "4. Anthropic's Cloud Partnerships Are Getting Messy",
-      "5. Meta's Muse Hits 10M US Downloads in 40 Days",
-      "6. SpaceX's AI Business Is Beating Expectations",
-      "7. ChatGPT Now Lets You Lock Your Chats",
-      "8. Eric Schmidt Reportedly Owns About Half as Much of Anthropic as CEO Dario Amodei",
-      "9. Hugging Face CEO Warns Netflix's OpenAI Hack Documentary Isn't Accurate",
-      "10. Ex-Nvidia-Turned-VC Amulya Vishwanath: 'Physical AI Is in Its LEGO Era'"
     ]
   }
 ]
