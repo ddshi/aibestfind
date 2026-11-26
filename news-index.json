@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-27",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-27",
+    "titleZh": "AI资讯早报 | 2026-11-27",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-27",
+    "slug": "news-2026-11-27-morning",
+    "headlines": [
+      "1. Data Centers Are Driving a US Natural-Gas Boom — and Building Their Own Power Plants",
+      "2. AI Is Overwhelming America's Open Records Systems",
+      "3. A Legendary Philosopher Isn't Buying Anthropic's Consciousness Argument",
+      "4. The Next Generation of Bionic Hands Can Actually Feel",
+      "5. AI's Judgment Problem: When Models Get It Wrong, Who's Accountable?",
+      "6. Data Centers Are Getting Their Own Natural-Gas Power Plants",
+      "7. Why Using Rocks for Carbon Removal Could Eventually Reduce Crop Growth",
+      "8. Firefighting for Permafrost: A New Front in Climate Tech"
+    ]
+  },
+  {
     "date": "2026-11-26",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1268,27 +1287,6 @@
       "8. OpenAI Makes Its Jev Competitor Widely Available as Decision Model Competition Heats Up",
       "9. Uber Rival inDrive Eyes 2027 Robotaxi Tests in Central Asia with Pony.ai and Nvidia",
       "10. Spotify's Current AI Bet Is About Being the Music Service That Agents Choose"
-    ]
-  },
-  {
-    "date": "2026-10-23",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-23",
-    "titleZh": "AI资讯晚报 | 2026-10-23",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-23",
-    "slug": "news-2026-10-23-evening",
-    "headlines": [
-      "1. Uber Deploys ChatGPT Work Across All 30,000 Employees",
-      "2. DeepSeek Reportedly Raises $15B Days After US Restrictions",
-      "3. Anthropic Launches Claude Duet, a Dedicated Agent App",
-      "4. Meta Creates New Stock Class to Fund AI Buildout",
-      "5. Chinese Hackers Breached ConnectWise to Spy on Thousands of Companies",
-      "6. AI's Hidden Storage Bill: The Data Inference Leaves Behind",
-      "7. Spotify's AI Strategy: Becoming the Music Service Agents Choose",
-      "8. Walmart Embraces AI Agents While Amazon Blocks Them",
-      "9. Recursive Launches Flint, a Coding Model Largely Built by AI",
-      "10. Survey: AI Is Still Mostly a Headache for Managers"
     ]
   }
 ]
