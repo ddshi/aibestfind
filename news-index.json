@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-11-26",
+    "slot": "evening",
+    "slotLabel": "晚报",
+    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-26",
+    "titleZh": "AI资讯晚报 | 2026-11-26",
+    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-11-26",
+    "slug": "news-2026-11-26-evening",
+    "headlines": [
+      "1. Bionic Hands That Restore Touch Signal a New Era for Embodied AI",
+      "2. Data Centers Are Fueling a US Natural-Gas Boom",
+      "3. AI Is Overwhelming America's Open Records Systems",
+      "4. A Legendary Philosopher Pushes Back on Anthropic's Consciousness Claims",
+      "5. Data Centers Are Building Their Own Natural-Gas Power Plants",
+      "6. The Most Misunderstood Graph in AI Just Got a Major Update",
+      "7. AI's Judgment Problem Takes Center Stage",
+      "8. Carbon Removal Method Could Threaten Global Crop Yields",
+      "9. Firefighting for Permafrost: A Climate Frontier",
+      "10. The Download: AI's Gas Boom and a Consciousness Reality Check"
+    ]
+  },
+  {
+    "date": "2026-11-26",
     "slot": "morning",
     "slotLabel": "早报",
     "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-26",
@@ -1268,27 +1289,6 @@
       "8. Walmart Embraces AI Agents While Amazon Blocks Them",
       "9. Recursive Launches Flint, a Coding Model Largely Built by AI",
       "10. Survey: AI Is Still Mostly a Headache for Managers"
-    ]
-  },
-  {
-    "date": "2026-10-22",
-    "slot": "morning",
-    "slotLabel": "早报",
-    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-22",
-    "titleZh": "AI资讯早报 | 2026-10-22",
-    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-10-22",
-    "slug": "news-2026-10-22-morning",
-    "headlines": [
-      "1. Anthropic Pitches Sweeping AI Safety Bill With a 50-Death Threshold",
-      "2. \"PHP Armageddon\": OpenAI and Google's Wiz Surface Ancient Vulnerabilities",
-      "3. Meta's Muse Passes 10M Users, With Shopping Leading Engagement",
-      "4. Walmart Welcomes AI Agents While Amazon Slams the Door",
-      "5. Recursive Launches Flint, a Laptop-Run Coding Model Largely Built by AI",
-      "6. Survey: AI Is Still Mostly a Headache for Managers",
-      "7. Blacksmith Hits Unicorn Valuation With Sequoia-Led Series C",
-      "8. Blackstone's Jas Khaira: Fears Over AI-Buildout Debt Are Overblown",
-      "9. Anthropic's Cloud Partnerships Are Getting Messy",
-      "10. Hugging Face CEO Challenges Netflix's OpenAI Hack Documentary"
     ]
   }
 ]
