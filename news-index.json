@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "slotLabel": "早报",
+    "titleEn": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-28",
+    "titleZh": "AI资讯早报 | 2026-11-28",
+    "title": "AI News Morning Brief: Latest AI Updates & New Tools in 2026 | 2026-11-28",
+    "slug": "news-2026-11-28-morning",
+    "headlines": [
+      "1. Data centers are driving a US natural-gas boom",
+      "2. Data centers are getting their own natural gas power plants",
+      "3. AI is straining America's open records systems",
+      "4. The next generation of bionic hands is here—and they can feel",
+      "5. How cutting-edge prosthetics can help probe the human mind",
+      "6. The Download: AI's gas power boom and a consciousness reality check",
+      "7. The Download: AI swamping open records, and firefighting for permafrost",
+      "8. The Download: Better bionic hands and AI's natural-gas boom",
+      "9. The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "10. Our 2027 Innovators Under 35 competition is now open"
+    ]
+  },
+  {
     "date": "2026-11-27",
     "slot": "evening",
     "slotLabel": "晚报",
@@ -1266,27 +1287,6 @@
       "8. Uber Rival inDrive Eyes 2027 Robotaxi Tests in Central Asia with Pony AI and Nvidia",
       "9. Left Alone with Nothing to Do, AI Agents Started Playing",
       "10. Canva Releases Its First Image Generation Model"
-    ]
-  },
-  {
-    "date": "2026-10-24",
-    "slot": "evening",
-    "slotLabel": "晚报",
-    "titleEn": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-24",
-    "titleZh": "AI资讯晚报 | 2026-10-24",
-    "title": "AI News Evening Brief: Latest AI Updates & New Tools in 2026 | 2026-10-24",
-    "slug": "news-2026-10-24-evening",
-    "headlines": [
-      "1. OpenAI Reportedly Raising $30B at $1.25T Valuation Ahead of IPO",
-      "2. DeepSeek Reportedly Raises $15B Days After US Restrictions",
-      "3. Microsoft's Mustafa Suleyman Says Its AI Outperforms Doctors on Hard Cases",
-      "4. Uber Puts All 30,000 Employees on ChatGPT Work",
-      "5. Claude Duet App Is Anthropic's Bet on Agents",
-      "6. 1Password Lets AI Agents Log In Without Seeing Your Password",
-      "7. Canva Releases Its First Image Generation Model",
-      "8. OpenAI Makes Its Jev Competitor Widely Available as Decision-Model Competition Heats Up",
-      "9. inDrive Eyes 2027 Robotaxi Tests in Central Asia with Pony AI and Nvidia",
-      "10. Spotify's AI Bet: Being the Music Service That Agents Choose"
     ]
   }
 ]
